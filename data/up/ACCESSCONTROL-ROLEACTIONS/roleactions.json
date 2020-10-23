@@ -17847,12 +17847,6 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1801,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
       "rolecode": "NOC_DOC_VERIFIER",
       "actionid": 1801,
       "actioncode": "",
@@ -17961,12 +17955,6 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1807,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
       "rolecode": "EMPLOYEE",
       "actionid": 1808,
       "actioncode": "",
@@ -18011,18 +17999,6 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1815,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1816,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1817,
       "actioncode": "",
       "tenantId": "up"
     },
@@ -19275,20 +19251,8 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1880,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
       "rolecode": "EMPLOYEE",
       "actionid": 1882,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1884,
       "actioncode": "",
       "tenantId": "up"
     },
@@ -20704,12 +20668,6 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 1884,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
       "actionid": 1899,
       "actioncode": "",
       "tenantId": "up"
@@ -20777,12 +20735,6 @@
     {
       "rolecode": "SW_CEMP",
       "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1883,
       "actioncode": "",
       "tenantId": "up"
     },
