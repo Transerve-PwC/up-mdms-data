@@ -16839,18 +16839,6 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1706,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1707,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 1708,
       "actioncode": "",
@@ -16889,42 +16877,6 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1714,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1715,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1716,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1717,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1718,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1719,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1720,
       "actioncode": "",
       "tenantId": "up"
     },
@@ -18129,12 +18081,6 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1811,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 1810,
       "actioncode": "",
@@ -18159,19 +18105,7 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1810,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
       "rolecode": "NOC_APPROVER",
-      "actionid": 1809,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 1809,
       "actioncode": "",
       "tenantId": "up"
@@ -19227,12 +19161,6 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1879,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
       "rolecode": "TL_APPROVER",
       "actionid": 1879,
       "actioncode": "",
@@ -19247,12 +19175,6 @@
     {
       "rolecode": "TL_DOC_VERIFIER",
       "actionid": 1879,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1882,
       "actioncode": "",
       "tenantId": "up"
     },
@@ -19307,78 +19229,6 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1894,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1902,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1902,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1903,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1903,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1904,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1904,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1905,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1905,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1906,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1906,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1907,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1907,
       "actioncode": "",
       "tenantId": "up"
     },
@@ -20164,12 +20014,6 @@
     },
     {
       "rolecode": "EMPLOYEE",
-      "actionid": 1885,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 1899,
       "actioncode": "",
       "tenantId": "up"
@@ -20795,6 +20639,24 @@
     {
       "rolecode": "SW_CLERK",
       "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 1766,
       "actioncode": "",
       "tenantId": "up"
     },
