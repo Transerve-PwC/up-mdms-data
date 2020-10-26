@@ -1,0 +1,5829 @@
+{
+  "tenantId" : "up.aligarh",
+  "moduleName" : "egov-location",
+  "TenantBoundary" : [ {
+    "hierarchyType" : {
+      "code" : "REVENUE",
+      "name" : "REVENUE"
+    },
+    "boundary" : {
+      "id" : 1,
+      "boundaryNum" : 1,
+      "name" : "Aligarh",
+      "localname" : "Aligarh",
+      "label" : "City",
+      "code" : "up.cityd",
+      "children" : [ {
+        "id" : 2,
+        "boundaryNum" : 1,
+        "name" : "Zone 1",
+        "localname" : "Zone 1",
+        "label" : "Zone",
+        "code" : "Z1",
+        "children" : [ {
+          "id" : 3,
+          "boundaryNum" : 1,
+          "name" : "44",
+          "localname" : "44",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 4,
+            "boundaryNum" : 1,
+            "name" : "Zohra Bagh",
+            "localname" : "Zohra Bagh",
+            "label" : "Locality",
+            "code" : "ALI001",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 5,
+            "boundaryNum" : 1,
+            "name" : "Johra Bagh",
+            "localname" : "Johra Bagh",
+            "label" : "Locality",
+            "code" : "ALI002",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 6,
+            "boundaryNum" : 1,
+            "name" : "Kela Nagar Partial",
+            "localname" : "Kela Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI003",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 7,
+            "boundaryNum" : 1,
+            "name" : "Dodh Pur Partial",
+            "localname" : "Dodh Pur Partial",
+            "label" : "Locality",
+            "code" : "ALI004",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 8,
+            "boundaryNum" : 1,
+            "name" : "Ahmad Nagar",
+            "localname" : "Ahmad Nagar",
+            "label" : "Locality",
+            "code" : "ALI005",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 9,
+            "boundaryNum" : 1,
+            "name" : "Friends Colony",
+            "localname" : "Friends Colony",
+            "label" : "Locality",
+            "code" : "ALI006",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 10,
+            "boundaryNum" : 1,
+            "name" : "Nagla Mallah Partial",
+            "localname" : "Nagla Mallah Partial",
+            "label" : "Locality",
+            "code" : "ALI007",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 11,
+            "boundaryNum" : 1,
+            "name" : "Jeevan Garh Partial",
+            "localname" : "Jeevan Garh Partial",
+            "label" : "Locality",
+            "code" : "ALI008",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 12,
+          "boundaryNum" : 1,
+          "name" : "45",
+          "localname" : "45",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 13,
+            "boundaryNum" : 1,
+            "name" : "Sanjay Gandhi Colony",
+            "localname" : "Sanjay Gandhi Colony",
+            "label" : "Locality",
+            "code" : "ALI009",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 14,
+            "boundaryNum" : 1,
+            "name" : "Jwalapuri Partial",
+            "localname" : "Jwalapuri Partial",
+            "label" : "Locality",
+            "code" : "ALI010",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 15,
+            "boundaryNum" : 1,
+            "name" : "Sanjay Gandhi Colony",
+            "localname" : "Sanjay Gandhi Colony",
+            "label" : "Locality",
+            "code" : "ALI011",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 16,
+            "boundaryNum" : 1,
+            "name" : "Govind Nagar Colony",
+            "localname" : "Govind Nagar Colony",
+            "label" : "Locality",
+            "code" : "ALI012",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 17,
+            "boundaryNum" : 1,
+            "name" : "Dharmpuri",
+            "localname" : "Dharmpuri",
+            "label" : "Locality",
+            "code" : "ALI013",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 18,
+            "boundaryNum" : 1,
+            "name" : "Hodal Nagar Partial",
+            "localname" : "Hodal Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI014",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 19,
+            "boundaryNum" : 1,
+            "name" : "Kuwar Nagar ( Under Of Nagar Nigam )",
+            "localname" : "Kuwar Nagar ( Under Of Nagar Nigam )",
+            "label" : "Locality",
+            "code" : "ALI015",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 20,
+            "boundaryNum" : 1,
+            "name" : "Saroj Nagar",
+            "localname" : "Saroj Nagar",
+            "label" : "Locality",
+            "code" : "ALI016",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 21,
+          "boundaryNum" : 1,
+          "name" : "46",
+          "localname" : "46",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 22,
+            "boundaryNum" : 1,
+            "name" : "Jamal Pur",
+            "localname" : "Jamal Pur",
+            "label" : "Locality",
+            "code" : "ALI017",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 23,
+            "boundaryNum" : 1,
+            "name" : "Jamalpur Partial",
+            "localname" : "Jamalpur Partial",
+            "label" : "Locality",
+            "code" : "ALI018",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 24,
+            "boundaryNum" : 1,
+            "name" : "Nagla Jamalpur Partial",
+            "localname" : "Nagla Jamalpur Partial",
+            "label" : "Locality",
+            "code" : "ALI019",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 25,
+            "boundaryNum" : 1,
+            "name" : "Anoop Shahar Road Partial",
+            "localname" : "Anoop Shahar Road Partial",
+            "label" : "Locality",
+            "code" : "ALI020",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 26,
+            "boundaryNum" : 1,
+            "name" : "Purani Chungi Partial",
+            "localname" : "Purani Chungi Partial",
+            "label" : "Locality",
+            "code" : "ALI021",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 27,
+            "boundaryNum" : 1,
+            "name" : "Shamshad Market Partial",
+            "localname" : "Shamshad Market Partial",
+            "label" : "Locality",
+            "code" : "ALI022",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 28,
+            "boundaryNum" : 1,
+            "name" : "University Area",
+            "localname" : "University Area",
+            "label" : "Locality",
+            "code" : "ALI023",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 29,
+          "boundaryNum" : 1,
+          "name" : "47",
+          "localname" : "47",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 30,
+            "boundaryNum" : 1,
+            "name" : "Zakir Nagar",
+            "localname" : "Zakir Nagar",
+            "label" : "Locality",
+            "code" : "ALI024",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 31,
+            "boundaryNum" : 1,
+            "name" : "Jeevangarh Partial",
+            "localname" : "Jeevangarh Partial",
+            "label" : "Locality",
+            "code" : "ALI025",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 32,
+            "boundaryNum" : 1,
+            "name" : "Zakir Nagar Partial",
+            "localname" : "Zakir Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI026",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 33,
+          "boundaryNum" : 1,
+          "name" : "48",
+          "localname" : "48",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 34,
+            "boundaryNum" : 1,
+            "name" : "Shiv Puri",
+            "localname" : "Shiv Puri",
+            "label" : "Locality",
+            "code" : "ALI027",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 35,
+            "boundaryNum" : 1,
+            "name" : "Sarai Rehman",
+            "localname" : "Sarai Rehman",
+            "label" : "Locality",
+            "code" : "ALI028",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 36,
+          "boundaryNum" : 1,
+          "name" : "49",
+          "localname" : "49",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 37,
+            "boundaryNum" : 1,
+            "name" : "Ashok Nagar",
+            "localname" : "Ashok Nagar",
+            "label" : "Locality",
+            "code" : "ALI029",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 38,
+            "boundaryNum" : 1,
+            "name" : "Raghuveer Puri",
+            "localname" : "Raghuveer Puri",
+            "label" : "Locality",
+            "code" : "ALI030",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 39,
+            "boundaryNum" : 1,
+            "name" : "Ganga Nagar Colony",
+            "localname" : "Ganga Nagar Colony",
+            "label" : "Locality",
+            "code" : "ALI031",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 40,
+            "boundaryNum" : 1,
+            "name" : "Ashok Nagar",
+            "localname" : "Ashok Nagar",
+            "label" : "Locality",
+            "code" : "ALI032",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 41,
+            "boundaryNum" : 1,
+            "name" : "Masoodabad",
+            "localname" : "Masoodabad",
+            "label" : "Locality",
+            "code" : "ALI033",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 42,
+            "boundaryNum" : 1,
+            "name" : "Mitra Nagar Partial",
+            "localname" : "Mitra Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI034",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 43,
+            "boundaryNum" : 1,
+            "name" : "Goolar Road Partial",
+            "localname" : "Goolar Road Partial",
+            "label" : "Locality",
+            "code" : "ALI035",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 44,
+            "boundaryNum" : 1,
+            "name" : "Jameerabad",
+            "localname" : "Jameerabad",
+            "label" : "Locality",
+            "code" : "ALI036",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 45,
+            "boundaryNum" : 1,
+            "name" : "Banna Devi Partial",
+            "localname" : "Banna Devi Partial",
+            "label" : "Locality",
+            "code" : "ALI037",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 46,
+            "boundaryNum" : 1,
+            "name" : "Vishya Bank Colony",
+            "localname" : "Vishya Bank Colony",
+            "label" : "Locality",
+            "code" : "ALI038",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 47,
+            "boundaryNum" : 1,
+            "name" : "Pratibha Colony Partial",
+            "localname" : "Pratibha Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI039",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 48,
+            "boundaryNum" : 1,
+            "name" : "Kapil Vihar",
+            "localname" : "Kapil Vihar",
+            "label" : "Locality",
+            "code" : "ALI040",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 49,
+            "boundaryNum" : 1,
+            "name" : "Sankalp Vihar",
+            "localname" : "Sankalp Vihar",
+            "label" : "Locality",
+            "code" : "ALI041",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 50,
+            "boundaryNum" : 1,
+            "name" : "Prince Colony",
+            "localname" : "Prince Colony",
+            "label" : "Locality",
+            "code" : "ALI042",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 51,
+          "boundaryNum" : 1,
+          "name" : "50",
+          "localname" : "50",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 52,
+            "boundaryNum" : 1,
+            "name" : "Molana Azad Nagar",
+            "localname" : "Molana Azad Nagar",
+            "label" : "Locality",
+            "code" : "ALI043",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 53,
+            "boundaryNum" : 1,
+            "name" : "Molana Ajad Nagar ( Under Of Nagar Nigam)",
+            "localname" : "Molana Ajad Nagar ( Under Of Nagar Nigam)",
+            "label" : "Locality",
+            "code" : "ALI044",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 54,
+          "boundaryNum" : 1,
+          "name" : "51",
+          "localname" : "51",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 55,
+            "boundaryNum" : 1,
+            "name" : "Nagla Tikona",
+            "localname" : "Nagla Tikona",
+            "label" : "Locality",
+            "code" : "ALI045",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 56,
+            "boundaryNum" : 1,
+            "name" : "Nagla Tikona Partial",
+            "localname" : "Nagla Tikona Partial",
+            "label" : "Locality",
+            "code" : "ALI046",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 57,
+            "boundaryNum" : 1,
+            "name" : "Keshav Nagar",
+            "localname" : "Keshav Nagar",
+            "label" : "Locality",
+            "code" : "ALI047",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 58,
+            "boundaryNum" : 1,
+            "name" : "Hemant Nagar",
+            "localname" : "Hemant Nagar",
+            "label" : "Locality",
+            "code" : "ALI048",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 59,
+            "boundaryNum" : 1,
+            "name" : "Sangam Vihar",
+            "localname" : "Sangam Vihar",
+            "label" : "Locality",
+            "code" : "ALI049",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 60,
+            "boundaryNum" : 1,
+            "name" : "Nagla Mandir Partial",
+            "localname" : "Nagla Mandir Partial",
+            "label" : "Locality",
+            "code" : "ALI050",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 61,
+          "boundaryNum" : 1,
+          "name" : "52",
+          "localname" : "52",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 62,
+            "boundaryNum" : 1,
+            "name" : "Janak Puri",
+            "localname" : "Janak Puri",
+            "label" : "Locality",
+            "code" : "ALI051",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 63,
+            "boundaryNum" : 1,
+            "name" : "Janakpuri Colony",
+            "localname" : "Janakpuri Colony",
+            "label" : "Locality",
+            "code" : "ALI052",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 64,
+            "boundaryNum" : 1,
+            "name" : "Janakpur",
+            "localname" : "Janakpur",
+            "label" : "Locality",
+            "code" : "ALI053",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 65,
+            "boundaryNum" : 1,
+            "name" : "Madpura",
+            "localname" : "Madpura",
+            "label" : "Locality",
+            "code" : "ALI054",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 66,
+            "boundaryNum" : 1,
+            "name" : "Pan Dareeba",
+            "localname" : "Pan Dareeba",
+            "label" : "Locality",
+            "code" : "ALI055",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 67,
+            "boundaryNum" : 1,
+            "name" : "Mathura Nagar",
+            "localname" : "Mathura Nagar",
+            "label" : "Locality",
+            "code" : "ALI056",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 68,
+            "boundaryNum" : 1,
+            "name" : "Shyam Nagar",
+            "localname" : "Shyam Nagar",
+            "label" : "Locality",
+            "code" : "ALI057",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 69,
+            "boundaryNum" : 1,
+            "name" : "Samad Road",
+            "localname" : "Samad Road",
+            "label" : "Locality",
+            "code" : "ALI058",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 70,
+            "boundaryNum" : 1,
+            "name" : "Ramghat Road Partial",
+            "localname" : "Ramghat Road Partial",
+            "label" : "Locality",
+            "code" : "ALI059",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 71,
+            "boundaryNum" : 1,
+            "name" : "Guljar Nagar",
+            "localname" : "Guljar Nagar",
+            "label" : "Locality",
+            "code" : "ALI060",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 72,
+            "boundaryNum" : 1,
+            "name" : "Merris Road Partial",
+            "localname" : "Merris Road Partial",
+            "label" : "Locality",
+            "code" : "ALI061",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 73,
+            "boundaryNum" : 1,
+            "name" : "Mahaveer Park",
+            "localname" : "Mahaveer Park",
+            "label" : "Locality",
+            "code" : "ALI062",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 74,
+            "boundaryNum" : 1,
+            "name" : "Railway Colony Near Station",
+            "localname" : "Railway Colony Near Station",
+            "label" : "Locality",
+            "code" : "ALI063",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 75,
+            "boundaryNum" : 1,
+            "name" : "Lekharaj Nagar",
+            "localname" : "Lekharaj Nagar",
+            "label" : "Locality",
+            "code" : "ALI064",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 76,
+            "boundaryNum" : 1,
+            "name" : "Nagla Jahar",
+            "localname" : "Nagla Jahar",
+            "label" : "Locality",
+            "code" : "ALI065",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 77,
+            "boundaryNum" : 1,
+            "name" : "Press Colony Partial",
+            "localname" : "Press Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI066",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 78,
+            "boundaryNum" : 1,
+            "name" : "Hariom Nagar Partial",
+            "localname" : "Hariom Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI067",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 79,
+            "boundaryNum" : 1,
+            "name" : "Dakkhana Road",
+            "localname" : "Dakkhana Road",
+            "label" : "Locality",
+            "code" : "ALI068",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 80,
+          "boundaryNum" : 1,
+          "name" : "53",
+          "localname" : "53",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 81,
+            "boundaryNum" : 1,
+            "name" : "Firdos Nagar",
+            "localname" : "Firdos Nagar",
+            "label" : "Locality",
+            "code" : "ALI069",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 82,
+            "boundaryNum" : 1,
+            "name" : "Shahanshahbad Partial",
+            "localname" : "Shahanshahbad Partial",
+            "label" : "Locality",
+            "code" : "ALI070",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 83,
+            "boundaryNum" : 1,
+            "name" : "Nagla Bhunda Partial",
+            "localname" : "Nagla Bhunda Partial",
+            "label" : "Locality",
+            "code" : "ALI071",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 84,
+            "boundaryNum" : 1,
+            "name" : "Mathuriya Nagar",
+            "localname" : "Mathuriya Nagar",
+            "label" : "Locality",
+            "code" : "ALI072",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 85,
+          "boundaryNum" : 1,
+          "name" : "54",
+          "localname" : "54",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 86,
+            "boundaryNum" : 1,
+            "name" : "Tantan Pada",
+            "localname" : "Tantan Pada",
+            "label" : "Locality",
+            "code" : "ALI073",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 87,
+            "boundaryNum" : 1,
+            "name" : "Kanvari Ganj Partial",
+            "localname" : "Kanvari Ganj Partial",
+            "label" : "Locality",
+            "code" : "ALI074",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 88,
+            "boundaryNum" : 1,
+            "name" : "Gali Hakjjam",
+            "localname" : "Gali Hakjjam",
+            "label" : "Locality",
+            "code" : "ALI075",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 89,
+            "boundaryNum" : 1,
+            "name" : "Atish Bajan",
+            "localname" : "Atish Bajan",
+            "label" : "Locality",
+            "code" : "ALI076",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 90,
+            "boundaryNum" : 1,
+            "name" : "Tahsil Road Partial",
+            "localname" : "Tahsil Road Partial",
+            "label" : "Locality",
+            "code" : "ALI077",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 91,
+            "boundaryNum" : 1,
+            "name" : "Tantan Pada Partial",
+            "localname" : "Tantan Pada Partial",
+            "label" : "Locality",
+            "code" : "ALI078",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 92,
+            "boundaryNum" : 1,
+            "name" : "Sunhat",
+            "localname" : "Sunhat",
+            "label" : "Locality",
+            "code" : "ALI079",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 93,
+            "boundaryNum" : 1,
+            "name" : "Chock Bundu Khan",
+            "localname" : "Chock Bundu Khan",
+            "label" : "Locality",
+            "code" : "ALI080",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 94,
+            "boundaryNum" : 1,
+            "name" : "Shekhan Partial",
+            "localname" : "Shekhan Partial",
+            "label" : "Locality",
+            "code" : "ALI081",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 95,
+            "boundaryNum" : 1,
+            "name" : "Khai Dora Partial",
+            "localname" : "Khai Dora Partial",
+            "label" : "Locality",
+            "code" : "ALI082",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 96,
+            "boundaryNum" : 1,
+            "name" : "Bani Israylan Partial",
+            "localname" : "Bani Israylan Partial",
+            "label" : "Locality",
+            "code" : "ALI083",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 97,
+            "boundaryNum" : 1,
+            "name" : "Chandan Shahid Partial",
+            "localname" : "Chandan Shahid Partial",
+            "label" : "Locality",
+            "code" : "ALI084",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 98,
+            "boundaryNum" : 1,
+            "name" : "Sabji Mandi",
+            "localname" : "Sabji Mandi",
+            "label" : "Locality",
+            "code" : "ALI085",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 99,
+          "boundaryNum" : 1,
+          "name" : "10",
+          "localname" : "10",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 100,
+            "boundaryNum" : 1,
+            "name" : "Sarai Deen Dayal",
+            "localname" : "Sarai Deen Dayal",
+            "label" : "Locality",
+            "code" : "ALI086",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 101,
+            "boundaryNum" : 1,
+            "name" : "Padav Dubey",
+            "localname" : "Padav Dubey",
+            "label" : "Locality",
+            "code" : "ALI087",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 102,
+            "boundaryNum" : 1,
+            "name" : "Peer Mittha",
+            "localname" : "Peer Mittha",
+            "label" : "Locality",
+            "code" : "ALI088",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 103,
+            "boundaryNum" : 1,
+            "name" : "Sarai Deen Dayal",
+            "localname" : "Sarai Deen Dayal",
+            "label" : "Locality",
+            "code" : "ALI089",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 104,
+            "boundaryNum" : 1,
+            "name" : "Shishiya Pada",
+            "localname" : "Shishiya Pada",
+            "label" : "Locality",
+            "code" : "ALI090",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 105,
+            "boundaryNum" : 1,
+            "name" : "Achal Road Partial",
+            "localname" : "Achal Road Partial",
+            "label" : "Locality",
+            "code" : "ALI091",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 106,
+            "boundaryNum" : 1,
+            "name" : "Madar Gate Partial",
+            "localname" : "Madar Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI092",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 107,
+            "boundaryNum" : 1,
+            "name" : "Sarai Intjam Ali",
+            "localname" : "Sarai Intjam Ali",
+            "label" : "Locality",
+            "code" : "ALI093",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 108,
+            "boundaryNum" : 1,
+            "name" : "Sarai Peervax",
+            "localname" : "Sarai Peervax",
+            "label" : "Locality",
+            "code" : "ALI094",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 109,
+            "boundaryNum" : 1,
+            "name" : "Dwarika Puri Partial",
+            "localname" : "Dwarika Puri Partial",
+            "label" : "Locality",
+            "code" : "ALI095",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 110,
+            "boundaryNum" : 1,
+            "name" : "Mal Godam Market",
+            "localname" : "Mal Godam Market",
+            "label" : "Locality",
+            "code" : "ALI096",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 111,
+            "boundaryNum" : 1,
+            "name" : "Sarai Hakeem Partial",
+            "localname" : "Sarai Hakeem Partial",
+            "label" : "Locality",
+            "code" : "ALI097",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 112,
+            "boundaryNum" : 1,
+            "name" : "Malviya Pustakalaya",
+            "localname" : "Malviya Pustakalaya",
+            "label" : "Locality",
+            "code" : "ALI098",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 113,
+            "boundaryNum" : 1,
+            "name" : "Market Rasal Ganj",
+            "localname" : "Market Rasal Ganj",
+            "label" : "Locality",
+            "code" : "ALI099",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 114,
+            "boundaryNum" : 1,
+            "name" : "Sarai Nabab",
+            "localname" : "Sarai Nabab",
+            "label" : "Locality",
+            "code" : "ALI100",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 115,
+            "boundaryNum" : 1,
+            "name" : "Sarai Baij Nath",
+            "localname" : "Sarai Baij Nath",
+            "label" : "Locality",
+            "code" : "ALI101",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 116,
+            "boundaryNum" : 1,
+            "name" : "Sarai Bairagi",
+            "localname" : "Sarai Bairagi",
+            "label" : "Locality",
+            "code" : "ALI102",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 117,
+            "boundaryNum" : 1,
+            "name" : "Subhash Road Partial",
+            "localname" : "Subhash Road Partial",
+            "label" : "Locality",
+            "code" : "ALI103",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 118,
+          "boundaryNum" : 1,
+          "name" : "55",
+          "localname" : "55",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 119,
+            "boundaryNum" : 1,
+            "name" : "Sasni Gate",
+            "localname" : "Sasni Gate",
+            "label" : "Locality",
+            "code" : "ALI104",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 120,
+            "boundaryNum" : 1,
+            "name" : "Sasni Gate Partial",
+            "localname" : "Sasni Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI105",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 121,
+            "boundaryNum" : 1,
+            "name" : "Bhujpura Partial",
+            "localname" : "Bhujpura Partial",
+            "label" : "Locality",
+            "code" : "ALI106",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 122,
+            "boundaryNum" : 1,
+            "name" : "Nai Abadi Bhujpura",
+            "localname" : "Nai Abadi Bhujpura",
+            "label" : "Locality",
+            "code" : "ALI107",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 123,
+          "boundaryNum" : 1,
+          "name" : "11",
+          "localname" : "11",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 124,
+            "boundaryNum" : 1,
+            "name" : "Nagla Masani",
+            "localname" : "Nagla Masani",
+            "label" : "Locality",
+            "code" : "ALI108",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 125,
+            "boundaryNum" : 1,
+            "name" : "Niranjan Puri",
+            "localname" : "Niranjan Puri",
+            "label" : "Locality",
+            "code" : "ALI109",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 126,
+            "boundaryNum" : 1,
+            "name" : "Gaushala",
+            "localname" : "Gaushala",
+            "label" : "Locality",
+            "code" : "ALI110",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 127,
+            "boundaryNum" : 1,
+            "name" : "Road Delhi Gate Door Partial",
+            "localname" : "Road Delhi Gate Door Partial",
+            "label" : "Locality",
+            "code" : "ALI111",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 128,
+            "boundaryNum" : 1,
+            "name" : "Nagla Masani Partial",
+            "localname" : "Nagla Masani Partial",
+            "label" : "Locality",
+            "code" : "ALI112",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 129,
+            "boundaryNum" : 1,
+            "name" : "Nagla Mehtab Partial",
+            "localname" : "Nagla Mehtab Partial",
+            "label" : "Locality",
+            "code" : "ALI113",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 130,
+            "boundaryNum" : 1,
+            "name" : "Goolar Road Partial",
+            "localname" : "Goolar Road Partial",
+            "label" : "Locality",
+            "code" : "ALI114",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 131,
+            "boundaryNum" : 1,
+            "name" : "Shakti Nagar",
+            "localname" : "Shakti Nagar",
+            "label" : "Locality",
+            "code" : "ALI115",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 132,
+          "boundaryNum" : 1,
+          "name" : "56",
+          "localname" : "56",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 133,
+            "boundaryNum" : 1,
+            "name" : "Nagla Jamal Pur",
+            "localname" : "Nagla Jamal Pur",
+            "label" : "Locality",
+            "code" : "ALI116",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 134,
+            "boundaryNum" : 1,
+            "name" : "Jamalpur Partial",
+            "localname" : "Jamalpur Partial",
+            "label" : "Locality",
+            "code" : "ALI117",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 135,
+            "boundaryNum" : 1,
+            "name" : "Nagla Jamalpur Partial",
+            "localname" : "Nagla Jamalpur Partial",
+            "label" : "Locality",
+            "code" : "ALI118",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 136,
+          "boundaryNum" : 1,
+          "name" : "12",
+          "localname" : "12",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 137,
+            "boundaryNum" : 1,
+            "name" : "Chhawani",
+            "localname" : "Chhawani",
+            "label" : "Locality",
+            "code" : "ALI119",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 138,
+            "boundaryNum" : 1,
+            "name" : "Chhawani Partial",
+            "localname" : "Chhawani Partial",
+            "label" : "Locality",
+            "code" : "ALI120",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 139,
+            "boundaryNum" : 1,
+            "name" : "Shashtri Nagar",
+            "localname" : "Shashtri Nagar",
+            "label" : "Locality",
+            "code" : "ALI121",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 140,
+            "boundaryNum" : 1,
+            "name" : "Tika Ram Colony",
+            "localname" : "Tika Ram Colony",
+            "label" : "Locality",
+            "code" : "ALI122",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 141,
+            "boundaryNum" : 1,
+            "name" : "Kundan Nagar",
+            "localname" : "Kundan Nagar",
+            "label" : "Locality",
+            "code" : "ALI123",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 142,
+            "boundaryNum" : 1,
+            "name" : "Ambedakar Colony Partial",
+            "localname" : "Ambedakar Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI124",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 143,
+          "boundaryNum" : 1,
+          "name" : "57",
+          "localname" : "57",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 144,
+            "boundaryNum" : 1,
+            "name" : "Kela Nagar",
+            "localname" : "Kela Nagar",
+            "label" : "Locality",
+            "code" : "ALI125",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 145,
+            "boundaryNum" : 1,
+            "name" : "Krashi Farm",
+            "localname" : "Krashi Farm",
+            "label" : "Locality",
+            "code" : "ALI126",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 146,
+            "boundaryNum" : 1,
+            "name" : "Kela Nagar Partial",
+            "localname" : "Kela Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI127",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 147,
+            "boundaryNum" : 1,
+            "name" : "Ekta Nagar Vikas Bhavan",
+            "localname" : "Ekta Nagar Vikas Bhavan",
+            "label" : "Locality",
+            "code" : "ALI128",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 148,
+            "boundaryNum" : 1,
+            "name" : "P Deen Dayal Upadhyay Hospital",
+            "localname" : "P Deen Dayal Upadhyay Hospital",
+            "label" : "Locality",
+            "code" : "ALI129",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 149,
+            "boundaryNum" : 1,
+            "name" : "Jeevan Garh Partial",
+            "localname" : "Jeevan Garh Partial",
+            "label" : "Locality",
+            "code" : "ALI130",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 150,
+          "boundaryNum" : 1,
+          "name" : "13",
+          "localname" : "13",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 151,
+            "boundaryNum" : 1,
+            "name" : "Suraksha Vihar",
+            "localname" : "Suraksha Vihar",
+            "label" : "Locality",
+            "code" : "ALI131",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 152,
+            "boundaryNum" : 1,
+            "name" : "Beema Nagar Partial",
+            "localname" : "Beema Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI132",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 153,
+            "boundaryNum" : 1,
+            "name" : "Banna Devi Partial",
+            "localname" : "Banna Devi Partial",
+            "label" : "Locality",
+            "code" : "ALI133",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 154,
+            "boundaryNum" : 1,
+            "name" : "Choohar Pur Partial",
+            "localname" : "Choohar Pur Partial",
+            "label" : "Locality",
+            "code" : "ALI134",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 155,
+            "boundaryNum" : 1,
+            "name" : "Nagla Choohar Pur Partial",
+            "localname" : "Nagla Choohar Pur Partial",
+            "label" : "Locality",
+            "code" : "ALI135",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 156,
+            "boundaryNum" : 1,
+            "name" : "Shikshak Nagar Partial",
+            "localname" : "Shikshak Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI136",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 157,
+            "boundaryNum" : 1,
+            "name" : "Javahar Nagar Partial",
+            "localname" : "Javahar Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI137",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 158,
+            "boundaryNum" : 1,
+            "name" : "Ada Colony",
+            "localname" : "Ada Colony",
+            "label" : "Locality",
+            "code" : "ALI138",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 159,
+          "boundaryNum" : 1,
+          "name" : "58",
+          "localname" : "58",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 160,
+            "boundaryNum" : 1,
+            "name" : "Dodh Pur",
+            "localname" : "Dodh Pur",
+            "label" : "Locality",
+            "code" : "ALI139",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 161,
+            "boundaryNum" : 1,
+            "name" : "Dodhpur Partial",
+            "localname" : "Dodhpur Partial",
+            "label" : "Locality",
+            "code" : "ALI140",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 162,
+            "boundaryNum" : 1,
+            "name" : "Jamiya Urdu",
+            "localname" : "Jamiya Urdu",
+            "label" : "Locality",
+            "code" : "ALI141",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 163,
+            "boundaryNum" : 1,
+            "name" : "Ada Compound",
+            "localname" : "Ada Compound",
+            "label" : "Locality",
+            "code" : "ALI142",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 164,
+            "boundaryNum" : 1,
+            "name" : "Varunalaya Guest House",
+            "localname" : "Varunalaya Guest House",
+            "label" : "Locality",
+            "code" : "ALI143",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 165,
+            "boundaryNum" : 1,
+            "name" : "University Quarter",
+            "localname" : "University Quarter",
+            "label" : "Locality",
+            "code" : "ALI144",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 166,
+            "boundaryNum" : 1,
+            "name" : "Medical Colony",
+            "localname" : "Medical Colony",
+            "label" : "Locality",
+            "code" : "ALI145",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 167,
+            "boundaryNum" : 1,
+            "name" : "Sar Saiyed Park",
+            "localname" : "Sar Saiyed Park",
+            "label" : "Locality",
+            "code" : "ALI146",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 168,
+          "boundaryNum" : 1,
+          "name" : "14",
+          "localname" : "14",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 169,
+            "boundaryNum" : 1,
+            "name" : "Naoner Gate",
+            "localname" : "Naoner Gate",
+            "label" : "Locality",
+            "code" : "ALI147",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 170,
+            "boundaryNum" : 1,
+            "name" : "Nauner Gate",
+            "localname" : "Nauner Gate",
+            "label" : "Locality",
+            "code" : "ALI148",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 171,
+            "boundaryNum" : 1,
+            "name" : "Sarai Kale Khan",
+            "localname" : "Sarai Kale Khan",
+            "label" : "Locality",
+            "code" : "ALI149",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 172,
+            "boundaryNum" : 1,
+            "name" : "Babri Mandi Partial",
+            "localname" : "Babri Mandi Partial",
+            "label" : "Locality",
+            "code" : "ALI150",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 173,
+            "boundaryNum" : 1,
+            "name" : "Ladiya Abbas Nagar Partial",
+            "localname" : "Ladiya Abbas Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI151",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 174,
+            "boundaryNum" : 1,
+            "name" : "Sarai Bhatt Partial",
+            "localname" : "Sarai Bhatt Partial",
+            "label" : "Locality",
+            "code" : "ALI152",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 175,
+            "boundaryNum" : 1,
+            "name" : "Vishambhar Nagar",
+            "localname" : "Vishambhar Nagar",
+            "label" : "Locality",
+            "code" : "ALI153",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 176,
+            "boundaryNum" : 1,
+            "name" : "Sarai Raja Ram",
+            "localname" : "Sarai Raja Ram",
+            "label" : "Locality",
+            "code" : "ALI154",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 177,
+            "boundaryNum" : 1,
+            "name" : "Sarai Bhola Nath Partial",
+            "localname" : "Sarai Bhola Nath Partial",
+            "label" : "Locality",
+            "code" : "ALI155",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 178,
+            "boundaryNum" : 1,
+            "name" : "Sarai Garhi Partial",
+            "localname" : "Sarai Garhi Partial",
+            "label" : "Locality",
+            "code" : "ALI156",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 179,
+          "boundaryNum" : 1,
+          "name" : "59",
+          "localname" : "59",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 180,
+            "boundaryNum" : 1,
+            "name" : "Begum Bagh",
+            "localname" : "Begum Bagh",
+            "label" : "Locality",
+            "code" : "ALI157",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 181,
+            "boundaryNum" : 1,
+            "name" : "Begum Bagh Partial",
+            "localname" : "Begum Bagh Partial",
+            "label" : "Locality",
+            "code" : "ALI158",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 182,
+            "boundaryNum" : 1,
+            "name" : "Durgesh Colony Partial",
+            "localname" : "Durgesh Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI159",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 183,
+            "boundaryNum" : 1,
+            "name" : "Surendra Nagar Partial",
+            "localname" : "Surendra Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI160",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 184,
+            "boundaryNum" : 1,
+            "name" : "Chandaniya Partial",
+            "localname" : "Chandaniya Partial",
+            "label" : "Locality",
+            "code" : "ALI161",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 185,
+            "boundaryNum" : 1,
+            "name" : "Nagla Javahar Partial",
+            "localname" : "Nagla Javahar Partial",
+            "label" : "Locality",
+            "code" : "ALI162",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 186,
+            "boundaryNum" : 1,
+            "name" : "Nagla Tikona Partial",
+            "localname" : "Nagla Tikona Partial",
+            "label" : "Locality",
+            "code" : "ALI163",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 187,
+            "boundaryNum" : 1,
+            "name" : "Champa Vihar",
+            "localname" : "Champa Vihar",
+            "label" : "Locality",
+            "code" : "ALI164",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 188,
+          "boundaryNum" : 1,
+          "name" : "15",
+          "localname" : "15",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 189,
+            "boundaryNum" : 1,
+            "name" : "Sanichari Painth",
+            "localname" : "Sanichari Painth",
+            "label" : "Locality",
+            "code" : "ALI165",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 190,
+            "boundaryNum" : 1,
+            "name" : "Sarai Kaba Partial",
+            "localname" : "Sarai Kaba Partial",
+            "label" : "Locality",
+            "code" : "ALI166",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 191,
+            "boundaryNum" : 1,
+            "name" : "Turkman Gate Partial",
+            "localname" : "Turkman Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI167",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 192,
+            "boundaryNum" : 1,
+            "name" : "Sanivchari Paith Partial",
+            "localname" : "Sanivchari Paith Partial",
+            "label" : "Locality",
+            "code" : "ALI168",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 193,
+            "boundaryNum" : 1,
+            "name" : "Sarai Kutub Partial",
+            "localname" : "Sarai Kutub Partial",
+            "label" : "Locality",
+            "code" : "ALI169",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 194,
+            "boundaryNum" : 1,
+            "name" : "Balmiki Quarter",
+            "localname" : "Balmiki Quarter",
+            "label" : "Locality",
+            "code" : "ALI170",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 195,
+          "boundaryNum" : 1,
+          "name" : "16",
+          "localname" : "16",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 196,
+            "boundaryNum" : 1,
+            "name" : "Krashna Puri",
+            "localname" : "Krashna Puri",
+            "label" : "Locality",
+            "code" : "ALI171",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 197,
+            "boundaryNum" : 1,
+            "name" : "Hari Nagar",
+            "localname" : "Hari Nagar",
+            "label" : "Locality",
+            "code" : "ALI172",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 198,
+            "boundaryNum" : 1,
+            "name" : "Vihari Nagar",
+            "localname" : "Vihari Nagar",
+            "label" : "Locality",
+            "code" : "ALI173",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 199,
+            "boundaryNum" : 1,
+            "name" : "Gopal Puri Partial",
+            "localname" : "Gopal Puri Partial",
+            "label" : "Locality",
+            "code" : "ALI174",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 200,
+            "boundaryNum" : 1,
+            "name" : "Pala Sahibabad Partial",
+            "localname" : "Pala Sahibabad Partial",
+            "label" : "Locality",
+            "code" : "ALI175",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 201,
+          "boundaryNum" : 1,
+          "name" : "17",
+          "localname" : "17",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 202,
+            "boundaryNum" : 1,
+            "name" : "Sarai Pakki",
+            "localname" : "Sarai Pakki",
+            "label" : "Locality",
+            "code" : "ALI176",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 203,
+            "boundaryNum" : 1,
+            "name" : "Sarai Sultani",
+            "localname" : "Sarai Sultani",
+            "label" : "Locality",
+            "code" : "ALI177",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 204,
+            "boundaryNum" : 1,
+            "name" : "Sarai Ray",
+            "localname" : "Sarai Ray",
+            "label" : "Locality",
+            "code" : "ALI178",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 205,
+            "boundaryNum" : 1,
+            "name" : "Sarai Khirni",
+            "localname" : "Sarai Khirni",
+            "label" : "Locality",
+            "code" : "ALI179",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 206,
+            "boundaryNum" : 1,
+            "name" : "Madar Gate Partial",
+            "localname" : "Madar Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI180",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 207,
+            "boundaryNum" : 1,
+            "name" : "Barai Partial",
+            "localname" : "Barai Partial",
+            "label" : "Locality",
+            "code" : "ALI181",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 208,
+            "boundaryNum" : 1,
+            "name" : "Brahman Puri Partial",
+            "localname" : "Brahman Puri Partial",
+            "label" : "Locality",
+            "code" : "ALI182",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 209,
+            "boundaryNum" : 1,
+            "name" : "Bada Gauhar Ali Partial",
+            "localname" : "Bada Gauhar Ali Partial",
+            "label" : "Locality",
+            "code" : "ALI183",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 210,
+            "boundaryNum" : 1,
+            "name" : "Sarai Mansingh",
+            "localname" : "Sarai Mansingh",
+            "label" : "Locality",
+            "code" : "ALI184",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 211,
+            "boundaryNum" : 1,
+            "name" : "Durga Puri",
+            "localname" : "Durga Puri",
+            "label" : "Locality",
+            "code" : "ALI185",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 212,
+            "boundaryNum" : 1,
+            "name" : "Sarai Gyanat Ray",
+            "localname" : "Sarai Gyanat Ray",
+            "label" : "Locality",
+            "code" : "ALI186",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 213,
+            "boundaryNum" : 1,
+            "name" : "Sarai Mevaram",
+            "localname" : "Sarai Mevaram",
+            "label" : "Locality",
+            "code" : "ALI187",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 214,
+          "boundaryNum" : 1,
+          "name" : "18",
+          "localname" : "18",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 215,
+            "boundaryNum" : 1,
+            "name" : "Choohar Pur",
+            "localname" : "Choohar Pur",
+            "label" : "Locality",
+            "code" : "ALI188",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 216,
+            "boundaryNum" : 1,
+            "name" : "Banna Devi Partial",
+            "localname" : "Banna Devi Partial",
+            "label" : "Locality",
+            "code" : "ALI189",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 217,
+            "boundaryNum" : 1,
+            "name" : "Twuvel Colony",
+            "localname" : "Twuvel Colony",
+            "label" : "Locality",
+            "code" : "ALI190",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 218,
+            "boundaryNum" : 1,
+            "name" : "Choohar Pur Partial",
+            "localname" : "Choohar Pur Partial",
+            "label" : "Locality",
+            "code" : "ALI191",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 219,
+            "boundaryNum" : 1,
+            "name" : "Javahar Nagar Partial",
+            "localname" : "Javahar Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI192",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 220,
+            "boundaryNum" : 1,
+            "name" : "Iti Road Partial",
+            "localname" : "Iti Road Partial",
+            "label" : "Locality",
+            "code" : "ALI193",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 221,
+          "boundaryNum" : 1,
+          "name" : "19",
+          "localname" : "19",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 222,
+            "boundaryNum" : 1,
+            "name" : "Brahman Puri",
+            "localname" : "Brahman Puri",
+            "label" : "Locality",
+            "code" : "ALI194",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 223,
+            "boundaryNum" : 1,
+            "name" : "Purani Kotvali",
+            "localname" : "Purani Kotvali",
+            "label" : "Locality",
+            "code" : "ALI195",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 224,
+            "boundaryNum" : 1,
+            "name" : "Sarai Bibi",
+            "localname" : "Sarai Bibi",
+            "label" : "Locality",
+            "code" : "ALI196",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 225,
+            "boundaryNum" : 1,
+            "name" : "Shah Pada",
+            "localname" : "Shah Pada",
+            "label" : "Locality",
+            "code" : "ALI197",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 226,
+            "boundaryNum" : 1,
+            "name" : "Rafat Ganj",
+            "localname" : "Rafat Ganj",
+            "label" : "Locality",
+            "code" : "ALI198",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 227,
+            "boundaryNum" : 1,
+            "name" : "Madar Gate Partial",
+            "localname" : "Madar Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI199",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 228,
+            "boundaryNum" : 1,
+            "name" : "Tamoli Pada",
+            "localname" : "Tamoli Pada",
+            "label" : "Locality",
+            "code" : "ALI200",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 229,
+            "boundaryNum" : 1,
+            "name" : "Krashna Tola",
+            "localname" : "Krashna Tola",
+            "label" : "Locality",
+            "code" : "ALI201",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 230,
+            "boundaryNum" : 1,
+            "name" : "Brahman Puri Partial",
+            "localname" : "Brahman Puri Partial",
+            "label" : "Locality",
+            "code" : "ALI202",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 231,
+            "boundaryNum" : 1,
+            "name" : "Khai Dora",
+            "localname" : "Khai Dora",
+            "label" : "Locality",
+            "code" : "ALI203",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 232,
+            "boundaryNum" : 1,
+            "name" : "Kanoon Goyan",
+            "localname" : "Kanoon Goyan",
+            "label" : "Locality",
+            "code" : "ALI204",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 233,
+            "boundaryNum" : 1,
+            "name" : "Nehru Kunj",
+            "localname" : "Nehru Kunj",
+            "label" : "Locality",
+            "code" : "ALI205",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 234,
+            "boundaryNum" : 1,
+            "name" : "Mali Pada",
+            "localname" : "Mali Pada",
+            "label" : "Locality",
+            "code" : "ALI206",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 235,
+            "boundaryNum" : 1,
+            "name" : "Kaji Pada",
+            "localname" : "Kaji Pada",
+            "label" : "Locality",
+            "code" : "ALI207",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 236,
+            "boundaryNum" : 1,
+            "name" : "Barai Partial",
+            "localname" : "Barai Partial",
+            "label" : "Locality",
+            "code" : "ALI208",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 237,
+            "boundaryNum" : 1,
+            "name" : "Samna Pada",
+            "localname" : "Samna Pada",
+            "label" : "Locality",
+            "code" : "ALI209",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 238,
+            "boundaryNum" : 1,
+            "name" : "Sarai Bala",
+            "localname" : "Sarai Bala",
+            "label" : "Locality",
+            "code" : "ALI210",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 239,
+            "boundaryNum" : 1,
+            "name" : "Padav Jai Ganj",
+            "localname" : "Padav Jai Ganj",
+            "label" : "Locality",
+            "code" : "ALI211",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 240,
+            "boundaryNum" : 1,
+            "name" : "Sarai Kaji",
+            "localname" : "Sarai Kaji",
+            "label" : "Locality",
+            "code" : "ALI212",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 241,
+            "boundaryNum" : 1,
+            "name" : "Sarai Java",
+            "localname" : "Sarai Java",
+            "label" : "Locality",
+            "code" : "ALI213",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 242,
+            "boundaryNum" : 1,
+            "name" : "Bada Gauhar Ali",
+            "localname" : "Bada Gauhar Ali",
+            "label" : "Locality",
+            "code" : "ALI214",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 243,
+            "boundaryNum" : 1,
+            "name" : "Partial Sarai Misra",
+            "localname" : "Partial Sarai Misra",
+            "label" : "Locality",
+            "code" : "ALI215",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 244,
+          "boundaryNum" : 1,
+          "name" : "1",
+          "localname" : "1",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 245,
+            "boundaryNum" : 1,
+            "name" : "Nagla Kalar",
+            "localname" : "Nagla Kalar",
+            "label" : "Locality",
+            "code" : "ALI216",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 246,
+            "boundaryNum" : 1,
+            "name" : "Nagla Kalar Partial",
+            "localname" : "Nagla Kalar Partial",
+            "label" : "Locality",
+            "code" : "ALI217",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 247,
+            "boundaryNum" : 1,
+            "name" : "Laxmipur Partial",
+            "localname" : "Laxmipur Partial",
+            "label" : "Locality",
+            "code" : "ALI218",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 248,
+            "boundaryNum" : 1,
+            "name" : "Banna Devi Partial",
+            "localname" : "Banna Devi Partial",
+            "label" : "Locality",
+            "code" : "ALI219",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 249,
+            "boundaryNum" : 1,
+            "name" : "Beema Nagar Partial",
+            "localname" : "Beema Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI220",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 250,
+          "boundaryNum" : 1,
+          "name" : "2",
+          "localname" : "2",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 251,
+            "boundaryNum" : 1,
+            "name" : "Indra Nagar Khair Road",
+            "localname" : "Indra Nagar Khair Road",
+            "label" : "Locality",
+            "code" : "ALI221",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 252,
+            "boundaryNum" : 1,
+            "name" : "Nagla Mahtab Partial",
+            "localname" : "Nagla Mahtab Partial",
+            "label" : "Locality",
+            "code" : "ALI222",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 253,
+            "boundaryNum" : 1,
+            "name" : "Delhi Gate",
+            "localname" : "Delhi Gate",
+            "label" : "Locality",
+            "code" : "ALI223",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 254,
+            "boundaryNum" : 1,
+            "name" : "Khair Road",
+            "localname" : "Khair Road",
+            "label" : "Locality",
+            "code" : "ALI224",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 255,
+            "boundaryNum" : 1,
+            "name" : "Indra Nagar",
+            "localname" : "Indra Nagar",
+            "label" : "Locality",
+            "code" : "ALI225",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 256,
+            "boundaryNum" : 1,
+            "name" : "Nagla Masani Partial",
+            "localname" : "Nagla Masani Partial",
+            "label" : "Locality",
+            "code" : "ALI226",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 257,
+          "boundaryNum" : 1,
+          "name" : "3",
+          "localname" : "3",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 258,
+            "boundaryNum" : 1,
+            "name" : "Pala Sahibabad",
+            "localname" : "Pala Sahibabad",
+            "label" : "Locality",
+            "code" : "ALI227",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 259,
+            "boundaryNum" : 1,
+            "name" : "Pala Sahiababad Partial Nai Abadi Pala Road Partial",
+            "localname" : "Pala Sahiababad Partial Nai Abadi Pala Road Partial",
+            "label" : "Locality",
+            "code" : "ALI228",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 260,
+          "boundaryNum" : 1,
+          "name" : "4",
+          "localname" : "4",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 261,
+            "boundaryNum" : 1,
+            "name" : "Sarai Garhi",
+            "localname" : "Sarai Garhi",
+            "label" : "Locality",
+            "code" : "ALI229",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 262,
+            "boundaryNum" : 1,
+            "name" : "Sarai Garhi Partial",
+            "localname" : "Sarai Garhi Partial",
+            "label" : "Locality",
+            "code" : "ALI230",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 263,
+            "boundaryNum" : 1,
+            "name" : "Sarai Vrandavan",
+            "localname" : "Sarai Vrandavan",
+            "label" : "Locality",
+            "code" : "ALI231",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 264,
+            "boundaryNum" : 1,
+            "name" : "Sarai Pitamber",
+            "localname" : "Sarai Pitamber",
+            "label" : "Locality",
+            "code" : "ALI232",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 265,
+            "boundaryNum" : 1,
+            "name" : "Sarai Bhukhi",
+            "localname" : "Sarai Bhukhi",
+            "label" : "Locality",
+            "code" : "ALI233",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 266,
+            "boundaryNum" : 1,
+            "name" : "Sasni Gate Partial",
+            "localname" : "Sasni Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI234",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 267,
+            "boundaryNum" : 1,
+            "name" : "Sarai Bhatt Partial",
+            "localname" : "Sarai Bhatt Partial",
+            "label" : "Locality",
+            "code" : "ALI235",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 268,
+            "boundaryNum" : 1,
+            "name" : "Sarai Bhusiya",
+            "localname" : "Sarai Bhusiya",
+            "label" : "Locality",
+            "code" : "ALI236",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 269,
+            "boundaryNum" : 1,
+            "name" : "Isha Nagar",
+            "localname" : "Isha Nagar",
+            "label" : "Locality",
+            "code" : "ALI237",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 270,
+            "boundaryNum" : 1,
+            "name" : "Jhamman Lal Compound",
+            "localname" : "Jhamman Lal Compound",
+            "label" : "Locality",
+            "code" : "ALI238",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 271,
+          "boundaryNum" : 1,
+          "name" : "5",
+          "localname" : "5",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 272,
+            "boundaryNum" : 1,
+            "name" : "Naurangabad",
+            "localname" : "Naurangabad",
+            "label" : "Locality",
+            "code" : "ALI239",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 273,
+            "boundaryNum" : 1,
+            "name" : "Chharra Adda Partial",
+            "localname" : "Chharra Adda Partial",
+            "label" : "Locality",
+            "code" : "ALI240",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 274,
+            "boundaryNum" : 1,
+            "name" : "Chhawani Partial",
+            "localname" : "Chhawani Partial",
+            "label" : "Locality",
+            "code" : "ALI241",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 275,
+            "boundaryNum" : 1,
+            "name" : "Naurangabad",
+            "localname" : "Naurangabad",
+            "label" : "Locality",
+            "code" : "ALI242",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 276,
+            "boundaryNum" : 1,
+            "name" : "Rathi Nagar",
+            "localname" : "Rathi Nagar",
+            "label" : "Locality",
+            "code" : "ALI243",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 277,
+            "boundaryNum" : 1,
+            "name" : "Dori Nagar Partial",
+            "localname" : "Dori Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI244",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 278,
+          "boundaryNum" : 1,
+          "name" : "6",
+          "localname" : "6",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 279,
+            "boundaryNum" : 1,
+            "name" : "Dori Nagar",
+            "localname" : "Dori Nagar",
+            "label" : "Locality",
+            "code" : "ALI245",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 280,
+            "boundaryNum" : 1,
+            "name" : "Ambedakar Colony Partial Under Nagar Nigam Boundary",
+            "localname" : "Ambedakar Colony Partial Under Nagar Nigam Boundary",
+            "label" : "Locality",
+            "code" : "ALI246",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 281,
+            "boundaryNum" : 1,
+            "name" : "Dori Nagar Partial",
+            "localname" : "Dori Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI247",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 282,
+            "boundaryNum" : 1,
+            "name" : "Dharm Puri",
+            "localname" : "Dharm Puri",
+            "label" : "Locality",
+            "code" : "ALI248",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 283,
+          "boundaryNum" : 1,
+          "name" : "7",
+          "localname" : "7",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 284,
+            "boundaryNum" : 1,
+            "name" : "Sarai Kava",
+            "localname" : "Sarai Kava",
+            "label" : "Locality",
+            "code" : "ALI249",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 285,
+            "boundaryNum" : 1,
+            "name" : "Sarai Kava Partial",
+            "localname" : "Sarai Kava Partial",
+            "label" : "Locality",
+            "code" : "ALI250",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 286,
+            "boundaryNum" : 1,
+            "name" : "Ataiyan",
+            "localname" : "Ataiyan",
+            "label" : "Locality",
+            "code" : "ALI251",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 287,
+            "boundaryNum" : 1,
+            "name" : " Usman Pada ( Second)",
+            "localname" : " Usman Pada ( Second)",
+            "label" : "Locality",
+            "code" : "ALI252",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 288,
+            "boundaryNum" : 1,
+            "name" : "Turkman Gate Partial",
+            "localname" : "Turkman Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI253",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 289,
+            "boundaryNum" : 1,
+            "name" : "Turkman Door Partial",
+            "localname" : "Turkman Door Partial",
+            "label" : "Locality",
+            "code" : "ALI254",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 290,
+          "boundaryNum" : 1,
+          "name" : "8",
+          "localname" : "8",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 291,
+            "boundaryNum" : 1,
+            "name" : "Sarai Lawariya",
+            "localname" : "Sarai Lawariya",
+            "label" : "Locality",
+            "code" : "ALI255",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 292,
+            "boundaryNum" : 1,
+            "name" : "Delhi Gate Partial",
+            "localname" : "Delhi Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI256",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 293,
+            "boundaryNum" : 1,
+            "name" : "Sarai Radha",
+            "localname" : "Sarai Radha",
+            "label" : "Locality",
+            "code" : "ALI257",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 294,
+            "boundaryNum" : 1,
+            "name" : "Goolar Road Partial Mitra Nagar Partial",
+            "localname" : "Goolar Road Partial Mitra Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI258",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 295,
+            "boundaryNum" : 1,
+            "name" : "Sarai Lawariya",
+            "localname" : "Sarai Lawariya",
+            "label" : "Locality",
+            "code" : "ALI259",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 296,
+            "boundaryNum" : 1,
+            "name" : "Uday Singh Jain Road",
+            "localname" : "Uday Singh Jain Road",
+            "label" : "Locality",
+            "code" : "ALI260",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 297,
+            "boundaryNum" : 1,
+            "name" : "Road Delhi Door Partial",
+            "localname" : "Road Delhi Door Partial",
+            "label" : "Locality",
+            "code" : "ALI261",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 298,
+            "boundaryNum" : 1,
+            "name" : "Market Sarai Hakeem Partial",
+            "localname" : "Market Sarai Hakeem Partial",
+            "label" : "Locality",
+            "code" : "ALI262",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 299,
+            "boundaryNum" : 1,
+            "name" : "Ram Ganj",
+            "localname" : "Ram Ganj",
+            "label" : "Locality",
+            "code" : "ALI263",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 300,
+            "boundaryNum" : 1,
+            "name" : "Ansariyan",
+            "localname" : "Ansariyan",
+            "label" : "Locality",
+            "code" : "ALI264",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 301,
+            "boundaryNum" : 1,
+            "name" : "Barahdwari Partial",
+            "localname" : "Barahdwari Partial",
+            "label" : "Locality",
+            "code" : "ALI265",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 302,
+            "boundaryNum" : 1,
+            "name" : "Sarai Hakeem Partial",
+            "localname" : "Sarai Hakeem Partial",
+            "label" : "Locality",
+            "code" : "ALI266",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 303,
+            "boundaryNum" : 1,
+            "name" : "Gulariyai",
+            "localname" : "Gulariyai",
+            "label" : "Locality",
+            "code" : "ALI267",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 304,
+          "boundaryNum" : 1,
+          "name" : "9",
+          "localname" : "9",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 305,
+            "boundaryNum" : 1,
+            "name" : "Nagla Pala",
+            "localname" : "Nagla Pala",
+            "label" : "Locality",
+            "code" : "ALI268",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 306,
+            "boundaryNum" : 1,
+            "name" : "Bhagwan Nagar Partial",
+            "localname" : "Bhagwan Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI269",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 307,
+            "boundaryNum" : 1,
+            "name" : "Pala Sahibabad Partial",
+            "localname" : "Pala Sahibabad Partial",
+            "label" : "Locality",
+            "code" : "ALI270",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 308,
+            "boundaryNum" : 1,
+            "name" : "Nai Abadi Pala Road Partial",
+            "localname" : "Nai Abadi Pala Road Partial",
+            "label" : "Locality",
+            "code" : "ALI271",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 309,
+          "boundaryNum" : 1,
+          "name" : "60",
+          "localname" : "60",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 310,
+            "boundaryNum" : 1,
+            "name" : "Manik Chok",
+            "localname" : "Manik Chok",
+            "label" : "Locality",
+            "code" : "ALI272",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 311,
+            "boundaryNum" : 1,
+            "name" : "Mamubhanja Partial",
+            "localname" : "Mamubhanja Partial",
+            "label" : "Locality",
+            "code" : "ALI273",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 312,
+            "boundaryNum" : 1,
+            "name" : "Sarai Berambeg",
+            "localname" : "Sarai Berambeg",
+            "label" : "Locality",
+            "code" : "ALI274",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 313,
+            "boundaryNum" : 1,
+            "name" : "Manik Chock",
+            "localname" : "Manik Chock",
+            "label" : "Locality",
+            "code" : "ALI275",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 314,
+            "boundaryNum" : 1,
+            "name" : "Chahgarmaya",
+            "localname" : "Chahgarmaya",
+            "label" : "Locality",
+            "code" : "ALI276",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 315,
+            "boundaryNum" : 1,
+            "name" : "Gali Kaliya",
+            "localname" : "Gali Kaliya",
+            "label" : "Locality",
+            "code" : "ALI277",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 316,
+            "boundaryNum" : 1,
+            "name" : "Sarai Barahsaini",
+            "localname" : "Sarai Barahsaini",
+            "label" : "Locality",
+            "code" : "ALI278",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 317,
+            "boundaryNum" : 1,
+            "name" : "Madar Gate",
+            "localname" : "Madar Gate",
+            "label" : "Locality",
+            "code" : "ALI279",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 318,
+            "boundaryNum" : 1,
+            "name" : "Sarai Ratan Lal",
+            "localname" : "Sarai Ratan Lal",
+            "label" : "Locality",
+            "code" : "ALI280",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 319,
+            "boundaryNum" : 1,
+            "name" : "Bada Bajar Partial",
+            "localname" : "Bada Bajar Partial",
+            "label" : "Locality",
+            "code" : "ALI281",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 320,
+            "boundaryNum" : 1,
+            "name" : "Subhash Road Partial",
+            "localname" : "Subhash Road Partial",
+            "label" : "Locality",
+            "code" : "ALI282",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 321,
+          "boundaryNum" : 1,
+          "name" : "61",
+          "localname" : "61",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 322,
+            "boundaryNum" : 1,
+            "name" : "Hamdard Nagar",
+            "localname" : "Hamdard Nagar",
+            "label" : "Locality",
+            "code" : "ALI283",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 323,
+            "boundaryNum" : 1,
+            "name" : "Hamdard Nagar Partial",
+            "localname" : "Hamdard Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI284",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 324,
+            "boundaryNum" : 1,
+            "name" : "Near To Madar Teresa Abadi",
+            "localname" : "Near To Madar Teresa Abadi",
+            "label" : "Locality",
+            "code" : "ALI285",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 325,
+          "boundaryNum" : 1,
+          "name" : "62",
+          "localname" : "62",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 326,
+            "boundaryNum" : 1,
+            "name" : "Kabeer Colony",
+            "localname" : "Kabeer Colony",
+            "label" : "Locality",
+            "code" : "ALI286",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 327,
+            "boundaryNum" : 1,
+            "name" : "Molana Ajad Nagar ( Under Of Nagar Nigam)",
+            "localname" : "Molana Ajad Nagar ( Under Of Nagar Nigam)",
+            "label" : "Locality",
+            "code" : "ALI287",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 328,
+            "boundaryNum" : 1,
+            "name" : "Shahanshahbad Partial",
+            "localname" : "Shahanshahbad Partial",
+            "label" : "Locality",
+            "code" : "ALI288",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 329,
+            "boundaryNum" : 1,
+            "name" : "Anoop Shahar Road Partial",
+            "localname" : "Anoop Shahar Road Partial",
+            "label" : "Locality",
+            "code" : "ALI289",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 330,
+            "boundaryNum" : 1,
+            "name" : "Redio Colony",
+            "localname" : "Redio Colony",
+            "label" : "Locality",
+            "code" : "ALI290",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 331,
+            "boundaryNum" : 1,
+            "name" : "Kabeer Colony",
+            "localname" : "Kabeer Colony",
+            "label" : "Locality",
+            "code" : "ALI291",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 332,
+            "boundaryNum" : 1,
+            "name" : "Kishori Bhavan",
+            "localname" : "Kishori Bhavan",
+            "label" : "Locality",
+            "code" : "ALI292",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 333,
+            "boundaryNum" : 1,
+            "name" : "Purani Chungi Partial",
+            "localname" : "Purani Chungi Partial",
+            "label" : "Locality",
+            "code" : "ALI293",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 334,
+            "boundaryNum" : 1,
+            "name" : "Shamshad Market Partial",
+            "localname" : "Shamshad Market Partial",
+            "label" : "Locality",
+            "code" : "ALI294",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 335,
+            "boundaryNum" : 1,
+            "name" : "Kila Road Partial",
+            "localname" : "Kila Road Partial",
+            "label" : "Locality",
+            "code" : "ALI295",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 336,
+          "boundaryNum" : 1,
+          "name" : "63",
+          "localname" : "63",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 337,
+            "boundaryNum" : 1,
+            "name" : "Sarsaiyed Nagar",
+            "localname" : "Sarsaiyed Nagar",
+            "label" : "Locality",
+            "code" : "ALI296",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 338,
+            "boundaryNum" : 1,
+            "name" : "Nagla Mallah Partial",
+            "localname" : "Nagla Mallah Partial",
+            "label" : "Locality",
+            "code" : "ALI297",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 339,
+            "boundaryNum" : 1,
+            "name" : "Dodhpur Partial",
+            "localname" : "Dodhpur Partial",
+            "label" : "Locality",
+            "code" : "ALI298",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 340,
+            "boundaryNum" : 1,
+            "name" : "Shaukat Manjil",
+            "localname" : "Shaukat Manjil",
+            "label" : "Locality",
+            "code" : "ALI299",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 341,
+          "boundaryNum" : 1,
+          "name" : "64",
+          "localname" : "64",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 342,
+            "boundaryNum" : 1,
+            "name" : "Sudhama Puri",
+            "localname" : "Sudhama Puri",
+            "label" : "Locality",
+            "code" : "ALI300",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 343,
+            "boundaryNum" : 1,
+            "name" : "Sudhamapuri",
+            "localname" : "Sudhamapuri",
+            "label" : "Locality",
+            "code" : "ALI301",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 344,
+            "boundaryNum" : 1,
+            "name" : "Vishnupuri Partial",
+            "localname" : "Vishnupuri Partial",
+            "label" : "Locality",
+            "code" : "ALI302",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 345,
+            "boundaryNum" : 1,
+            "name" : "Gandhi Netra Chikitsalaya",
+            "localname" : "Gandhi Netra Chikitsalaya",
+            "label" : "Locality",
+            "code" : "ALI303",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 346,
+            "boundaryNum" : 1,
+            "name" : "Prag Sarovar",
+            "localname" : "Prag Sarovar",
+            "label" : "Locality",
+            "code" : "ALI304",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 347,
+            "boundaryNum" : 1,
+            "name" : "Chandaniya Partial",
+            "localname" : "Chandaniya Partial",
+            "label" : "Locality",
+            "code" : "ALI305",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 348,
+            "boundaryNum" : 1,
+            "name" : "Mohan Nagar",
+            "localname" : "Mohan Nagar",
+            "label" : "Locality",
+            "code" : "ALI306",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 349,
+            "boundaryNum" : 1,
+            "name" : "Niranjan Puri Partial",
+            "localname" : "Niranjan Puri Partial",
+            "label" : "Locality",
+            "code" : "ALI307",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 350,
+            "boundaryNum" : 1,
+            "name" : "Mansarovar",
+            "localname" : "Mansarovar",
+            "label" : "Locality",
+            "code" : "ALI308",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 351,
+            "boundaryNum" : 1,
+            "name" : "Gyansarovar Partial",
+            "localname" : "Gyansarovar Partial",
+            "label" : "Locality",
+            "code" : "ALI309",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 352,
+            "boundaryNum" : 1,
+            "name" : "Shanti Sarovar Partial",
+            "localname" : "Shanti Sarovar Partial",
+            "label" : "Locality",
+            "code" : "ALI310",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 353,
+            "boundaryNum" : 1,
+            "name" : "Aarya Nagar",
+            "localname" : "Aarya Nagar",
+            "label" : "Locality",
+            "code" : "ALI311",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 354,
+            "boundaryNum" : 1,
+            "name" : "Ada Colony Partial",
+            "localname" : "Ada Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI312",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 355,
+            "boundaryNum" : 1,
+            "name" : "Kishanpur Partial",
+            "localname" : "Kishanpur Partial",
+            "label" : "Locality",
+            "code" : "ALI313",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 356,
+          "boundaryNum" : 1,
+          "name" : "20",
+          "localname" : "20",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 357,
+            "boundaryNum" : 1,
+            "name" : "Fire Brigade",
+            "localname" : "Fire Brigade",
+            "label" : "Locality",
+            "code" : "ALI314",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 358,
+            "boundaryNum" : 1,
+            "name" : "Fire Brigade",
+            "localname" : "Fire Brigade",
+            "label" : "Locality",
+            "code" : "ALI315",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 359,
+            "boundaryNum" : 1,
+            "name" : "Banna Devi Partial",
+            "localname" : "Banna Devi Partial",
+            "label" : "Locality",
+            "code" : "ALI316",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 360,
+            "boundaryNum" : 1,
+            "name" : "Goolar Road Partial",
+            "localname" : "Goolar Road Partial",
+            "label" : "Locality",
+            "code" : "ALI317",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 361,
+            "boundaryNum" : 1,
+            "name" : "Pratibha Colony Partial",
+            "localname" : "Pratibha Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI318",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 362,
+            "boundaryNum" : 1,
+            "name" : "Rajendra Nagar",
+            "localname" : "Rajendra Nagar",
+            "label" : "Locality",
+            "code" : "ALI319",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 363,
+            "boundaryNum" : 1,
+            "name" : "Nagla Masani Partial",
+            "localname" : "Nagla Masani Partial",
+            "label" : "Locality",
+            "code" : "ALI320",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 364,
+            "boundaryNum" : 1,
+            "name" : "Nagla Mehtab Partial",
+            "localname" : "Nagla Mehtab Partial",
+            "label" : "Locality",
+            "code" : "ALI321",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 365,
+          "boundaryNum" : 1,
+          "name" : "65",
+          "localname" : "65",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 366,
+            "boundaryNum" : 1,
+            "name" : "Bhuj Pura",
+            "localname" : "Bhuj Pura",
+            "label" : "Locality",
+            "code" : "ALI322",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 367,
+            "boundaryNum" : 1,
+            "name" : "Bhujpura Partial",
+            "localname" : "Bhujpura Partial",
+            "label" : "Locality",
+            "code" : "ALI323",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 368,
+            "boundaryNum" : 1,
+            "name" : "Kalvari Abadi",
+            "localname" : "Kalvari Abadi",
+            "label" : "Locality",
+            "code" : "ALI324",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 369,
+          "boundaryNum" : 1,
+          "name" : "21",
+          "localname" : "21",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 370,
+            "boundaryNum" : 1,
+            "name" : "Gambhir Pura",
+            "localname" : "Gambhir Pura",
+            "label" : "Locality",
+            "code" : "ALI325",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 371,
+            "boundaryNum" : 1,
+            "name" : "Gambhir Pura",
+            "localname" : "Gambhir Pura",
+            "label" : "Locality",
+            "code" : "ALI326",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 372,
+            "boundaryNum" : 1,
+            "name" : "Hanuman Puri",
+            "localname" : "Hanuman Puri",
+            "label" : "Locality",
+            "code" : "ALI327",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 373,
+            "boundaryNum" : 1,
+            "name" : "Mahendra Nagar Partial",
+            "localname" : "Mahendra Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI328",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 374,
+            "boundaryNum" : 1,
+            "name" : "Bhagwan Nagar Partial",
+            "localname" : "Bhagwan Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI329",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 375,
+          "boundaryNum" : 1,
+          "name" : "66",
+          "localname" : "66",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 376,
+            "boundaryNum" : 1,
+            "name" : "Badam Nagar",
+            "localname" : "Badam Nagar",
+            "label" : "Locality",
+            "code" : "ALI330",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 377,
+            "boundaryNum" : 1,
+            "name" : "Hamdard Nagar Partial",
+            "localname" : "Hamdard Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI331",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 378,
+          "boundaryNum" : 1,
+          "name" : "22",
+          "localname" : "22",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 379,
+            "boundaryNum" : 1,
+            "name" : "Nagla Molvi",
+            "localname" : "Nagla Molvi",
+            "label" : "Locality",
+            "code" : "ALI332",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 380,
+            "boundaryNum" : 1,
+            "name" : "Nagla Kalar Partial",
+            "localname" : "Nagla Kalar Partial",
+            "label" : "Locality",
+            "code" : "ALI333",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 381,
+            "boundaryNum" : 1,
+            "name" : "Laxmipur Partial",
+            "localname" : "Laxmipur Partial",
+            "label" : "Locality",
+            "code" : "ALI334",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 382,
+            "boundaryNum" : 1,
+            "name" : "Bank Colony",
+            "localname" : "Bank Colony",
+            "label" : "Locality",
+            "code" : "ALI335",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 383,
+            "boundaryNum" : 1,
+            "name" : "Jwalaji Puram",
+            "localname" : "Jwalaji Puram",
+            "label" : "Locality",
+            "code" : "ALI336",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 384,
+            "boundaryNum" : 1,
+            "name" : "Prince Nagar",
+            "localname" : "Prince Nagar",
+            "label" : "Locality",
+            "code" : "ALI337",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 385,
+            "boundaryNum" : 1,
+            "name" : "Nagla Molvi",
+            "localname" : "Nagla Molvi",
+            "label" : "Locality",
+            "code" : "ALI338",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 386,
+            "boundaryNum" : 1,
+            "name" : "Nagla Kunjal Pur",
+            "localname" : "Nagla Kunjal Pur",
+            "label" : "Locality",
+            "code" : "ALI339",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 387,
+            "boundaryNum" : 1,
+            "name" : "Nagla Masani Partial",
+            "localname" : "Nagla Masani Partial",
+            "label" : "Locality",
+            "code" : "ALI340",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 388,
+          "boundaryNum" : 1,
+          "name" : "67",
+          "localname" : "67",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 389,
+            "boundaryNum" : 1,
+            "name" : "Shahjamal Chhetra",
+            "localname" : "Shahjamal Chhetra",
+            "label" : "Locality",
+            "code" : "ALI341",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 390,
+            "boundaryNum" : 1,
+            "name" : "Shahjamal Partial",
+            "localname" : "Shahjamal Partial",
+            "label" : "Locality",
+            "code" : "ALI342",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 391,
+            "boundaryNum" : 1,
+            "name" : "Delhi Gate Khair Road Partial",
+            "localname" : "Delhi Gate Khair Road Partial",
+            "label" : "Locality",
+            "code" : "ALI343",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 392,
+            "boundaryNum" : 1,
+            "name" : "Delhi Gate Partial",
+            "localname" : "Delhi Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI344",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 393,
+            "boundaryNum" : 1,
+            "name" : "Nagla Masani Partial",
+            "localname" : "Nagla Masani Partial",
+            "label" : "Locality",
+            "code" : "ALI345",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 394,
+            "boundaryNum" : 1,
+            "name" : "Roravar Partial Under Nagar Nigam Area",
+            "localname" : "Roravar Partial Under Nagar Nigam Area",
+            "label" : "Locality",
+            "code" : "ALI346",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 395,
+          "boundaryNum" : 1,
+          "name" : "23",
+          "localname" : "23",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 396,
+            "boundaryNum" : 1,
+            "name" : "Nai Basti",
+            "localname" : "Nai Basti",
+            "label" : "Locality",
+            "code" : "ALI347",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 397,
+            "boundaryNum" : 1,
+            "name" : "Kishor Puri",
+            "localname" : "Kishor Puri",
+            "label" : "Locality",
+            "code" : "ALI348",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 398,
+            "boundaryNum" : 1,
+            "name" : "Malook Chand Compound",
+            "localname" : "Malook Chand Compound",
+            "label" : "Locality",
+            "code" : "ALI349",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 399,
+            "boundaryNum" : 1,
+            "name" : "Nai Basti",
+            "localname" : "Nai Basti",
+            "label" : "Locality",
+            "code" : "ALI350",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 400,
+            "boundaryNum" : 1,
+            "name" : "Kothi Lankram",
+            "localname" : "Kothi Lankram",
+            "label" : "Locality",
+            "code" : "ALI351",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 401,
+            "boundaryNum" : 1,
+            "name" : "Rifueji Quarter",
+            "localname" : "Rifueji Quarter",
+            "label" : "Locality",
+            "code" : "ALI352",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 402,
+            "boundaryNum" : 1,
+            "name" : "Avas Vikas Colony",
+            "localname" : "Avas Vikas Colony",
+            "label" : "Locality",
+            "code" : "ALI353",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 403,
+            "boundaryNum" : 1,
+            "name" : "Kathpula",
+            "localname" : "Kathpula",
+            "label" : "Locality",
+            "code" : "ALI354",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 404,
+            "boundaryNum" : 1,
+            "name" : "Jel Road",
+            "localname" : "Jel Road",
+            "label" : "Locality",
+            "code" : "ALI355",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 405,
+            "boundaryNum" : 1,
+            "name" : "Kishor Nagar",
+            "localname" : "Kishor Nagar",
+            "label" : "Locality",
+            "code" : "ALI356",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 406,
+            "boundaryNum" : 1,
+            "name" : "Industrial State Partial",
+            "localname" : "Industrial State Partial",
+            "label" : "Locality",
+            "code" : "ALI357",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 407,
+          "boundaryNum" : 1,
+          "name" : "68",
+          "localname" : "68",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 408,
+            "boundaryNum" : 1,
+            "name" : "Jeevan Garh",
+            "localname" : "Jeevan Garh",
+            "label" : "Locality",
+            "code" : "ALI358",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 409,
+            "boundaryNum" : 1,
+            "name" : "Jeevangarh Partial",
+            "localname" : "Jeevangarh Partial",
+            "label" : "Locality",
+            "code" : "ALI359",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 410,
+            "boundaryNum" : 1,
+            "name" : "Zakir Nagar Partial",
+            "localname" : "Zakir Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI360",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 411,
+          "boundaryNum" : 1,
+          "name" : "24",
+          "localname" : "24",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 412,
+            "boundaryNum" : 1,
+            "name" : "Kishanpur",
+            "localname" : "Kishanpur",
+            "label" : "Locality",
+            "code" : "ALI361",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 413,
+            "boundaryNum" : 1,
+            "name" : "Ganga Javahar Colony",
+            "localname" : "Ganga Javahar Colony",
+            "label" : "Locality",
+            "code" : "ALI362",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 414,
+            "boundaryNum" : 1,
+            "name" : "Kishan Pur Partial",
+            "localname" : "Kishan Pur Partial",
+            "label" : "Locality",
+            "code" : "ALI363",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 415,
+            "boundaryNum" : 1,
+            "name" : "Ada Colony Partial",
+            "localname" : "Ada Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI364",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 416,
+            "boundaryNum" : 1,
+            "name" : "Sarswati Vihar",
+            "localname" : "Sarswati Vihar",
+            "label" : "Locality",
+            "code" : "ALI365",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 417,
+            "boundaryNum" : 1,
+            "name" : "Gyan Sarovar Partial",
+            "localname" : "Gyan Sarovar Partial",
+            "label" : "Locality",
+            "code" : "ALI366",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 418,
+            "boundaryNum" : 1,
+            "name" : "Niranjan Puri Partial",
+            "localname" : "Niranjan Puri Partial",
+            "label" : "Locality",
+            "code" : "ALI367",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 419,
+            "boundaryNum" : 1,
+            "name" : "Swarn Jayanti Nagar Partial",
+            "localname" : "Swarn Jayanti Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI368",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 420,
+          "boundaryNum" : 1,
+          "name" : "69",
+          "localname" : "69",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 421,
+            "boundaryNum" : 1,
+            "name" : "Baniya Pada",
+            "localname" : "Baniya Pada",
+            "label" : "Locality",
+            "code" : "ALI369",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 422,
+            "boundaryNum" : 1,
+            "name" : "Chahvasanta",
+            "localname" : "Chahvasanta",
+            "label" : "Locality",
+            "code" : "ALI370",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 423,
+            "boundaryNum" : 1,
+            "name" : "Balaye Kila",
+            "localname" : "Balaye Kila",
+            "label" : "Locality",
+            "code" : "ALI371",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 424,
+            "boundaryNum" : 1,
+            "name" : "Usman Pada (1st)",
+            "localname" : "Usman Pada (1st)",
+            "label" : "Locality",
+            "code" : "ALI372",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 425,
+            "boundaryNum" : 1,
+            "name" : "Chirag Chiyan",
+            "localname" : "Chirag Chiyan",
+            "label" : "Locality",
+            "code" : "ALI373",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 426,
+            "boundaryNum" : 1,
+            "name" : "Teela",
+            "localname" : "Teela",
+            "label" : "Locality",
+            "code" : "ALI374",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 427,
+            "boundaryNum" : 1,
+            "name" : "Chandan Shahid Partial",
+            "localname" : "Chandan Shahid Partial",
+            "label" : "Locality",
+            "code" : "ALI375",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 428,
+            "boundaryNum" : 1,
+            "name" : "Shekhan Partial",
+            "localname" : "Shekhan Partial",
+            "label" : "Locality",
+            "code" : "ALI376",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 429,
+            "boundaryNum" : 1,
+            "name" : "Purani Kachahari",
+            "localname" : "Purani Kachahari",
+            "label" : "Locality",
+            "code" : "ALI377",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 430,
+            "boundaryNum" : 1,
+            "name" : "Ghosiyan",
+            "localname" : "Ghosiyan",
+            "label" : "Locality",
+            "code" : "ALI378",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 431,
+            "boundaryNum" : 1,
+            "name" : "Khai Dora Partial",
+            "localname" : "Khai Dora Partial",
+            "label" : "Locality",
+            "code" : "ALI379",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 432,
+            "boundaryNum" : 1,
+            "name" : "Bani Israylan Partial",
+            "localname" : "Bani Israylan Partial",
+            "label" : "Locality",
+            "code" : "ALI380",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 433,
+            "boundaryNum" : 1,
+            "name" : "Tahsil Road Partial",
+            "localname" : "Tahsil Road Partial",
+            "label" : "Locality",
+            "code" : "ALI381",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 434,
+            "boundaryNum" : 1,
+            "name" : "Tantan Pada Partial",
+            "localname" : "Tantan Pada Partial",
+            "label" : "Locality",
+            "code" : "ALI382",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 435,
+          "boundaryNum" : 1,
+          "name" : "25",
+          "localname" : "25",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 436,
+            "boundaryNum" : 1,
+            "name" : "Delhi Gate",
+            "localname" : "Delhi Gate",
+            "label" : "Locality",
+            "code" : "ALI383",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 437,
+            "boundaryNum" : 1,
+            "name" : "Delhi Gate Partial",
+            "localname" : "Delhi Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI384",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 438,
+            "boundaryNum" : 1,
+            "name" : "Kailash Gali Partial",
+            "localname" : "Kailash Gali Partial",
+            "label" : "Locality",
+            "code" : "ALI385",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 439,
+            "boundaryNum" : 1,
+            "name" : "Sarai Miyan Partial",
+            "localname" : "Sarai Miyan Partial",
+            "label" : "Locality",
+            "code" : "ALI386",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 440,
+          "boundaryNum" : 1,
+          "name" : "26",
+          "localname" : "26",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 441,
+            "boundaryNum" : 1,
+            "name" : "Kanvari Ganj",
+            "localname" : "Kanvari Ganj",
+            "label" : "Locality",
+            "code" : "ALI387",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 442,
+            "boundaryNum" : 1,
+            "name" : "Kanvari Ganj Partial",
+            "localname" : "Kanvari Ganj Partial",
+            "label" : "Locality",
+            "code" : "ALI388",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 443,
+            "boundaryNum" : 1,
+            "name" : "Mahaveer Ganj",
+            "localname" : "Mahaveer Ganj",
+            "label" : "Locality",
+            "code" : "ALI389",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 444,
+            "boundaryNum" : 1,
+            "name" : "Barahdwari Partial",
+            "localname" : "Barahdwari Partial",
+            "label" : "Locality",
+            "code" : "ALI390",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 445,
+            "boundaryNum" : 1,
+            "name" : "Kilat Ganj",
+            "localname" : "Kilat Ganj",
+            "label" : "Locality",
+            "code" : "ALI391",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 446,
+            "boundaryNum" : 1,
+            "name" : "Aligarh Gate",
+            "localname" : "Aligarh Gate",
+            "label" : "Locality",
+            "code" : "ALI392",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 447,
+            "boundaryNum" : 1,
+            "name" : "Ahata Nidhan Singh",
+            "localname" : "Ahata Nidhan Singh",
+            "label" : "Locality",
+            "code" : "ALI393",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 448,
+            "boundaryNum" : 1,
+            "name" : "Talab Sabit Khan",
+            "localname" : "Talab Sabit Khan",
+            "label" : "Locality",
+            "code" : "ALI394",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 449,
+            "boundaryNum" : 1,
+            "name" : "Gali Nakkalan",
+            "localname" : "Gali Nakkalan",
+            "label" : "Locality",
+            "code" : "ALI395",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 450,
+            "boundaryNum" : 1,
+            "name" : "Palki Khana",
+            "localname" : "Palki Khana",
+            "label" : "Locality",
+            "code" : "ALI396",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 451,
+            "boundaryNum" : 1,
+            "name" : "Modi Khana",
+            "localname" : "Modi Khana",
+            "label" : "Locality",
+            "code" : "ALI397",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 452,
+            "boundaryNum" : 1,
+            "name" : "Gali Dhusran",
+            "localname" : "Gali Dhusran",
+            "label" : "Locality",
+            "code" : "ALI398",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 453,
+            "boundaryNum" : 1,
+            "name" : "Chhipeti",
+            "localname" : "Chhipeti",
+            "label" : "Locality",
+            "code" : "ALI399",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 454,
+            "boundaryNum" : 1,
+            "name" : "Katra",
+            "localname" : "Katra",
+            "label" : "Locality",
+            "code" : "ALI400",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 455,
+            "boundaryNum" : 1,
+            "name" : "Gali Palamal",
+            "localname" : "Gali Palamal",
+            "label" : "Locality",
+            "code" : "ALI401",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 456,
+            "boundaryNum" : 1,
+            "name" : "Ghudiya Bagh",
+            "localname" : "Ghudiya Bagh",
+            "label" : "Locality",
+            "code" : "ALI402",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 457,
+            "boundaryNum" : 1,
+            "name" : "Delhi Gate Partial",
+            "localname" : "Delhi Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI403",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 458,
+            "boundaryNum" : 1,
+            "name" : "Mamubhanja Partial",
+            "localname" : "Mamubhanja Partial",
+            "label" : "Locality",
+            "code" : "ALI404",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 459,
+            "boundaryNum" : 1,
+            "name" : "Yusuf Ganj",
+            "localname" : "Yusuf Ganj",
+            "label" : "Locality",
+            "code" : "ALI405",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 460,
+            "boundaryNum" : 1,
+            "name" : "Pidru Ganj",
+            "localname" : "Pidru Ganj",
+            "label" : "Locality",
+            "code" : "ALI406",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 461,
+            "boundaryNum" : 1,
+            "name" : "Market Sarai Hakeem Partial",
+            "localname" : "Market Sarai Hakeem Partial",
+            "label" : "Locality",
+            "code" : "ALI407",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 462,
+            "boundaryNum" : 1,
+            "name" : "Fafala",
+            "localname" : "Fafala",
+            "label" : "Locality",
+            "code" : "ALI408",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 463,
+            "boundaryNum" : 1,
+            "name" : "Patthar Bajar",
+            "localname" : "Patthar Bajar",
+            "label" : "Locality",
+            "code" : "ALI409",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 464,
+            "boundaryNum" : 1,
+            "name" : "Kaliyan Ganj",
+            "localname" : "Kaliyan Ganj",
+            "label" : "Locality",
+            "code" : "ALI410",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 465,
+            "boundaryNum" : 1,
+            "name" : "Gali Gullu Ji",
+            "localname" : "Gali Gullu Ji",
+            "label" : "Locality",
+            "code" : "ALI411",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 466,
+            "boundaryNum" : 1,
+            "name" : "Subhash Road Partial",
+            "localname" : "Subhash Road Partial",
+            "label" : "Locality",
+            "code" : "ALI412",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 467,
+          "boundaryNum" : 1,
+          "name" : "27",
+          "localname" : "27",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 468,
+            "boundaryNum" : 1,
+            "name" : "Chandaniya",
+            "localname" : "Chandaniya",
+            "label" : "Locality",
+            "code" : "ALI413",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 469,
+            "boundaryNum" : 1,
+            "name" : "Begum Bagh Partial",
+            "localname" : "Begum Bagh Partial",
+            "label" : "Locality",
+            "code" : "ALI414",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 470,
+            "boundaryNum" : 1,
+            "name" : "Durgesh Colony Partial",
+            "localname" : "Durgesh Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI415",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 471,
+            "boundaryNum" : 1,
+            "name" : "Surendra Nagar Partial",
+            "localname" : "Surendra Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI416",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 472,
+            "boundaryNum" : 1,
+            "name" : "Chandaniya Partial",
+            "localname" : "Chandaniya Partial",
+            "label" : "Locality",
+            "code" : "ALI417",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 473,
+            "boundaryNum" : 1,
+            "name" : "Nagla Javahar Partial",
+            "localname" : "Nagla Javahar Partial",
+            "label" : "Locality",
+            "code" : "ALI418",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 474,
+            "boundaryNum" : 1,
+            "name" : "Nagla Mandir Partial",
+            "localname" : "Nagla Mandir Partial",
+            "label" : "Locality",
+            "code" : "ALI419",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 475,
+            "boundaryNum" : 1,
+            "name" : "Nagla Tikona Partial",
+            "localname" : "Nagla Tikona Partial",
+            "label" : "Locality",
+            "code" : "ALI420",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 476,
+            "boundaryNum" : 1,
+            "name" : "Profeser Colony",
+            "localname" : "Profeser Colony",
+            "label" : "Locality",
+            "code" : "ALI421",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 477,
+            "boundaryNum" : 1,
+            "name" : "Surya Sarovar",
+            "localname" : "Surya Sarovar",
+            "label" : "Locality",
+            "code" : "ALI422",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 478,
+            "boundaryNum" : 1,
+            "name" : "Ramesh Vihar",
+            "localname" : "Ramesh Vihar",
+            "label" : "Locality",
+            "code" : "ALI423",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 479,
+          "boundaryNum" : 1,
+          "name" : "28",
+          "localname" : "28",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 480,
+            "boundaryNum" : 1,
+            "name" : "Kala Mahal",
+            "localname" : "Kala Mahal",
+            "label" : "Locality",
+            "code" : "ALI424",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 481,
+            "boundaryNum" : 1,
+            "name" : "Saiyed Pada",
+            "localname" : "Saiyed Pada",
+            "label" : "Locality",
+            "code" : "ALI425",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 482,
+            "boundaryNum" : 1,
+            "name" : "Ghas Ki Mandi",
+            "localname" : "Ghas Ki Mandi",
+            "label" : "Locality",
+            "code" : "ALI426",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 483,
+            "boundaryNum" : 1,
+            "name" : "Rangrejan",
+            "localname" : "Rangrejan",
+            "label" : "Locality",
+            "code" : "ALI427",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 484,
+            "boundaryNum" : 1,
+            "name" : "Kala Mahal",
+            "localname" : "Kala Mahal",
+            "label" : "Locality",
+            "code" : "ALI428",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 485,
+            "boundaryNum" : 1,
+            "name" : "Turkman Gate Partial",
+            "localname" : "Turkman Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI429",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 486,
+            "boundaryNum" : 1,
+            "name" : "Sanichari Painth Partial",
+            "localname" : "Sanichari Painth Partial",
+            "label" : "Locality",
+            "code" : "ALI430",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 487,
+            "boundaryNum" : 1,
+            "name" : "Sarai Kutub Partial",
+            "localname" : "Sarai Kutub Partial",
+            "label" : "Locality",
+            "code" : "ALI431",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 488,
+            "boundaryNum" : 1,
+            "name" : "Afganan Partial",
+            "localname" : "Afganan Partial",
+            "label" : "Locality",
+            "code" : "ALI432",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 489,
+            "boundaryNum" : 1,
+            "name" : "Babri Mandi Partial",
+            "localname" : "Babri Mandi Partial",
+            "label" : "Locality",
+            "code" : "ALI433",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 490,
+            "boundaryNum" : 1,
+            "name" : "Jaiganj",
+            "localname" : "Jaiganj",
+            "label" : "Locality",
+            "code" : "ALI434",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 491,
+            "boundaryNum" : 1,
+            "name" : "Sarai Pathan",
+            "localname" : "Sarai Pathan",
+            "label" : "Locality",
+            "code" : "ALI435",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 492,
+            "boundaryNum" : 1,
+            "name" : "Rang Mahal",
+            "localname" : "Rang Mahal",
+            "label" : "Locality",
+            "code" : "ALI436",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 493,
+            "boundaryNum" : 1,
+            "name" : "Sarai Bhola Nath Partial",
+            "localname" : "Sarai Bhola Nath Partial",
+            "label" : "Locality",
+            "code" : "ALI437",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 494,
+            "boundaryNum" : 1,
+            "name" : "Sarai Bhattpartial",
+            "localname" : "Sarai Bhattpartial",
+            "label" : "Locality",
+            "code" : "ALI438",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 495,
+            "boundaryNum" : 1,
+            "name" : "Ladiyapartial",
+            "localname" : "Ladiyapartial",
+            "label" : "Locality",
+            "code" : "ALI439",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 496,
+          "boundaryNum" : 1,
+          "name" : "29",
+          "localname" : "29",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 497,
+            "boundaryNum" : 1,
+            "name" : "Rasal Ganj",
+            "localname" : "Rasal Ganj",
+            "label" : "Locality",
+            "code" : "ALI440",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 498,
+            "boundaryNum" : 1,
+            "name" : "Rasal Ganjpartial",
+            "localname" : "Rasal Ganjpartial",
+            "label" : "Locality",
+            "code" : "ALI441",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 499,
+            "boundaryNum" : 1,
+            "name" : "Habibabad",
+            "localname" : "Habibabad",
+            "label" : "Locality",
+            "code" : "ALI442",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 500,
+            "boundaryNum" : 1,
+            "name" : "Takiya",
+            "localname" : "Takiya",
+            "label" : "Locality",
+            "code" : "ALI443",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 501,
+            "boundaryNum" : 1,
+            "name" : "Saifi Colony",
+            "localname" : "Saifi Colony",
+            "label" : "Locality",
+            "code" : "ALI444",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 502,
+            "boundaryNum" : 1,
+            "name" : "Market Sarai Hakeempartial",
+            "localname" : "Market Sarai Hakeempartial",
+            "label" : "Locality",
+            "code" : "ALI445",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 503,
+            "boundaryNum" : 1,
+            "name" : "Sarai Hakeem Partial",
+            "localname" : "Sarai Hakeem Partial",
+            "label" : "Locality",
+            "code" : "ALI446",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 504,
+            "boundaryNum" : 1,
+            "name" : "Laxmi Puri",
+            "localname" : "Laxmi Puri",
+            "label" : "Locality",
+            "code" : "ALI447",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 505,
+            "boundaryNum" : 1,
+            "name" : "Kuriyana",
+            "localname" : "Kuriyana",
+            "label" : "Locality",
+            "code" : "ALI448",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 506,
+            "boundaryNum" : 1,
+            "name" : "Sarai Babu",
+            "localname" : "Sarai Babu",
+            "label" : "Locality",
+            "code" : "ALI449",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 507,
+            "boundaryNum" : 1,
+            "name" : "Gulariyai",
+            "localname" : "Gulariyai",
+            "label" : "Locality",
+            "code" : "ALI450",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 508,
+            "boundaryNum" : 1,
+            "name" : "Mohan Lal Gautam Mahila Chikitsalaya",
+            "localname" : "Mohan Lal Gautam Mahila Chikitsalaya",
+            "label" : "Locality",
+            "code" : "ALI451",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 509,
+            "boundaryNum" : 1,
+            "name" : "Danpur Compound",
+            "localname" : "Danpur Compound",
+            "label" : "Locality",
+            "code" : "ALI452",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 510,
+          "boundaryNum" : 1,
+          "name" : "70",
+          "localname" : "70",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 511,
+            "boundaryNum" : 1,
+            "name" : "Ada Shanti Niketan",
+            "localname" : "Ada Shanti Niketan",
+            "label" : "Locality",
+            "code" : "ALI453",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 512,
+            "boundaryNum" : 1,
+            "name" : "Shahjamal Partial",
+            "localname" : "Shahjamal Partial",
+            "label" : "Locality",
+            "code" : "ALI454",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 513,
+            "boundaryNum" : 1,
+            "name" : "Roravar Partial Under Nagar Nigam Area",
+            "localname" : "Roravar Partial Under Nagar Nigam Area",
+            "label" : "Locality",
+            "code" : "ALI455",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 514,
+            "boundaryNum" : 1,
+            "name" : "Delhi Gate Partial",
+            "localname" : "Delhi Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI456",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 515,
+            "boundaryNum" : 1,
+            "name" : "Ada Shanti Niketan Colony Partial",
+            "localname" : "Ada Shanti Niketan Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI457",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 516,
+          "boundaryNum" : 1,
+          "name" : "73",
+          "localname" : "73",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 517,
+            "boundaryNum" : 1,
+            "name" : "Palla Shahibabad Partial",
+            "localname" : "Palla Shahibabad Partial",
+            "label" : "Locality",
+            "code" : "ALI458",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 518,
+            "boundaryNum" : 1,
+            "name" : "Karwakol Dehat (Southern)",
+            "localname" : "Karwakol Dehat (Southern)",
+            "label" : "Locality",
+            "code" : "ALI459",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 519,
+            "boundaryNum" : 1,
+            "name" : "Daulatabad(Mohalla & Colony)",
+            "localname" : "Daulatabad(Mohalla & Colony)",
+            "label" : "Locality",
+            "code" : "ALI460",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 520,
+          "boundaryNum" : 1,
+          "name" : "74",
+          "localname" : "74",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 521,
+            "boundaryNum" : 1,
+            "name" : "Rorawar Westren Mohalla & Colony Partial",
+            "localname" : "Rorawar Westren Mohalla & Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI461",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 522,
+          "boundaryNum" : 1,
+          "name" : "30",
+          "localname" : "30",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 523,
+            "boundaryNum" : 1,
+            "name" : "Makdum Nagar",
+            "localname" : "Makdum Nagar",
+            "label" : "Locality",
+            "code" : "ALI462",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 524,
+            "boundaryNum" : 1,
+            "name" : "Nai Abadi Nagla Partial Ali Partial",
+            "localname" : "Nai Abadi Nagla Partial Ali Partial",
+            "label" : "Locality",
+            "code" : "ALI463",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 525,
+            "boundaryNum" : 1,
+            "name" : "Slatar House",
+            "localname" : "Slatar House",
+            "label" : "Locality",
+            "code" : "ALI464",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 526,
+            "boundaryNum" : 1,
+            "name" : "Turkman Gate Partial",
+            "localname" : "Turkman Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI465",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 527,
+            "boundaryNum" : 1,
+            "name" : "Bhuj Pura Sarai Kutub Partial",
+            "localname" : "Bhuj Pura Sarai Kutub Partial",
+            "label" : "Locality",
+            "code" : "ALI466",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 528,
+            "boundaryNum" : 1,
+            "name" : "Makdum Nagar",
+            "localname" : "Makdum Nagar",
+            "label" : "Locality",
+            "code" : "ALI467",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 529,
+            "boundaryNum" : 1,
+            "name" : "Gola Abadi",
+            "localname" : "Gola Abadi",
+            "label" : "Locality",
+            "code" : "ALI468",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 530,
+          "boundaryNum" : 1,
+          "name" : "75",
+          "localname" : "75",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 531,
+            "boundaryNum" : 1,
+            "name" : "Asrafpur Jalal Southern Partial",
+            "localname" : "Asrafpur Jalal Southern Partial",
+            "label" : "Locality",
+            "code" : "ALI469",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 532,
+            "boundaryNum" : 1,
+            "name" : "Rorawar(Northern) Mohalla & Colony",
+            "localname" : "Rorawar(Northern) Mohalla & Colony",
+            "label" : "Locality",
+            "code" : "ALI470",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 533,
+          "boundaryNum" : 1,
+          "name" : "31",
+          "localname" : "31",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 534,
+            "boundaryNum" : 1,
+            "name" : "Aavas Vikas Colony Iglas Road",
+            "localname" : "Aavas Vikas Colony Iglas Road",
+            "label" : "Locality",
+            "code" : "ALI471",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 535,
+            "boundaryNum" : 1,
+            "name" : "Sasni Gate Partial",
+            "localname" : "Sasni Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI472",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 536,
+            "boundaryNum" : 1,
+            "name" : "Gopal Puri Partial",
+            "localname" : "Gopal Puri Partial",
+            "label" : "Locality",
+            "code" : "ALI473",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 537,
+            "boundaryNum" : 1,
+            "name" : "Vivek Vihar",
+            "localname" : "Vivek Vihar",
+            "label" : "Locality",
+            "code" : "ALI474",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 538,
+            "boundaryNum" : 1,
+            "name" : "Avas Vikas Colony Partial",
+            "localname" : "Avas Vikas Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI475",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 539,
+            "boundaryNum" : 1,
+            "name" : "Lodhi Puram",
+            "localname" : "Lodhi Puram",
+            "label" : "Locality",
+            "code" : "ALI476",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 540,
+            "boundaryNum" : 1,
+            "name" : "Saket Vihar",
+            "localname" : "Saket Vihar",
+            "label" : "Locality",
+            "code" : "ALI477",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 541,
+            "boundaryNum" : 1,
+            "name" : "Panch Nagri",
+            "localname" : "Panch Nagri",
+            "label" : "Locality",
+            "code" : "ALI478",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 542,
+          "boundaryNum" : 1,
+          "name" : "32",
+          "localname" : "32",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 543,
+            "boundaryNum" : 1,
+            "name" : "Mabood Nagar",
+            "localname" : "Mabood Nagar",
+            "label" : "Locality",
+            "code" : "ALI479",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 544,
+            "boundaryNum" : 1,
+            "name" : "Ada Colony Sarai Miyan Partial",
+            "localname" : "Ada Colony Sarai Miyan Partial",
+            "label" : "Locality",
+            "code" : "ALI480",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 545,
+            "boundaryNum" : 1,
+            "name" : "Turkman Gate Partial",
+            "localname" : "Turkman Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI481",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 546,
+            "boundaryNum" : 1,
+            "name" : "Siyal Abadi",
+            "localname" : "Siyal Abadi",
+            "label" : "Locality",
+            "code" : "ALI482",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 547,
+            "boundaryNum" : 1,
+            "name" : "Makkhi Abadi",
+            "localname" : "Makkhi Abadi",
+            "label" : "Locality",
+            "code" : "ALI483",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 548,
+            "boundaryNum" : 1,
+            "name" : "Mabood Nagar",
+            "localname" : "Mabood Nagar",
+            "label" : "Locality",
+            "code" : "ALI484",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 549,
+          "boundaryNum" : 1,
+          "name" : "33",
+          "localname" : "33",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 550,
+            "boundaryNum" : 1,
+            "name" : "Gandhi Nagar",
+            "localname" : "Gandhi Nagar",
+            "label" : "Locality",
+            "code" : "ALI485",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 551,
+            "boundaryNum" : 1,
+            "name" : "Dwarika Puri Partial",
+            "localname" : "Dwarika Puri Partial",
+            "label" : "Locality",
+            "code" : "ALI486",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 552,
+            "boundaryNum" : 1,
+            "name" : "Adda Hathras",
+            "localname" : "Adda Hathras",
+            "label" : "Locality",
+            "code" : "ALI487",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 553,
+            "boundaryNum" : 1,
+            "name" : "Achal Road Partial",
+            "localname" : "Achal Road Partial",
+            "label" : "Locality",
+            "code" : "ALI488",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 554,
+            "boundaryNum" : 1,
+            "name" : "Gihara Nagar",
+            "localname" : "Gihara Nagar",
+            "label" : "Locality",
+            "code" : "ALI489",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 555,
+            "boundaryNum" : 1,
+            "name" : "Mahendra Nagar Partial",
+            "localname" : "Mahendra Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI490",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 556,
+            "boundaryNum" : 1,
+            "name" : "Bapu Nagar",
+            "localname" : "Bapu Nagar",
+            "label" : "Locality",
+            "code" : "ALI491",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 557,
+            "boundaryNum" : 1,
+            "name" : "Premium Nagar",
+            "localname" : "Premium Nagar",
+            "label" : "Locality",
+            "code" : "ALI492",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 558,
+            "boundaryNum" : 1,
+            "name" : "Bank Colony",
+            "localname" : "Bank Colony",
+            "label" : "Locality",
+            "code" : "ALI493",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 559,
+            "boundaryNum" : 1,
+            "name" : "Ram Ratan Colony",
+            "localname" : "Ram Ratan Colony",
+            "label" : "Locality",
+            "code" : "ALI494",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 560,
+          "boundaryNum" : 1,
+          "name" : "78",
+          "localname" : "78",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 561,
+            "boundaryNum" : 1,
+            "name" : "Baroula Zafrabad Eastern Side Partial",
+            "localname" : "Baroula Zafrabad Eastern Side Partial",
+            "label" : "Locality",
+            "code" : "ALI495",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 562,
+            "boundaryNum" : 1,
+            "name" : "Ramgarh Panjupur Partial",
+            "localname" : "Ramgarh Panjupur Partial",
+            "label" : "Locality",
+            "code" : "ALI496",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 563,
+            "boundaryNum" : 1,
+            "name" : "Manjurigarh Partial",
+            "localname" : "Manjurigarh Partial",
+            "label" : "Locality",
+            "code" : "ALI497",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 564,
+            "boundaryNum" : 1,
+            "name" : "Maheshpur Partial Mohalla & Colony",
+            "localname" : "Maheshpur Partial Mohalla & Colony",
+            "label" : "Locality",
+            "code" : "ALI498",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 565,
+          "boundaryNum" : 1,
+          "name" : "34",
+          "localname" : "34",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 566,
+            "boundaryNum" : 1,
+            "name" : "Usman Pada Third",
+            "localname" : "Usman Pada Third",
+            "label" : "Locality",
+            "code" : "ALI499",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 567,
+            "boundaryNum" : 1,
+            "name" : "Sarai Miyan Partial",
+            "localname" : "Sarai Miyan Partial",
+            "label" : "Locality",
+            "code" : "ALI500",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 568,
+            "boundaryNum" : 1,
+            "name" : "Delhi Gate Partial",
+            "localname" : "Delhi Gate Partial",
+            "label" : "Locality",
+            "code" : "ALI501",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 569,
+            "boundaryNum" : 1,
+            "name" : "Kureshiyan",
+            "localname" : "Kureshiyan",
+            "label" : "Locality",
+            "code" : "ALI502",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 570,
+            "boundaryNum" : 1,
+            "name" : "Kailash Gali Khatikan Partial Partial",
+            "localname" : "Kailash Gali Khatikan Partial Partial",
+            "label" : "Locality",
+            "code" : "ALI503",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 571,
+          "boundaryNum" : 1,
+          "name" : "79",
+          "localname" : "79",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 572,
+            "boundaryNum" : 1,
+            "name" : "Dhuramafi Mohalla & Colony",
+            "localname" : "Dhuramafi Mohalla & Colony",
+            "label" : "Locality",
+            "code" : "ALI504",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 573,
+          "boundaryNum" : 1,
+          "name" : "35",
+          "localname" : "35",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 574,
+            "boundaryNum" : 1,
+            "name" : "Bhamola",
+            "localname" : "Bhamola",
+            "label" : "Locality",
+            "code" : "ALI505",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 575,
+            "boundaryNum" : 1,
+            "name" : "Alam Bagh",
+            "localname" : "Alam Bagh",
+            "label" : "Locality",
+            "code" : "ALI506",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 576,
+            "boundaryNum" : 1,
+            "name" : "University Quarter",
+            "localname" : "University Quarter",
+            "label" : "Locality",
+            "code" : "ALI507",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 577,
+          "boundaryNum" : 1,
+          "name" : "36",
+          "localname" : "36",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 578,
+            "boundaryNum" : 1,
+            "name" : "Bandar Bagh",
+            "localname" : "Bandar Bagh",
+            "label" : "Locality",
+            "code" : "ALI508",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 579,
+            "boundaryNum" : 1,
+            "name" : "Loko Colony",
+            "localname" : "Loko Colony",
+            "label" : "Locality",
+            "code" : "ALI509",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 580,
+            "boundaryNum" : 1,
+            "name" : "Kachahari Road Partial",
+            "localname" : "Kachahari Road Partial",
+            "label" : "Locality",
+            "code" : "ALI510",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 581,
+            "boundaryNum" : 1,
+            "name" : "Pulish Quarter",
+            "localname" : "Pulish Quarter",
+            "label" : "Locality",
+            "code" : "ALI511",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 582,
+            "boundaryNum" : 1,
+            "name" : "Pulish Line",
+            "localname" : "Pulish Line",
+            "label" : "Locality",
+            "code" : "ALI512",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 583,
+            "boundaryNum" : 1,
+            "name" : "Colectret",
+            "localname" : "Colectret",
+            "label" : "Locality",
+            "code" : "ALI513",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 584,
+            "boundaryNum" : 1,
+            "name" : "Jila Panchayat",
+            "localname" : "Jila Panchayat",
+            "label" : "Locality",
+            "code" : "ALI514",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 585,
+            "boundaryNum" : 1,
+            "name" : "Anauna House",
+            "localname" : "Anauna House",
+            "label" : "Locality",
+            "code" : "ALI515",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 586,
+            "boundaryNum" : 1,
+            "name" : "Railway Quarter",
+            "localname" : "Railway Quarter",
+            "label" : "Locality",
+            "code" : "ALI516",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 587,
+            "boundaryNum" : 1,
+            "name" : "Naurangi Lal Inter College",
+            "localname" : "Naurangi Lal Inter College",
+            "label" : "Locality",
+            "code" : "ALI517",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 588,
+          "boundaryNum" : 1,
+          "name" : "37",
+          "localname" : "37",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 589,
+            "boundaryNum" : 1,
+            "name" : "Nagla Partial Ali",
+            "localname" : "Nagla Partial Ali",
+            "label" : "Locality",
+            "code" : "ALI518",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 590,
+            "boundaryNum" : 1,
+            "name" : "Nai Abadi Nagla Partial Ali Partial",
+            "localname" : "Nai Abadi Nagla Partial Ali Partial",
+            "label" : "Locality",
+            "code" : "ALI519",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 591,
+          "boundaryNum" : 1,
+          "name" : "38",
+          "localname" : "38",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 592,
+            "boundaryNum" : 1,
+            "name" : "Kishanpur",
+            "localname" : "Kishanpur",
+            "label" : "Locality",
+            "code" : "ALI520",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 593,
+            "boundaryNum" : 1,
+            "name" : "Begpur",
+            "localname" : "Begpur",
+            "label" : "Locality",
+            "code" : "ALI521",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 594,
+            "boundaryNum" : 1,
+            "name" : "Ramghat Road Partial",
+            "localname" : "Ramghat Road Partial",
+            "label" : "Locality",
+            "code" : "ALI522",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 595,
+            "boundaryNum" : 1,
+            "name" : "Vikram Colony",
+            "localname" : "Vikram Colony",
+            "label" : "Locality",
+            "code" : "ALI523",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 596,
+            "boundaryNum" : 1,
+            "name" : "Vidhya Nagar",
+            "localname" : "Vidhya Nagar",
+            "label" : "Locality",
+            "code" : "ALI524",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 597,
+            "boundaryNum" : 1,
+            "name" : "Islamabad Bhatta",
+            "localname" : "Islamabad Bhatta",
+            "label" : "Locality",
+            "code" : "ALI525",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 598,
+            "boundaryNum" : 1,
+            "name" : "Merris Road Partial",
+            "localname" : "Merris Road Partial",
+            "label" : "Locality",
+            "code" : "ALI526",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 599,
+            "boundaryNum" : 1,
+            "name" : "Durgabadi",
+            "localname" : "Durgabadi",
+            "label" : "Locality",
+            "code" : "ALI527",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 600,
+            "boundaryNum" : 1,
+            "name" : "Japan House",
+            "localname" : "Japan House",
+            "label" : "Locality",
+            "code" : "ALI528",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 601,
+            "boundaryNum" : 1,
+            "name" : "Hathi Dooba",
+            "localname" : "Hathi Dooba",
+            "label" : "Locality",
+            "code" : "ALI529",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 602,
+            "boundaryNum" : 1,
+            "name" : "Noor Bagh",
+            "localname" : "Noor Bagh",
+            "label" : "Locality",
+            "code" : "ALI530",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 603,
+            "boundaryNum" : 1,
+            "name" : "Girls College Road Partial",
+            "localname" : "Girls College Road Partial",
+            "label" : "Locality",
+            "code" : "ALI531",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 604,
+          "boundaryNum" : 1,
+          "name" : "39",
+          "localname" : "39",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 605,
+            "boundaryNum" : 1,
+            "name" : "Malkhan Nagar",
+            "localname" : "Malkhan Nagar",
+            "label" : "Locality",
+            "code" : "ALI532",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 606,
+            "boundaryNum" : 1,
+            "name" : "Press Colony Partial",
+            "localname" : "Press Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI533",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 607,
+            "boundaryNum" : 1,
+            "name" : "Merris Road Partial",
+            "localname" : "Merris Road Partial",
+            "label" : "Locality",
+            "code" : "ALI534",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 608,
+            "boundaryNum" : 1,
+            "name" : "Hariom Nagar Partial",
+            "localname" : "Hariom Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI535",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 609,
+            "boundaryNum" : 1,
+            "name" : "Girls College Road",
+            "localname" : "Girls College Road",
+            "label" : "Locality",
+            "code" : "ALI536",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 610,
+            "boundaryNum" : 1,
+            "name" : "Rahat Kada",
+            "localname" : "Rahat Kada",
+            "label" : "Locality",
+            "code" : "ALI537",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 611,
+            "boundaryNum" : 1,
+            "name" : "Lal Diggi Road",
+            "localname" : "Lal Diggi Road",
+            "label" : "Locality",
+            "code" : "ALI538",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 612,
+            "boundaryNum" : 1,
+            "name" : "Malkhan Nagar",
+            "localname" : "Malkhan Nagar",
+            "label" : "Locality",
+            "code" : "ALI539",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 613,
+            "boundaryNum" : 1,
+            "name" : "Cmo Compound",
+            "localname" : "Cmo Compound",
+            "label" : "Locality",
+            "code" : "ALI540",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 614,
+            "boundaryNum" : 1,
+            "name" : "Judge Compound",
+            "localname" : "Judge Compound",
+            "label" : "Locality",
+            "code" : "ALI541",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 615,
+            "boundaryNum" : 1,
+            "name" : "Dodhpur Partial",
+            "localname" : "Dodhpur Partial",
+            "label" : "Locality",
+            "code" : "ALI542",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 616,
+            "boundaryNum" : 1,
+            "name" : "Darul Unoos",
+            "localname" : "Darul Unoos",
+            "label" : "Locality",
+            "code" : "ALI543",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 617,
+            "boundaryNum" : 1,
+            "name" : "Pan Bali Kothi",
+            "localname" : "Pan Bali Kothi",
+            "label" : "Locality",
+            "code" : "ALI544",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 618,
+            "boundaryNum" : 1,
+            "name" : "Zaffar Nagar",
+            "localname" : "Zaffar Nagar",
+            "label" : "Locality",
+            "code" : "ALI545",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 619,
+            "boundaryNum" : 1,
+            "name" : "Ajad Nagar",
+            "localname" : "Ajad Nagar",
+            "label" : "Locality",
+            "code" : "ALI546",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 620,
+            "boundaryNum" : 1,
+            "name" : "Allah Bali Kothi",
+            "localname" : "Allah Bali Kothi",
+            "label" : "Locality",
+            "code" : "ALI547",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 621,
+            "boundaryNum" : 1,
+            "name" : "Nagar Nigam Quarter",
+            "localname" : "Nagar Nigam Quarter",
+            "label" : "Locality",
+            "code" : "ALI548",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 622,
+            "boundaryNum" : 1,
+            "name" : "Gareeb Manjil",
+            "localname" : "Gareeb Manjil",
+            "label" : "Locality",
+            "code" : "ALI549",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 623,
+          "boundaryNum" : 1,
+          "name" : "40",
+          "localname" : "40",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 624,
+            "boundaryNum" : 1,
+            "name" : "Ghanshyam Puri",
+            "localname" : "Ghanshyam Puri",
+            "label" : "Locality",
+            "code" : "ALI550",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 625,
+            "boundaryNum" : 1,
+            "name" : "Jwalapuri Partial",
+            "localname" : "Jwalapuri Partial",
+            "label" : "Locality",
+            "code" : "ALI551",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 626,
+            "boundaryNum" : 1,
+            "name" : "Chharra Adda Partial",
+            "localname" : "Chharra Adda Partial",
+            "label" : "Locality",
+            "code" : "ALI552",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 627,
+            "boundaryNum" : 1,
+            "name" : "Surendra Nagar Partial",
+            "localname" : "Surendra Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI553",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 628,
+            "boundaryNum" : 1,
+            "name" : "Bekunth Nagar",
+            "localname" : "Bekunth Nagar",
+            "label" : "Locality",
+            "code" : "ALI554",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 629,
+            "boundaryNum" : 1,
+            "name" : "Nagla Tad",
+            "localname" : "Nagla Tad",
+            "label" : "Locality",
+            "code" : "ALI555",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 630,
+            "boundaryNum" : 1,
+            "name" : "Ghanshyam Puri",
+            "localname" : "Ghanshyam Puri",
+            "label" : "Locality",
+            "code" : "ALI556",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 631,
+            "boundaryNum" : 1,
+            "name" : "Vishnupuri Partial",
+            "localname" : "Vishnupuri Partial",
+            "label" : "Locality",
+            "code" : "ALI557",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 632,
+          "boundaryNum" : 1,
+          "name" : "41",
+          "localname" : "41",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 633,
+            "boundaryNum" : 1,
+            "name" : "Vikas Nagar Ada Colony",
+            "localname" : "Vikas Nagar Ada Colony",
+            "label" : "Locality",
+            "code" : "ALI558",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 634,
+            "boundaryNum" : 1,
+            "name" : "Pala Sahiababad Partial",
+            "localname" : "Pala Sahiababad Partial",
+            "label" : "Locality",
+            "code" : "ALI559",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 635,
+            "boundaryNum" : 1,
+            "name" : "Vikas Nagar",
+            "localname" : "Vikas Nagar",
+            "label" : "Locality",
+            "code" : "ALI560",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 636,
+            "boundaryNum" : 1,
+            "name" : "Bank Colony",
+            "localname" : "Bank Colony",
+            "label" : "Locality",
+            "code" : "ALI561",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 637,
+            "boundaryNum" : 1,
+            "name" : "Ada Colony",
+            "localname" : "Ada Colony",
+            "label" : "Locality",
+            "code" : "ALI562",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 638,
+            "boundaryNum" : 1,
+            "name" : "Avas Vikas Colony Partial",
+            "localname" : "Avas Vikas Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI563",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 639,
+            "boundaryNum" : 1,
+            "name" : "Shantipuram",
+            "localname" : "Shantipuram",
+            "label" : "Locality",
+            "code" : "ALI564",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 640,
+            "boundaryNum" : 1,
+            "name" : "Rk Puram",
+            "localname" : "Rk Puram",
+            "label" : "Locality",
+            "code" : "ALI565",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 641,
+            "boundaryNum" : 1,
+            "name" : "Gopal Pur Partiali",
+            "localname" : "Gopal Pur Partiali",
+            "label" : "Locality",
+            "code" : "ALI566",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 642,
+          "boundaryNum" : 1,
+          "name" : "42",
+          "localname" : "42",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 643,
+            "boundaryNum" : 1,
+            "name" : "Ram Bagh Colony",
+            "localname" : "Ram Bagh Colony",
+            "label" : "Locality",
+            "code" : "ALI567",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 644,
+            "boundaryNum" : 1,
+            "name" : "Kishanpur Partial",
+            "localname" : "Kishanpur Partial",
+            "label" : "Locality",
+            "code" : "ALI568",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 645,
+            "boundaryNum" : 1,
+            "name" : "Ada Colony Partial",
+            "localname" : "Ada Colony Partial",
+            "label" : "Locality",
+            "code" : "ALI569",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 646,
+            "boundaryNum" : 1,
+            "name" : "Ram Bagh Colony",
+            "localname" : "Ram Bagh Colony",
+            "label" : "Locality",
+            "code" : "ALI570",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 647,
+            "boundaryNum" : 1,
+            "name" : "Stadium",
+            "localname" : "Stadium",
+            "label" : "Locality",
+            "code" : "ALI571",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 648,
+            "boundaryNum" : 1,
+            "name" : "Swarn Jayanti Nagar Partial",
+            "localname" : "Swarn Jayanti Nagar Partial",
+            "label" : "Locality",
+            "code" : "ALI572",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 649,
+            "boundaryNum" : 1,
+            "name" : "Pushpanjali",
+            "localname" : "Pushpanjali",
+            "label" : "Locality",
+            "code" : "ALI573",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 650,
+          "boundaryNum" : 1,
+          "name" : "43",
+          "localname" : "43",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 651,
+            "boundaryNum" : 1,
+            "name" : "Barola Zafarabad",
+            "localname" : "Barola Zafarabad",
+            "label" : "Locality",
+            "code" : "ALI574",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 652,
+            "boundaryNum" : 1,
+            "name" : "Industrial State Partial",
+            "localname" : "Industrial State Partial",
+            "label" : "Locality",
+            "code" : "ALI575",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 653,
+            "boundaryNum" : 1,
+            "name" : "Baroula Jafarabad",
+            "localname" : "Baroula Jafarabad",
+            "label" : "Locality",
+            "code" : "ALI576",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 654,
+            "boundaryNum" : 1,
+            "name" : "Iti Road Partial",
+            "localname" : "Iti Road Partial",
+            "label" : "Locality",
+            "code" : "ALI577",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 655,
+            "boundaryNum" : 1,
+            "name" : "Choohar Pur Partial",
+            "localname" : "Choohar Pur Partial",
+            "label" : "Locality",
+            "code" : "ALI578",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        } ]
+      } ]
+    }
+  } ]
+}
