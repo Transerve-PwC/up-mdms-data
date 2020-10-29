@@ -17463,12 +17463,6 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1777,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
       "rolecode": "EGF_BILL_CREATOR",
       "actionid": 1777,
       "actioncode": "",
@@ -20643,19 +20637,31 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "PT_DOC_VERIFIER",
+      "rolecode": "PT_REVENUE_INSPECTOR",
       "actionid": 1766,
       "actioncode": "",
       "tenantId": "up"
     },
     {
-      "rolecode": "PT_FIELD_INSPECTOR",
+      "rolecode": "PT_TAX_SUPERINTENDENT",
       "actionid": 1766,
       "actioncode": "",
       "tenantId": "up"
     },
     {
-      "rolecode": "PT_APPROVER",
+      "rolecode": "PT_TAX_ASSESSMENT_OFFICER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
+      "rolecode": "PT_CHIEF_TAX_ASSESSMENT_OFFICER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
+      "rolecode": "PT_MUNICIPAL_COMMISSIONER",
       "actionid": 1766,
       "actioncode": "",
       "tenantId": "up"
