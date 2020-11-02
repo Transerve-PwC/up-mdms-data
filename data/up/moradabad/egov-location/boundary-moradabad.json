@@ -1879,8 +1879,8 @@
           "children" : [ {
             "id" : 213,
             "boundaryNum" : 1,
-            "name" : "Hasthala Gaon Uttari",
-            "localname" : "Hasthala Gaon Uttari",
+            "name" : "Ashiyana - 1 And 2",
+            "localname" : "Ashiyana - 1 And 2",
             "label" : "Locality",
             "code" : "MOR178",
             "area" : "Area1",
@@ -1888,34 +1888,34 @@
           }, {
             "id" : 214,
             "boundaryNum" : 1,
-            "name" : "Mau Ka Milak",
-            "localname" : "Mau Ka Milak",
+            "name" : "Hasthala Gaon Uttari",
+            "localname" : "Hasthala Gaon Uttari",
             "label" : "Locality",
             "code" : "MOR179",
             "area" : "Area1",
             "children" : [ ]
+          }, {
+            "id" : 215,
+            "boundaryNum" : 1,
+            "name" : "Mau Ka Milak",
+            "localname" : "Mau Ka Milak",
+            "label" : "Locality",
+            "code" : "MOR180",
+            "area" : "Area1",
+            "children" : [ ]
           } ]
         }, {
-          "id" : 215,
+          "id" : 216,
           "boundaryNum" : 1,
           "name" : "8",
           "localname" : "8",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 216,
+            "id" : 217,
             "boundaryNum" : 1,
             "name" : "Awas Vikas",
             "localname" : "Awas Vikas",
-            "label" : "Locality",
-            "code" : "MOR180",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 217,
-            "boundaryNum" : 1,
-            "name" : "Gandhi Ashram",
-            "localname" : "Gandhi Ashram",
             "label" : "Locality",
             "code" : "MOR181",
             "area" : "Area1",
@@ -1923,8 +1923,8 @@
           }, {
             "id" : 218,
             "boundaryNum" : 1,
-            "name" : "P.a.c.",
-            "localname" : "P.a.c.",
+            "name" : "Gandhi Ashram",
+            "localname" : "Gandhi Ashram",
             "label" : "Locality",
             "code" : "MOR182",
             "area" : "Area1",
@@ -1932,34 +1932,34 @@
           }, {
             "id" : 219,
             "boundaryNum" : 1,
-            "name" : "Pilikothi",
-            "localname" : "Pilikothi",
+            "name" : "P.a.c.",
+            "localname" : "P.a.c.",
             "label" : "Locality",
             "code" : "MOR183",
             "area" : "Area1",
             "children" : [ ]
+          }, {
+            "id" : 220,
+            "boundaryNum" : 1,
+            "name" : "Pilikothi",
+            "localname" : "Pilikothi",
+            "label" : "Locality",
+            "code" : "MOR184",
+            "area" : "Area1",
+            "children" : [ ]
           } ]
         }, {
-          "id" : 220,
+          "id" : 221,
           "boundaryNum" : 1,
           "name" : "9",
           "localname" : "9",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 221,
+            "id" : 222,
             "boundaryNum" : 1,
             "name" : "Balmiki Basti",
             "localname" : "Balmiki Basti",
-            "label" : "Locality",
-            "code" : "MOR184",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 222,
-            "boundaryNum" : 1,
-            "name" : "Bangla Gaon",
-            "localname" : "Bangla Gaon",
             "label" : "Locality",
             "code" : "MOR185",
             "area" : "Area1",
@@ -1967,8 +1967,8 @@
           }, {
             "id" : 223,
             "boundaryNum" : 1,
-            "name" : "Daswan Ghat",
-            "localname" : "Daswan Ghat",
+            "name" : "Bangla Gaon",
+            "localname" : "Bangla Gaon",
             "label" : "Locality",
             "code" : "MOR186",
             "area" : "Area1",
@@ -1976,34 +1976,34 @@
           }, {
             "id" : 224,
             "boundaryNum" : 1,
-            "name" : "Daulat Bagh Uttari",
-            "localname" : "Daulat Bagh Uttari",
+            "name" : "Daswan Ghat",
+            "localname" : "Daswan Ghat",
             "label" : "Locality",
             "code" : "MOR187",
             "area" : "Area1",
             "children" : [ ]
+          }, {
+            "id" : 225,
+            "boundaryNum" : 1,
+            "name" : "Daulat Bagh Uttari",
+            "localname" : "Daulat Bagh Uttari",
+            "label" : "Locality",
+            "code" : "MOR188",
+            "area" : "Area1",
+            "children" : [ ]
           } ]
         }, {
-          "id" : 225,
+          "id" : 226,
           "boundaryNum" : 1,
           "name" : "60",
           "localname" : "60",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 226,
+            "id" : 227,
             "boundaryNum" : 1,
             "name" : "Makbara 1 And 2",
             "localname" : "Makbara 1 And 2",
-            "label" : "Locality",
-            "code" : "MOR188",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 227,
-            "boundaryNum" : 1,
-            "name" : "Makbara Sabji Mandi",
-            "localname" : "Makbara Sabji Mandi",
             "label" : "Locality",
             "code" : "MOR189",
             "area" : "Area1",
@@ -2011,68 +2011,68 @@
           }, {
             "id" : 228,
             "boundaryNum" : 1,
-            "name" : "Pirjada 1",
-            "localname" : "Pirjada 1",
+            "name" : "Makbara Sabji Mandi",
+            "localname" : "Makbara Sabji Mandi",
             "label" : "Locality",
             "code" : "MOR190",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 229,
-          "boundaryNum" : 1,
-          "name" : "61",
-          "localname" : "61",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
-            "id" : 230,
+          }, {
+            "id" : 229,
             "boundaryNum" : 1,
-            "name" : "Majar Shahbulaki Sahab Ki Awadi Aur Mukkarabpur",
-            "localname" : "Majar Shahbulaki Sahab Ki Awadi Aur Mukkarabpur",
+            "name" : "Pirjada 1",
+            "localname" : "Pirjada 1",
             "label" : "Locality",
             "code" : "MOR191",
             "area" : "Area1",
             "children" : [ ]
           } ]
         }, {
-          "id" : 231,
+          "id" : 230,
           "boundaryNum" : 1,
-          "name" : "62",
-          "localname" : "62",
+          "name" : "61",
+          "localname" : "61",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 232,
+            "id" : 231,
             "boundaryNum" : 1,
-            "name" : "Maanpur",
-            "localname" : "Maanpur",
+            "name" : "Majar Shahbulaki Sahab Ki Awadi Aur Mukkarabpur",
+            "localname" : "Majar Shahbulaki Sahab Ki Awadi Aur Mukkarabpur",
             "label" : "Locality",
             "code" : "MOR192",
             "area" : "Area1",
             "children" : [ ]
           } ]
         }, {
-          "id" : 233,
+          "id" : 232,
+          "boundaryNum" : 1,
+          "name" : "62",
+          "localname" : "62",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 233,
+            "boundaryNum" : 1,
+            "name" : "Maanpur",
+            "localname" : "Maanpur",
+            "label" : "Locality",
+            "code" : "MOR193",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 234,
           "boundaryNum" : 1,
           "name" : "63",
           "localname" : "63",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 234,
+            "id" : 235,
             "boundaryNum" : 1,
             "name" : "Muktitola",
             "localname" : "Muktitola",
-            "label" : "Locality",
-            "code" : "MOR193",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 235,
-            "boundaryNum" : 1,
-            "name" : "Rafatpura",
-            "localname" : "Rafatpura",
             "label" : "Locality",
             "code" : "MOR194",
             "area" : "Area1",
@@ -2080,8 +2080,8 @@
           }, {
             "id" : 236,
             "boundaryNum" : 1,
-            "name" : "Tabela",
-            "localname" : "Tabela",
+            "name" : "Rafatpura",
+            "localname" : "Rafatpura",
             "label" : "Locality",
             "code" : "MOR195",
             "area" : "Area1",
@@ -2089,34 +2089,34 @@
           }, {
             "id" : 237,
             "boundaryNum" : 1,
-            "name" : "Tamboli",
-            "localname" : "Tamboli",
+            "name" : "Tabela",
+            "localname" : "Tabela",
             "label" : "Locality",
             "code" : "MOR196",
             "area" : "Area1",
             "children" : [ ]
+          }, {
+            "id" : 238,
+            "boundaryNum" : 1,
+            "name" : "Tamboli",
+            "localname" : "Tamboli",
+            "label" : "Locality",
+            "code" : "MOR197",
+            "area" : "Area1",
+            "children" : [ ]
           } ]
         }, {
-          "id" : 238,
+          "id" : 239,
           "boundaryNum" : 1,
           "name" : "64",
           "localname" : "64",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 239,
+            "id" : 240,
             "boundaryNum" : 1,
             "name" : "Dindaar Pura",
             "localname" : "Dindaar Pura",
-            "label" : "Locality",
-            "code" : "MOR197",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 240,
-            "boundaryNum" : 1,
-            "name" : "Gali Gullal",
-            "localname" : "Gali Gullal",
             "label" : "Locality",
             "code" : "MOR198",
             "area" : "Area1",
@@ -2124,8 +2124,8 @@
           }, {
             "id" : 241,
             "boundaryNum" : 1,
-            "name" : "Kuncha Shitaldas",
-            "localname" : "Kuncha Shitaldas",
+            "name" : "Gali Gullal",
+            "localname" : "Gali Gullal",
             "label" : "Locality",
             "code" : "MOR199",
             "area" : "Area1",
@@ -2133,8 +2133,8 @@
           }, {
             "id" : 242,
             "boundaryNum" : 1,
-            "name" : "Lohagadh",
-            "localname" : "Lohagadh",
+            "name" : "Kuncha Shitaldas",
+            "localname" : "Kuncha Shitaldas",
             "label" : "Locality",
             "code" : "MOR200",
             "area" : "Area1",
@@ -2142,8 +2142,8 @@
           }, {
             "id" : 243,
             "boundaryNum" : 1,
-            "name" : "Machlibazar",
-            "localname" : "Machlibazar",
+            "name" : "Lohagadh",
+            "localname" : "Lohagadh",
             "label" : "Locality",
             "code" : "MOR201",
             "area" : "Area1",
@@ -2151,8 +2151,8 @@
           }, {
             "id" : 244,
             "boundaryNum" : 1,
-            "name" : "Reti Mohalla",
-            "localname" : "Reti Mohalla",
+            "name" : "Machlibazar",
+            "localname" : "Machlibazar",
             "label" : "Locality",
             "code" : "MOR202",
             "area" : "Area1",
@@ -2160,8 +2160,8 @@
           }, {
             "id" : 245,
             "boundaryNum" : 1,
-            "name" : "Tambaku Balan",
-            "localname" : "Tambaku Balan",
+            "name" : "Reti Mohalla",
+            "localname" : "Reti Mohalla",
             "label" : "Locality",
             "code" : "MOR203",
             "area" : "Area1",
@@ -2169,86 +2169,86 @@
           }, {
             "id" : 246,
             "boundaryNum" : 1,
-            "name" : "Ththera",
-            "localname" : "Ththera",
+            "name" : "Tambaku Balan",
+            "localname" : "Tambaku Balan",
             "label" : "Locality",
             "code" : "MOR204",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 247,
-          "boundaryNum" : 1,
-          "name" : "20",
-          "localname" : "20",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
-            "id" : 248,
+          }, {
+            "id" : 247,
             "boundaryNum" : 1,
-            "name" : "Ramganga Vihar Phase 1 And 2",
-            "localname" : "Ramganga Vihar Phase 1 And 2",
+            "name" : "Ththera",
+            "localname" : "Ththera",
             "label" : "Locality",
             "code" : "MOR205",
             "area" : "Area1",
             "children" : [ ]
           } ]
         }, {
-          "id" : 249,
+          "id" : 248,
           "boundaryNum" : 1,
-          "name" : "65",
-          "localname" : "65",
+          "name" : "20",
+          "localname" : "20",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 250,
+            "id" : 249,
             "boundaryNum" : 1,
-            "name" : "Chau Ki Madhaiya",
-            "localname" : "Chau Ki Madhaiya",
+            "name" : "Dindayal Nagar-1 And 2",
+            "localname" : "Dindayal Nagar-1 And 2",
             "label" : "Locality",
             "code" : "MOR206",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 251,
+            "id" : 250,
             "boundaryNum" : 1,
-            "name" : "Sitapur Das Sarai",
-            "localname" : "Sitapur Das Sarai",
+            "name" : "Ramganga Vihar Phase 1 And 2",
+            "localname" : "Ramganga Vihar Phase 1 And 2",
             "label" : "Locality",
             "code" : "MOR207",
             "area" : "Area1",
             "children" : [ ]
           } ]
         }, {
-          "id" : 252,
+          "id" : 251,
+          "boundaryNum" : 1,
+          "name" : "65",
+          "localname" : "65",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 252,
+            "boundaryNum" : 1,
+            "name" : "Chau Ki Madhaiya",
+            "localname" : "Chau Ki Madhaiya",
+            "label" : "Locality",
+            "code" : "MOR208",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 253,
+            "boundaryNum" : 1,
+            "name" : "Sitapur Das Sarai",
+            "localname" : "Sitapur Das Sarai",
+            "label" : "Locality",
+            "code" : "MOR209",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 254,
           "boundaryNum" : 1,
           "name" : "21",
           "localname" : "21",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 253,
+            "id" : 255,
             "boundaryNum" : 1,
             "name" : "Church Police Line",
             "localname" : "Church Police Line",
-            "label" : "Locality",
-            "code" : "MOR208",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 254,
-            "boundaryNum" : 1,
-            "name" : "Civil Lines",
-            "localname" : "Civil Lines",
-            "label" : "Locality",
-            "code" : "MOR209",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 255,
-            "boundaryNum" : 1,
-            "name" : "Collector Diwani",
-            "localname" : "Collector Diwani",
             "label" : "Locality",
             "code" : "MOR210",
             "area" : "Area1",
@@ -2256,8 +2256,8 @@
           }, {
             "id" : 256,
             "boundaryNum" : 1,
-            "name" : "Dayanand College Ke Piche",
-            "localname" : "Dayanand College Ke Piche",
+            "name" : "Civil Lines",
+            "localname" : "Civil Lines",
             "label" : "Locality",
             "code" : "MOR211",
             "area" : "Area1",
@@ -2265,8 +2265,8 @@
           }, {
             "id" : 257,
             "boundaryNum" : 1,
-            "name" : "District Hospital",
-            "localname" : "District Hospital",
+            "name" : "Collector Diwani",
+            "localname" : "Collector Diwani",
             "label" : "Locality",
             "code" : "MOR212",
             "area" : "Area1",
@@ -2274,8 +2274,8 @@
           }, {
             "id" : 258,
             "boundaryNum" : 1,
-            "name" : "Kamla Centre Ke Piche Ki Awadi",
-            "localname" : "Kamla Centre Ke Piche Ki Awadi",
+            "name" : "Dayanand College Ke Piche",
+            "localname" : "Dayanand College Ke Piche",
             "label" : "Locality",
             "code" : "MOR213",
             "area" : "Area1",
@@ -2283,8 +2283,8 @@
           }, {
             "id" : 259,
             "boundaryNum" : 1,
-            "name" : "P.t.c.",
-            "localname" : "P.t.c.",
+            "name" : "District Hospital",
+            "localname" : "District Hospital",
             "label" : "Locality",
             "code" : "MOR214",
             "area" : "Area1",
@@ -2292,8 +2292,8 @@
           }, {
             "id" : 260,
             "boundaryNum" : 1,
-            "name" : "Police Hospital",
-            "localname" : "Police Hospital",
+            "name" : "Kamla Centre Ke Piche Ki Awadi",
+            "localname" : "Kamla Centre Ke Piche Ki Awadi",
             "label" : "Locality",
             "code" : "MOR215",
             "area" : "Area1",
@@ -2301,8 +2301,8 @@
           }, {
             "id" : 261,
             "boundaryNum" : 1,
-            "name" : "Rajendranagar",
-            "localname" : "Rajendranagar",
+            "name" : "P.t.c.",
+            "localname" : "P.t.c.",
             "label" : "Locality",
             "code" : "MOR216",
             "area" : "Area1",
@@ -2310,8 +2310,8 @@
           }, {
             "id" : 262,
             "boundaryNum" : 1,
-            "name" : "Sarai Khalsa",
-            "localname" : "Sarai Khalsa",
+            "name" : "Police Hospital",
+            "localname" : "Police Hospital",
             "label" : "Locality",
             "code" : "MOR217",
             "area" : "Area1",
@@ -2319,105 +2319,105 @@
           }, {
             "id" : 263,
             "boundaryNum" : 1,
-            "name" : "State Bank Colony",
-            "localname" : "State Bank Colony",
+            "name" : "Rajendranagar",
+            "localname" : "Rajendranagar",
             "label" : "Locality",
             "code" : "MOR218",
             "area" : "Area1",
             "children" : [ ]
+          }, {
+            "id" : 264,
+            "boundaryNum" : 1,
+            "name" : "Sarai Khalsa",
+            "localname" : "Sarai Khalsa",
+            "label" : "Locality",
+            "code" : "MOR219",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 265,
+            "boundaryNum" : 1,
+            "name" : "State Bank Colony",
+            "localname" : "State Bank Colony",
+            "label" : "Locality",
+            "code" : "MOR220",
+            "area" : "Area1",
+            "children" : [ ]
           } ]
         }, {
-          "id" : 264,
+          "id" : 266,
+          "boundaryNum" : 1,
+          "name" : "66",
+          "localname" : "66",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 267,
+            "boundaryNum" : 1,
+            "name" : "Asalatpur-1",
+            "localname" : "Asalatpur-1",
+            "label" : "Locality",
+            "code" : "MOR221",
+            "area" : "Area1",
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : 268,
           "boundaryNum" : 1,
           "name" : "22",
           "localname" : "22",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 265,
+            "id" : 269,
             "boundaryNum" : 1,
             "name" : "Ashok Nagar",
             "localname" : "Ashok Nagar",
-            "label" : "Locality",
-            "code" : "MOR219",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 266,
-            "boundaryNum" : 1,
-            "name" : "District Jail",
-            "localname" : "District Jail",
-            "label" : "Locality",
-            "code" : "MOR220",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 267,
-            "boundaryNum" : 1,
-            "name" : "Eye Hospital Ke Piche Ki Awadi",
-            "localname" : "Eye Hospital Ke Piche Ki Awadi",
-            "label" : "Locality",
-            "code" : "MOR221",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 268,
-            "boundaryNum" : 1,
-            "name" : "Gandhi Park",
-            "localname" : "Gandhi Park",
             "label" : "Locality",
             "code" : "MOR222",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 269,
+            "id" : 270,
             "boundaryNum" : 1,
-            "name" : "Kanjari Sarai",
-            "localname" : "Kanjari Sarai",
+            "name" : "District Jail",
+            "localname" : "District Jail",
             "label" : "Locality",
             "code" : "MOR223",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 270,
+            "id" : 271,
             "boundaryNum" : 1,
-            "name" : "Parsadilal Road",
-            "localname" : "Parsadilal Road",
+            "name" : "Eye Hospital Ke Piche Ki Awadi",
+            "localname" : "Eye Hospital Ke Piche Ki Awadi",
             "label" : "Locality",
             "code" : "MOR224",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 271,
+            "id" : 272,
             "boundaryNum" : 1,
-            "name" : "R.n. College",
-            "localname" : "R.n. College",
+            "name" : "Gandhi Park",
+            "localname" : "Gandhi Park",
             "label" : "Locality",
             "code" : "MOR225",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 272,
+            "id" : 273,
             "boundaryNum" : 1,
-            "name" : "Saket Colony",
-            "localname" : "Saket Colony",
+            "name" : "Kanjari Sarai",
+            "localname" : "Kanjari Sarai",
             "label" : "Locality",
             "code" : "MOR226",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 273,
-          "boundaryNum" : 1,
-          "name" : "67",
-          "localname" : "67",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 274,
             "boundaryNum" : 1,
-            "name" : "Aawidnagar Tila",
-            "localname" : "Aawidnagar Tila",
+            "name" : "Parsadilal Road",
+            "localname" : "Parsadilal Road",
             "label" : "Locality",
             "code" : "MOR227",
             "area" : "Area1",
@@ -2425,8 +2425,8 @@
           }, {
             "id" : 275,
             "boundaryNum" : 1,
-            "name" : "Ajad Nagar",
-            "localname" : "Ajad Nagar",
+            "name" : "R.n. College",
+            "localname" : "R.n. College",
             "label" : "Locality",
             "code" : "MOR228",
             "area" : "Area1",
@@ -2434,34 +2434,34 @@
           }, {
             "id" : 276,
             "boundaryNum" : 1,
-            "name" : "Ashok Nagar",
-            "localname" : "Ashok Nagar",
+            "name" : "Saket Colony",
+            "localname" : "Saket Colony",
             "label" : "Locality",
             "code" : "MOR229",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 277,
+          } ]
+        }, {
+          "id" : 277,
+          "boundaryNum" : 1,
+          "name" : "67",
+          "localname" : "67",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 278,
             "boundaryNum" : 1,
-            "name" : "Brihaspati Ka Bazar",
-            "localname" : "Brihaspati Ka Bazar",
+            "name" : "Aawidnagar Tila",
+            "localname" : "Aawidnagar Tila",
             "label" : "Locality",
             "code" : "MOR230",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 278,
-          "boundaryNum" : 1,
-          "name" : "23",
-          "localname" : "23",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 279,
             "boundaryNum" : 1,
-            "name" : "Bangla Gaon",
-            "localname" : "Bangla Gaon",
+            "name" : "Ajad Nagar",
+            "localname" : "Ajad Nagar",
             "label" : "Locality",
             "code" : "MOR231",
             "area" : "Area1",
@@ -2469,8 +2469,8 @@
           }, {
             "id" : 280,
             "boundaryNum" : 1,
-            "name" : "Jigar Colony",
-            "localname" : "Jigar Colony",
+            "name" : "Ashok Nagar",
+            "localname" : "Ashok Nagar",
             "label" : "Locality",
             "code" : "MOR232",
             "area" : "Area1",
@@ -2478,52 +2478,52 @@
           }, {
             "id" : 281,
             "boundaryNum" : 1,
-            "name" : "Karyalaya Jila Parishad",
-            "localname" : "Karyalaya Jila Parishad",
+            "name" : "Brihaspati Ka Bazar",
+            "localname" : "Brihaspati Ka Bazar",
             "label" : "Locality",
             "code" : "MOR233",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 282,
+          } ]
+        }, {
+          "id" : 282,
+          "boundaryNum" : 1,
+          "name" : "23",
+          "localname" : "23",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 283,
             "boundaryNum" : 1,
-            "name" : "Kothi Damdama",
-            "localname" : "Kothi Damdama",
+            "name" : "Bangla Gaon",
+            "localname" : "Bangla Gaon",
             "label" : "Locality",
             "code" : "MOR234",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 283,
+            "id" : 284,
             "boundaryNum" : 1,
-            "name" : "Kutkut Shala Bangalgaon",
-            "localname" : "Kutkut Shala Bangalgaon",
+            "name" : "Jigar Colony",
+            "localname" : "Jigar Colony",
             "label" : "Locality",
             "code" : "MOR235",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 284,
+            "id" : 285,
             "boundaryNum" : 1,
-            "name" : "Pachim Aur Purab Diputygunj",
-            "localname" : "Pachim Aur Purab Diputygunj",
+            "name" : "Karyalaya Jila Parishad",
+            "localname" : "Karyalaya Jila Parishad",
             "label" : "Locality",
             "code" : "MOR236",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 285,
-          "boundaryNum" : 1,
-          "name" : "68",
-          "localname" : "68",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 286,
             "boundaryNum" : 1,
-            "name" : "Bada Shah Shafa",
-            "localname" : "Bada Shah Shafa",
+            "name" : "Kothi Damdama",
+            "localname" : "Kothi Damdama",
             "label" : "Locality",
             "code" : "MOR237",
             "area" : "Area1",
@@ -2531,8 +2531,8 @@
           }, {
             "id" : 287,
             "boundaryNum" : 1,
-            "name" : "Laal Masjid",
-            "localname" : "Laal Masjid",
+            "name" : "Kutkut Shala Bangalgaon",
+            "localname" : "Kutkut Shala Bangalgaon",
             "label" : "Locality",
             "code" : "MOR238",
             "area" : "Area1",
@@ -2540,113 +2540,113 @@
           }, {
             "id" : 288,
             "boundaryNum" : 1,
-            "name" : "Sarai Gulzarimal",
-            "localname" : "Sarai Gulzarimal",
+            "name" : "Pachim Aur Purab Diputygunj",
+            "localname" : "Pachim Aur Purab Diputygunj",
             "label" : "Locality",
             "code" : "MOR239",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 289,
+          } ]
+        }, {
+          "id" : 289,
+          "boundaryNum" : 1,
+          "name" : "68",
+          "localname" : "68",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 290,
             "boundaryNum" : 1,
-            "name" : "Sarai Khan Mahmood",
-            "localname" : "Sarai Khan Mahmood",
+            "name" : "Bada Shah Shafa",
+            "localname" : "Bada Shah Shafa",
             "label" : "Locality",
             "code" : "MOR240",
             "area" : "Area1",
             "children" : [ ]
+          }, {
+            "id" : 291,
+            "boundaryNum" : 1,
+            "name" : "Laal Masjid",
+            "localname" : "Laal Masjid",
+            "label" : "Locality",
+            "code" : "MOR241",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 292,
+            "boundaryNum" : 1,
+            "name" : "Sarai Gulzarimal",
+            "localname" : "Sarai Gulzarimal",
+            "label" : "Locality",
+            "code" : "MOR242",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 293,
+            "boundaryNum" : 1,
+            "name" : "Sarai Khan Mahmood",
+            "localname" : "Sarai Khan Mahmood",
+            "label" : "Locality",
+            "code" : "MOR243",
+            "area" : "Area1",
+            "children" : [ ]
           } ]
         }, {
-          "id" : 290,
+          "id" : 294,
           "boundaryNum" : 1,
           "name" : "24",
           "localname" : "24",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 291,
+            "id" : 295,
             "boundaryNum" : 1,
             "name" : "Chakkar Ki Milak",
             "localname" : "Chakkar Ki Milak",
             "label" : "Locality",
-            "code" : "MOR241",
+            "code" : "MOR244",
             "area" : "Area1",
             "children" : [ ]
           } ]
         }, {
-          "id" : 292,
+          "id" : 296,
           "boundaryNum" : 1,
           "name" : "69",
           "localname" : "69",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 293,
+            "id" : 297,
             "boundaryNum" : 1,
             "name" : "Chauki Hasan Kha",
             "localname" : "Chauki Hasan Kha",
-            "label" : "Locality",
-            "code" : "MOR242",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 294,
-            "boundaryNum" : 1,
-            "name" : "Filkhana",
-            "localname" : "Filkhana",
-            "label" : "Locality",
-            "code" : "MOR243",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 295,
-            "boundaryNum" : 1,
-            "name" : "Kajitola",
-            "localname" : "Kajitola",
-            "label" : "Locality",
-            "code" : "MOR244",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 296,
-            "boundaryNum" : 1,
-            "name" : "Kisraul",
-            "localname" : "Kisraul",
             "label" : "Locality",
             "code" : "MOR245",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 297,
+            "id" : 298,
             "boundaryNum" : 1,
-            "name" : "Motibagh",
-            "localname" : "Motibagh",
+            "name" : "Filkhana",
+            "localname" : "Filkhana",
             "label" : "Locality",
             "code" : "MOR246",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 298,
+            "id" : 299,
             "boundaryNum" : 1,
-            "name" : "Varsi Road",
-            "localname" : "Varsi Road",
+            "name" : "Kajitola",
+            "localname" : "Kajitola",
             "label" : "Locality",
             "code" : "MOR247",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 299,
-          "boundaryNum" : 1,
-          "name" : "25",
-          "localname" : "25",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 300,
             "boundaryNum" : 1,
-            "name" : "Gali No. 1 Se 78 Tk",
-            "localname" : "Gali No. 1 Se 78 Tk",
+            "name" : "Kisraul",
+            "localname" : "Kisraul",
             "label" : "Locality",
             "code" : "MOR248",
             "area" : "Area1",
@@ -2654,8 +2654,8 @@
           }, {
             "id" : 301,
             "boundaryNum" : 1,
-            "name" : "Rahmat Nagar",
-            "localname" : "Rahmat Nagar",
+            "name" : "Motibagh",
+            "localname" : "Motibagh",
             "label" : "Locality",
             "code" : "MOR249",
             "area" : "Area1",
@@ -2663,8 +2663,8 @@
           }, {
             "id" : 302,
             "boundaryNum" : 1,
-            "name" : "Vikash Samiti",
-            "localname" : "Vikash Samiti",
+            "name" : "Varsi Road",
+            "localname" : "Varsi Road",
             "label" : "Locality",
             "code" : "MOR250",
             "area" : "Area1",
@@ -2673,15 +2673,15 @@
         }, {
           "id" : 303,
           "boundaryNum" : 1,
-          "name" : "26",
-          "localname" : "26",
+          "name" : "25",
+          "localname" : "25",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
             "id" : 304,
             "boundaryNum" : 1,
-            "name" : "Jayantipur Paschim",
-            "localname" : "Jayantipur Paschim",
+            "name" : "Gali No. 1 Se 78 Tk",
+            "localname" : "Gali No. 1 Se 78 Tk",
             "label" : "Locality",
             "code" : "MOR251",
             "area" : "Area1",
@@ -2689,8 +2689,8 @@
           }, {
             "id" : 305,
             "boundaryNum" : 1,
-            "name" : "Manpura Dehant",
-            "localname" : "Manpura Dehant",
+            "name" : "Rahmat Nagar",
+            "localname" : "Rahmat Nagar",
             "label" : "Locality",
             "code" : "MOR252",
             "area" : "Area1",
@@ -2698,8 +2698,8 @@
           }, {
             "id" : 306,
             "boundaryNum" : 1,
-            "name" : "Suraj Nagar",
-            "localname" : "Suraj Nagar",
+            "name" : "Vikash Samiti",
+            "localname" : "Vikash Samiti",
             "label" : "Locality",
             "code" : "MOR253",
             "area" : "Area1",
@@ -2708,15 +2708,15 @@
         }, {
           "id" : 307,
           "boundaryNum" : 1,
-          "name" : "27",
-          "localname" : "27",
+          "name" : "26",
+          "localname" : "26",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
             "id" : 308,
             "boundaryNum" : 1,
-            "name" : "Ambika Prasad Inter College",
-            "localname" : "Ambika Prasad Inter College",
+            "name" : "Jayantipur Paschim",
+            "localname" : "Jayantipur Paschim",
             "label" : "Locality",
             "code" : "MOR254",
             "area" : "Area1",
@@ -2724,8 +2724,8 @@
           }, {
             "id" : 309,
             "boundaryNum" : 1,
-            "name" : "Daulat Bagh",
-            "localname" : "Daulat Bagh",
+            "name" : "Manpura Dehant",
+            "localname" : "Manpura Dehant",
             "label" : "Locality",
             "code" : "MOR255",
             "area" : "Area1",
@@ -2733,52 +2733,52 @@
           }, {
             "id" : 310,
             "boundaryNum" : 1,
-            "name" : "Harijan Basti",
-            "localname" : "Harijan Basti",
+            "name" : "Suraj Nagar",
+            "localname" : "Suraj Nagar",
             "label" : "Locality",
             "code" : "MOR256",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 311,
+          } ]
+        }, {
+          "id" : 311,
+          "boundaryNum" : 1,
+          "name" : "27",
+          "localname" : "27",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 312,
             "boundaryNum" : 1,
-            "name" : "Kati Gali",
-            "localname" : "Kati Gali",
+            "name" : "Ambika Prasad Inter College",
+            "localname" : "Ambika Prasad Inter College",
             "label" : "Locality",
             "code" : "MOR257",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 312,
+            "id" : 313,
             "boundaryNum" : 1,
-            "name" : "Kisrol",
-            "localname" : "Kisrol",
+            "name" : "Daulat Bagh",
+            "localname" : "Daulat Bagh",
             "label" : "Locality",
             "code" : "MOR258",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 313,
+            "id" : 314,
             "boundaryNum" : 1,
-            "name" : "Masjid",
-            "localname" : "Masjid",
+            "name" : "Harijan Basti",
+            "localname" : "Harijan Basti",
             "label" : "Locality",
             "code" : "MOR259",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 314,
-          "boundaryNum" : 1,
-          "name" : "28",
-          "localname" : "28",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 315,
             "boundaryNum" : 1,
-            "name" : "Hospital Ground",
-            "localname" : "Hospital Ground",
+            "name" : "Kati Gali",
+            "localname" : "Kati Gali",
             "label" : "Locality",
             "code" : "MOR260",
             "area" : "Area1",
@@ -2786,8 +2786,8 @@
           }, {
             "id" : 316,
             "boundaryNum" : 1,
-            "name" : "Katra Puranjaat",
-            "localname" : "Katra Puranjaat",
+            "name" : "Kisrol",
+            "localname" : "Kisrol",
             "label" : "Locality",
             "code" : "MOR261",
             "area" : "Area1",
@@ -2795,182 +2795,182 @@
           }, {
             "id" : 317,
             "boundaryNum" : 1,
-            "name" : "Kotwali",
-            "localname" : "Kotwali",
+            "name" : "Masjid",
+            "localname" : "Masjid",
             "label" : "Locality",
             "code" : "MOR262",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 318,
+          } ]
+        }, {
+          "id" : 318,
+          "boundaryNum" : 1,
+          "name" : "28",
+          "localname" : "28",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 319,
             "boundaryNum" : 1,
-            "name" : "Parihar Sarai",
-            "localname" : "Parihar Sarai",
+            "name" : "Hospital Ground",
+            "localname" : "Hospital Ground",
             "label" : "Locality",
             "code" : "MOR263",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 319,
+            "id" : 320,
             "boundaryNum" : 1,
-            "name" : "Pat Pat Sarai",
-            "localname" : "Pat Pat Sarai",
+            "name" : "Katra Puranjaat",
+            "localname" : "Katra Puranjaat",
             "label" : "Locality",
             "code" : "MOR264",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 320,
+            "id" : 321,
             "boundaryNum" : 1,
-            "name" : "Sarai Kaji",
-            "localname" : "Sarai Kaji",
+            "name" : "Kotwali",
+            "localname" : "Kotwali",
             "label" : "Locality",
             "code" : "MOR265",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 321,
+            "id" : 322,
             "boundaryNum" : 1,
-            "name" : "Saray Raja",
-            "localname" : "Saray Raja",
+            "name" : "Parihar Sarai",
+            "localname" : "Parihar Sarai",
             "label" : "Locality",
             "code" : "MOR266",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 322,
-          "boundaryNum" : 1,
-          "name" : "29",
-          "localname" : "29",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 323,
             "boundaryNum" : 1,
-            "name" : "Chandra Nagar",
-            "localname" : "Chandra Nagar",
+            "name" : "Pat Pat Sarai",
+            "localname" : "Pat Pat Sarai",
             "label" : "Locality",
             "code" : "MOR267",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 324,
-          "boundaryNum" : 1,
-          "name" : "70",
-          "localname" : "70",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
-            "id" : 325,
+          }, {
+            "id" : 324,
             "boundaryNum" : 1,
-            "name" : "Sakka Dwitiya Mugalpura",
-            "localname" : "Sakka Dwitiya Mugalpura",
+            "name" : "Sarai Kaji",
+            "localname" : "Sarai Kaji",
             "label" : "Locality",
             "code" : "MOR268",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 326,
+            "id" : 325,
             "boundaryNum" : 1,
-            "name" : "Sakka Pratham",
-            "localname" : "Sakka Pratham",
+            "name" : "Saray Raja",
+            "localname" : "Saray Raja",
             "label" : "Locality",
             "code" : "MOR269",
             "area" : "Area1",
             "children" : [ ]
           } ]
         }, {
-          "id" : 327,
+          "id" : 326,
           "boundaryNum" : 1,
-          "name" : "30",
-          "localname" : "30",
+          "name" : "29",
+          "localname" : "29",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 328,
+            "id" : 327,
             "boundaryNum" : 1,
-            "name" : "Gyani Wali Basti",
-            "localname" : "Gyani Wali Basti",
+            "name" : "Chandra Nagar",
+            "localname" : "Chandra Nagar",
             "label" : "Locality",
             "code" : "MOR270",
             "area" : "Area1",
             "children" : [ ]
           } ]
         }, {
-          "id" : 329,
+          "id" : 328,
           "boundaryNum" : 1,
-          "name" : "31",
-          "localname" : "31",
+          "name" : "70",
+          "localname" : "70",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
-            "id" : 330,
+            "id" : 329,
             "boundaryNum" : 1,
-            "name" : "Laal Nagari",
-            "localname" : "Laal Nagari",
+            "name" : "Sakka Dwitiya Mugalpura",
+            "localname" : "Sakka Dwitiya Mugalpura",
             "label" : "Locality",
             "code" : "MOR271",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 330,
+            "boundaryNum" : 1,
+            "name" : "Sakka Pratham",
+            "localname" : "Sakka Pratham",
+            "label" : "Locality",
+            "code" : "MOR272",
             "area" : "Area1",
             "children" : [ ]
           } ]
         }, {
           "id" : 331,
           "boundaryNum" : 1,
-          "name" : "32",
-          "localname" : "32",
+          "name" : "30",
+          "localname" : "30",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
             "id" : 332,
             "boundaryNum" : 1,
-            "name" : "Adarsh Nagar",
-            "localname" : "Adarsh Nagar",
-            "label" : "Locality",
-            "code" : "MOR272",
-            "area" : "Area1",
-            "children" : [ ]
-          }, {
-            "id" : 333,
-            "boundaryNum" : 1,
-            "name" : "Lajpat Nagar",
-            "localname" : "Lajpat Nagar",
+            "name" : "Gyani Wali Basti",
+            "localname" : "Gyani Wali Basti",
             "label" : "Locality",
             "code" : "MOR273",
             "area" : "Area1",
             "children" : [ ]
-          }, {
+          } ]
+        }, {
+          "id" : 333,
+          "boundaryNum" : 1,
+          "name" : "31",
+          "localname" : "31",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
             "id" : 334,
             "boundaryNum" : 1,
-            "name" : "Mahbula Gunj",
-            "localname" : "Mahbula Gunj",
+            "name" : "Laal Nagari",
+            "localname" : "Laal Nagari",
             "label" : "Locality",
             "code" : "MOR274",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 335,
+          } ]
+        }, {
+          "id" : 335,
+          "boundaryNum" : 1,
+          "name" : "32",
+          "localname" : "32",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 336,
             "boundaryNum" : 1,
-            "name" : "Maidamil",
-            "localname" : "Maidamil",
+            "name" : "Adarsh Nagar",
+            "localname" : "Adarsh Nagar",
             "label" : "Locality",
             "code" : "MOR275",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 336,
-          "boundaryNum" : 1,
-          "name" : "33",
-          "localname" : "33",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 337,
             "boundaryNum" : 1,
-            "name" : "Galshahid Purv",
-            "localname" : "Galshahid Purv",
+            "name" : "Lajpat Nagar",
+            "localname" : "Lajpat Nagar",
             "label" : "Locality",
             "code" : "MOR276",
             "area" : "Area1",
@@ -2978,8 +2978,8 @@
           }, {
             "id" : 338,
             "boundaryNum" : 1,
-            "name" : "Khokharan",
-            "localname" : "Khokharan",
+            "name" : "Mahbula Gunj",
+            "localname" : "Mahbula Gunj",
             "label" : "Locality",
             "code" : "MOR277",
             "area" : "Area1",
@@ -2987,43 +2987,43 @@
           }, {
             "id" : 339,
             "boundaryNum" : 1,
-            "name" : "Sammali Gate",
-            "localname" : "Sammali Gate",
+            "name" : "Maidamil",
+            "localname" : "Maidamil",
             "label" : "Locality",
             "code" : "MOR278",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 340,
+          } ]
+        }, {
+          "id" : 340,
+          "boundaryNum" : 1,
+          "name" : "33",
+          "localname" : "33",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 341,
             "boundaryNum" : 1,
-            "name" : "Sarai Pukhta",
-            "localname" : "Sarai Pukhta",
+            "name" : "Galshahid Purv",
+            "localname" : "Galshahid Purv",
             "label" : "Locality",
             "code" : "MOR279",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 341,
+            "id" : 342,
             "boundaryNum" : 1,
-            "name" : "Tabakiyan",
-            "localname" : "Tabakiyan",
+            "name" : "Khokharan",
+            "localname" : "Khokharan",
             "label" : "Locality",
             "code" : "MOR280",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 342,
-          "boundaryNum" : 1,
-          "name" : "34",
-          "localname" : "34",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 343,
             "boundaryNum" : 1,
-            "name" : "Bagh Gulabrai",
-            "localname" : "Bagh Gulabrai",
+            "name" : "Sammali Gate",
+            "localname" : "Sammali Gate",
             "label" : "Locality",
             "code" : "MOR281",
             "area" : "Area1",
@@ -3031,8 +3031,8 @@
           }, {
             "id" : 344,
             "boundaryNum" : 1,
-            "name" : "Bajar Mukti Bagh",
-            "localname" : "Bajar Mukti Bagh",
+            "name" : "Sarai Pukhta",
+            "localname" : "Sarai Pukhta",
             "label" : "Locality",
             "code" : "MOR282",
             "area" : "Area1",
@@ -3040,34 +3040,34 @@
           }, {
             "id" : 345,
             "boundaryNum" : 1,
-            "name" : "Kahro Ke Mandir Ka Purvi Chetra",
-            "localname" : "Kahro Ke Mandir Ka Purvi Chetra",
+            "name" : "Tabakiyan",
+            "localname" : "Tabakiyan",
             "label" : "Locality",
             "code" : "MOR283",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 346,
+          } ]
+        }, {
+          "id" : 346,
+          "boundaryNum" : 1,
+          "name" : "34",
+          "localname" : "34",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 347,
             "boundaryNum" : 1,
-            "name" : "Nawab Pur Paschim Ewam Purv",
-            "localname" : "Nawab Pur Paschim Ewam Purv",
+            "name" : "Bagh Gulabrai",
+            "localname" : "Bagh Gulabrai",
             "label" : "Locality",
             "code" : "MOR284",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 347,
-          "boundaryNum" : 1,
-          "name" : "35",
-          "localname" : "35",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 348,
             "boundaryNum" : 1,
-            "name" : "Dehri Ghat",
-            "localname" : "Dehri Ghat",
+            "name" : "Bajar Mukti Bagh",
+            "localname" : "Bajar Mukti Bagh",
             "label" : "Locality",
             "code" : "MOR285",
             "area" : "Area1",
@@ -3075,8 +3075,8 @@
           }, {
             "id" : 349,
             "boundaryNum" : 1,
-            "name" : "Gadikhana Paschim",
-            "localname" : "Gadikhana Paschim",
+            "name" : "Kahro Ke Mandir Ka Purvi Chetra",
+            "localname" : "Kahro Ke Mandir Ka Purvi Chetra",
             "label" : "Locality",
             "code" : "MOR286",
             "area" : "Area1",
@@ -3084,43 +3084,43 @@
           }, {
             "id" : 350,
             "boundaryNum" : 1,
-            "name" : "Harijan Basti",
-            "localname" : "Harijan Basti",
+            "name" : "Nawab Pur Paschim Ewam Purv",
+            "localname" : "Nawab Pur Paschim Ewam Purv",
             "label" : "Locality",
             "code" : "MOR287",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 351,
+          } ]
+        }, {
+          "id" : 351,
+          "boundaryNum" : 1,
+          "name" : "35",
+          "localname" : "35",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 352,
             "boundaryNum" : 1,
-            "name" : "Muslim College Ki Awadi",
-            "localname" : "Muslim College Ki Awadi",
+            "name" : "Dehri Ghat",
+            "localname" : "Dehri Ghat",
             "label" : "Locality",
             "code" : "MOR288",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 352,
+            "id" : 353,
             "boundaryNum" : 1,
-            "name" : "Singhman Hajari",
-            "localname" : "Singhman Hajari",
+            "name" : "Gadikhana Paschim",
+            "localname" : "Gadikhana Paschim",
             "label" : "Locality",
             "code" : "MOR289",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 353,
-          "boundaryNum" : 1,
-          "name" : "36",
-          "localname" : "36",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 354,
             "boundaryNum" : 1,
-            "name" : "Asaltpura Chaturth",
-            "localname" : "Asaltpura Chaturth",
+            "name" : "Harijan Basti",
+            "localname" : "Harijan Basti",
             "label" : "Locality",
             "code" : "MOR290",
             "area" : "Area1",
@@ -3128,8 +3128,8 @@
           }, {
             "id" : 355,
             "boundaryNum" : 1,
-            "name" : "Bada Majba",
-            "localname" : "Bada Majba",
+            "name" : "Muslim College Ki Awadi",
+            "localname" : "Muslim College Ki Awadi",
             "label" : "Locality",
             "code" : "MOR291",
             "area" : "Area1",
@@ -3137,52 +3137,52 @@
           }, {
             "id" : 356,
             "boundaryNum" : 1,
-            "name" : "Bade Majbe Ki Aawadi",
-            "localname" : "Bade Majbe Ki Aawadi",
+            "name" : "Singhman Hajari",
+            "localname" : "Singhman Hajari",
             "label" : "Locality",
             "code" : "MOR292",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 357,
+          } ]
+        }, {
+          "id" : 357,
+          "boundaryNum" : 1,
+          "name" : "36",
+          "localname" : "36",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 358,
             "boundaryNum" : 1,
-            "name" : "Chaddha Cinema Ke Piche Ki Awadi",
-            "localname" : "Chaddha Cinema Ke Piche Ki Awadi",
+            "name" : "Asaltpura Chaturth",
+            "localname" : "Asaltpura Chaturth",
             "label" : "Locality",
             "code" : "MOR293",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 358,
+            "id" : 359,
             "boundaryNum" : 1,
-            "name" : "Nala Manpur",
-            "localname" : "Nala Manpur",
+            "name" : "Bada Majba",
+            "localname" : "Bada Majba",
             "label" : "Locality",
             "code" : "MOR294",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 359,
+            "id" : 360,
             "boundaryNum" : 1,
-            "name" : "Quarter Nagar Nigam",
-            "localname" : "Quarter Nagar Nigam",
+            "name" : "Bade Majbe Ki Aawadi",
+            "localname" : "Bade Majbe Ki Aawadi",
             "label" : "Locality",
             "code" : "MOR295",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 360,
-          "boundaryNum" : 1,
-          "name" : "37",
-          "localname" : "37",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 361,
             "boundaryNum" : 1,
-            "name" : "Asaltpura Bhunda",
-            "localname" : "Asaltpura Bhunda",
+            "name" : "Chaddha Cinema Ke Piche Ki Awadi",
+            "localname" : "Chaddha Cinema Ke Piche Ki Awadi",
             "label" : "Locality",
             "code" : "MOR296",
             "area" : "Area1",
@@ -3190,8 +3190,8 @@
           }, {
             "id" : 362,
             "boundaryNum" : 1,
-            "name" : "Asaltpura Chaturth",
-            "localname" : "Asaltpura Chaturth",
+            "name" : "Nala Manpur",
+            "localname" : "Nala Manpur",
             "label" : "Locality",
             "code" : "MOR297",
             "area" : "Area1",
@@ -3199,43 +3199,43 @@
           }, {
             "id" : 363,
             "boundaryNum" : 1,
-            "name" : "Asaltpura Tritiya",
-            "localname" : "Asaltpura Tritiya",
+            "name" : "Quarter Nagar Nigam",
+            "localname" : "Quarter Nagar Nigam",
             "label" : "Locality",
             "code" : "MOR298",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 364,
+          } ]
+        }, {
+          "id" : 364,
+          "boundaryNum" : 1,
+          "name" : "37",
+          "localname" : "37",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 365,
             "boundaryNum" : 1,
-            "name" : "Harijan Basti",
-            "localname" : "Harijan Basti",
+            "name" : "Asaltpura Bhunda",
+            "localname" : "Asaltpura Bhunda",
             "label" : "Locality",
             "code" : "MOR299",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 365,
+            "id" : 366,
             "boundaryNum" : 1,
-            "name" : "Sidhi Sarai Purvi",
-            "localname" : "Sidhi Sarai Purvi",
+            "name" : "Asaltpura Chaturth",
+            "localname" : "Asaltpura Chaturth",
             "label" : "Locality",
             "code" : "MOR300",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 366,
-          "boundaryNum" : 1,
-          "name" : "38",
-          "localname" : "38",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 367,
             "boundaryNum" : 1,
-            "name" : "Jayantipur Purvi",
-            "localname" : "Jayantipur Purvi",
+            "name" : "Asaltpura Tritiya",
+            "localname" : "Asaltpura Tritiya",
             "label" : "Locality",
             "code" : "MOR301",
             "area" : "Area1",
@@ -3243,8 +3243,8 @@
           }, {
             "id" : 368,
             "boundaryNum" : 1,
-            "name" : "Neta Colony",
-            "localname" : "Neta Colony",
+            "name" : "Harijan Basti",
+            "localname" : "Harijan Basti",
             "label" : "Locality",
             "code" : "MOR302",
             "area" : "Area1",
@@ -3252,8 +3252,8 @@
           }, {
             "id" : 369,
             "boundaryNum" : 1,
-            "name" : "Shiv Nagar",
-            "localname" : "Shiv Nagar",
+            "name" : "Sidhi Sarai Purvi",
+            "localname" : "Sidhi Sarai Purvi",
             "label" : "Locality",
             "code" : "MOR303",
             "area" : "Area1",
@@ -3262,15 +3262,15 @@
         }, {
           "id" : 370,
           "boundaryNum" : 1,
-          "name" : "39",
-          "localname" : "39",
+          "name" : "38",
+          "localname" : "38",
           "label" : "Ward",
           "code" : "B1",
           "children" : [ {
             "id" : 371,
             "boundaryNum" : 1,
-            "name" : "Beldaran",
-            "localname" : "Beldaran",
+            "name" : "Jayantipur Purvi",
+            "localname" : "Jayantipur Purvi",
             "label" : "Locality",
             "code" : "MOR304",
             "area" : "Area1",
@@ -3278,8 +3278,8 @@
           }, {
             "id" : 372,
             "boundaryNum" : 1,
-            "name" : "Dehriya Mahal Sarai",
-            "localname" : "Dehriya Mahal Sarai",
+            "name" : "Neta Colony",
+            "localname" : "Neta Colony",
             "label" : "Locality",
             "code" : "MOR305",
             "area" : "Area1",
@@ -3287,43 +3287,43 @@
           }, {
             "id" : 373,
             "boundaryNum" : 1,
-            "name" : "Kanth Darwaza",
-            "localname" : "Kanth Darwaza",
+            "name" : "Shiv Nagar",
+            "localname" : "Shiv Nagar",
             "label" : "Locality",
             "code" : "MOR306",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 374,
+          } ]
+        }, {
+          "id" : 374,
+          "boundaryNum" : 1,
+          "name" : "39",
+          "localname" : "39",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 375,
             "boundaryNum" : 1,
-            "name" : "Kona Mugalpura",
-            "localname" : "Kona Mugalpura",
+            "name" : "Beldaran",
+            "localname" : "Beldaran",
             "label" : "Locality",
             "code" : "MOR307",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 375,
+            "id" : 376,
             "boundaryNum" : 1,
-            "name" : "Tabela Aashik",
-            "localname" : "Tabela Aashik",
+            "name" : "Dehriya Mahal Sarai",
+            "localname" : "Dehriya Mahal Sarai",
             "label" : "Locality",
             "code" : "MOR308",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 376,
-          "boundaryNum" : 1,
-          "name" : "40",
-          "localname" : "40",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 377,
             "boundaryNum" : 1,
-            "name" : "Asaltgunj",
-            "localname" : "Asaltgunj",
+            "name" : "Kanth Darwaza",
+            "localname" : "Kanth Darwaza",
             "label" : "Locality",
             "code" : "MOR309",
             "area" : "Area1",
@@ -3331,8 +3331,8 @@
           }, {
             "id" : 378,
             "boundaryNum" : 1,
-            "name" : "Chatta Shivaraj Singh",
-            "localname" : "Chatta Shivaraj Singh",
+            "name" : "Kona Mugalpura",
+            "localname" : "Kona Mugalpura",
             "label" : "Locality",
             "code" : "MOR310",
             "area" : "Area1",
@@ -3340,52 +3340,52 @@
           }, {
             "id" : 379,
             "boundaryNum" : 1,
-            "name" : "Diputy Sahab Mandir Ki Awadi",
-            "localname" : "Diputy Sahab Mandir Ki Awadi",
+            "name" : "Tabela Aashik",
+            "localname" : "Tabela Aashik",
             "label" : "Locality",
             "code" : "MOR311",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 380,
+          } ]
+        }, {
+          "id" : 380,
+          "boundaryNum" : 1,
+          "name" : "40",
+          "localname" : "40",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 381,
             "boundaryNum" : 1,
-            "name" : "Nai Awadi",
-            "localname" : "Nai Awadi",
+            "name" : "Asaltgunj",
+            "localname" : "Asaltgunj",
             "label" : "Locality",
             "code" : "MOR312",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 381,
+            "id" : 382,
             "boundaryNum" : 1,
-            "name" : "Pirjada",
-            "localname" : "Pirjada",
+            "name" : "Chatta Shivaraj Singh",
+            "localname" : "Chatta Shivaraj Singh",
             "label" : "Locality",
             "code" : "MOR313",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 382,
+            "id" : 383,
             "boundaryNum" : 1,
-            "name" : "Udpura",
-            "localname" : "Udpura",
+            "name" : "Diputy Sahab Mandir Ki Awadi",
+            "localname" : "Diputy Sahab Mandir Ki Awadi",
             "label" : "Locality",
             "code" : "MOR314",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 383,
-          "boundaryNum" : 1,
-          "name" : "41",
-          "localname" : "41",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 384,
             "boundaryNum" : 1,
-            "name" : "Chidiya Tola",
-            "localname" : "Chidiya Tola",
+            "name" : "Nai Awadi",
+            "localname" : "Nai Awadi",
             "label" : "Locality",
             "code" : "MOR315",
             "area" : "Area1",
@@ -3393,8 +3393,8 @@
           }, {
             "id" : 385,
             "boundaryNum" : 1,
-            "name" : "Lakshamanpuri",
-            "localname" : "Lakshamanpuri",
+            "name" : "Pirjada",
+            "localname" : "Pirjada",
             "label" : "Locality",
             "code" : "MOR316",
             "area" : "Area1",
@@ -3402,34 +3402,34 @@
           }, {
             "id" : 386,
             "boundaryNum" : 1,
-            "name" : "Majhola Paschim",
-            "localname" : "Majhola Paschim",
+            "name" : "Udpura",
+            "localname" : "Udpura",
             "label" : "Locality",
             "code" : "MOR317",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 387,
+          } ]
+        }, {
+          "id" : 387,
+          "boundaryNum" : 1,
+          "name" : "41",
+          "localname" : "41",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 388,
             "boundaryNum" : 1,
-            "name" : "Mansarovar Colony",
-            "localname" : "Mansarovar Colony",
+            "name" : "Chidiya Tola",
+            "localname" : "Chidiya Tola",
             "label" : "Locality",
             "code" : "MOR318",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 388,
-          "boundaryNum" : 1,
-          "name" : "42",
-          "localname" : "42",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
+          }, {
             "id" : 389,
             "boundaryNum" : 1,
-            "name" : "Balshahid Dakshini",
-            "localname" : "Balshahid Dakshini",
+            "name" : "Lakshamanpuri",
+            "localname" : "Lakshamanpuri",
             "label" : "Locality",
             "code" : "MOR319",
             "area" : "Area1",
@@ -3437,34 +3437,34 @@
           }, {
             "id" : 390,
             "boundaryNum" : 1,
-            "name" : "Eidgah Ki Awadi",
-            "localname" : "Eidgah Ki Awadi",
+            "name" : "Majhola Paschim",
+            "localname" : "Majhola Paschim",
             "label" : "Locality",
             "code" : "MOR320",
             "area" : "Area1",
             "children" : [ ]
-          } ]
-        }, {
-          "id" : 391,
-          "boundaryNum" : 1,
-          "name" : "43",
-          "localname" : "43",
-          "label" : "Ward",
-          "code" : "B1",
-          "children" : [ {
-            "id" : 392,
+          }, {
+            "id" : 391,
             "boundaryNum" : 1,
-            "name" : "Barwalan Aashiq Warsi Nagar",
-            "localname" : "Barwalan Aashiq Warsi Nagar",
+            "name" : "Mansarovar Colony",
+            "localname" : "Mansarovar Colony",
             "label" : "Locality",
             "code" : "MOR321",
             "area" : "Area1",
             "children" : [ ]
-          }, {
+          } ]
+        }, {
+          "id" : 392,
+          "boundaryNum" : 1,
+          "name" : "42",
+          "localname" : "42",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
             "id" : 393,
             "boundaryNum" : 1,
-            "name" : "Jama Msjid",
-            "localname" : "Jama Msjid",
+            "name" : "Balshahid Dakshini",
+            "localname" : "Balshahid Dakshini",
             "label" : "Locality",
             "code" : "MOR322",
             "area" : "Area1",
@@ -3472,28 +3472,63 @@
           }, {
             "id" : 394,
             "boundaryNum" : 1,
-            "name" : "Kanungoyan Dakshin",
-            "localname" : "Kanungoyan Dakshin",
+            "name" : "Eidgah Ki Awadi",
+            "localname" : "Eidgah Ki Awadi",
             "label" : "Locality",
             "code" : "MOR323",
             "area" : "Area1",
             "children" : [ ]
-          }, {
-            "id" : 395,
+          } ]
+        }, {
+          "id" : 395,
+          "boundaryNum" : 1,
+          "name" : "43",
+          "localname" : "43",
+          "label" : "Ward",
+          "code" : "B1",
+          "children" : [ {
+            "id" : 396,
             "boundaryNum" : 1,
-            "name" : "Kudaghar",
-            "localname" : "Kudaghar",
+            "name" : "Barwalan Aashiq Warsi Nagar",
+            "localname" : "Barwalan Aashiq Warsi Nagar",
             "label" : "Locality",
             "code" : "MOR324",
             "area" : "Area1",
             "children" : [ ]
           }, {
-            "id" : 396,
+            "id" : 397,
+            "boundaryNum" : 1,
+            "name" : "Jama Msjid",
+            "localname" : "Jama Msjid",
+            "label" : "Locality",
+            "code" : "MOR325",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 398,
+            "boundaryNum" : 1,
+            "name" : "Kanungoyan Dakshin",
+            "localname" : "Kanungoyan Dakshin",
+            "label" : "Locality",
+            "code" : "MOR326",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 399,
+            "boundaryNum" : 1,
+            "name" : "Kudaghar",
+            "localname" : "Kudaghar",
+            "label" : "Locality",
+            "code" : "MOR327",
+            "area" : "Area1",
+            "children" : [ ]
+          }, {
+            "id" : 400,
             "boundaryNum" : 1,
             "name" : "Rajkiya Inter College",
             "localname" : "Rajkiya Inter College",
             "label" : "Locality",
-            "code" : "MOR325",
+            "code" : "MOR328",
             "area" : "Area1",
             "children" : [ ]
           } ]
