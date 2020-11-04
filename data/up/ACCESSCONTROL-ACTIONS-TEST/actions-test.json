@@ -15715,6 +15715,17 @@
          "path": ""
       },
       {
+         "id": 21898,
+         "name": "Import Property registry",
+         "url": "/property-services/property/_import",
+         "displayName": "Import Property Registry",
+         "orderNumber": 4,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
+      {
          "id": 1932,
          "name": "BPA-PermitOrderEDCR Report",
          "url": "/bpa-services/_permitorderedcr",

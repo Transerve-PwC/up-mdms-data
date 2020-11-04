@@ -19443,6 +19443,12 @@
       "tenantId": "up"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 21898,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 1922,
       "actioncode": "",
