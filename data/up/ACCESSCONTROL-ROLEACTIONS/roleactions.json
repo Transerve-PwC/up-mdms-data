@@ -17823,12 +17823,6 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1803,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
       "rolecode": "COLL_RECEIPT_CREATOR",
       "actionid": 570,
       "actioncode": "",
@@ -18244,12 +18238,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 1827,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
       "actionid": 1827,
       "actioncode": "",
       "tenantId": "up"
