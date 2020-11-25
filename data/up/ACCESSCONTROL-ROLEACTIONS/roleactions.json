@@ -17817,12 +17817,6 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1802,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
       "rolecode": "COLL_RECEIPT_CREATOR",
       "actionid": 570,
       "actioncode": "",
@@ -17891,12 +17885,6 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1806,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1808,
       "actioncode": "",
       "tenantId": "up"
     },
@@ -19671,12 +19659,6 @@
       "tenantId": "up"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 1935,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
       "rolecode": "BPA_APPROVER",
       "actionid": 1936,
       "actioncode": "",
@@ -20279,12 +20261,6 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1901,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1980,
       "actioncode": "",
       "tenantId": "up"
     },
