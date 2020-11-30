@@ -1,0 +1,25 @@
+{
+  "tenantId": "up",
+  "moduleName": "PropertyTax",
+  "RoadWidth":
+  [
+    {
+      "name": "More Than 3 Meter and Less Than 12 Meter Wide",
+      "code": "road_w_l_12",
+      "description": "Less than 12 meters and greater than 3 meters",
+      "active": true
+    },
+    {
+      "name": "More or Equal 12 Meter Wide & less Than 24 meter",  
+      "code": "road_w_12_24",
+      "description": "12 to 24 meters",
+      "active": true
+    },
+    {
+      "name": "More or Equal 24 Meter Wide",
+      "code": "road_w_m_24",
+      "description": "Greater than 24 meters",
+      "active": true
+    }
+  ]
+}
