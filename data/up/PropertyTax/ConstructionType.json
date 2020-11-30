@@ -5,20 +5,26 @@
   [
     {
       "id": "1",
-      "name": "Pucca",
-      "code": "PUCCA",
+      "name": "RCC or RBC Pakka House",
+      "code": "rcc_rbc",
       "active": true
     },
     {
       "id": "2",
-      "name": "Semi-Pucca",
-      "code": "SEMIPUCCA",
+      "name": "Kachha House",
+      "code": "kachha",
       "active": true
     },
     {
       "id": "3",
-      "name": "Kuccha",
-      "code": "KUCCHA",
+      "name": "Vacant Land",
+      "code": "vacant_land",
+      "active": true
+    },
+    {
+      "id": "4",
+      "name": "Other Pakka House",
+      "code": "other_pucca",
       "active": true
     }
   ]
