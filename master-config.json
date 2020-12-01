@@ -572,6 +572,13 @@
         "$.code"
       ]
     },
+    "RoadWidth": {
+      "masterName": "RoadWidth",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "FireCess": {
       "masterName": "FireCess",
       "isStateLevel": true,
