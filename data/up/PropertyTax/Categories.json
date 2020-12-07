@@ -1,0 +1,566 @@
+{
+  "tenantId": "up",
+  "moduleName": "PropertyTax",
+  "Categories": [
+    {
+      "id": 1,
+      "ratemultiplier": "5",
+      "localname": "Commercial Complexes",
+      "label": "category",
+      "name": "Commercial Complexes",
+      "code": "CAT001"
+    },
+    {
+      "id": 2,
+      "ratemultiplier": "5",
+      "localname": "Shop",
+      "label": "category",
+      "name": "Shop",
+      "code": "CAT002"
+    },
+    {
+      "id": 3,
+      "ratemultiplier": "5",
+      "localname": "Other Commercial Establishments",
+      "label": "category",
+      "name": "Other Commercial Establishments",
+      "code": "CAT003"
+    },
+    {
+      "id": 4,
+      "ratemultiplier": "5",
+      "localname": "Banks",
+      "label": "category",
+      "name": "Banks",
+      "code": "CAT004"
+    },
+    {
+      "id": 5,
+      "ratemultiplier": "5",
+      "localname": "offices",
+      "label": "category",
+      "name": "offices",
+      "code": "CAT005"
+    },
+    {
+      "id": 6,
+      "ratemultiplier": "5",
+      "localname": "Hotel upto 3 stars",
+      "label": "category",
+      "name": "Hotel upto 3 stars",
+      "code": "CAT006"
+    },
+    {
+      "id": 7,
+      "ratemultiplier": "5",
+      "localname": "Private Hotels",
+      "label": "category",
+      "name": "Private Hotels",
+      "code": "CAT007"
+    },
+    {
+      "id": 8,
+      "ratemultiplier": "5",
+      "localname": "Coaching And Traing Institute (Expect state govt aided)",
+      "label": "category",
+      "name": "Coaching And Traing Institute (Expect state govt aided)",
+      "code": "CAT008"
+    },
+    {
+      "id": 9,
+      "ratemultiplier": "5",
+      "localname": "Restaurant",
+      "label": "category",
+      "name": "Restaurant",
+      "code": "CAT009"
+    },
+    {
+      "id": 10,
+      "ratemultiplier": "5",
+      "localname": "Guest house",
+      "label": "category",
+      "name": "Guest house",
+      "code": "CAT0010"
+    },
+    {
+      "id": 11,
+      "ratemultiplier": "5",
+      "localname": "Showroom",
+      "label": "category",
+      "name": "Showroom",
+      "code": "CAT0011"
+    },
+    {
+      "id": 12,
+      "ratemultiplier": "5",
+      "localname": "Financial Institutions",
+      "label": "category",
+      "name": "Financial Institutions",
+      "code": "CAT0012"
+    },
+    {
+      "id": 13,
+      "ratemultiplier": "5",
+      "localname": "Insurance and Financial services buisness",
+      "label": "category",
+      "name": "Insurance and Financial services buisness",
+      "code": "CAT0013"
+    },
+    {
+      "id": 14,
+      "ratemultiplier": "5",
+      "localname": "Commercial House",
+      "label": "category",
+      "name": "Commercial House",
+      "code": "CAT0014"
+    },
+    {
+      "id": 15,
+      "ratemultiplier": "3",
+      "localname": "Clinics",
+      "label": "category",
+      "name": "Clinics",
+      "code": "CAT0015"
+    },
+    {
+      "id": 16,
+      "ratemultiplier": "3",
+      "localname": "Poly Clinics",
+      "label": "category",
+      "name": "Poly Clinics",
+      "code": "CAT0016"
+    },
+    {
+      "id": 17,
+      "ratemultiplier": "3",
+      "localname": "Diagnosticts Center",
+      "label": "category",
+      "name": "Diagnosticts Center",
+      "code": "CAT0017"
+    },
+    {
+      "id": 18,
+      "ratemultiplier": "3",
+      "localname": "Laboratories",
+      "label": "category",
+      "name": "Laboratories",
+      "code": "CAT0018"
+    },
+    {
+      "id": 19,
+      "ratemultiplier": "3",
+      "localname": "Nursing Homes",
+      "label": "category",
+      "name": "Nursing Homes",
+      "code": "CAT0019"
+    },
+    {
+      "id": 20,
+      "ratemultiplier": "3",
+      "localname": "Hospitals",
+      "label": "category",
+      "name": "Hospitals",
+      "code": "CAT0020"
+    },
+    {
+      "id": 21,
+      "ratemultiplier": "3",
+      "localname": "Medical Stores",
+      "label": "category",
+      "name": "Medical Stores",
+      "code": "CAT0021"
+    },
+    {
+      "id": 22,
+      "ratemultiplier": "3",
+      "localname": "Health Care Centers",
+      "label": "category",
+      "name": "Health Care Centers",
+      "code": "CAT0022"
+    },
+    {
+      "id": 23,
+      "ratemultiplier": "2",
+      "localname": "Gym",
+      "label": "category",
+      "name": "Gym",
+      "code": "CAT0023"
+    },
+    {
+      "id": 24,
+      "ratemultiplier": "2",
+      "localname": "Physical Health Center",
+      "label": "category",
+      "name": "Physical Health Center",
+      "code": "CAT0024"
+    },
+    {
+      "id": 25,
+      "ratemultiplier": "2",
+      "localname": "Sport Center",
+      "label": "category",
+      "name": "Sport Center",
+      "code": "CAT0025"
+    },
+    {
+      "id": 26,
+      "ratemultiplier": "2",
+      "localname": "Theater",
+      "label": "category",
+      "name": "Theater",
+      "code": "CAT0026"
+    },
+    {
+      "id": 27,
+      "ratemultiplier": "2",
+      "localname": "Cinema House",
+      "label": "category",
+      "name": "Cinema House",
+      "code": "CAT0027"
+    },
+    {
+      "id": 28,
+      "ratemultiplier": "1",
+      "localname": "Hostels",
+      "label": "category",
+      "name": "Hostels",
+      "code": "CAT0028"
+    },
+    {
+      "id": 29,
+      "ratemultiplier": "1",
+      "localname": "Education Institutes Not Covered Under Clause C of Section 177 Act",
+      "label": "category",
+      "name": "Education Institutes Not Covered Under Clause C of Section 177 Act",
+      "code": "CAT0029"
+    },
+    {
+      "id": 30,
+      "ratemultiplier": "1",
+      "localname": "School",
+      "label": "category",
+      "name": "School",
+      "code": "CAT0030"
+    },
+    {
+      "id": 31,
+      "ratemultiplier": "1",
+      "localname": "College",
+      "label": "category",
+      "name": "College",
+      "code": "CAT0031"
+    },
+    {
+      "id": 32,
+      "ratemultiplier": "1",
+      "localname": "Other Educational Institution",
+      "label": "category",
+      "name": "Other Educational Institution",
+      "code": "CAT0032"
+    },
+    {
+      "id": 33,
+      "ratemultiplier": "1",
+      "localname": "Research Institution",
+      "label": "category",
+      "name": "Research Institution",
+      "code": "CAT0033"
+    },
+    {
+      "id": 34,
+      "ratemultiplier": "1",
+      "localname": "All Coaching and study centres",
+      "label": "category",
+      "name": "All Coaching and study centres",
+      "code": "CAT0034"
+    },
+    {
+      "id": 35,
+      "ratemultiplier": "3",
+      "localname": "Petrol Pump",
+      "label": "category",
+      "name": "Petrol Pump",
+      "code": "CAT0035"
+    },
+    {
+      "id": 36,
+      "ratemultiplier": "3",
+      "localname": "Gas Agencies",
+      "label": "category",
+      "name": "Gas Agencies",
+      "code": "CAT0036"
+    },
+    {
+      "id": 37,
+      "ratemultiplier": "3",
+      "localname": "Depots",
+      "label": "category",
+      "name": "Depots",
+      "code": "CAT0037"
+    },
+    {
+      "id": 38,
+      "ratemultiplier": "3",
+      "localname": "Godowns",
+      "label": "category",
+      "name": "Godowns",
+      "code": "CAT0038"
+    },
+    {
+      "id": 39,
+      "ratemultiplier": "6",
+      "localname": "Malls",
+      "label": "category",
+      "name": "Malls",
+      "code": "CAT0039"
+    },
+    {
+      "id": 40,
+      "ratemultiplier": "6",
+      "localname": "Hotels 4 Stars and Above",
+      "label": "category",
+      "name": "Hotels 4 Stars and Above",
+      "code": "CAT0040"
+    },
+    {
+      "id": 41,
+      "ratemultiplier": "6",
+      "localname": "Pubs",
+      "label": "category",
+      "name": "Pubs",
+      "code": "CAT0041"
+    },
+    {
+      "id": 42,
+      "ratemultiplier": "6",
+      "localname": "Bars",
+      "label": "category",
+      "name": "Bars",
+      "code": "CAT0042"
+    },
+    {
+      "id": 43,
+      "ratemultiplier": "3",
+      "localname": "Community Halls",
+      "label": "category",
+      "name": "Community Halls",
+      "code": "CAT0043"
+    },
+    {
+      "id": 44,
+      "ratemultiplier": "3",
+      "localname": "Kalyan Mandaps",
+      "label": "category",
+      "name": "Kalyan Mandaps",
+      "code": "CAT0044"
+    },
+    {
+      "id": 45,
+      "ratemultiplier": "3",
+      "localname": "Marriage Houses",
+      "label": "category",
+      "name": "Marriage Houses",
+      "code": "CAT0045"
+    },
+    {
+      "id": 46,
+      "ratemultiplier": "3",
+      "localname": "Clubs and Similar Type of Buildings",
+      "label": "category",
+      "name": "Clubs and Similar Type of Buildings",
+      "code": "CAT0046"
+    },
+    {
+      "id": 47,
+      "ratemultiplier": "3",
+      "localname": "Industrial Units",
+      "label": "category",
+      "name": "Industrial Units",
+      "code": "CAT0047"
+    },
+    {
+      "id": 48,
+      "ratemultiplier": "3",
+      "localname": "Workshop",
+      "label": "category",
+      "name": "Workshop",
+      "code": "CAT0048"
+    },
+    {
+      "id": 49,
+      "ratemultiplier": "3",
+      "localname": "Semi- Govt Offices",
+      "label": "category",
+      "name": "Semi- Govt Offices",
+      "code": "CAT0049"
+    },
+    {
+      "id": 50,
+      "ratemultiplier": "3",
+      "localname": "State Govt Offices",
+      "label": "category",
+      "name": "State Govt Offices",
+      "code": "CAT0050"
+    },
+    {
+      "id": 51,
+      "ratemultiplier": "3",
+      "localname": "State Govt municipal corporation property",
+      "label": "category",
+      "name": "State Govt municipal corporation property",
+      "code": "CAT0051"
+    },
+    {
+      "id": 52,
+      "ratemultiplier": "3",
+      "localname": "State Govt Property",
+      "label": "category",
+      "name": "State Govt Property",
+      "code": "CAT0052"
+    },
+    {
+      "id": 53,
+      "ratemultiplier": "3",
+      "localname": "PSU: State Govt Public Sector Undertaking",
+      "label": "category",
+      "name": "PSU: State Govt Public Sector Undertaking",
+      "code": "CAT0053"
+    },
+    {
+      "id": 54,
+      "ratemultiplier": "3",
+      "localname": "Center Govt Offices",
+      "label": "category",
+      "name": "Center Govt Offices",
+      "code": "CAT0054"
+    },
+    {
+      "id": 55,
+      "ratemultiplier": "3",
+      "localname": "Center Govt Property",
+      "label": "category",
+      "name": "Center Govt Property",
+      "code": "CAT0055"
+    },
+    {
+      "id": 56,
+      "ratemultiplier": "3",
+      "localname": "PSU: Center Govt. Public Sector undertaking",
+      "label": "category",
+      "name": "PSU: Center Govt. Public Sector undertaking",
+      "code": "CAT0056"
+    },
+    {
+      "id": 57,
+      "ratemultiplier": "4",
+      "localname": "Building with T.V Tower",
+      "label": "category",
+      "name": "Building with T.V Tower",
+      "code": "CAT0057"
+    },
+    {
+      "id": 58,
+      "ratemultiplier": "4",
+      "localname": "Building with Telecom Tower",
+      "label": "category",
+      "name": "Building with Telecom Tower",
+      "code": "CAT0058"
+    },
+    {
+      "id": 59,
+      "ratemultiplier": "4",
+      "localname": "Building with Hoardings",
+      "label": "category",
+      "name": "Building with Hoardings",
+      "code": "CAT0059"
+    },
+    {
+      "id": 60,
+      "ratemultiplier": "4",
+      "localname": "Tower of Advertising",
+      "label": "category",
+      "name": "Tower of Advertising",
+      "code": "CAT0060"
+    },
+    {
+      "id": 61,
+      "ratemultiplier": "3",
+      "localname": "Religious Places including facilities for boarding or loading for which some charge albeit nominal is made.Such Religious places shall include all temples",
+      "label": "category",
+      "name": "Religious Places including facilities for boarding or loading for which some charge albeit nominal is made.Such Religious places shall include all temples",
+      "code": "CAT0061"
+    },
+    {
+      "id": 62,
+      "ratemultiplier": "3",
+      "localname": "Mosques",
+      "label": "category",
+      "name": "Mosques",
+      "code": "CAT0062"
+    },
+    {
+      "id": 63,
+      "ratemultiplier": "3",
+      "localname": "Dharam Shalas",
+      "label": "category",
+      "name": "Dharam Shalas",
+      "code": "CAT0063"
+    },
+    {
+      "id": 64,
+      "ratemultiplier": "3",
+      "localname": "Ashrams",
+      "label": "category",
+      "name": "Ashrams",
+      "code": "CAT0064"
+    },
+    {
+      "id": 65,
+      "ratemultiplier": "3",
+      "localname": "Markaz",
+      "label": "category",
+      "name": "Markaz",
+      "code": "CAT0065"
+    },
+    {
+      "id": 66,
+      "ratemultiplier": "3",
+      "localname": "Haz Bhawan",
+      "label": "category",
+      "name": "Haz Bhawan",
+      "code": "CAT0066"
+    },
+    {
+      "id": 67,
+      "ratemultiplier": "3",
+      "localname": "Churches",
+      "label": "category",
+      "name": "Churches",
+      "code": "CAT0067"
+    },
+    {
+      "id": 68,
+      "ratemultiplier": "3",
+      "localname": "Monasteries",
+      "label": "category",
+      "name": "Monasteries",
+      "code": "CAT0068"
+    },
+    {
+      "id": 69,
+      "ratemultiplier": "3",
+      "localname": "Municipal Corporation Buildings/Land",
+      "label": "category",
+      "name": "Municipal Corporation Buildings/Land",
+      "code": "CAT0069"
+    },
+    {
+      "id": 70,
+      "ratemultiplier": "3",
+      "localname": "Other Buildings not part of above categories",
+      "label": "category",
+      "name": "Other Buildings not part of above categories",
+      "code": "CAT0070"
+    }
+  ]
+}
