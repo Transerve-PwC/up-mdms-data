@@ -35,7 +35,7 @@
                     "boundaryNum": 1,
                     "name": "Bank Colony",
                     "localname": "Bank Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR001",
                     "road_w_l_12": {
@@ -62,7 +62,7 @@
                     "boundaryNum": 1,
                     "name": "Daan Shaad Ki Milak",
                     "localname": "Daan Shaad Ki Milak",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR002",
                     "road_w_l_12": {
@@ -89,7 +89,7 @@
                     "boundaryNum": 1,
                     "name": "Khushalpur",
                     "localname": "Khushalpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR003",
                     "road_w_l_12": {
@@ -116,7 +116,7 @@
                     "boundaryNum": 1,
                     "name": "Mirpur",
                     "localname": "Mirpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR004",
                     "road_w_l_12": {
@@ -143,7 +143,7 @@
                     "boundaryNum": 1,
                     "name": "Prativihar",
                     "localname": "Prativihar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR005",
                     "road_w_l_12": {
@@ -170,7 +170,7 @@
                     "boundaryNum": 1,
                     "name": "Shahpur Tigri",
                     "localname": "Shahpur Tigri",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR006",
                     "road_w_l_12": {
@@ -208,7 +208,7 @@
                     "boundaryNum": 1,
                     "name": "Anwar Nagar",
                     "localname": "Anwar Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR007",
                     "road_w_l_12": {
@@ -235,7 +235,7 @@
                     "boundaryNum": 1,
                     "name": "Jahid Nagar",
                     "localname": "Jahid Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR008",
                     "road_w_l_12": {
@@ -262,7 +262,7 @@
                     "boundaryNum": 1,
                     "name": "Pandit Nagala",
                     "localname": "Pandit Nagala",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR009",
                     "road_w_l_12": {
@@ -300,7 +300,7 @@
                     "boundaryNum": 1,
                     "name": "Hasthala Purvi",
                     "localname": "Hasthala Purvi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0010",
                     "road_w_l_12": {
@@ -327,7 +327,7 @@
                     "boundaryNum": 1,
                     "name": "Himgiri",
                     "localname": "Himgiri",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0011",
                     "road_w_l_12": {
@@ -354,7 +354,7 @@
                     "boundaryNum": 1,
                     "name": "Jhanjanpur",
                     "localname": "Jhanjanpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0012",
                     "road_w_l_12": {
@@ -381,7 +381,7 @@
                     "boundaryNum": 1,
                     "name": "Mangal Ka Bazar",
                     "localname": "Mangal Ka Bazar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0013",
                     "road_w_l_12": {
@@ -419,7 +419,7 @@
                     "boundaryNum": 1,
                     "name": "Balmiki Basti",
                     "localname": "Balmiki Basti",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0014",
                     "road_w_l_12": {
@@ -446,7 +446,7 @@
                     "boundaryNum": 1,
                     "name": "Bangla Gaon",
                     "localname": "Bangla Gaon",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0015",
                     "road_w_l_12": {
@@ -473,7 +473,7 @@
                     "boundaryNum": 1,
                     "name": "Daswan Ghat",
                     "localname": "Daswan Ghat",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0016",
                     "road_w_l_12": {
@@ -500,7 +500,7 @@
                     "boundaryNum": 1,
                     "name": "Daulat Bagh Uttari",
                     "localname": "Daulat Bagh Uttari",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0017",
                     "road_w_l_12": {
@@ -538,7 +538,7 @@
                     "boundaryNum": 1,
                     "name": "Adarsh Colony Notified Area Purv",
                     "localname": "Adarsh Colony Notified Area Purv",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0018",
                     "road_w_l_12": {
@@ -565,7 +565,7 @@
                     "boundaryNum": 1,
                     "name": "Fakirpura",
                     "localname": "Fakirpura",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0019",
                     "road_w_l_12": {
@@ -592,7 +592,7 @@
                     "boundaryNum": 1,
                     "name": "Nilkanth Colony",
                     "localname": "Nilkanth Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0020",
                     "road_w_l_12": {
@@ -630,7 +630,7 @@
                     "boundaryNum": 1,
                     "name": "Gulabwadi",
                     "localname": "Gulabwadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0021",
                     "road_w_l_12": {
@@ -657,7 +657,7 @@
                     "boundaryNum": 1,
                     "name": "Indra Colony",
                     "localname": "Indra Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0022",
                     "road_w_l_12": {
@@ -684,7 +684,7 @@
                     "boundaryNum": 1,
                     "name": "Suraj Nagar",
                     "localname": "Suraj Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0023",
                     "road_w_l_12": {
@@ -722,7 +722,7 @@
                     "boundaryNum": 1,
                     "name": "Prakash Nagar",
                     "localname": "Prakash Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0024",
                     "road_w_l_12": {
@@ -749,7 +749,7 @@
                     "boundaryNum": 1,
                     "name": "Prem Nagar  Gayatri Nagar",
                     "localname": "Prem Nagar  Gayatri Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0025",
                     "road_w_l_12": {
@@ -787,7 +787,7 @@
                     "boundaryNum": 1,
                     "name": "Ashok Nagar",
                     "localname": "Ashok Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0026",
                     "road_w_l_12": {
@@ -814,7 +814,7 @@
                     "boundaryNum": 1,
                     "name": "District Jail",
                     "localname": "District Jail",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0027",
                     "road_w_l_12": {
@@ -841,7 +841,7 @@
                     "boundaryNum": 1,
                     "name": "Eye Hospital Ke Piche Ki Awadi",
                     "localname": "Eye Hospital Ke Piche Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0028",
                     "road_w_l_12": {
@@ -868,7 +868,7 @@
                     "boundaryNum": 1,
                     "name": "Gandhi Park",
                     "localname": "Gandhi Park",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0029",
                     "road_w_l_12": {
@@ -895,7 +895,7 @@
                     "boundaryNum": 1,
                     "name": "Kanjari Sarai",
                     "localname": "Kanjari Sarai",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0030",
                     "road_w_l_12": {
@@ -922,7 +922,7 @@
                     "boundaryNum": 1,
                     "name": "Parsadilal Road",
                     "localname": "Parsadilal Road",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0031",
                     "road_w_l_12": {
@@ -949,7 +949,7 @@
                     "boundaryNum": 1,
                     "name": "R.N. College",
                     "localname": "R.N. College",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0032",
                     "road_w_l_12": {
@@ -976,7 +976,7 @@
                     "boundaryNum": 1,
                     "name": "Saket Colony",
                     "localname": "Saket Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0033",
                     "road_w_l_12": {
@@ -1014,7 +1014,7 @@
                     "boundaryNum": 1,
                     "name": "Bangla Gaon",
                     "localname": "Bangla Gaon",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0034",
                     "road_w_l_12": {
@@ -1041,7 +1041,7 @@
                     "boundaryNum": 1,
                     "name": "Jigar Colony",
                     "localname": "Jigar Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0035",
                     "road_w_l_12": {
@@ -1068,7 +1068,7 @@
                     "boundaryNum": 1,
                     "name": "Karyalaya Jila Parishad",
                     "localname": "Karyalaya Jila Parishad",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0036",
                     "road_w_l_12": {
@@ -1095,7 +1095,7 @@
                     "boundaryNum": 1,
                     "name": "Kothi Damdama",
                     "localname": "Kothi Damdama",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0037",
                     "road_w_l_12": {
@@ -1122,7 +1122,7 @@
                     "boundaryNum": 1,
                     "name": "Kutkut Shala Bangalgaon",
                     "localname": "Kutkut Shala Bangalgaon",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0038",
                     "road_w_l_12": {
@@ -1149,7 +1149,7 @@
                     "boundaryNum": 1,
                     "name": "Pachim Aur Purab Diputygunj",
                     "localname": "Pachim Aur Purab Diputygunj",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0039",
                     "road_w_l_12": {
@@ -1187,7 +1187,7 @@
                     "boundaryNum": 1,
                     "name": "Chakkar Ki Milak",
                     "localname": "Chakkar Ki Milak",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0040",
                     "road_w_l_12": {
@@ -1225,7 +1225,7 @@
                     "boundaryNum": 1,
                     "name": "Ambika Prasad Inter College",
                     "localname": "Ambika Prasad Inter College",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0041",
                     "road_w_l_12": {
@@ -1252,7 +1252,7 @@
                     "boundaryNum": 1,
                     "name": "Daulat Bagh",
                     "localname": "Daulat Bagh",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0042",
                     "road_w_l_12": {
@@ -1279,7 +1279,7 @@
                     "boundaryNum": 1,
                     "name": "Harijan Basti",
                     "localname": "Harijan Basti",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0043",
                     "road_w_l_12": {
@@ -1306,7 +1306,7 @@
                     "boundaryNum": 1,
                     "name": "Kati Gali",
                     "localname": "Kati Gali",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0044",
                     "road_w_l_12": {
@@ -1333,7 +1333,7 @@
                     "boundaryNum": 1,
                     "name": "Kisrol",
                     "localname": "Kisrol",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0045",
                     "road_w_l_12": {
@@ -1360,7 +1360,7 @@
                     "boundaryNum": 1,
                     "name": "Masjid",
                     "localname": "Masjid",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0046",
                     "road_w_l_12": {
@@ -1398,7 +1398,7 @@
                     "boundaryNum": 1,
                     "name": "Hospital Ground",
                     "localname": "Hospital Ground",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0047",
                     "road_w_l_12": {
@@ -1425,7 +1425,7 @@
                     "boundaryNum": 1,
                     "name": "Katra Puranjaat",
                     "localname": "Katra Puranjaat",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0048",
                     "road_w_l_12": {
@@ -1452,7 +1452,7 @@
                     "boundaryNum": 1,
                     "name": "Kotwali",
                     "localname": "Kotwali",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0049",
                     "road_w_l_12": {
@@ -1479,7 +1479,7 @@
                     "boundaryNum": 1,
                     "name": "Parihar Sarai",
                     "localname": "Parihar Sarai",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0050",
                     "road_w_l_12": {
@@ -1506,7 +1506,7 @@
                     "boundaryNum": 1,
                     "name": "Pat Pat Sarai",
                     "localname": "Pat Pat Sarai",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0051",
                     "road_w_l_12": {
@@ -1533,7 +1533,7 @@
                     "boundaryNum": 1,
                     "name": "Sarai Kaji",
                     "localname": "Sarai Kaji",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0052",
                     "road_w_l_12": {
@@ -1560,7 +1560,7 @@
                     "boundaryNum": 1,
                     "name": "Saray Raja",
                     "localname": "Saray Raja",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0053",
                     "road_w_l_12": {
@@ -1598,7 +1598,7 @@
                     "boundaryNum": 1,
                     "name": "Ajad Nagar",
                     "localname": "Ajad Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0054",
                     "road_w_l_12": {
@@ -1625,7 +1625,7 @@
                     "boundaryNum": 1,
                     "name": "Bhogpur Mithoni",
                     "localname": "Bhogpur Mithoni",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0055",
                     "road_w_l_12": {
@@ -1652,7 +1652,7 @@
                     "boundaryNum": 1,
                     "name": "Chandra Nagar",
                     "localname": "Chandra Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0056",
                     "road_w_l_12": {
@@ -1679,7 +1679,7 @@
                     "boundaryNum": 1,
                     "name": "Friends Colony",
                     "localname": "Friends Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0057",
                     "road_w_l_12": {
@@ -1706,7 +1706,7 @@
                     "boundaryNum": 1,
                     "name": "Locoshed",
                     "localname": "Locoshed",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0058",
                     "road_w_l_12": {
@@ -1733,7 +1733,7 @@
                     "boundaryNum": 1,
                     "name": "Patel Nagar",
                     "localname": "Patel Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0059",
                     "road_w_l_12": {
@@ -1760,7 +1760,7 @@
                     "boundaryNum": 1,
                     "name": "Sainikon Ki Basti",
                     "localname": "Sainikon Ki Basti",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0060",
                     "road_w_l_12": {
@@ -1798,7 +1798,7 @@
                     "boundaryNum": 1,
                     "name": "Gyani Wali Basti",
                     "localname": "Gyani Wali Basti",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0061",
                     "road_w_l_12": {
@@ -1825,7 +1825,7 @@
                     "boundaryNum": 1,
                     "name": "Homiopathic College Ki Awadi",
                     "localname": "Homiopathic College Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0062",
                     "road_w_l_12": {
@@ -1852,7 +1852,7 @@
                     "boundaryNum": 1,
                     "name": "J.R.P. Colony",
                     "localname": "J.R.P. Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0063",
                     "road_w_l_12": {
@@ -1879,7 +1879,7 @@
                     "boundaryNum": 1,
                     "name": "Railway Colony",
                     "localname": "Railway Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0064",
                     "road_w_l_12": {
@@ -1917,7 +1917,7 @@
                     "boundaryNum": 1,
                     "name": "Asaltpura Bhunda",
                     "localname": "Asaltpura Bhunda",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0065",
                     "road_w_l_12": {
@@ -1944,7 +1944,7 @@
                     "boundaryNum": 1,
                     "name": "Asaltpura Chaturth",
                     "localname": "Asaltpura Chaturth",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0066",
                     "road_w_l_12": {
@@ -1971,7 +1971,7 @@
                     "boundaryNum": 1,
                     "name": "Asaltpura Tritiya",
                     "localname": "Asaltpura Tritiya",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0067",
                     "road_w_l_12": {
@@ -1998,7 +1998,7 @@
                     "boundaryNum": 1,
                     "name": "Harijan Basti",
                     "localname": "Harijan Basti",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0068",
                     "road_w_l_12": {
@@ -2025,7 +2025,7 @@
                     "boundaryNum": 1,
                     "name": "Sidhi Sarai Purvi",
                     "localname": "Sidhi Sarai Purvi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0069",
                     "road_w_l_12": {
@@ -2063,7 +2063,7 @@
                     "boundaryNum": 1,
                     "name": "Barwalan Aashiq Warsi Nagar",
                     "localname": "Barwalan Aashiq Warsi Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0070",
                     "road_w_l_12": {
@@ -2090,7 +2090,7 @@
                     "boundaryNum": 1,
                     "name": "Jama Msjid",
                     "localname": "Jama Msjid",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0071",
                     "road_w_l_12": {
@@ -2117,7 +2117,7 @@
                     "boundaryNum": 1,
                     "name": "Kanungoyan Dakshin",
                     "localname": "Kanungoyan Dakshin",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0072",
                     "road_w_l_12": {
@@ -2144,7 +2144,7 @@
                     "boundaryNum": 1,
                     "name": "Kudaghar",
                     "localname": "Kudaghar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0073",
                     "road_w_l_12": {
@@ -2171,7 +2171,7 @@
                     "boundaryNum": 1,
                     "name": "Rajkiya Inter College",
                     "localname": "Rajkiya Inter College",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0074",
                     "road_w_l_12": {
@@ -2209,7 +2209,7 @@
                     "boundaryNum": 1,
                     "name": "Laalbagh Uttari",
                     "localname": "Laalbagh Uttari",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0075",
                     "road_w_l_12": {
@@ -2236,7 +2236,7 @@
                     "boundaryNum": 1,
                     "name": "Nawabpura Purvi",
                     "localname": "Nawabpura Purvi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0076",
                     "road_w_l_12": {
@@ -2274,7 +2274,7 @@
                     "boundaryNum": 1,
                     "name": "Dargah Nai Awadi",
                     "localname": "Dargah Nai Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0077",
                     "road_w_l_12": {
@@ -2301,7 +2301,7 @@
                     "boundaryNum": 1,
                     "name": "Gudiyabagh",
                     "localname": "Gudiyabagh",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0078",
                     "road_w_l_12": {
@@ -2328,7 +2328,7 @@
                     "boundaryNum": 1,
                     "name": "Makbara Pratham",
                     "localname": "Makbara Pratham",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0079",
                     "road_w_l_12": {
@@ -2355,7 +2355,7 @@
                     "boundaryNum": 1,
                     "name": "Makbara Uttari",
                     "localname": "Makbara Uttari",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0080",
                     "road_w_l_12": {
@@ -2382,7 +2382,7 @@
                     "boundaryNum": 1,
                     "name": "Nai Abadi",
                     "localname": "Nai Abadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0081",
                     "road_w_l_12": {
@@ -2420,7 +2420,7 @@
                     "boundaryNum": 1,
                     "name": "Afsarashiyan Gunj",
                     "localname": "Afsarashiyan Gunj",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0082",
                     "road_w_l_12": {
@@ -2447,7 +2447,7 @@
                     "boundaryNum": 1,
                     "name": "Banwata Gunj",
                     "localname": "Banwata Gunj",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0083",
                     "road_w_l_12": {
@@ -2474,7 +2474,7 @@
                     "boundaryNum": 1,
                     "name": "Baradari",
                     "localname": "Baradari",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0084",
                     "road_w_l_12": {
@@ -2501,7 +2501,7 @@
                     "boundaryNum": 1,
                     "name": "Dang",
                     "localname": "Dang",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0085",
                     "road_w_l_12": {
@@ -2528,7 +2528,7 @@
                     "boundaryNum": 1,
                     "name": "Kajalwasan Gunj",
                     "localname": "Kajalwasan Gunj",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0086",
                     "road_w_l_12": {
@@ -2555,7 +2555,7 @@
                     "boundaryNum": 1,
                     "name": "Kamal Cinema",
                     "localname": "Kamal Cinema",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0087",
                     "road_w_l_12": {
@@ -2582,7 +2582,7 @@
                     "boundaryNum": 1,
                     "name": "Nai Basti",
                     "localname": "Nai Basti",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0088",
                     "road_w_l_12": {
@@ -2620,7 +2620,7 @@
                     "boundaryNum": 1,
                     "name": "Chauki Hasan Kha",
                     "localname": "Chauki Hasan Kha",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0089",
                     "road_w_l_12": {
@@ -2647,7 +2647,7 @@
                     "boundaryNum": 1,
                     "name": "Filkhana",
                     "localname": "Filkhana",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0090",
                     "road_w_l_12": {
@@ -2674,7 +2674,7 @@
                     "boundaryNum": 1,
                     "name": "Kajitola",
                     "localname": "Kajitola",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0091",
                     "road_w_l_12": {
@@ -2701,7 +2701,7 @@
                     "boundaryNum": 1,
                     "name": "Kisraul",
                     "localname": "Kisraul",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0092",
                     "road_w_l_12": {
@@ -2728,7 +2728,7 @@
                     "boundaryNum": 1,
                     "name": "Motibagh",
                     "localname": "Motibagh",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0093",
                     "road_w_l_12": {
@@ -2755,7 +2755,7 @@
                     "boundaryNum": 1,
                     "name": "Varsi Road",
                     "localname": "Varsi Road",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0094",
                     "road_w_l_12": {
@@ -2804,7 +2804,7 @@
                     "boundaryNum": 1,
                     "name": "Ambedkar Nagar",
                     "localname": "Ambedkar Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0095",
                     "road_w_l_12": {
@@ -2831,7 +2831,7 @@
                     "boundaryNum": 1,
                     "name": "Fazalpur",
                     "localname": "Fazalpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0096",
                     "road_w_l_12": {
@@ -2858,7 +2858,7 @@
                     "boundaryNum": 1,
                     "name": "Lakadi Fazalpur",
                     "localname": "Lakadi Fazalpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0097",
                     "road_w_l_12": {
@@ -2885,7 +2885,7 @@
                     "boundaryNum": 1,
                     "name": "Mandi Samiti Ke Piche Ki Awadi",
                     "localname": "Mandi Samiti Ke Piche Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0098",
                     "road_w_l_12": {
@@ -2912,7 +2912,7 @@
                     "boundaryNum": 1,
                     "name": "Naya Mazara",
                     "localname": "Naya Mazara",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0099",
                     "road_w_l_12": {
@@ -2939,7 +2939,7 @@
                     "boundaryNum": 1,
                     "name": "Paipatpura",
                     "localname": "Paipatpura",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00100",
                     "road_w_l_12": {
@@ -2966,7 +2966,7 @@
                     "boundaryNum": 1,
                     "name": "Puranpur",
                     "localname": "Puranpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00101",
                     "road_w_l_12": {
@@ -3004,7 +3004,7 @@
                     "boundaryNum": 1,
                     "name": "Ambedkar Nagar",
                     "localname": "Ambedkar Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00102",
                     "road_w_l_12": {
@@ -3031,7 +3031,7 @@
                     "boundaryNum": 1,
                     "name": "Bhatavali",
                     "localname": "Bhatavali",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00103",
                     "road_w_l_12": {
@@ -3058,7 +3058,7 @@
                     "boundaryNum": 1,
                     "name": "Mau",
                     "localname": "Mau",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00104",
                     "road_w_l_12": {
@@ -3085,7 +3085,7 @@
                     "boundaryNum": 1,
                     "name": "Prem Nagar",
                     "localname": "Prem Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00105",
                     "road_w_l_12": {
@@ -3112,7 +3112,7 @@
                     "boundaryNum": 1,
                     "name": "Vidhanagar",
                     "localname": "Vidhanagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00106",
                     "road_w_l_12": {
@@ -3150,7 +3150,7 @@
                     "boundaryNum": 1,
                     "name": "Ashiyana - 1 And 2",
                     "localname": "Ashiyana - 1 And 2",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00107",
                     "road_w_l_12": {
@@ -3177,7 +3177,7 @@
                     "boundaryNum": 1,
                     "name": "Hasthala Gaon Uttari",
                     "localname": "Hasthala Gaon Uttari",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00108",
                     "road_w_l_12": {
@@ -3204,7 +3204,7 @@
                     "boundaryNum": 1,
                     "name": "Mau Ka Milak",
                     "localname": "Mau Ka Milak",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00109",
                     "road_w_l_12": {
@@ -3242,7 +3242,7 @@
                     "boundaryNum": 1,
                     "name": "Awas Vikas",
                     "localname": "Awas Vikas",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00110",
                     "road_w_l_12": {
@@ -3269,7 +3269,7 @@
                     "boundaryNum": 1,
                     "name": "Gandhi Ashram",
                     "localname": "Gandhi Ashram",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00111",
                     "road_w_l_12": {
@@ -3296,7 +3296,7 @@
                     "boundaryNum": 1,
                     "name": "P.A.C.",
                     "localname": "P.A.C.",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00112",
                     "road_w_l_12": {
@@ -3323,7 +3323,7 @@
                     "boundaryNum": 1,
                     "name": "Pilikothi",
                     "localname": "Pilikothi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00113",
                     "road_w_l_12": {
@@ -3361,7 +3361,7 @@
                     "boundaryNum": 1,
                     "name": "Awas Vikas Colony",
                     "localname": "Awas Vikas Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00114",
                     "road_w_l_12": {
@@ -3388,7 +3388,7 @@
                     "boundaryNum": 1,
                     "name": "Bhimathera",
                     "localname": "Bhimathera",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00115",
                     "road_w_l_12": {
@@ -3415,7 +3415,7 @@
                     "boundaryNum": 1,
                     "name": "Bhund",
                     "localname": "Bhund",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00116",
                     "road_w_l_12": {
@@ -3442,7 +3442,7 @@
                     "boundaryNum": 1,
                     "name": "Indra",
                     "localname": "Indra",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00117",
                     "road_w_l_12": {
@@ -3469,7 +3469,7 @@
                     "boundaryNum": 1,
                     "name": "Sirkoi",
                     "localname": "Sirkoi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00118",
                     "road_w_l_12": {
@@ -3507,7 +3507,7 @@
                     "boundaryNum": 1,
                     "name": "Dhakka",
                     "localname": "Dhakka",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00119",
                     "road_w_l_12": {
@@ -3534,7 +3534,7 @@
                     "boundaryNum": 1,
                     "name": "Ekta Colony",
                     "localname": "Ekta Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00120",
                     "road_w_l_12": {
@@ -3561,7 +3561,7 @@
                     "boundaryNum": 1,
                     "name": "Kundanpur",
                     "localname": "Kundanpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00121",
                     "road_w_l_12": {
@@ -3588,7 +3588,7 @@
                     "boundaryNum": 1,
                     "name": "Manjhola Ka Purvi Bhag",
                     "localname": "Manjhola Ka Purvi Bhag",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00122",
                     "road_w_l_12": {
@@ -3615,7 +3615,7 @@
                     "boundaryNum": 1,
                     "name": "Prakash Nagar",
                     "localname": "Prakash Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00123",
                     "road_w_l_12": {
@@ -3642,7 +3642,7 @@
                     "boundaryNum": 1,
                     "name": "Rameshwar Colony",
                     "localname": "Rameshwar Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00124",
                     "road_w_l_12": {
@@ -3669,7 +3669,7 @@
                     "boundaryNum": 1,
                     "name": "Sarita Nagr",
                     "localname": "Sarita Nagr",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00125",
                     "road_w_l_12": {
@@ -3696,7 +3696,7 @@
                     "boundaryNum": 1,
                     "name": "Vikas Nagar Dakshin",
                     "localname": "Vikas Nagar Dakshin",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00126",
                     "road_w_l_12": {
@@ -3734,7 +3734,7 @@
                     "boundaryNum": 1,
                     "name": "Jawahar Nagar",
                     "localname": "Jawahar Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00127",
                     "road_w_l_12": {
@@ -3761,7 +3761,7 @@
                     "boundaryNum": 1,
                     "name": "Kajipura",
                     "localname": "Kajipura",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00128",
                     "road_w_l_12": {
@@ -3788,7 +3788,7 @@
                     "boundaryNum": 1,
                     "name": "Lodipur",
                     "localname": "Lodipur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00129",
                     "road_w_l_12": {
@@ -3826,7 +3826,7 @@
                     "boundaryNum": 1,
                     "name": "Awas Vikas Colony",
                     "localname": "Awas Vikas Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00130",
                     "road_w_l_12": {
@@ -3853,7 +3853,7 @@
                     "boundaryNum": 1,
                     "name": "Budhi Vihar",
                     "localname": "Budhi Vihar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00131",
                     "road_w_l_12": {
@@ -3880,7 +3880,7 @@
                     "boundaryNum": 1,
                     "name": "Gopalpur",
                     "localname": "Gopalpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00132",
                     "road_w_l_12": {
@@ -3907,7 +3907,7 @@
                     "boundaryNum": 1,
                     "name": "Hulsangunj",
                     "localname": "Hulsangunj",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00133",
                     "road_w_l_12": {
@@ -3934,7 +3934,7 @@
                     "boundaryNum": 1,
                     "name": "Majholi",
                     "localname": "Majholi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00134",
                     "road_w_l_12": {
@@ -3961,7 +3961,7 @@
                     "boundaryNum": 1,
                     "name": "Milan Vihar",
                     "localname": "Milan Vihar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00135",
                     "road_w_l_12": {
@@ -3988,7 +3988,7 @@
                     "boundaryNum": 1,
                     "name": "Puranpur",
                     "localname": "Puranpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00136",
                     "road_w_l_12": {
@@ -4026,7 +4026,7 @@
                     "boundaryNum": 1,
                     "name": "Asalgunj",
                     "localname": "Asalgunj",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00137",
                     "road_w_l_12": {
@@ -4053,7 +4053,7 @@
                     "boundaryNum": 1,
                     "name": "Katghar Police Chowki",
                     "localname": "Katghar Police Chowki",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00138",
                     "road_w_l_12": {
@@ -4080,7 +4080,7 @@
                     "boundaryNum": 1,
                     "name": "Mahbullagunj",
                     "localname": "Mahbullagunj",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00139",
                     "road_w_l_12": {
@@ -4107,7 +4107,7 @@
                     "boundaryNum": 1,
                     "name": "Mahua Pura",
                     "localname": "Mahua Pura",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00140",
                     "road_w_l_12": {
@@ -4134,7 +4134,7 @@
                     "boundaryNum": 1,
                     "name": "Phoolwati School",
                     "localname": "Phoolwati School",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00141",
                     "road_w_l_12": {
@@ -4161,7 +4161,7 @@
                     "boundaryNum": 1,
                     "name": "Virshah Hajari",
                     "localname": "Virshah Hajari",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00142",
                     "road_w_l_12": {
@@ -4199,7 +4199,7 @@
                     "boundaryNum": 1,
                     "name": "Ambedkar Nagar",
                     "localname": "Ambedkar Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00143",
                     "road_w_l_12": {
@@ -4226,7 +4226,7 @@
                     "boundaryNum": 1,
                     "name": "Dehri Gaon",
                     "localname": "Dehri Gaon",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00144",
                     "road_w_l_12": {
@@ -4253,7 +4253,7 @@
                     "boundaryNum": 1,
                     "name": "Govind Nagar",
                     "localname": "Govind Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00145",
                     "road_w_l_12": {
@@ -4280,7 +4280,7 @@
                     "boundaryNum": 1,
                     "name": "Saraswati Vihar",
                     "localname": "Saraswati Vihar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00146",
                     "road_w_l_12": {
@@ -4307,7 +4307,7 @@
                     "boundaryNum": 1,
                     "name": "Shivpur",
                     "localname": "Shivpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00147",
                     "road_w_l_12": {
@@ -4334,7 +4334,7 @@
                     "boundaryNum": 1,
                     "name": "Vijaynagar",
                     "localname": "Vijaynagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00148",
                     "road_w_l_12": {
@@ -4372,7 +4372,7 @@
                     "boundaryNum": 1,
                     "name": "Dindayal Nagar-1 And 2",
                     "localname": "Dindayal Nagar-1 And 2",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00149",
                     "road_w_l_12": {
@@ -4399,7 +4399,7 @@
                     "boundaryNum": 1,
                     "name": "Ramganga Vihar Phase 1 And 2",
                     "localname": "Ramganga Vihar Phase 1 And 2",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00150",
                     "road_w_l_12": {
@@ -4437,7 +4437,7 @@
                     "boundaryNum": 1,
                     "name": "Gali No. 1 Se 78 Tk",
                     "localname": "Gali No. 1 Se 78 Tk",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00151",
                     "road_w_l_12": {
@@ -4464,7 +4464,7 @@
                     "boundaryNum": 1,
                     "name": "Rahmat Nagar",
                     "localname": "Rahmat Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00152",
                     "road_w_l_12": {
@@ -4491,7 +4491,7 @@
                     "boundaryNum": 1,
                     "name": "Vikash Samiti",
                     "localname": "Vikash Samiti",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00153",
                     "road_w_l_12": {
@@ -4529,7 +4529,7 @@
                     "boundaryNum": 1,
                     "name": "Karula Ki Awadi",
                     "localname": "Karula Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00154",
                     "road_w_l_12": {
@@ -4556,7 +4556,7 @@
                     "boundaryNum": 1,
                     "name": "Laal Nagari",
                     "localname": "Laal Nagari",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00155",
                     "road_w_l_12": {
@@ -4583,7 +4583,7 @@
                     "boundaryNum": 1,
                     "name": "Pandit Nagla Ki Milak",
                     "localname": "Pandit Nagla Ki Milak",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00156",
                     "road_w_l_12": {
@@ -4621,7 +4621,7 @@
                     "boundaryNum": 1,
                     "name": "Bagh Gulabrai",
                     "localname": "Bagh Gulabrai",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00157",
                     "road_w_l_12": {
@@ -4648,7 +4648,7 @@
                     "boundaryNum": 1,
                     "name": "Bajar Mukti Bagh",
                     "localname": "Bajar Mukti Bagh",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00158",
                     "road_w_l_12": {
@@ -4675,7 +4675,7 @@
                     "boundaryNum": 1,
                     "name": "Kahro Ke Mandir Ka Purvi Chetra",
                     "localname": "Kahro Ke Mandir Ka Purvi Chetra",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00159",
                     "road_w_l_12": {
@@ -4702,7 +4702,7 @@
                     "boundaryNum": 1,
                     "name": "Nawab Pur Paschim Ewam Purv",
                     "localname": "Nawab Pur Paschim Ewam Purv",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00160",
                     "road_w_l_12": {
@@ -4740,7 +4740,7 @@
                     "boundaryNum": 1,
                     "name": "Sakka Dwitiya Mugalpura",
                     "localname": "Sakka Dwitiya Mugalpura",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00161",
                     "road_w_l_12": {
@@ -4767,7 +4767,7 @@
                     "boundaryNum": 1,
                     "name": "Sakka Pratham",
                     "localname": "Sakka Pratham",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00162",
                     "road_w_l_12": {
@@ -4816,7 +4816,7 @@
                     "boundaryNum": 1,
                     "name": "Avantika Colony",
                     "localname": "Avantika Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00163",
                     "road_w_l_12": {
@@ -4843,7 +4843,7 @@
                     "boundaryNum": 1,
                     "name": "Dev Vihar",
                     "localname": "Dev Vihar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00164",
                     "road_w_l_12": {
@@ -4870,7 +4870,7 @@
                     "boundaryNum": 1,
                     "name": "Kainaal Colony",
                     "localname": "Kainaal Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00165",
                     "road_w_l_12": {
@@ -4897,7 +4897,7 @@
                     "boundaryNum": 1,
                     "name": "Mansarovar School",
                     "localname": "Mansarovar School",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00166",
                     "road_w_l_12": {
@@ -4924,7 +4924,7 @@
                     "boundaryNum": 1,
                     "name": "Naveen Nagar",
                     "localname": "Naveen Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00167",
                     "road_w_l_12": {
@@ -4951,7 +4951,7 @@
                     "boundaryNum": 1,
                     "name": "Naya Gaon",
                     "localname": "Naya Gaon",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00168",
                     "road_w_l_12": {
@@ -4989,7 +4989,7 @@
                     "boundaryNum": 1,
                     "name": "Adarsh Nagar",
                     "localname": "Adarsh Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00169",
                     "road_w_l_12": {
@@ -5016,7 +5016,7 @@
                     "boundaryNum": 1,
                     "name": "Lajpat Nagar",
                     "localname": "Lajpat Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00170",
                     "road_w_l_12": {
@@ -5043,7 +5043,7 @@
                     "boundaryNum": 1,
                     "name": "Mahbula Gunj",
                     "localname": "Mahbula Gunj",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00171",
                     "road_w_l_12": {
@@ -5070,7 +5070,7 @@
                     "boundaryNum": 1,
                     "name": "Maidamil",
                     "localname": "Maidamil",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00172",
                     "road_w_l_12": {
@@ -5108,7 +5108,7 @@
                     "boundaryNum": 1,
                     "name": "Dehri Ghat",
                     "localname": "Dehri Ghat",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00173",
                     "road_w_l_12": {
@@ -5135,7 +5135,7 @@
                     "boundaryNum": 1,
                     "name": "Gadikhana Paschim",
                     "localname": "Gadikhana Paschim",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00174",
                     "road_w_l_12": {
@@ -5162,7 +5162,7 @@
                     "boundaryNum": 1,
                     "name": "Harijan Basti",
                     "localname": "Harijan Basti",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00175",
                     "road_w_l_12": {
@@ -5189,7 +5189,7 @@
                     "boundaryNum": 1,
                     "name": "Muslim College Ki Awadi",
                     "localname": "Muslim College Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00176",
                     "road_w_l_12": {
@@ -5216,7 +5216,7 @@
                     "boundaryNum": 1,
                     "name": "Singhman Hajari",
                     "localname": "Singhman Hajari",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00177",
                     "road_w_l_12": {
@@ -5254,7 +5254,7 @@
                     "boundaryNum": 1,
                     "name": "Beldaran",
                     "localname": "Beldaran",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00178",
                     "road_w_l_12": {
@@ -5281,7 +5281,7 @@
                     "boundaryNum": 1,
                     "name": "Dehriya Mahal Sarai",
                     "localname": "Dehriya Mahal Sarai",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00179",
                     "road_w_l_12": {
@@ -5308,7 +5308,7 @@
                     "boundaryNum": 1,
                     "name": "Kanth Darwaza",
                     "localname": "Kanth Darwaza",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00180",
                     "road_w_l_12": {
@@ -5335,7 +5335,7 @@
                     "boundaryNum": 1,
                     "name": "Kona Mugalpura",
                     "localname": "Kona Mugalpura",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00181",
                     "road_w_l_12": {
@@ -5362,7 +5362,7 @@
                     "boundaryNum": 1,
                     "name": "Tabela Aashik",
                     "localname": "Tabela Aashik",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00182",
                     "road_w_l_12": {
@@ -5400,7 +5400,7 @@
                     "boundaryNum": 1,
                     "name": "Asaltgunj",
                     "localname": "Asaltgunj",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00183",
                     "road_w_l_12": {
@@ -5427,7 +5427,7 @@
                     "boundaryNum": 1,
                     "name": "Chatta Shivaraj Singh",
                     "localname": "Chatta Shivaraj Singh",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00184",
                     "road_w_l_12": {
@@ -5454,7 +5454,7 @@
                     "boundaryNum": 1,
                     "name": "Diputy Sahab Mandir Ki Awadi",
                     "localname": "Diputy Sahab Mandir Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00185",
                     "road_w_l_12": {
@@ -5481,7 +5481,7 @@
                     "boundaryNum": 1,
                     "name": "Nai Awadi",
                     "localname": "Nai Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00186",
                     "road_w_l_12": {
@@ -5508,7 +5508,7 @@
                     "boundaryNum": 1,
                     "name": "Pirjada",
                     "localname": "Pirjada",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00187",
                     "road_w_l_12": {
@@ -5535,7 +5535,7 @@
                     "boundaryNum": 1,
                     "name": "Udpura",
                     "localname": "Udpura",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00188",
                     "road_w_l_12": {
@@ -5573,7 +5573,7 @@
                     "boundaryNum": 1,
                     "name": "Chidiya Tola",
                     "localname": "Chidiya Tola",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00189",
                     "road_w_l_12": {
@@ -5600,7 +5600,7 @@
                     "boundaryNum": 1,
                     "name": "Lakshamanpuri",
                     "localname": "Lakshamanpuri",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00190",
                     "road_w_l_12": {
@@ -5627,7 +5627,7 @@
                     "boundaryNum": 1,
                     "name": "Majhola Paschim",
                     "localname": "Majhola Paschim",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00191",
                     "road_w_l_12": {
@@ -5654,7 +5654,7 @@
                     "boundaryNum": 1,
                     "name": "Mansarovar Colony",
                     "localname": "Mansarovar Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00192",
                     "road_w_l_12": {
@@ -5692,7 +5692,7 @@
                     "boundaryNum": 1,
                     "name": "Balshahid Dakshini",
                     "localname": "Balshahid Dakshini",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00193",
                     "road_w_l_12": {
@@ -5719,7 +5719,7 @@
                     "boundaryNum": 1,
                     "name": "Eidgah Ki Awadi",
                     "localname": "Eidgah Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00194",
                     "road_w_l_12": {
@@ -5757,7 +5757,7 @@
                     "boundaryNum": 1,
                     "name": "Faizgung",
                     "localname": "Faizgung",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00195",
                     "road_w_l_12": {
@@ -5784,7 +5784,7 @@
                     "boundaryNum": 1,
                     "name": "Kanun Goyan",
                     "localname": "Kanun Goyan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00196",
                     "road_w_l_12": {
@@ -5811,7 +5811,7 @@
                     "boundaryNum": 1,
                     "name": "Lalbagh Dakshin",
                     "localname": "Lalbagh Dakshin",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00197",
                     "road_w_l_12": {
@@ -5849,7 +5849,7 @@
                     "boundaryNum": 1,
                     "name": "Akhilesh Cinema",
                     "localname": "Akhilesh Cinema",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00198",
                     "road_w_l_12": {
@@ -5876,7 +5876,7 @@
                     "boundaryNum": 1,
                     "name": "Hindu College Ki Awadi",
                     "localname": "Hindu College Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00199",
                     "road_w_l_12": {
@@ -5903,7 +5903,7 @@
                     "boundaryNum": 1,
                     "name": "Imperial Cinema",
                     "localname": "Imperial Cinema",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00200",
                     "road_w_l_12": {
@@ -5930,7 +5930,7 @@
                     "boundaryNum": 1,
                     "name": "Kumar Kunj",
                     "localname": "Kumar Kunj",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00201",
                     "road_w_l_12": {
@@ -5957,7 +5957,7 @@
                     "boundaryNum": 1,
                     "name": "Mushafir Khana",
                     "localname": "Mushafir Khana",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00202",
                     "road_w_l_12": {
@@ -5984,7 +5984,7 @@
                     "boundaryNum": 1,
                     "name": "Parker College",
                     "localname": "Parker College",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00203",
                     "road_w_l_12": {
@@ -6011,7 +6011,7 @@
                     "boundaryNum": 1,
                     "name": "Sagar Sarai",
                     "localname": "Sagar Sarai",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00204",
                     "road_w_l_12": {
@@ -6038,7 +6038,7 @@
                     "boundaryNum": 1,
                     "name": "Sarai Kothiwal",
                     "localname": "Sarai Kothiwal",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00205",
                     "road_w_l_12": {
@@ -6065,7 +6065,7 @@
                     "boundaryNum": 1,
                     "name": "Saroj Cinema Ki Awadi",
                     "localname": "Saroj Cinema Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00206",
                     "road_w_l_12": {
@@ -6092,7 +6092,7 @@
                     "boundaryNum": 1,
                     "name": "Singh Bhawan",
                     "localname": "Singh Bhawan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00207",
                     "road_w_l_12": {
@@ -6130,7 +6130,7 @@
                     "boundaryNum": 1,
                     "name": "Babrayan",
                     "localname": "Babrayan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00208",
                     "road_w_l_12": {
@@ -6157,7 +6157,7 @@
                     "boundaryNum": 1,
                     "name": "Bajar Diwan",
                     "localname": "Bajar Diwan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00209",
                     "road_w_l_12": {
@@ -6184,7 +6184,7 @@
                     "boundaryNum": 1,
                     "name": "Kahran",
                     "localname": "Kahran",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00210",
                     "road_w_l_12": {
@@ -6211,7 +6211,7 @@
                     "boundaryNum": 1,
                     "name": "Katra Vanshighar",
                     "localname": "Katra Vanshighar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00211",
                     "road_w_l_12": {
@@ -6238,7 +6238,7 @@
                     "boundaryNum": 1,
                     "name": "Kothi Ahmad Hasan Baghiyan",
                     "localname": "Kothi Ahmad Hasan Baghiyan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00212",
                     "road_w_l_12": {
@@ -6265,7 +6265,7 @@
                     "boundaryNum": 1,
                     "name": "Madarsa Naimiyon",
                     "localname": "Madarsa Naimiyon",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00213",
                     "road_w_l_12": {
@@ -6292,7 +6292,7 @@
                     "boundaryNum": 1,
                     "name": "Mahalsarai",
                     "localname": "Mahalsarai",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00214",
                     "road_w_l_12": {
@@ -6319,7 +6319,7 @@
                     "boundaryNum": 1,
                     "name": "Shuklaan",
                     "localname": "Shuklaan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00215",
                     "road_w_l_12": {
@@ -6346,7 +6346,7 @@
                     "boundaryNum": 1,
                     "name": "Unchon Shekh Bachai",
                     "localname": "Unchon Shekh Bachai",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00216",
                     "road_w_l_12": {
@@ -6384,7 +6384,7 @@
                     "boundaryNum": 1,
                     "name": "Hayatnagar",
                     "localname": "Hayatnagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00217",
                     "road_w_l_12": {
@@ -6411,7 +6411,7 @@
                     "boundaryNum": 1,
                     "name": "Katra Sahid",
                     "localname": "Katra Sahid",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00218",
                     "road_w_l_12": {
@@ -6438,7 +6438,7 @@
                     "boundaryNum": 1,
                     "name": "Pirjada Uttari",
                     "localname": "Pirjada Uttari",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00219",
                     "road_w_l_12": {
@@ -6476,7 +6476,7 @@
                     "boundaryNum": 1,
                     "name": "Barwalan Dakshini",
                     "localname": "Barwalan Dakshini",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00220",
                     "road_w_l_12": {
@@ -6503,7 +6503,7 @@
                     "boundaryNum": 1,
                     "name": "Barwalan Uttari",
                     "localname": "Barwalan Uttari",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00221",
                     "road_w_l_12": {
@@ -6530,7 +6530,7 @@
                     "boundaryNum": 1,
                     "name": "Rishikul",
                     "localname": "Rishikul",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00222",
                     "road_w_l_12": {
@@ -6568,7 +6568,7 @@
                     "boundaryNum": 1,
                     "name": "Amrohagate",
                     "localname": "Amrohagate",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00223",
                     "road_w_l_12": {
@@ -6595,7 +6595,7 @@
                     "boundaryNum": 1,
                     "name": "Atai Mohalla",
                     "localname": "Atai Mohalla",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00224",
                     "road_w_l_12": {
@@ -6622,7 +6622,7 @@
                     "boundaryNum": 1,
                     "name": "Bhatti Mohalla",
                     "localname": "Bhatti Mohalla",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00225",
                     "road_w_l_12": {
@@ -6649,7 +6649,7 @@
                     "boundaryNum": 1,
                     "name": "Chaumukha Pul",
                     "localname": "Chaumukha Pul",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00226",
                     "road_w_l_12": {
@@ -6676,7 +6676,7 @@
                     "boundaryNum": 1,
                     "name": "Ganesh Mohalla",
                     "localname": "Ganesh Mohalla",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00227",
                     "road_w_l_12": {
@@ -6703,7 +6703,7 @@
                     "boundaryNum": 1,
                     "name": "Gujrati Mohalla",
                     "localname": "Gujrati Mohalla",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00228",
                     "road_w_l_12": {
@@ -6730,7 +6730,7 @@
                     "boundaryNum": 1,
                     "name": "Hospital Janana",
                     "localname": "Hospital Janana",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00229",
                     "road_w_l_12": {
@@ -6757,7 +6757,7 @@
                     "boundaryNum": 1,
                     "name": "Jilal Mohalla",
                     "localname": "Jilal Mohalla",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00230",
                     "road_w_l_12": {
@@ -6784,7 +6784,7 @@
                     "boundaryNum": 1,
                     "name": "Karyalay Nagar Nigam",
                     "localname": "Karyalay Nagar Nigam",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00231",
                     "road_w_l_12": {
@@ -6811,7 +6811,7 @@
                     "boundaryNum": 1,
                     "name": "Katra",
                     "localname": "Katra",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00232",
                     "road_w_l_12": {
@@ -6838,7 +6838,7 @@
                     "boundaryNum": 1,
                     "name": "Mandiwans",
                     "localname": "Mandiwans",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00233",
                     "road_w_l_12": {
@@ -6865,7 +6865,7 @@
                     "boundaryNum": 1,
                     "name": "Miyan Sahab Ki Gali",
                     "localname": "Miyan Sahab Ki Gali",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00234",
                     "road_w_l_12": {
@@ -6892,7 +6892,7 @@
                     "boundaryNum": 1,
                     "name": "Pujeri Gali",
                     "localname": "Pujeri Gali",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00235",
                     "road_w_l_12": {
@@ -6919,7 +6919,7 @@
                     "boundaryNum": 1,
                     "name": "Rajogali",
                     "localname": "Rajogali",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00236",
                     "road_w_l_12": {
@@ -6946,7 +6946,7 @@
                     "boundaryNum": 1,
                     "name": "Sadar Bhawan",
                     "localname": "Sadar Bhawan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00237",
                     "road_w_l_12": {
@@ -6973,7 +6973,7 @@
                     "boundaryNum": 1,
                     "name": "Sahoo Mohalla",
                     "localname": "Sahoo Mohalla",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00238",
                     "road_w_l_12": {
@@ -7000,7 +7000,7 @@
                     "boundaryNum": 1,
                     "name": "Shahi Masjid",
                     "localname": "Shahi Masjid",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00239",
                     "road_w_l_12": {
@@ -7027,7 +7027,7 @@
                     "boundaryNum": 1,
                     "name": "Tahsil Sadar",
                     "localname": "Tahsil Sadar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00240",
                     "road_w_l_12": {
@@ -7065,7 +7065,7 @@
                     "boundaryNum": 1,
                     "name": "Majar Shahbulaki Sahab Ki Awadi Aur Mukkarabpur",
                     "localname": "Majar Shahbulaki Sahab Ki Awadi Aur Mukkarabpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00241",
                     "road_w_l_12": {
@@ -7103,7 +7103,7 @@
                     "boundaryNum": 1,
                     "name": "Dindaar Pura",
                     "localname": "Dindaar Pura",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00242",
                     "road_w_l_12": {
@@ -7130,7 +7130,7 @@
                     "boundaryNum": 1,
                     "name": "Gali Gullal",
                     "localname": "Gali Gullal",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00243",
                     "road_w_l_12": {
@@ -7157,7 +7157,7 @@
                     "boundaryNum": 1,
                     "name": "Kuncha Shitaldas",
                     "localname": "Kuncha Shitaldas",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00244",
                     "road_w_l_12": {
@@ -7184,7 +7184,7 @@
                     "boundaryNum": 1,
                     "name": "Lohagadh",
                     "localname": "Lohagadh",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00245",
                     "road_w_l_12": {
@@ -7211,7 +7211,7 @@
                     "boundaryNum": 1,
                     "name": "Machlibazar",
                     "localname": "Machlibazar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00246",
                     "road_w_l_12": {
@@ -7238,7 +7238,7 @@
                     "boundaryNum": 1,
                     "name": "Reti Mohalla",
                     "localname": "Reti Mohalla",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00247",
                     "road_w_l_12": {
@@ -7265,7 +7265,7 @@
                     "boundaryNum": 1,
                     "name": "Tambaku Balan",
                     "localname": "Tambaku Balan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00248",
                     "road_w_l_12": {
@@ -7292,7 +7292,7 @@
                     "boundaryNum": 1,
                     "name": "Ththera",
                     "localname": "Ththera",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00249",
                     "road_w_l_12": {
@@ -7330,7 +7330,7 @@
                     "boundaryNum": 1,
                     "name": "Chau Ki Madhaiya",
                     "localname": "Chau Ki Madhaiya",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00250",
                     "road_w_l_12": {
@@ -7357,7 +7357,7 @@
                     "boundaryNum": 1,
                     "name": "Sitapur Das Sarai",
                     "localname": "Sitapur Das Sarai",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00251",
                     "road_w_l_12": {
@@ -7395,7 +7395,7 @@
                     "boundaryNum": 1,
                     "name": "Aawidnagar Tila",
                     "localname": "Aawidnagar Tila",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00252",
                     "road_w_l_12": {
@@ -7422,7 +7422,7 @@
                     "boundaryNum": 1,
                     "name": "Ajad Nagar",
                     "localname": "Ajad Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00253",
                     "road_w_l_12": {
@@ -7449,7 +7449,7 @@
                     "boundaryNum": 1,
                     "name": "Ashok Nagar",
                     "localname": "Ashok Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00254",
                     "road_w_l_12": {
@@ -7476,7 +7476,7 @@
                     "boundaryNum": 1,
                     "name": "Brihaspati Ka Bazar",
                     "localname": "Brihaspati Ka Bazar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00255",
                     "road_w_l_12": {
@@ -7514,7 +7514,7 @@
                     "boundaryNum": 1,
                     "name": "Bada Shah Shafa",
                     "localname": "Bada Shah Shafa",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00256",
                     "road_w_l_12": {
@@ -7541,7 +7541,7 @@
                     "boundaryNum": 1,
                     "name": "Laal Masjid",
                     "localname": "Laal Masjid",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00257",
                     "road_w_l_12": {
@@ -7568,7 +7568,7 @@
                     "boundaryNum": 1,
                     "name": "Sarai Gulzarimal",
                     "localname": "Sarai Gulzarimal",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00258",
                     "road_w_l_12": {
@@ -7595,7 +7595,7 @@
                     "boundaryNum": 1,
                     "name": "Sarai Khan Mahmood",
                     "localname": "Sarai Khan Mahmood",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00259",
                     "road_w_l_12": {
@@ -7644,7 +7644,7 @@
                     "boundaryNum": 1,
                     "name": "Dhimari Pachim",
                     "localname": "Dhimari Pachim",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00260",
                     "road_w_l_12": {
@@ -7671,7 +7671,7 @@
                     "boundaryNum": 1,
                     "name": "Islam Nagar",
                     "localname": "Islam Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00261",
                     "road_w_l_12": {
@@ -7698,7 +7698,7 @@
                     "boundaryNum": 1,
                     "name": "Maina Ther",
                     "localname": "Maina Ther",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00262",
                     "road_w_l_12": {
@@ -7725,7 +7725,7 @@
                     "boundaryNum": 1,
                     "name": "Sir Saiyaad Nagar",
                     "localname": "Sir Saiyaad Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00263",
                     "road_w_l_12": {
@@ -7763,7 +7763,7 @@
                     "boundaryNum": 1,
                     "name": "Church Police Line",
                     "localname": "Church Police Line",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00264",
                     "road_w_l_12": {
@@ -7790,7 +7790,7 @@
                     "boundaryNum": 1,
                     "name": "Civil Lines",
                     "localname": "Civil Lines",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00265",
                     "road_w_l_12": {
@@ -7817,7 +7817,7 @@
                     "boundaryNum": 1,
                     "name": "Collector Diwani",
                     "localname": "Collector Diwani",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00266",
                     "road_w_l_12": {
@@ -7844,7 +7844,7 @@
                     "boundaryNum": 1,
                     "name": "Dayanand College Ke Piche",
                     "localname": "Dayanand College Ke Piche",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00267",
                     "road_w_l_12": {
@@ -7871,7 +7871,7 @@
                     "boundaryNum": 1,
                     "name": "District Hospital",
                     "localname": "District Hospital",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00268",
                     "road_w_l_12": {
@@ -7898,7 +7898,7 @@
                     "boundaryNum": 1,
                     "name": "Kamla Centre Ke Piche Ki Awadi",
                     "localname": "Kamla Centre Ke Piche Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00269",
                     "road_w_l_12": {
@@ -7925,7 +7925,7 @@
                     "boundaryNum": 1,
                     "name": "P.T.C.",
                     "localname": "P.T.C.",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00270",
                     "road_w_l_12": {
@@ -7952,7 +7952,7 @@
                     "boundaryNum": 1,
                     "name": "Police Hospital",
                     "localname": "Police Hospital",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00271",
                     "road_w_l_12": {
@@ -7979,7 +7979,7 @@
                     "boundaryNum": 1,
                     "name": "Rajendranagar",
                     "localname": "Rajendranagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00272",
                     "road_w_l_12": {
@@ -8006,7 +8006,7 @@
                     "boundaryNum": 1,
                     "name": "Sarai Khalsa",
                     "localname": "Sarai Khalsa",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00273",
                     "road_w_l_12": {
@@ -8033,7 +8033,7 @@
                     "boundaryNum": 1,
                     "name": "State Bank Colony",
                     "localname": "State Bank Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00274",
                     "road_w_l_12": {
@@ -8071,7 +8071,7 @@
                     "boundaryNum": 1,
                     "name": "Jayantipur Paschim",
                     "localname": "Jayantipur Paschim",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00275",
                     "road_w_l_12": {
@@ -8098,7 +8098,7 @@
                     "boundaryNum": 1,
                     "name": "Manpura Dehant",
                     "localname": "Manpura Dehant",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00276",
                     "road_w_l_12": {
@@ -8125,7 +8125,7 @@
                     "boundaryNum": 1,
                     "name": "Suraj Nagar",
                     "localname": "Suraj Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00277",
                     "road_w_l_12": {
@@ -8163,7 +8163,7 @@
                     "boundaryNum": 1,
                     "name": "Galshahid Purv",
                     "localname": "Galshahid Purv",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00278",
                     "road_w_l_12": {
@@ -8190,7 +8190,7 @@
                     "boundaryNum": 1,
                     "name": "Khokharan",
                     "localname": "Khokharan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00279",
                     "road_w_l_12": {
@@ -8217,7 +8217,7 @@
                     "boundaryNum": 1,
                     "name": "Sammali Gate",
                     "localname": "Sammali Gate",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00280",
                     "road_w_l_12": {
@@ -8244,7 +8244,7 @@
                     "boundaryNum": 1,
                     "name": "Sarai Pukhta",
                     "localname": "Sarai Pukhta",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00281",
                     "road_w_l_12": {
@@ -8271,7 +8271,7 @@
                     "boundaryNum": 1,
                     "name": "Tabakiyan",
                     "localname": "Tabakiyan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00282",
                     "road_w_l_12": {
@@ -8309,7 +8309,7 @@
                     "boundaryNum": 1,
                     "name": "Asaltpura Chaturth",
                     "localname": "Asaltpura Chaturth",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00283",
                     "road_w_l_12": {
@@ -8336,7 +8336,7 @@
                     "boundaryNum": 1,
                     "name": "Bada Majba",
                     "localname": "Bada Majba",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00284",
                     "road_w_l_12": {
@@ -8363,7 +8363,7 @@
                     "boundaryNum": 1,
                     "name": "Bade Majbe Ki Aawadi",
                     "localname": "Bade Majbe Ki Aawadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00285",
                     "road_w_l_12": {
@@ -8390,7 +8390,7 @@
                     "boundaryNum": 1,
                     "name": "Chaddha Cinema Ke Piche Ki Awadi",
                     "localname": "Chaddha Cinema Ke Piche Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00286",
                     "road_w_l_12": {
@@ -8417,7 +8417,7 @@
                     "boundaryNum": 1,
                     "name": "Nala Manpur",
                     "localname": "Nala Manpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00287",
                     "road_w_l_12": {
@@ -8444,7 +8444,7 @@
                     "boundaryNum": 1,
                     "name": "Quarter Nagar Nigam",
                     "localname": "Quarter Nagar Nigam",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00288",
                     "road_w_l_12": {
@@ -8482,7 +8482,7 @@
                     "boundaryNum": 1,
                     "name": "Jayantipur Purvi",
                     "localname": "Jayantipur Purvi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00289",
                     "road_w_l_12": {
@@ -8509,7 +8509,7 @@
                     "boundaryNum": 1,
                     "name": "Neta Colony",
                     "localname": "Neta Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00290",
                     "road_w_l_12": {
@@ -8536,7 +8536,7 @@
                     "boundaryNum": 1,
                     "name": "Shiv Nagar",
                     "localname": "Shiv Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00291",
                     "road_w_l_12": {
@@ -8574,7 +8574,7 @@
                     "boundaryNum": 1,
                     "name": "Charu Ki Basti",
                     "localname": "Charu Ki Basti",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00292",
                     "road_w_l_12": {
@@ -8601,7 +8601,7 @@
                     "boundaryNum": 1,
                     "name": "Hanuman Nagar",
                     "localname": "Hanuman Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00293",
                     "road_w_l_12": {
@@ -8628,7 +8628,7 @@
                     "boundaryNum": 1,
                     "name": "K.G.K. College Ki Awadi",
                     "localname": "K.G.K. College Ki Awadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00294",
                     "road_w_l_12": {
@@ -8655,7 +8655,7 @@
                     "boundaryNum": 1,
                     "name": "Railway Colony",
                     "localname": "Railway Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00295",
                     "road_w_l_12": {
@@ -8682,7 +8682,7 @@
                     "boundaryNum": 1,
                     "name": "Ramtailaya",
                     "localname": "Ramtailaya",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00296",
                     "road_w_l_12": {
@@ -8720,7 +8720,7 @@
                     "boundaryNum": 1,
                     "name": "Chaldevpuri",
                     "localname": "Chaldevpuri",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00297",
                     "road_w_l_12": {
@@ -8747,7 +8747,7 @@
                     "boundaryNum": 1,
                     "name": "Kalyaanpur",
                     "localname": "Kalyaanpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00298",
                     "road_w_l_12": {
@@ -8774,7 +8774,7 @@
                     "boundaryNum": 1,
                     "name": "Kamla Vihar",
                     "localname": "Kamla Vihar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00299",
                     "road_w_l_12": {
@@ -8801,7 +8801,7 @@
                     "boundaryNum": 1,
                     "name": "Pital Basti",
                     "localname": "Pital Basti",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00300",
                     "road_w_l_12": {
@@ -8839,7 +8839,7 @@
                     "boundaryNum": 1,
                     "name": "Bhadaura",
                     "localname": "Bhadaura",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00301",
                     "road_w_l_12": {
@@ -8866,7 +8866,7 @@
                     "boundaryNum": 1,
                     "name": "Durgash Nagar",
                     "localname": "Durgash Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00302",
                     "road_w_l_12": {
@@ -8893,7 +8893,7 @@
                     "boundaryNum": 1,
                     "name": "Jaiminipuram",
                     "localname": "Jaiminipuram",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00303",
                     "road_w_l_12": {
@@ -8920,7 +8920,7 @@
                     "boundaryNum": 1,
                     "name": "Jaynagar",
                     "localname": "Jaynagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00304",
                     "road_w_l_12": {
@@ -8947,7 +8947,7 @@
                     "boundaryNum": 1,
                     "name": "Karbala",
                     "localname": "Karbala",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00305",
                     "road_w_l_12": {
@@ -8985,7 +8985,7 @@
                     "boundaryNum": 1,
                     "name": "Baghiparan",
                     "localname": "Baghiparan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00306",
                     "road_w_l_12": {
@@ -9012,7 +9012,7 @@
                     "boundaryNum": 1,
                     "name": "Darivapan",
                     "localname": "Darivapan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00307",
                     "road_w_l_12": {
@@ -9039,7 +9039,7 @@
                     "boundaryNum": 1,
                     "name": "Faizgaunj Purvi",
                     "localname": "Faizgaunj Purvi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00308",
                     "road_w_l_12": {
@@ -9066,7 +9066,7 @@
                     "boundaryNum": 1,
                     "name": "Faizgunj Dakshini",
                     "localname": "Faizgunj Dakshini",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00309",
                     "road_w_l_12": {
@@ -9093,7 +9093,7 @@
                     "boundaryNum": 1,
                     "name": "Kajitola",
                     "localname": "Kajitola",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00310",
                     "road_w_l_12": {
@@ -9120,7 +9120,7 @@
                     "boundaryNum": 1,
                     "name": "Pirgaib",
                     "localname": "Pirgaib",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00311",
                     "road_w_l_12": {
@@ -9147,7 +9147,7 @@
                     "boundaryNum": 1,
                     "name": "Sarai Kishan Laal",
                     "localname": "Sarai Kishan Laal",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00312",
                     "road_w_l_12": {
@@ -9174,7 +9174,7 @@
                     "boundaryNum": 1,
                     "name": "Shokatbagh",
                     "localname": "Shokatbagh",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00313",
                     "road_w_l_12": {
@@ -9212,7 +9212,7 @@
                     "boundaryNum": 1,
                     "name": "Bus Stand Se Malgodam",
                     "localname": "Bus Stand Se Malgodam",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00314",
                     "road_w_l_12": {
@@ -9239,7 +9239,7 @@
                     "boundaryNum": 1,
                     "name": "Gandhi Nagar",
                     "localname": "Gandhi Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00315",
                     "road_w_l_12": {
@@ -9266,7 +9266,7 @@
                     "boundaryNum": 1,
                     "name": "Goyal Nagar",
                     "localname": "Goyal Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00316",
                     "road_w_l_12": {
@@ -9293,7 +9293,7 @@
                     "boundaryNum": 1,
                     "name": "Jawaharnagar",
                     "localname": "Jawaharnagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00317",
                     "road_w_l_12": {
@@ -9320,7 +9320,7 @@
                     "boundaryNum": 1,
                     "name": "Khushaal Nagar",
                     "localname": "Khushaal Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00318",
                     "road_w_l_12": {
@@ -9347,7 +9347,7 @@
                     "boundaryNum": 1,
                     "name": "Kothiwalnagar",
                     "localname": "Kothiwalnagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00319",
                     "road_w_l_12": {
@@ -9374,7 +9374,7 @@
                     "boundaryNum": 1,
                     "name": "Kunwar Cinema",
                     "localname": "Kunwar Cinema",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00320",
                     "road_w_l_12": {
@@ -9401,7 +9401,7 @@
                     "boundaryNum": 1,
                     "name": "Malwiya Nagar",
                     "localname": "Malwiya Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00321",
                     "road_w_l_12": {
@@ -9428,7 +9428,7 @@
                     "boundaryNum": 1,
                     "name": "Miglani Cinema",
                     "localname": "Miglani Cinema",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00322",
                     "road_w_l_12": {
@@ -9466,7 +9466,7 @@
                     "boundaryNum": 1,
                     "name": "Dabbu Ka Naala",
                     "localname": "Dabbu Ka Naala",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00323",
                     "road_w_l_12": {
@@ -9493,7 +9493,7 @@
                     "boundaryNum": 1,
                     "name": "Diwankhana",
                     "localname": "Diwankhana",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00324",
                     "road_w_l_12": {
@@ -9520,7 +9520,7 @@
                     "boundaryNum": 1,
                     "name": "Khwazanagari",
                     "localname": "Khwazanagari",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00325",
                     "road_w_l_12": {
@@ -9547,7 +9547,7 @@
                     "boundaryNum": 1,
                     "name": "Kisraul",
                     "localname": "Kisraul",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00326",
                     "road_w_l_12": {
@@ -9574,7 +9574,7 @@
                     "boundaryNum": 1,
                     "name": "Sarai Husaini Begam",
                     "localname": "Sarai Husaini Begam",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00327",
                     "road_w_l_12": {
@@ -9601,7 +9601,7 @@
                     "boundaryNum": 1,
                     "name": "Takiya Masjid Buddhishah Ke Samne Ke Abadi",
                     "localname": "Takiya Masjid Buddhishah Ke Samne Ke Abadi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00328",
                     "road_w_l_12": {
@@ -9639,7 +9639,7 @@
                     "boundaryNum": 1,
                     "name": "Gher Sheyad Kha Purvi",
                     "localname": "Gher Sheyad Kha Purvi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00329",
                     "road_w_l_12": {
@@ -9666,7 +9666,7 @@
                     "boundaryNum": 1,
                     "name": "Mugalpura Pratham Shaukatbagh",
                     "localname": "Mugalpura Pratham Shaukatbagh",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00330",
                     "road_w_l_12": {
@@ -9704,7 +9704,7 @@
                     "boundaryNum": 1,
                     "name": "Makbara 1 And 2",
                     "localname": "Makbara 1 And 2",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00331",
                     "road_w_l_12": {
@@ -9731,7 +9731,7 @@
                     "boundaryNum": 1,
                     "name": "Makbara Sabji Mandi",
                     "localname": "Makbara Sabji Mandi",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00332",
                     "road_w_l_12": {
@@ -9758,7 +9758,7 @@
                     "boundaryNum": 1,
                     "name": "Pirjada 1",
                     "localname": "Pirjada 1",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00333",
                     "road_w_l_12": {
@@ -9796,7 +9796,7 @@
                     "boundaryNum": 1,
                     "name": "Asaaltpura-2",
                     "localname": "Asaaltpura-2",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00334",
                     "road_w_l_12": {
@@ -9823,7 +9823,7 @@
                     "boundaryNum": 1,
                     "name": "Maanpur",
                     "localname": "Maanpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00335",
                     "road_w_l_12": {
@@ -9861,7 +9861,7 @@
                     "boundaryNum": 1,
                     "name": "Muktitola",
                     "localname": "Muktitola",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00336",
                     "road_w_l_12": {
@@ -9888,7 +9888,7 @@
                     "boundaryNum": 1,
                     "name": "Rafatpura",
                     "localname": "Rafatpura",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00337",
                     "road_w_l_12": {
@@ -9915,7 +9915,7 @@
                     "boundaryNum": 1,
                     "name": "Tabela",
                     "localname": "Tabela",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00338",
                     "road_w_l_12": {
@@ -9942,7 +9942,7 @@
                     "boundaryNum": 1,
                     "name": "Tamboli",
                     "localname": "Tamboli",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00339",
                     "road_w_l_12": {
@@ -9980,7 +9980,7 @@
                     "boundaryNum": 1,
                     "name": "Asalatpur-1",
                     "localname": "Asalatpur-1",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00340",
                     "road_w_l_12": {

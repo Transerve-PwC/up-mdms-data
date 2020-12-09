@@ -35,7 +35,7 @@
                     "boundaryNum": 1,
                     "name": "KHISTAFIJA",
                     "localname": "KHISTAFIJA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR001",
                     "road_w_l_12": {
@@ -62,7 +62,7 @@
                     "boundaryNum": 1,
                     "name": "KOHADAPEER",
                     "localname": "KOHADAPEER",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR002",
                     "road_w_l_12": {
@@ -89,7 +89,7 @@
                     "boundaryNum": 1,
                     "name": "BANKHANA",
                     "localname": "BANKHANA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR003",
                     "road_w_l_12": {
@@ -127,7 +127,7 @@
                     "boundaryNum": 1,
                     "name": "PARVEJ NAGAR",
                     "localname": "PARVEJ NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR004",
                     "road_w_l_12": {
@@ -154,7 +154,7 @@
                     "boundaryNum": 1,
                     "name": "MURABPURA",
                     "localname": "MURABPURA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR005",
                     "road_w_l_12": {
@@ -181,7 +181,7 @@
                     "boundaryNum": 1,
                     "name": "RAFIYABAD",
                     "localname": "RAFIYABAD",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR006",
                     "road_w_l_12": {
@@ -208,7 +208,7 @@
                     "boundaryNum": 1,
                     "name": "CHAUDHARI MOHALLA",
                     "localname": "CHAUDHARI MOHALLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR007",
                     "road_w_l_12": {
@@ -235,7 +235,7 @@
                     "boundaryNum": 1,
                     "name": "TALAB CHAYUDHARI",
                     "localname": "TALAB CHAYUDHARI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR008",
                     "road_w_l_12": {
@@ -273,7 +273,7 @@
                     "boundaryNum": 1,
                     "name": "BAJAR SANDAL KHAN",
                     "localname": "BAJAR SANDAL KHAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR009",
                     "road_w_l_12": {
@@ -300,7 +300,7 @@
                     "boundaryNum": 1,
                     "name": "ENGLISH GANJ",
                     "localname": "ENGLISH GANJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0010",
                     "road_w_l_12": {
@@ -327,7 +327,7 @@
                     "boundaryNum": 1,
                     "name": "KOHNA KOTAVALI",
                     "localname": "KOHNA KOTAVALI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0011",
                     "road_w_l_12": {
@@ -354,7 +354,7 @@
                     "boundaryNum": 1,
                     "name": "RETI",
                     "localname": "RETI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0012",
                     "road_w_l_12": {
@@ -381,7 +381,7 @@
                     "boundaryNum": 1,
                     "name": "KANGHI TOLA",
                     "localname": "KANGHI TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0013",
                     "road_w_l_12": {
@@ -419,7 +419,7 @@
                     "boundaryNum": 1,
                     "name": "GULAB NAGAR",
                     "localname": "GULAB NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0014",
                     "road_w_l_12": {
@@ -446,7 +446,7 @@
                     "boundaryNum": 1,
                     "name": "CHAHVAI",
                     "localname": "CHAHVAI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0015",
                     "road_w_l_12": {
@@ -484,7 +484,7 @@
                     "boundaryNum": 1,
                     "name": "SANAIYA RANI MEVA KUNVAR",
                     "localname": "SANAIYA RANI MEVA KUNVAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0016",
                     "road_w_l_12": {
@@ -511,7 +511,7 @@
                     "boundaryNum": 1,
                     "name": "SARVODAY NAGAR",
                     "localname": "SARVODAY NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0017",
                     "road_w_l_12": {
@@ -538,7 +538,7 @@
                     "boundaryNum": 1,
                     "name": "JAUHARPUR",
                     "localname": "JAUHARPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0018",
                     "road_w_l_12": {
@@ -576,7 +576,7 @@
                     "boundaryNum": 1,
                     "name": "KATGHAR",
                     "localname": "KATGHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0019",
                     "road_w_l_12": {
@@ -603,7 +603,7 @@
                     "boundaryNum": 1,
                     "name": "HUSAIN BAGH",
                     "localname": "HUSAIN BAGH",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0020",
                     "road_w_l_12": {
@@ -641,7 +641,7 @@
                     "boundaryNum": 1,
                     "name": "KHALILPUR",
                     "localname": "KHALILPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0021",
                     "road_w_l_12": {
@@ -668,7 +668,7 @@
                     "boundaryNum": 1,
                     "name": "SLEEPER ROAD LABOUR COLONY",
                     "localname": "SLEEPER ROAD LABOUR COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0022",
                     "road_w_l_12": {
@@ -695,7 +695,7 @@
                     "boundaryNum": 1,
                     "name": "C.B. GANJ",
                     "localname": "C.B. GANJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0023",
                     "road_w_l_12": {
@@ -722,7 +722,7 @@
                     "boundaryNum": 1,
                     "name": "LOHIYA BIHAR (C.B. GANJ)",
                     "localname": "LOHIYA BIHAR (C.B. GANJ)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0024",
                     "road_w_l_12": {
@@ -749,7 +749,7 @@
                     "boundaryNum": 1,
                     "name": "PREMNAGAR C.B. GANJ",
                     "localname": "PREMNAGAR C.B. GANJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0025",
                     "road_w_l_12": {
@@ -776,7 +776,7 @@
                     "boundaryNum": 1,
                     "name": "C.B. GANJ INDUSTRIAL STATE",
                     "localname": "C.B. GANJ INDUSTRIAL STATE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0026",
                     "road_w_l_12": {
@@ -814,7 +814,7 @@
                     "boundaryNum": 1,
                     "name": "RIKSH BANDAN",
                     "localname": "RIKSH BANDAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0027",
                     "road_w_l_12": {
@@ -841,7 +841,7 @@
                     "boundaryNum": 1,
                     "name": "VAMANPURI",
                     "localname": "VAMANPURI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0028",
                     "road_w_l_12": {
@@ -868,7 +868,7 @@
                     "boundaryNum": 1,
                     "name": "KHANNOO",
                     "localname": "KHANNOO",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0029",
                     "road_w_l_12": {
@@ -895,7 +895,7 @@
                     "boundaryNum": 1,
                     "name": "GADHAIYA",
                     "localname": "GADHAIYA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0030",
                     "road_w_l_12": {
@@ -922,7 +922,7 @@
                     "boundaryNum": 1,
                     "name": "SARAY PUKHTA",
                     "localname": "SARAY PUKHTA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0031",
                     "road_w_l_12": {
@@ -949,7 +949,7 @@
                     "boundaryNum": 1,
                     "name": "FOOLVALAN",
                     "localname": "FOOLVALAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0032",
                     "road_w_l_12": {
@@ -987,7 +987,7 @@
                     "boundaryNum": 1,
                     "name": "NAKSHBANDHAN",
                     "localname": "NAKSHBANDHAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0033",
                     "road_w_l_12": {
@@ -1014,7 +1014,7 @@
                     "boundaryNum": 1,
                     "name": "JAKHIRA",
                     "localname": "JAKHIRA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0034",
                     "road_w_l_12": {
@@ -1041,7 +1041,7 @@
                     "boundaryNum": 1,
                     "name": "MASJID DOMANI",
                     "localname": "MASJID DOMANI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0035",
                     "road_w_l_12": {
@@ -1068,7 +1068,7 @@
                     "boundaryNum": 1,
                     "name": "GHERASHEKH MITTHOO",
                     "localname": "GHERASHEKH MITTHOO",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0036",
                     "road_w_l_12": {
@@ -1106,7 +1106,7 @@
                     "boundaryNum": 1,
                     "name": "JAGRATI NAGAR",
                     "localname": "JAGRATI NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0037",
                     "road_w_l_12": {
@@ -1133,7 +1133,7 @@
                     "boundaryNum": 1,
                     "name": "KILA CHHAVNI",
                     "localname": "KILA CHHAVNI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0038",
                     "road_w_l_12": {
@@ -1160,7 +1160,7 @@
                     "boundaryNum": 1,
                     "name": "NEELKANTHDHAM COLONY\n(SAIDPUR HAWKINS)",
                     "localname": "NEELKANTHDHAM COLONY\n(SAIDPUR HAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0039",
                     "road_w_l_12": {
@@ -1198,7 +1198,7 @@
                     "boundaryNum": 1,
                     "name": "KUWARPUR",
                     "localname": "KUWARPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0040",
                     "road_w_l_12": {
@@ -1225,7 +1225,7 @@
                     "boundaryNum": 1,
                     "name": "JASAULI",
                     "localname": "JASAULI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0041",
                     "road_w_l_12": {
@@ -1263,7 +1263,7 @@
                     "boundaryNum": 1,
                     "name": "MAHESHPUR",
                     "localname": "MAHESHPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0042",
                     "road_w_l_12": {
@@ -1290,7 +1290,7 @@
                     "boundaryNum": 1,
                     "name": "MAHESHAPUR",
                     "localname": "MAHESHAPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0043",
                     "road_w_l_12": {
@@ -1317,7 +1317,7 @@
                     "boundaryNum": 1,
                     "name": "MAHESH PUR ATARIYA",
                     "localname": "MAHESH PUR ATARIYA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0044",
                     "road_w_l_12": {
@@ -1355,7 +1355,7 @@
                     "boundaryNum": 1,
                     "name": "MALOOKPUR",
                     "localname": "MALOOKPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0045",
                     "road_w_l_12": {
@@ -1382,7 +1382,7 @@
                     "boundaryNum": 1,
                     "name": "KASGARAAN",
                     "localname": "KASGARAAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0046",
                     "road_w_l_12": {
@@ -1420,7 +1420,7 @@
                     "boundaryNum": 1,
                     "name": "TIYOOLIYA",
                     "localname": "TIYOOLIYA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0047",
                     "road_w_l_12": {
@@ -1447,7 +1447,7 @@
                     "boundaryNum": 1,
                     "name": "BANDIYA",
                     "localname": "BANDIYA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0048",
                     "road_w_l_12": {
@@ -1474,7 +1474,7 @@
                     "boundaryNum": 1,
                     "name": "MATHURAPUR",
                     "localname": "MATHURAPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0049",
                     "road_w_l_12": {
@@ -1512,7 +1512,7 @@
                     "boundaryNum": 1,
                     "name": "KRISHN VIHAR",
                     "localname": "KRISHN VIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0050",
                     "road_w_l_12": {
@@ -1539,7 +1539,7 @@
                     "boundaryNum": 1,
                     "name": "SHIVPURI (MAULANAGAR)",
                     "localname": "SHIVPURI (MAULANAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0051",
                     "road_w_l_12": {
@@ -1566,7 +1566,7 @@
                     "boundaryNum": 1,
                     "name": "AMAR COLONY (SURKHA)",
                     "localname": "AMAR COLONY (SURKHA)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0052",
                     "road_w_l_12": {
@@ -1593,7 +1593,7 @@
                     "boundaryNum": 1,
                     "name": "B.C. BANK COLONY (SURKHA)",
                     "localname": "B.C. BANK COLONY (SURKHA)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0053",
                     "road_w_l_12": {
@@ -1620,7 +1620,7 @@
                     "boundaryNum": 1,
                     "name": "MAULA NAGAR",
                     "localname": "MAULA NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0054",
                     "road_w_l_12": {
@@ -1647,7 +1647,7 @@
                     "boundaryNum": 1,
                     "name": "VIKRAMADITYAPURI (SURKHA)",
                     "localname": "VIKRAMADITYAPURI (SURKHA)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0055",
                     "road_w_l_12": {
@@ -1674,7 +1674,7 @@
                     "boundaryNum": 1,
                     "name": "SURKHA",
                     "localname": "SURKHA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0056",
                     "road_w_l_12": {
@@ -1712,7 +1712,7 @@
                     "boundaryNum": 1,
                     "name": "PARSAKHEDA AUDYOGIK\nKSHETRA",
                     "localname": "PARSAKHEDA AUDYOGIK\nKSHETRA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0057",
                     "road_w_l_12": {
@@ -1739,7 +1739,7 @@
                     "boundaryNum": 1,
                     "name": "GANGA NAGAR COLONY\n(NANDOSI)",
                     "localname": "GANGA NAGAR COLONY\n(NANDOSI)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0058",
                     "road_w_l_12": {
@@ -1766,7 +1766,7 @@
                     "boundaryNum": 1,
                     "name": "GARAGAIYA URF GOKUL PUR",
                     "localname": "GARAGAIYA URF GOKUL PUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0059",
                     "road_w_l_12": {
@@ -1793,7 +1793,7 @@
                     "boundaryNum": 1,
                     "name": "NANDAUSI",
                     "localname": "NANDAUSI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0060",
                     "road_w_l_12": {
@@ -1820,7 +1820,7 @@
                     "boundaryNum": 1,
                     "name": "PARSAKHEDA (GRAM) RAILWAY\nLINE",
                     "localname": "PARSAKHEDA (GRAM) RAILWAY\nLINE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0061",
                     "road_w_l_12": {
@@ -1847,7 +1847,7 @@
                     "boundaryNum": 1,
                     "name": "KHADUA URF HAIDARABAD",
                     "localname": "KHADUA URF HAIDARABAD",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0062",
                     "road_w_l_12": {
@@ -1874,7 +1874,7 @@
                     "boundaryNum": 1,
                     "name": "BANAJARIYA NAI BASTI\nPARSAKHEDA",
                     "localname": "BANAJARIYA NAI BASTI\nPARSAKHEDA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0063",
                     "road_w_l_12": {
@@ -1912,7 +1912,7 @@
                     "boundaryNum": 1,
                     "name": "KELABAG",
                     "localname": "KELABAG",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0064",
                     "road_w_l_12": {
@@ -1939,7 +1939,7 @@
                     "boundaryNum": 1,
                     "name": "PULKAJI",
                     "localname": "PULKAJI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0065",
                     "road_w_l_12": {
@@ -1966,7 +1966,7 @@
                     "boundaryNum": 1,
                     "name": "PUNJAB PURA",
                     "localname": "PUNJAB PURA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0066",
                     "road_w_l_12": {
@@ -1993,7 +1993,7 @@
                     "boundaryNum": 1,
                     "name": "CHHIPI TOLA",
                     "localname": "CHHIPI TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0067",
                     "road_w_l_12": {
@@ -2020,7 +2020,7 @@
                     "boundaryNum": 1,
                     "name": "SAHOOKARA",
                     "localname": "SAHOOKARA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0068",
                     "road_w_l_12": {
@@ -2047,7 +2047,7 @@
                     "boundaryNum": 1,
                     "name": "BAJARIYA MOTILAL",
                     "localname": "BAJARIYA MOTILAL",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0069",
                     "road_w_l_12": {
@@ -2074,7 +2074,7 @@
                     "boundaryNum": 1,
                     "name": "JATVARA",
                     "localname": "JATVARA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0070",
                     "road_w_l_12": {
@@ -2112,7 +2112,7 @@
                     "boundaryNum": 1,
                     "name": "PATEL BIHAR (SAIDPUR HAWKINS)",
                     "localname": "PATEL BIHAR (SAIDPUR HAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0071",
                     "road_w_l_12": {
@@ -2139,7 +2139,7 @@
                     "boundaryNum": 1,
                     "name": "SAMADHI GAUTIYA (SAIDPUR\nHAWKINS)",
                     "localname": "SAMADHI GAUTIYA (SAIDPUR\nHAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0072",
                     "road_w_l_12": {
@@ -2166,7 +2166,7 @@
                     "boundaryNum": 1,
                     "name": "VIDEO COLONY (SAIDPUR\nHAWKINS)",
                     "localname": "VIDEO COLONY (SAIDPUR\nHAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0073",
                     "road_w_l_12": {
@@ -2193,7 +2193,7 @@
                     "boundaryNum": 1,
                     "name": "KRISN VATIKA (SAIDPUR\nHAWKINS)",
                     "localname": "KRISN VATIKA (SAIDPUR\nHAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0074",
                     "road_w_l_12": {
@@ -2220,7 +2220,7 @@
                     "boundaryNum": 1,
                     "name": "SHIV DHAM (SAIDPUR HAWKINS)",
                     "localname": "SHIV DHAM (SAIDPUR HAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0075",
                     "road_w_l_12": {
@@ -2247,7 +2247,7 @@
                     "boundaryNum": 1,
                     "name": "KASHAMIRI KOTHI CAMPUS",
                     "localname": "KASHAMIRI KOTHI CAMPUS",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0076",
                     "road_w_l_12": {
@@ -2274,7 +2274,7 @@
                     "boundaryNum": 1,
                     "name": "KARMCHARI NAGAR",
                     "localname": "KARMCHARI NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0077",
                     "road_w_l_12": {
@@ -2301,7 +2301,7 @@
                     "boundaryNum": 1,
                     "name": "KRISHNA VATIKA(KARMCHARI\nNAGAR)",
                     "localname": "KRISHNA VATIKA(KARMCHARI\nNAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0078",
                     "road_w_l_12": {
@@ -2328,7 +2328,7 @@
                     "boundaryNum": 1,
                     "name": "BALAJI BIHAR (SAIDPUR HAWKINS)",
                     "localname": "BALAJI BIHAR (SAIDPUR HAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0079",
                     "road_w_l_12": {
@@ -2355,7 +2355,7 @@
                     "boundaryNum": 1,
                     "name": "SAI VATIKA (SAIDPUR HAWKINS)",
                     "localname": "SAI VATIKA (SAIDPUR HAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0080",
                     "road_w_l_12": {
@@ -2382,7 +2382,7 @@
                     "boundaryNum": 1,
                     "name": "SAIDPUR HAWKINS",
                     "localname": "SAIDPUR HAWKINS",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0081",
                     "road_w_l_12": {
@@ -2409,7 +2409,7 @@
                     "boundaryNum": 1,
                     "name": "SHIV COLONY (SAIDPUR HAEKINS)",
                     "localname": "SHIV COLONY (SAIDPUR HAEKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0082",
                     "road_w_l_12": {
@@ -2436,7 +2436,7 @@
                     "boundaryNum": 1,
                     "name": "RAM VATIKA (SAIDPUR HAWKINS)",
                     "localname": "RAM VATIKA (SAIDPUR HAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0083",
                     "road_w_l_12": {
@@ -2463,7 +2463,7 @@
                     "boundaryNum": 1,
                     "name": "TRIVENI ENCLAVE (SAIDPUR\nHAEKINS)",
                     "localname": "TRIVENI ENCLAVE (SAIDPUR\nHAEKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0084",
                     "road_w_l_12": {
@@ -2490,7 +2490,7 @@
                     "boundaryNum": 1,
                     "name": "SEVADHAM COLONY (SAIDPUR\nHAWKINS)",
                     "localname": "SEVADHAM COLONY (SAIDPUR\nHAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0085",
                     "road_w_l_12": {
@@ -2517,7 +2517,7 @@
                     "boundaryNum": 1,
                     "name": "KRISHNA KUNJ BATIKA (SAIDPUR\nHAWKINS)",
                     "localname": "KRISHNA KUNJ BATIKA (SAIDPUR\nHAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0086",
                     "road_w_l_12": {
@@ -2544,7 +2544,7 @@
                     "boundaryNum": 1,
                     "name": "ANAND BIHAR",
                     "localname": "ANAND BIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0087",
                     "road_w_l_12": {
@@ -2571,7 +2571,7 @@
                     "boundaryNum": 1,
                     "name": "SHIV GARDEN (SAIDPUR HAWKINS)",
                     "localname": "SHIV GARDEN (SAIDPUR HAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0088",
                     "road_w_l_12": {
@@ -2598,7 +2598,7 @@
                     "boundaryNum": 1,
                     "name": "PASHCHIM VIHAR COLONY\n(SAIDPUR HAWKINS)",
                     "localname": "PASHCHIM VIHAR COLONY\n(SAIDPUR HAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0089",
                     "road_w_l_12": {
@@ -2625,7 +2625,7 @@
                     "boundaryNum": 1,
                     "name": "PRATAP NAGAR (SAIDPUR\nHAWKINS)",
                     "localname": "PRATAP NAGAR (SAIDPUR\nHAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0090",
                     "road_w_l_12": {
@@ -2652,7 +2652,7 @@
                     "boundaryNum": 1,
                     "name": "AMBIKA AVAS",
                     "localname": "AMBIKA AVAS",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0091",
                     "road_w_l_12": {
@@ -2679,7 +2679,7 @@
                     "boundaryNum": 1,
                     "name": "MAHAVIR KUNJ COLONY (SAIDPUR\nHAWKINS)",
                     "localname": "MAHAVIR KUNJ COLONY (SAIDPUR\nHAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0092",
                     "road_w_l_12": {
@@ -2706,7 +2706,7 @@
                     "boundaryNum": 1,
                     "name": "OFFICERS ENCLAVE (KARMCHARI\nNAGAR)",
                     "localname": "OFFICERS ENCLAVE (KARMCHARI\nNAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0093",
                     "road_w_l_12": {
@@ -2733,7 +2733,7 @@
                     "boundaryNum": 1,
                     "name": "KESAR VATIKA (KARMCHARI\nNAGAR)",
                     "localname": "KESAR VATIKA (KARMCHARI\nNAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0094",
                     "road_w_l_12": {
@@ -2760,7 +2760,7 @@
                     "boundaryNum": 1,
                     "name": "GOKUL DHAM (SAIDPUR HAWKINS)",
                     "localname": "GOKUL DHAM (SAIDPUR HAWKINS)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0095",
                     "road_w_l_12": {
@@ -2787,7 +2787,7 @@
                     "boundaryNum": 1,
                     "name": "BRAJVASI VIHAR (KARMCHARI\nNAGAR)",
                     "localname": "BRAJVASI VIHAR (KARMCHARI\nNAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0096",
                     "road_w_l_12": {
@@ -2814,7 +2814,7 @@
                     "boundaryNum": 1,
                     "name": "LAJPAT NAGAR (KARMCHARI\nNAGAR)",
                     "localname": "LAJPAT NAGAR (KARMCHARI\nNAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0097",
                     "road_w_l_12": {
@@ -2852,7 +2852,7 @@
                     "boundaryNum": 1,
                     "name": "ROTHA (C.B. GANJ)",
                     "localname": "ROTHA (C.B. GANJ)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0098",
                     "road_w_l_12": {
@@ -2879,7 +2879,7 @@
                     "boundaryNum": 1,
                     "name": "PASTAUR",
                     "localname": "PASTAUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR0099",
                     "road_w_l_12": {
@@ -2906,7 +2906,7 @@
                     "boundaryNum": 1,
                     "name": "SARANIYA",
                     "localname": "SARANIYA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00100",
                     "road_w_l_12": {
@@ -2944,7 +2944,7 @@
                     "boundaryNum": 1,
                     "name": "JASOLI AHETMALI",
                     "localname": "JASOLI AHETMALI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00101",
                     "road_w_l_12": {
@@ -2971,7 +2971,7 @@
                     "boundaryNum": 1,
                     "name": "LICHI BAGH",
                     "localname": "LICHI BAGH",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00102",
                     "road_w_l_12": {
@@ -2998,7 +2998,7 @@
                     "boundaryNum": 1,
                     "name": "SRAI TALFI",
                     "localname": "SRAI TALFI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00103",
                     "road_w_l_12": {
@@ -3025,7 +3025,7 @@
                     "boundaryNum": 1,
                     "name": "NAVADIYA",
                     "localname": "NAVADIYA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00104",
                     "road_w_l_12": {
@@ -3052,7 +3052,7 @@
                     "boundaryNum": 1,
                     "name": "SWALE NAGAR",
                     "localname": "SWALE NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00105",
                     "road_w_l_12": {
@@ -3079,7 +3079,7 @@
                     "boundaryNum": 1,
                     "name": "CHANDAN NAGAR",
                     "localname": "CHANDAN NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00106",
                     "road_w_l_12": {
@@ -3117,7 +3117,7 @@
                     "boundaryNum": 1,
                     "name": "VIDHAULIYA C. B. GANJ",
                     "localname": "VIDHAULIYA C. B. GANJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00107",
                     "road_w_l_12": {
@@ -3144,7 +3144,7 @@
                     "boundaryNum": 1,
                     "name": "GOVINDAPUR",
                     "localname": "GOVINDAPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00108",
                     "road_w_l_12": {
@@ -3171,7 +3171,7 @@
                     "boundaryNum": 1,
                     "name": "WEST END COLONY",
                     "localname": "WEST END COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00109",
                     "road_w_l_12": {
@@ -3198,7 +3198,7 @@
                     "boundaryNum": 1,
                     "name": "SANAUA",
                     "localname": "SANAUA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00110",
                     "road_w_l_12": {
@@ -3246,7 +3246,7 @@
                     "boundaryNum": 1,
                     "name": "AKAB KOTAVALI",
                     "localname": "AKAB KOTAVALI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00111",
                     "road_w_l_12": {
@@ -3273,7 +3273,7 @@
                     "boundaryNum": 1,
                     "name": "BASMANDI",
                     "localname": "BASMANDI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00112",
                     "road_w_l_12": {
@@ -3300,7 +3300,7 @@
                     "boundaryNum": 1,
                     "name": "ALAMGIRIGANJ",
                     "localname": "ALAMGIRIGANJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00113",
                     "road_w_l_12": {
@@ -3327,7 +3327,7 @@
                     "boundaryNum": 1,
                     "name": "FARRASHI TOLA",
                     "localname": "FARRASHI TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00114",
                     "road_w_l_12": {
@@ -3365,7 +3365,7 @@
                     "boundaryNum": 1,
                     "name": "SARAY KHAM",
                     "localname": "SARAY KHAM",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00115",
                     "road_w_l_12": {
@@ -3392,7 +3392,7 @@
                     "boundaryNum": 1,
                     "name": "AJAM NAGAR",
                     "localname": "AJAM NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00116",
                     "road_w_l_12": {
@@ -3430,7 +3430,7 @@
                     "boundaryNum": 1,
                     "name": "CHADHAI NEEM",
                     "localname": "CHADHAI NEEM",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00117",
                     "road_w_l_12": {
@@ -3457,7 +3457,7 @@
                     "boundaryNum": 1,
                     "name": "KATARA MANRAY",
                     "localname": "KATARA MANRAY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00118",
                     "road_w_l_12": {
@@ -3484,7 +3484,7 @@
                     "boundaryNum": 1,
                     "name": "JAKATI",
                     "localname": "JAKATI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00119",
                     "road_w_l_12": {
@@ -3511,7 +3511,7 @@
                     "boundaryNum": 1,
                     "name": "GALI NAVAVAN",
                     "localname": "GALI NAVAVAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00120",
                     "road_w_l_12": {
@@ -3538,7 +3538,7 @@
                     "boundaryNum": 1,
                     "name": "BAJARIYA POORAN MAL",
                     "localname": "BAJARIYA POORAN MAL",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00121",
                     "road_w_l_12": {
@@ -3565,7 +3565,7 @@
                     "boundaryNum": 1,
                     "name": "MEMIYA TOLA",
                     "localname": "MEMIYA TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00122",
                     "road_w_l_12": {
@@ -3603,7 +3603,7 @@
                     "boundaryNum": 1,
                     "name": "BAKARGANJ",
                     "localname": "BAKARGANJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00123",
                     "road_w_l_12": {
@@ -3630,7 +3630,7 @@
                     "boundaryNum": 1,
                     "name": "BENIPUR CHUDHARY",
                     "localname": "BENIPUR CHUDHARY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00124",
                     "road_w_l_12": {
@@ -3668,7 +3668,7 @@
                     "boundaryNum": 1,
                     "name": "BIHARIPUR SI. LA.",
                     "localname": "BIHARIPUR SI. LA.",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00125",
                     "road_w_l_12": {
@@ -3706,7 +3706,7 @@
                     "boundaryNum": 1,
                     "name": "MEMARAN",
                     "localname": "MEMARAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00126",
                     "road_w_l_12": {
@@ -3733,7 +3733,7 @@
                     "boundaryNum": 1,
                     "name": "KHATRIYAN",
                     "localname": "KHATRIYAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00127",
                     "road_w_l_12": {
@@ -3760,7 +3760,7 @@
                     "boundaryNum": 1,
                     "name": "KARAULAN",
                     "localname": "KARAULAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00128",
                     "road_w_l_12": {
@@ -3798,7 +3798,7 @@
                     "boundaryNum": 1,
                     "name": "SHAHMATAGANJ",
                     "localname": "SHAHMATAGANJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00129",
                     "road_w_l_12": {
@@ -3825,7 +3825,7 @@
                     "boundaryNum": 1,
                     "name": "KALI BADI",
                     "localname": "KALI BADI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00130",
                     "road_w_l_12": {
@@ -3852,7 +3852,7 @@
                     "boundaryNum": 1,
                     "name": "ANCHAL COLONY",
                     "localname": "ANCHAL COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00131",
                     "road_w_l_12": {
@@ -3879,7 +3879,7 @@
                     "boundaryNum": 1,
                     "name": "JULFIKARGANJ",
                     "localname": "JULFIKARGANJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00132",
                     "road_w_l_12": {
@@ -3906,7 +3906,7 @@
                     "boundaryNum": 1,
                     "name": "FALTOONGANJ",
                     "localname": "FALTOONGANJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00133",
                     "road_w_l_12": {
@@ -3944,7 +3944,7 @@
                     "boundaryNum": 1,
                     "name": "CIVIL LINE",
                     "localname": "CIVIL LINE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00134",
                     "road_w_l_12": {
@@ -3971,7 +3971,7 @@
                     "boundaryNum": 1,
                     "name": "SARKARI VIBHAG",
                     "localname": "SARKARI VIBHAG",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00135",
                     "road_w_l_12": {
@@ -3998,7 +3998,7 @@
                     "boundaryNum": 1,
                     "name": "Gandhi Udyan",
                     "localname": "Gandhi Udyan",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00136",
                     "road_w_l_12": {
@@ -4025,7 +4025,7 @@
                     "boundaryNum": 1,
                     "name": "Bhatnagar colony",
                     "localname": "Bhatnagar colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00137",
                     "road_w_l_12": {
@@ -4052,7 +4052,7 @@
                     "boundaryNum": 1,
                     "name": "A.D.M. Compund",
                     "localname": "A.D.M. Compund",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00138",
                     "road_w_l_12": {
@@ -4079,7 +4079,7 @@
                     "boundaryNum": 1,
                     "name": "S.S.P. Office",
                     "localname": "S.S.P. Office",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00139",
                     "road_w_l_12": {
@@ -4106,7 +4106,7 @@
                     "boundaryNum": 1,
                     "name": "P.W.D. Quator",
                     "localname": "P.W.D. Quator",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00140",
                     "road_w_l_12": {
@@ -4133,7 +4133,7 @@
                     "boundaryNum": 1,
                     "name": "Tehsil",
                     "localname": "Tehsil",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00141",
                     "road_w_l_12": {
@@ -4160,7 +4160,7 @@
                     "boundaryNum": 1,
                     "name": "Power House Area",
                     "localname": "Power House Area",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00142",
                     "road_w_l_12": {
@@ -4198,7 +4198,7 @@
                     "boundaryNum": 1,
                     "name": "BRAHAMPURA",
                     "localname": "BRAHAMPURA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00143",
                     "road_w_l_12": {
@@ -4225,7 +4225,7 @@
                     "boundaryNum": 1,
                     "name": "BRAJLOK COLONY",
                     "localname": "BRAJLOK COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00144",
                     "road_w_l_12": {
@@ -4252,7 +4252,7 @@
                     "boundaryNum": 1,
                     "name": "PREM NAGAR",
                     "localname": "PREM NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00145",
                     "road_w_l_12": {
@@ -4279,7 +4279,7 @@
                     "boundaryNum": 1,
                     "name": "KANOON GAUYAN",
                     "localname": "KANOON GAUYAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00146",
                     "road_w_l_12": {
@@ -4306,7 +4306,7 @@
                     "boundaryNum": 1,
                     "name": "AARAM SIGNH BASTI",
                     "localname": "AARAM SIGNH BASTI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00147",
                     "road_w_l_12": {
@@ -4333,7 +4333,7 @@
                     "boundaryNum": 1,
                     "name": "MADHOVADI",
                     "localname": "MADHOVADI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00148",
                     "road_w_l_12": {
@@ -4371,7 +4371,7 @@
                     "boundaryNum": 1,
                     "name": "JATAVPURA",
                     "localname": "JATAVPURA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00149",
                     "road_w_l_12": {
@@ -4409,7 +4409,7 @@
                     "boundaryNum": 1,
                     "name": "MADHINATH",
                     "localname": "MADHINATH",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00150",
                     "road_w_l_12": {
@@ -4436,7 +4436,7 @@
                     "boundaryNum": 1,
                     "name": "RABINDRA NAGAR",
                     "localname": "RABINDRA NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00151",
                     "road_w_l_12": {
@@ -4463,7 +4463,7 @@
                     "boundaryNum": 1,
                     "name": "VANSHI NAGALA MADINATH",
                     "localname": "VANSHI NAGALA MADINATH",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00152",
                     "road_w_l_12": {
@@ -4490,7 +4490,7 @@
                     "boundaryNum": 1,
                     "name": "GANESH NAGAR",
                     "localname": "GANESH NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00153",
                     "road_w_l_12": {
@@ -4528,7 +4528,7 @@
                     "boundaryNum": 1,
                     "name": "NAUMAHALA CIVIL LINE",
                     "localname": "NAUMAHALA CIVIL LINE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00154",
                     "road_w_l_12": {
@@ -4555,7 +4555,7 @@
                     "boundaryNum": 1,
                     "name": "Choupla Civil Line",
                     "localname": "Choupla Civil Line",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00155",
                     "road_w_l_12": {
@@ -4582,7 +4582,7 @@
                     "boundaryNum": 1,
                     "name": "Islamia",
                     "localname": "Islamia",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00156",
                     "road_w_l_12": {
@@ -4609,7 +4609,7 @@
                     "boundaryNum": 1,
                     "name": "Jila Jail",
                     "localname": "Jila Jail",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00157",
                     "road_w_l_12": {
@@ -4636,7 +4636,7 @@
                     "boundaryNum": 1,
                     "name": "Railway colony Choupla",
                     "localname": "Railway colony Choupla",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00158",
                     "road_w_l_12": {
@@ -4674,7 +4674,7 @@
                     "boundaryNum": 1,
                     "name": "NEKPUR",
                     "localname": "NEKPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00159",
                     "road_w_l_12": {
@@ -4701,7 +4701,7 @@
                     "boundaryNum": 1,
                     "name": "TIROOPATI VIHAR (NEKAPUR)",
                     "localname": "TIROOPATI VIHAR (NEKAPUR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00160",
                     "road_w_l_12": {
@@ -4728,7 +4728,7 @@
                     "boundaryNum": 1,
                     "name": "NEKPUR (GALLA MANDI)",
                     "localname": "NEKPUR (GALLA MANDI)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00161",
                     "road_w_l_12": {
@@ -4755,7 +4755,7 @@
                     "boundaryNum": 1,
                     "name": "RAILWAY COLONY",
                     "localname": "RAILWAY COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00162",
                     "road_w_l_12": {
@@ -4793,7 +4793,7 @@
                     "boundaryNum": 1,
                     "name": "GAUTIYA KHURRAM",
                     "localname": "GAUTIYA KHURRAM",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00163",
                     "road_w_l_12": {
@@ -4820,7 +4820,7 @@
                     "boundaryNum": 1,
                     "name": "CLASSIC ENCLAVE MAKARANDPUR SARKAR (CIVIL\nLINE)",
                     "localname": "CLASSIC ENCLAVE MAKARANDPUR SARKAR (CIVIL\nLINE)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00164",
                     "road_w_l_12": {
@@ -4847,7 +4847,7 @@
                     "boundaryNum": 1,
                     "name": "MAKARANDPUR (CIVIL LINES)",
                     "localname": "MAKARANDPUR (CIVIL LINES)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00165",
                     "road_w_l_12": {
@@ -4874,7 +4874,7 @@
                     "boundaryNum": 1,
                     "name": "RAMAPUR BAG",
                     "localname": "RAMAPUR BAG",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00166",
                     "road_w_l_12": {
@@ -4901,7 +4901,7 @@
                     "boundaryNum": 1,
                     "name": "RADHESHYAM ENCLAVE",
                     "localname": "RADHESHYAM ENCLAVE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00167",
                     "road_w_l_12": {
@@ -4928,7 +4928,7 @@
                     "boundaryNum": 1,
                     "name": "SEMALKHEDA",
                     "localname": "SEMALKHEDA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00168",
                     "road_w_l_12": {
@@ -4955,7 +4955,7 @@
                     "boundaryNum": 1,
                     "name": "RAMVATIKA",
                     "localname": "RAMVATIKA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00169",
                     "road_w_l_12": {
@@ -4982,7 +4982,7 @@
                     "boundaryNum": 1,
                     "name": "Kasba Hafijpur",
                     "localname": "Kasba Hafijpur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00170",
                     "road_w_l_12": {
@@ -5009,7 +5009,7 @@
                     "boundaryNum": 1,
                     "name": "Pagalkhana",
                     "localname": "Pagalkhana",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00171",
                     "road_w_l_12": {
@@ -5036,7 +5036,7 @@
                     "boundaryNum": 1,
                     "name": "Bareilly College",
                     "localname": "Bareilly College",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00172",
                     "road_w_l_12": {
@@ -5063,7 +5063,7 @@
                     "boundaryNum": 1,
                     "name": "Forest Colony",
                     "localname": "Forest Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00173",
                     "road_w_l_12": {
@@ -5101,7 +5101,7 @@
                     "boundaryNum": 1,
                     "name": "SHAHABAD",
                     "localname": "SHAHABAD",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00174",
                     "road_w_l_12": {
@@ -5139,7 +5139,7 @@
                     "boundaryNum": 1,
                     "name": "K. K. GARVI",
                     "localname": "K. K. GARVI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00175",
                     "road_w_l_12": {
@@ -5166,7 +5166,7 @@
                     "boundaryNum": 1,
                     "name": "KANHAIYA TOLA",
                     "localname": "KANHAIYA TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00176",
                     "road_w_l_12": {
@@ -5193,7 +5193,7 @@
                     "boundaryNum": 1,
                     "name": "DARJI CHAUK",
                     "localname": "DARJI CHAUK",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00177",
                     "road_w_l_12": {
@@ -5220,7 +5220,7 @@
                     "boundaryNum": 1,
                     "name": "K.K. SHARKI (KHVAJA KUTUB)",
                     "localname": "K.K. SHARKI (KHVAJA KUTUB)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00178",
                     "road_w_l_12": {
@@ -5247,7 +5247,7 @@
                     "boundaryNum": 1,
                     "name": "SAUDAGARAN",
                     "localname": "SAUDAGARAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00179",
                     "road_w_l_12": {
@@ -5274,7 +5274,7 @@
                     "boundaryNum": 1,
                     "name": "MADARI GATE",
                     "localname": "MADARI GATE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00180",
                     "road_w_l_12": {
@@ -5301,7 +5301,7 @@
                     "boundaryNum": 1,
                     "name": "KOOCHA SITARAM",
                     "localname": "KOOCHA SITARAM",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00181",
                     "road_w_l_12": {
@@ -5328,7 +5328,7 @@
                     "boundaryNum": 1,
                     "name": "KAHARVAN",
                     "localname": "KAHARVAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00182",
                     "road_w_l_12": {
@@ -5366,7 +5366,7 @@
                     "boundaryNum": 1,
                     "name": "SUGAR FACTORY",
                     "localname": "SUGAR FACTORY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00183",
                     "road_w_l_12": {
@@ -5393,7 +5393,7 @@
                     "boundaryNum": 1,
                     "name": "R.P.F. QUATAR",
                     "localname": "R.P.F. QUATAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00184",
                     "road_w_l_12": {
@@ -5420,7 +5420,7 @@
                     "boundaryNum": 1,
                     "name": "OIL DEPOT AREA",
                     "localname": "OIL DEPOT AREA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00185",
                     "road_w_l_12": {
@@ -5458,7 +5458,7 @@
                     "boundaryNum": 1,
                     "name": "BAG AHAMAD ALI",
                     "localname": "BAG AHAMAD ALI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00186",
                     "road_w_l_12": {
@@ -5485,7 +5485,7 @@
                     "boundaryNum": 1,
                     "name": "GANGAPUR",
                     "localname": "GANGAPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00187",
                     "road_w_l_12": {
@@ -5512,7 +5512,7 @@
                     "boundaryNum": 1,
                     "name": "SHAHDANA",
                     "localname": "SHAHDANA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00188",
                     "road_w_l_12": {
@@ -5550,7 +5550,7 @@
                     "boundaryNum": 1,
                     "name": "SANAIYA DHAN SINGH",
                     "localname": "SANAIYA DHAN SINGH",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00189",
                     "road_w_l_12": {
@@ -5577,7 +5577,7 @@
                     "boundaryNum": 1,
                     "name": "SHANTI VIHAR",
                     "localname": "SHANTI VIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00190",
                     "road_w_l_12": {
@@ -5615,7 +5615,7 @@
                     "boundaryNum": 1,
                     "name": "SIKLAPUR",
                     "localname": "SIKLAPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00191",
                     "road_w_l_12": {
@@ -5642,7 +5642,7 @@
                     "boundaryNum": 1,
                     "name": "BAGBRIGATAN",
                     "localname": "BAGBRIGATAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00192",
                     "road_w_l_12": {
@@ -5680,7 +5680,7 @@
                     "boundaryNum": 1,
                     "name": "SITHAURA",
                     "localname": "SITHAURA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00193",
                     "road_w_l_12": {
@@ -5718,7 +5718,7 @@
                     "boundaryNum": 1,
                     "name": "TILAK COLONY (SUBHASH NAGAR)",
                     "localname": "TILAK COLONY (SUBHASH NAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00194",
                     "road_w_l_12": {
@@ -5745,7 +5745,7 @@
                     "boundaryNum": 1,
                     "name": "VAGGA COLONY (SUBHASH NAGAR)",
                     "localname": "VAGGA COLONY (SUBHASH NAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00195",
                     "road_w_l_12": {
@@ -5772,7 +5772,7 @@
                     "boundaryNum": 1,
                     "name": "SUBHASH NAGAR",
                     "localname": "SUBHASH NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00196",
                     "road_w_l_12": {
@@ -5799,7 +5799,7 @@
                     "boundaryNum": 1,
                     "name": "SARVODAY NAGAR",
                     "localname": "SARVODAY NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00197",
                     "road_w_l_12": {
@@ -5826,7 +5826,7 @@
                     "boundaryNum": 1,
                     "name": "RAILWAY SCHOOL",
                     "localname": "RAILWAY SCHOOL",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00198",
                     "road_w_l_12": {
@@ -5864,7 +5864,7 @@
                     "boundaryNum": 1,
                     "name": "VEER BHATTI",
                     "localname": "VEER BHATTI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00199",
                     "road_w_l_12": {
@@ -5912,7 +5912,7 @@
                     "boundaryNum": 1,
                     "name": "PASHUPATI VIHAR",
                     "localname": "PASHUPATI VIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00200",
                     "road_w_l_12": {
@@ -5939,7 +5939,7 @@
                     "boundaryNum": 1,
                     "name": "AIZAJNAGAR GAUTIYA",
                     "localname": "AIZAJNAGAR GAUTIYA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00201",
                     "road_w_l_12": {
@@ -5966,7 +5966,7 @@
                     "boundaryNum": 1,
                     "name": "TULSI NAGAR",
                     "localname": "TULSI NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00202",
                     "road_w_l_12": {
@@ -6004,7 +6004,7 @@
                     "boundaryNum": 1,
                     "name": "CHANDRAGUPT PURAM COLONY",
                     "localname": "CHANDRAGUPT PURAM COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00203",
                     "road_w_l_12": {
@@ -6031,7 +6031,7 @@
                     "boundaryNum": 1,
                     "name": "AKASHPURAM",
                     "localname": "AKASHPURAM",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00204",
                     "road_w_l_12": {
@@ -6058,7 +6058,7 @@
                     "boundaryNum": 1,
                     "name": "GARDAN CITY",
                     "localname": "GARDAN CITY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00205",
                     "road_w_l_12": {
@@ -6085,7 +6085,7 @@
                     "boundaryNum": 1,
                     "name": "JAGATAPUR",
                     "localname": "JAGATAPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00206",
                     "road_w_l_12": {
@@ -6112,7 +6112,7 @@
                     "boundaryNum": 1,
                     "name": "R.P. ENCLAVE",
                     "localname": "R.P. ENCLAVE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00207",
                     "road_w_l_12": {
@@ -6150,7 +6150,7 @@
                     "boundaryNum": 1,
                     "name": "KAILASHPURAM",
                     "localname": "KAILASHPURAM",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00208",
                     "road_w_l_12": {
@@ -6177,7 +6177,7 @@
                     "boundaryNum": 1,
                     "name": "ADARSHNAGAR (VEER SAVARKAR\nNAGAR)",
                     "localname": "ADARSHNAGAR (VEER SAVARKAR\nNAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00209",
                     "road_w_l_12": {
@@ -6204,7 +6204,7 @@
                     "boundaryNum": 1,
                     "name": "VANNOOVAL NAGAR",
                     "localname": "VANNOOVAL NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00210",
                     "road_w_l_12": {
@@ -6231,7 +6231,7 @@
                     "boundaryNum": 1,
                     "name": "VANNUWAL AWAAS",
                     "localname": "VANNUWAL AWAAS",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00211",
                     "road_w_l_12": {
@@ -6258,7 +6258,7 @@
                     "boundaryNum": 1,
                     "name": "M.E.S. COLONY(DELAPEER)",
                     "localname": "M.E.S. COLONY(DELAPEER)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00212",
                     "road_w_l_12": {
@@ -6285,7 +6285,7 @@
                     "boundaryNum": 1,
                     "name": "DELAPEER",
                     "localname": "DELAPEER",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00213",
                     "road_w_l_12": {
@@ -6312,7 +6312,7 @@
                     "boundaryNum": 1,
                     "name": "KIRPAL NAGAR",
                     "localname": "KIRPAL NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00214",
                     "road_w_l_12": {
@@ -6339,7 +6339,7 @@
                     "boundaryNum": 1,
                     "name": "MUNSHI NAGAR",
                     "localname": "MUNSHI NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00215",
                     "road_w_l_12": {
@@ -6366,7 +6366,7 @@
                     "boundaryNum": 1,
                     "name": "AVADH BIHAR",
                     "localname": "AVADH BIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00216",
                     "road_w_l_12": {
@@ -6393,7 +6393,7 @@
                     "boundaryNum": 1,
                     "name": "VIR SAVARAKAR NAGAR",
                     "localname": "VIR SAVARAKAR NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00217",
                     "road_w_l_12": {
@@ -6420,7 +6420,7 @@
                     "boundaryNum": 1,
                     "name": "CHANDRAMANI NAGAR",
                     "localname": "CHANDRAMANI NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00218",
                     "road_w_l_12": {
@@ -6447,7 +6447,7 @@
                     "boundaryNum": 1,
                     "name": "NEELKANTH",
                     "localname": "NEELKANTH",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00219",
                     "road_w_l_12": {
@@ -6474,7 +6474,7 @@
                     "boundaryNum": 1,
                     "name": "DEVVIHAR",
                     "localname": "DEVVIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00220",
                     "road_w_l_12": {
@@ -6501,7 +6501,7 @@
                     "boundaryNum": 1,
                     "name": "KRISNAYAN COLONY",
                     "localname": "KRISNAYAN COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00221",
                     "road_w_l_12": {
@@ -6528,7 +6528,7 @@
                     "boundaryNum": 1,
                     "name": "RAM BIHAR COLONY",
                     "localname": "RAM BIHAR COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00222",
                     "road_w_l_12": {
@@ -6555,7 +6555,7 @@
                     "boundaryNum": 1,
                     "name": "GAGAN VIHAR (DELAPEER)",
                     "localname": "GAGAN VIHAR (DELAPEER)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00223",
                     "road_w_l_12": {
@@ -6582,7 +6582,7 @@
                     "boundaryNum": 1,
                     "name": "NARAYAN AWAAS",
                     "localname": "NARAYAN AWAAS",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00224",
                     "road_w_l_12": {
@@ -6609,7 +6609,7 @@
                     "boundaryNum": 1,
                     "name": "MITHALAPURI / AVADH BIHAR",
                     "localname": "MITHALAPURI / AVADH BIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00225",
                     "road_w_l_12": {
@@ -6647,7 +6647,7 @@
                     "boundaryNum": 1,
                     "name": "SAMRAT ASHOK NAGAR (JOGI\nNAVADA)",
                     "localname": "SAMRAT ASHOK NAGAR (JOGI\nNAVADA)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00226",
                     "road_w_l_12": {
@@ -6685,7 +6685,7 @@
                     "boundaryNum": 1,
                     "name": "GOPAL NAGAR (JOGI NAVADA)",
                     "localname": "GOPAL NAGAR (JOGI NAVADA)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00227",
                     "road_w_l_12": {
@@ -6712,7 +6712,7 @@
                     "boundaryNum": 1,
                     "name": "MEGA CITY (SANJAYNAGAR)",
                     "localname": "MEGA CITY (SANJAYNAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00228",
                     "road_w_l_12": {
@@ -6739,7 +6739,7 @@
                     "boundaryNum": 1,
                     "name": "DURGA NAGAR COLONY",
                     "localname": "DURGA NAGAR COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00229",
                     "road_w_l_12": {
@@ -6777,7 +6777,7 @@
                     "boundaryNum": 1,
                     "name": "LODHI TOLA",
                     "localname": "LODHI TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00230",
                     "road_w_l_12": {
@@ -6804,7 +6804,7 @@
                     "boundaryNum": 1,
                     "name": "CHAK MAHAMOOD",
                     "localname": "CHAK MAHAMOOD",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00231",
                     "road_w_l_12": {
@@ -6842,7 +6842,7 @@
                     "boundaryNum": 1,
                     "name": "CHAK MAHAMOOD NAGAR",
                     "localname": "CHAK MAHAMOOD NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00232",
                     "road_w_l_12": {
@@ -6880,7 +6880,7 @@
                     "boundaryNum": 1,
                     "name": "VISHNU DHAM",
                     "localname": "VISHNU DHAM",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00233",
                     "road_w_l_12": {
@@ -6907,7 +6907,7 @@
                     "boundaryNum": 1,
                     "name": "TULASHERPUR",
                     "localname": "TULASHERPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00234",
                     "road_w_l_12": {
@@ -6934,7 +6934,7 @@
                     "boundaryNum": 1,
                     "name": "BIHARMAN NAGALA",
                     "localname": "BIHARMAN NAGALA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00235",
                     "road_w_l_12": {
@@ -6961,7 +6961,7 @@
                     "boundaryNum": 1,
                     "name": "PARVANA NAGAR (DELAPEER)",
                     "localname": "PARVANA NAGAR (DELAPEER)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00236",
                     "road_w_l_12": {
@@ -6988,7 +6988,7 @@
                     "boundaryNum": 1,
                     "name": "CHOTIBIHAR",
                     "localname": "CHOTIBIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00237",
                     "road_w_l_12": {
@@ -7015,7 +7015,7 @@
                     "boundaryNum": 1,
                     "name": "SURYA ENCLAVE",
                     "localname": "SURYA ENCLAVE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00238",
                     "road_w_l_12": {
@@ -7042,7 +7042,7 @@
                     "boundaryNum": 1,
                     "name": "MAHANAGAR COLONY",
                     "localname": "MAHANAGAR COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00239",
                     "road_w_l_12": {
@@ -7069,7 +7069,7 @@
                     "boundaryNum": 1,
                     "name": "ASHUTOSH CITY (DELAPEER)",
                     "localname": "ASHUTOSH CITY (DELAPEER)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00240",
                     "road_w_l_12": {
@@ -7096,7 +7096,7 @@
                     "boundaryNum": 1,
                     "name": "SILVER STATE",
                     "localname": "SILVER STATE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00241",
                     "road_w_l_12": {
@@ -7134,7 +7134,7 @@
                     "boundaryNum": 1,
                     "name": "HAJIYAPUR",
                     "localname": "HAJIYAPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00242",
                     "road_w_l_12": {
@@ -7161,7 +7161,7 @@
                     "boundaryNum": 1,
                     "name": "CITY HART",
                     "localname": "CITY HART",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00243",
                     "road_w_l_12": {
@@ -7188,7 +7188,7 @@
                     "boundaryNum": 1,
                     "name": "SHYAM ENCLAVE",
                     "localname": "SHYAM ENCLAVE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00244",
                     "road_w_l_12": {
@@ -7215,7 +7215,7 @@
                     "boundaryNum": 1,
                     "name": "RESIDENCY GARDEN",
                     "localname": "RESIDENCY GARDEN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00245",
                     "road_w_l_12": {
@@ -7242,7 +7242,7 @@
                     "boundaryNum": 1,
                     "name": "KAUSHAMBI ENCLAVE",
                     "localname": "KAUSHAMBI ENCLAVE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00246",
                     "road_w_l_12": {
@@ -7269,7 +7269,7 @@
                     "boundaryNum": 1,
                     "name": "PUSKAR ENCLAVE",
                     "localname": "PUSKAR ENCLAVE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00247",
                     "road_w_l_12": {
@@ -7307,7 +7307,7 @@
                     "boundaryNum": 1,
                     "name": "MAN SAROVAR GARDAN (Haroonagla) SWATAH KAR NIRDHARAN",
                     "localname": "MAN SAROVAR GARDAN (Haroonagla) SWATAH KAR NIRDHARAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00248",
                     "road_w_l_12": {
@@ -7334,7 +7334,7 @@
                     "boundaryNum": 1,
                     "name": "MAN SAROVAR GARDAN",
                     "localname": "MAN SAROVAR GARDAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00249",
                     "road_w_l_12": {
@@ -7361,7 +7361,7 @@
                     "boundaryNum": 1,
                     "name": "KHUSHBOO ENCLAVE",
                     "localname": "KHUSHBOO ENCLAVE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00250",
                     "road_w_l_12": {
@@ -7388,7 +7388,7 @@
                     "boundaryNum": 1,
                     "name": "MAA VAISHNOPURAM (JAGATPUR\nLALA BEGAM)",
                     "localname": "MAA VAISHNOPURAM (JAGATPUR\nLALA BEGAM)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00251",
                     "road_w_l_12": {
@@ -7415,7 +7415,7 @@
                     "boundaryNum": 1,
                     "name": "RADHAKUNJ COLONY\nHAROONAGALA",
                     "localname": "RADHAKUNJ COLONY\nHAROONAGALA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00252",
                     "road_w_l_12": {
@@ -7442,7 +7442,7 @@
                     "boundaryNum": 1,
                     "name": "MAA VAISHNO KUNJ DOHRA\n(HAROONAGLA)",
                     "localname": "MAA VAISHNO KUNJ DOHRA\n(HAROONAGLA)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00253",
                     "road_w_l_12": {
@@ -7469,7 +7469,7 @@
                     "boundaryNum": 1,
                     "name": "HAROONGALA",
                     "localname": "HAROONGALA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00254",
                     "road_w_l_12": {
@@ -7496,7 +7496,7 @@
                     "boundaryNum": 1,
                     "name": "KRISNA NAGAR COLONY\n(HAROONAGALA)",
                     "localname": "KRISNA NAGAR COLONY\n(HAROONAGALA)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00255",
                     "road_w_l_12": {
@@ -7523,7 +7523,7 @@
                     "boundaryNum": 1,
                     "name": "PANCH SHEEL NAGAR",
                     "localname": "PANCH SHEEL NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00256",
                     "road_w_l_12": {
@@ -7550,7 +7550,7 @@
                     "boundaryNum": 1,
                     "name": "SANI RESIDENCY HAROONGALA",
                     "localname": "SANI RESIDENCY HAROONGALA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00257",
                     "road_w_l_12": {
@@ -7577,7 +7577,7 @@
                     "boundaryNum": 1,
                     "name": "FAIK ENCLAVE",
                     "localname": "FAIK ENCLAVE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00258",
                     "road_w_l_12": {
@@ -7604,7 +7604,7 @@
                     "boundaryNum": 1,
                     "name": "GREEN PARK VISTAR COLONY",
                     "localname": "GREEN PARK VISTAR COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00259",
                     "road_w_l_12": {
@@ -7631,7 +7631,7 @@
                     "boundaryNum": 1,
                     "name": "GREEN PARK COLONY",
                     "localname": "GREEN PARK COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00260",
                     "road_w_l_12": {
@@ -7658,7 +7658,7 @@
                     "boundaryNum": 1,
                     "name": "AMIT BIHAR COLONY\nHAROONGALA",
                     "localname": "AMIT BIHAR COLONY\nHAROONGALA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00261",
                     "road_w_l_12": {
@@ -7685,7 +7685,7 @@
                     "boundaryNum": 1,
                     "name": "AGRASEN NAGAR HAROONGALA",
                     "localname": "AGRASEN NAGAR HAROONGALA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00262",
                     "road_w_l_12": {
@@ -7712,7 +7712,7 @@
                     "boundaryNum": 1,
                     "name": "GREATER GREEN PARK COLONY",
                     "localname": "GREATER GREEN PARK COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00263",
                     "road_w_l_12": {
@@ -7739,7 +7739,7 @@
                     "boundaryNum": 1,
                     "name": "PAWAN BIHAR",
                     "localname": "PAWAN BIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00264",
                     "road_w_l_12": {
@@ -7766,7 +7766,7 @@
                     "boundaryNum": 1,
                     "name": "GANESH PURAM",
                     "localname": "GANESH PURAM",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00265",
                     "road_w_l_12": {
@@ -7804,7 +7804,7 @@
                     "boundaryNum": 1,
                     "name": "KOT",
                     "localname": "KOT",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00266",
                     "road_w_l_12": {
@@ -7831,7 +7831,7 @@
                     "boundaryNum": 1,
                     "name": "KANKAR TOLA",
                     "localname": "KANKAR TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00267",
                     "road_w_l_12": {
@@ -7869,7 +7869,7 @@
                     "boundaryNum": 1,
                     "name": "KATARA CHAND KHA SWATAH KAR\nNIRDHARAN",
                     "localname": "KATARA CHAND KHA SWATAH KAR\nNIRDHARAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00268",
                     "road_w_l_12": {
@@ -7896,7 +7896,7 @@
                     "boundaryNum": 1,
                     "name": "SINDHU NAGAR",
                     "localname": "SINDHU NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00269",
                     "road_w_l_12": {
@@ -7923,7 +7923,7 @@
                     "boundaryNum": 1,
                     "name": "AJAD NAGAR SWATAH KAR\nNIRDHARAN",
                     "localname": "AJAD NAGAR SWATAH KAR\nNIRDHARAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00270",
                     "road_w_l_12": {
@@ -7950,7 +7950,7 @@
                     "boundaryNum": 1,
                     "name": "NISHA ENCLAVE ( UNIVERSITY\nROAD)",
                     "localname": "NISHA ENCLAVE ( UNIVERSITY\nROAD)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00271",
                     "road_w_l_12": {
@@ -7977,7 +7977,7 @@
                     "boundaryNum": 1,
                     "name": "KATARA CHAND KHAN",
                     "localname": "KATARA CHAND KHAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00272",
                     "road_w_l_12": {
@@ -8015,7 +8015,7 @@
                     "boundaryNum": 1,
                     "name": "NAVADA JOGIYAN",
                     "localname": "NAVADA JOGIYAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00273",
                     "road_w_l_12": {
@@ -8053,7 +8053,7 @@
                     "boundaryNum": 1,
                     "name": "NAI BASTI",
                     "localname": "NAI BASTI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00274",
                     "road_w_l_12": {
@@ -8091,7 +8091,7 @@
                     "boundaryNum": 1,
                     "name": "NAVADA SHEKHAN (RAJANAGAR)\nSWATAH KAR NIRDHARAN",
                     "localname": "NAVADA SHEKHAN (RAJANAGAR)\nSWATAH KAR NIRDHARAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00275",
                     "road_w_l_12": {
@@ -8118,7 +8118,7 @@
                     "boundaryNum": 1,
                     "name": "NAVADA SHEKHAN",
                     "localname": "NAVADA SHEKHAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00276",
                     "road_w_l_12": {
@@ -8145,7 +8145,7 @@
                     "boundaryNum": 1,
                     "name": "NAVADA SHEKHAN (SWATAH KAR)",
                     "localname": "NAVADA SHEKHAN (SWATAH KAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00277",
                     "road_w_l_12": {
@@ -8172,7 +8172,7 @@
                     "boundaryNum": 1,
                     "name": "KRISNA NAGAR PILIBHIT BYPASS",
                     "localname": "KRISNA NAGAR PILIBHIT BYPASS",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00278",
                     "road_w_l_12": {
@@ -8210,7 +8210,7 @@
                     "boundaryNum": 1,
                     "name": "RABDI TOLA",
                     "localname": "RABDI TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00279",
                     "road_w_l_12": {
@@ -8248,7 +8248,7 @@
                     "boundaryNum": 1,
                     "name": "ROHALI TOLA",
                     "localname": "ROHALI TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00280",
                     "road_w_l_12": {
@@ -8286,7 +8286,7 @@
                     "boundaryNum": 1,
                     "name": "SAHASAVANI TOLA",
                     "localname": "SAHASAVANI TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00281",
                     "road_w_l_12": {
@@ -8313,7 +8313,7 @@
                     "boundaryNum": 1,
                     "name": "BUKHARPURA",
                     "localname": "BUKHARPURA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00282",
                     "road_w_l_12": {
@@ -8340,7 +8340,7 @@
                     "boundaryNum": 1,
                     "name": "ABDULLA GANJ",
                     "localname": "ABDULLA GANJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00283",
                     "road_w_l_12": {
@@ -8378,7 +8378,7 @@
                     "boundaryNum": 1,
                     "name": "SANJAY NAGAR",
                     "localname": "SANJAY NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00284",
                     "road_w_l_12": {
@@ -8405,7 +8405,7 @@
                     "boundaryNum": 1,
                     "name": "ASHAPURAM",
                     "localname": "ASHAPURAM",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00285",
                     "road_w_l_12": {
@@ -8432,7 +8432,7 @@
                     "boundaryNum": 1,
                     "name": "ANAND BIHAR (SANJAY NAGAR)",
                     "localname": "ANAND BIHAR (SANJAY NAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00286",
                     "road_w_l_12": {
@@ -8459,7 +8459,7 @@
                     "boundaryNum": 1,
                     "name": "SAINIK COLONY",
                     "localname": "SAINIK COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00287",
                     "road_w_l_12": {
@@ -8486,7 +8486,7 @@
                     "boundaryNum": 1,
                     "name": "TULIP TOWER (SANJAY NAGAR)",
                     "localname": "TULIP TOWER (SANJAY NAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00288",
                     "road_w_l_12": {
@@ -8513,7 +8513,7 @@
                     "boundaryNum": 1,
                     "name": "AMAR NATH DHAM COLONY",
                     "localname": "AMAR NATH DHAM COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00289",
                     "road_w_l_12": {
@@ -8551,7 +8551,7 @@
                     "boundaryNum": 1,
                     "name": "SAILANI",
                     "localname": "SAILANI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00290",
                     "road_w_l_12": {
@@ -8578,7 +8578,7 @@
                     "boundaryNum": 1,
                     "name": "KATIKUIYA",
                     "localname": "KATIKUIYA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00291",
                     "road_w_l_12": {
@@ -8605,7 +8605,7 @@
                     "boundaryNum": 1,
                     "name": "KAJI TOLA",
                     "localname": "KAJI TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00292",
                     "road_w_l_12": {
@@ -8632,7 +8632,7 @@
                     "boundaryNum": 1,
                     "name": "SOOFI TOLA",
                     "localname": "SOOFI TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00293",
                     "road_w_l_12": {
@@ -8659,7 +8659,7 @@
                     "boundaryNum": 1,
                     "name": "GHER JAFAR KHAN",
                     "localname": "GHER JAFAR KHAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00294",
                     "road_w_l_12": {
@@ -8686,7 +8686,7 @@
                     "boundaryNum": 1,
                     "name": "KASAI TOLA",
                     "localname": "KASAI TOLA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00295",
                     "road_w_l_12": {
@@ -8724,7 +8724,7 @@
                     "boundaryNum": 1,
                     "name": "SURESH SHARMA NAGAR",
                     "localname": "SURESH SHARMA NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00296",
                     "road_w_l_12": {
@@ -8751,7 +8751,7 @@
                     "boundaryNum": 1,
                     "name": "NIRMAN NAGAR",
                     "localname": "NIRMAN NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00297",
                     "road_w_l_12": {
@@ -8778,7 +8778,7 @@
                     "boundaryNum": 1,
                     "name": "LAKSMI NAGAR COLONY",
                     "localname": "LAKSMI NAGAR COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00298",
                     "road_w_l_12": {
@@ -8805,7 +8805,7 @@
                     "boundaryNum": 1,
                     "name": "RAMAYAN VIHAR",
                     "localname": "RAMAYAN VIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00299",
                     "road_w_l_12": {
@@ -8853,7 +8853,7 @@
                     "boundaryNum": 1,
                     "name": "DIVYA LOK COLONY",
                     "localname": "DIVYA LOK COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00300",
                     "road_w_l_12": {
@@ -8880,7 +8880,7 @@
                     "boundaryNum": 1,
                     "name": "PURNAGIRI VIHAR",
                     "localname": "PURNAGIRI VIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00301",
                     "road_w_l_12": {
@@ -8907,7 +8907,7 @@
                     "boundaryNum": 1,
                     "name": "RAMAYAN EPARTAMENT",
                     "localname": "RAMAYAN EPARTAMENT",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00302",
                     "road_w_l_12": {
@@ -8934,7 +8934,7 @@
                     "boundaryNum": 1,
                     "name": "RAJIV KUNJ",
                     "localname": "RAJIV KUNJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00303",
                     "road_w_l_12": {
@@ -8961,7 +8961,7 @@
                     "boundaryNum": 1,
                     "name": "VRINDAVAN COLONY",
                     "localname": "VRINDAVAN COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00304",
                     "road_w_l_12": {
@@ -8988,7 +8988,7 @@
                     "boundaryNum": 1,
                     "name": "PUSPANJALI COLONY",
                     "localname": "PUSPANJALI COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00305",
                     "road_w_l_12": {
@@ -9015,7 +9015,7 @@
                     "boundaryNum": 1,
                     "name": "RAJENDRA NAGAR",
                     "localname": "RAJENDRA NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00306",
                     "road_w_l_12": {
@@ -9042,7 +9042,7 @@
                     "boundaryNum": 1,
                     "name": "RAJENDRA NAGAR (C. BLOCK)",
                     "localname": "RAJENDRA NAGAR (C. BLOCK)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00307",
                     "road_w_l_12": {
@@ -9069,7 +9069,7 @@
                     "boundaryNum": 1,
                     "name": "SWAPN LOK COLONY",
                     "localname": "SWAPN LOK COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00308",
                     "road_w_l_12": {
@@ -9096,7 +9096,7 @@
                     "boundaryNum": 1,
                     "name": "RAJENDR NAGAR(E. BLOCK)",
                     "localname": "RAJENDR NAGAR(E. BLOCK)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00309",
                     "road_w_l_12": {
@@ -9123,7 +9123,7 @@
                     "boundaryNum": 1,
                     "name": "RAJENDR NAGAR(D. BLOCK)",
                     "localname": "RAJENDR NAGAR(D. BLOCK)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00310",
                     "road_w_l_12": {
@@ -9150,7 +9150,7 @@
                     "boundaryNum": 1,
                     "name": "GUL MOHAR PARK (RAJENDR\nNAGAR)",
                     "localname": "GUL MOHAR PARK (RAJENDR\nNAGAR)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00311",
                     "road_w_l_12": {
@@ -9177,7 +9177,7 @@
                     "boundaryNum": 1,
                     "name": "GLAXY HOME",
                     "localname": "GLAXY HOME",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00312",
                     "road_w_l_12": {
@@ -9204,7 +9204,7 @@
                     "boundaryNum": 1,
                     "name": "DEEPAK BIHAR",
                     "localname": "DEEPAK BIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00313",
                     "road_w_l_12": {
@@ -9231,7 +9231,7 @@
                     "boundaryNum": 1,
                     "name": "NARENDRA BIHAR",
                     "localname": "NARENDRA BIHAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00314",
                     "road_w_l_12": {
@@ -9258,7 +9258,7 @@
                     "boundaryNum": 1,
                     "name": "JAGADISH BIHAR/AVADH AVAS",
                     "localname": "JAGADISH BIHAR/AVADH AVAS",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00315",
                     "road_w_l_12": {
@@ -9296,7 +9296,7 @@
                     "boundaryNum": 1,
                     "name": "BHOOD",
                     "localname": "BHOOD",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00316",
                     "road_w_l_12": {
@@ -9323,7 +9323,7 @@
                     "boundaryNum": 1,
                     "name": "TIVRI",
                     "localname": "TIVRI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00317",
                     "road_w_l_12": {
@@ -9350,7 +9350,7 @@
                     "boundaryNum": 1,
                     "name": "BDA Colony",
                     "localname": "BDA Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00318",
                     "road_w_l_12": {
@@ -9377,7 +9377,7 @@
                     "boundaryNum": 1,
                     "name": "Ashok Nagar",
                     "localname": "Ashok Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00319",
                     "road_w_l_12": {
@@ -9404,7 +9404,7 @@
                     "boundaryNum": 1,
                     "name": "Naheru Park Colony",
                     "localname": "Naheru Park Colony",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00320",
                     "road_w_l_12": {
@@ -9442,7 +9442,7 @@
                     "boundaryNum": 1,
                     "name": "FARIDAPUR CHAUDHARI",
                     "localname": "FARIDAPUR CHAUDHARI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00321",
                     "road_w_l_12": {
@@ -9479,7 +9479,7 @@
                     "boundaryNum": 1,
                     "name": "NAI CHHAVNI ASHARAF KHAN",
                     "localname": "NAI CHHAVNI ASHARAF KHAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00322",
                     "road_w_l_12": {
@@ -9506,7 +9506,7 @@
                     "boundaryNum": 1,
                     "name": "ANAND NAGAR / ANAND\nBIHAR(SURKHA CHHAVNI)",
                     "localname": "ANAND NAGAR / ANAND\nBIHAR(SURKHA CHHAVNI)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00323",
                     "road_w_l_12": {
@@ -9533,7 +9533,7 @@
                     "boundaryNum": 1,
                     "name": "GREATER AKASH",
                     "localname": "GREATER AKASH",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00324",
                     "road_w_l_12": {
@@ -9560,7 +9560,7 @@
                     "boundaryNum": 1,
                     "name": "GANDHI PURAM",
                     "localname": "GANDHI PURAM",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00325",
                     "road_w_l_12": {
@@ -9587,7 +9587,7 @@
                     "boundaryNum": 1,
                     "name": "SIDDHARTH NAGAR (PARTAPUR\nCHAUDHARI)",
                     "localname": "SIDDHARTH NAGAR (PARTAPUR\nCHAUDHARI)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00326",
                     "road_w_l_12": {
@@ -9614,7 +9614,7 @@
                     "boundaryNum": 1,
                     "name": "SURKHA CHHAVNI",
                     "localname": "SURKHA CHHAVNI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00327",
                     "road_w_l_12": {
@@ -9641,7 +9641,7 @@
                     "boundaryNum": 1,
                     "name": "SIDDHARTH NAGAR (SURKHA\nCHHAVNI)",
                     "localname": "SIDDHARTH NAGAR (SURKHA\nCHHAVNI)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00328",
                     "road_w_l_12": {
@@ -9679,7 +9679,7 @@
                     "boundaryNum": 1,
                     "name": "INDIRA NAGAR",
                     "localname": "INDIRA NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00329",
                     "road_w_l_12": {
@@ -9706,7 +9706,7 @@
                     "boundaryNum": 1,
                     "name": "RAJENDRA NAGAR  (A. BLOCK)",
                     "localname": "RAJENDRA NAGAR  (A. BLOCK)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00330",
                     "road_w_l_12": {
@@ -9733,7 +9733,7 @@
                     "boundaryNum": 1,
                     "name": "RAJENDRA NAGAR (B. BLOCK)",
                     "localname": "RAJENDRA NAGAR (B. BLOCK)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00331",
                     "road_w_l_12": {
@@ -9760,7 +9760,7 @@
                     "boundaryNum": 1,
                     "name": "Shiv Nagar",
                     "localname": "Shiv Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00332",
                     "road_w_l_12": {
@@ -9787,7 +9787,7 @@
                     "boundaryNum": 1,
                     "name": "Mandal Vihar",
                     "localname": "Mandal Vihar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00333",
                     "road_w_l_12": {
@@ -9825,7 +9825,7 @@
                     "boundaryNum": 1,
                     "name": "NORTHACITY EXTENSION",
                     "localname": "NORTHACITY EXTENSION",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00334",
                     "road_w_l_12": {
@@ -9852,7 +9852,7 @@
                     "boundaryNum": 1,
                     "name": "INDRAPRASTH COLONY",
                     "localname": "INDRAPRASTH COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00335",
                     "road_w_l_12": {
@@ -9879,7 +9879,7 @@
                     "boundaryNum": 1,
                     "name": "KURMACHAL NAGAR",
                     "localname": "KURMACHAL NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00336",
                     "road_w_l_12": {
@@ -9906,7 +9906,7 @@
                     "boundaryNum": 1,
                     "name": "KUDESIYA IZZAT NAGAR",
                     "localname": "KUDESIYA IZZAT NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00337",
                     "road_w_l_12": {
@@ -9933,7 +9933,7 @@
                     "boundaryNum": 1,
                     "name": "RAILWAY COLONY IZZAT NAGAR",
                     "localname": "RAILWAY COLONY IZZAT NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00338",
                     "road_w_l_12": {
@@ -9960,7 +9960,7 @@
                     "boundaryNum": 1,
                     "name": "NOTIFY AREA IZZAT NAGAR",
                     "localname": "NOTIFY AREA IZZAT NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00339",
                     "road_w_l_12": {
@@ -9987,7 +9987,7 @@
                     "boundaryNum": 1,
                     "name": "Partapur Jevan sahay",
                     "localname": "Partapur Jevan sahay",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00340",
                     "road_w_l_12": {
@@ -10025,7 +10025,7 @@
                     "boundaryNum": 1,
                     "name": "KIRTINAGAR",
                     "localname": "KIRTINAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00341",
                     "road_w_l_12": {
@@ -10052,7 +10052,7 @@
                     "boundaryNum": 1,
                     "name": "PRIYADARSHANI NAGAR",
                     "localname": "PRIYADARSHANI NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00342",
                     "road_w_l_12": {
@@ -10079,7 +10079,7 @@
                     "boundaryNum": 1,
                     "name": "PRABHAT NAGAR",
                     "localname": "PRABHAT NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00343",
                     "road_w_l_12": {
@@ -10106,7 +10106,7 @@
                     "boundaryNum": 1,
                     "name": "JANAKPURI",
                     "localname": "JANAKPURI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00344",
                     "road_w_l_12": {
@@ -10133,7 +10133,7 @@
                     "boundaryNum": 1,
                     "name": "GANDHINAGAR",
                     "localname": "GANDHINAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00345",
                     "road_w_l_12": {
@@ -10171,7 +10171,7 @@
                     "boundaryNum": 1,
                     "name": "ALOK NAGAR",
                     "localname": "ALOK NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00346",
                     "road_w_l_12": {
@@ -10198,7 +10198,7 @@
                     "boundaryNum": 1,
                     "name": "DEFENCE COLONY",
                     "localname": "DEFENCE COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00347",
                     "road_w_l_12": {
@@ -10225,7 +10225,7 @@
                     "boundaryNum": 1,
                     "name": "SANTNAGAR",
                     "localname": "SANTNAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00348",
                     "road_w_l_12": {
@@ -10252,7 +10252,7 @@
                     "boundaryNum": 1,
                     "name": "GAYATRI NAGAR",
                     "localname": "GAYATRI NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00349",
                     "road_w_l_12": {
@@ -10279,7 +10279,7 @@
                     "boundaryNum": 1,
                     "name": "Kanjadaspur",
                     "localname": "Kanjadaspur",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00350",
                     "road_w_l_12": {
@@ -10317,7 +10317,7 @@
                     "boundaryNum": 1,
                     "name": "NARKULAGANJ",
                     "localname": "NARKULAGANJ",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00351",
                     "road_w_l_12": {
@@ -10344,7 +10344,7 @@
                     "boundaryNum": 1,
                     "name": "EKATA NAGAR",
                     "localname": "EKATA NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00352",
                     "road_w_l_12": {
@@ -10371,7 +10371,7 @@
                     "boundaryNum": 1,
                     "name": "MODEL TOWN",
                     "localname": "MODEL TOWN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00353",
                     "road_w_l_12": {
@@ -10398,7 +10398,7 @@
                     "boundaryNum": 1,
                     "name": "SHAHADANA COLONY",
                     "localname": "SHAHADANA COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00354",
                     "road_w_l_12": {
@@ -10425,7 +10425,7 @@
                     "boundaryNum": 1,
                     "name": "DEENDAYALPURAM",
                     "localname": "DEENDAYALPURAM",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00355",
                     "road_w_l_12": {
@@ -10463,7 +10463,7 @@
                     "boundaryNum": 1,
                     "name": "NAGARIYA PARIKSHIT",
                     "localname": "NAGARIYA PARIKSHIT",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00356",
                     "road_w_l_12": {
@@ -10490,7 +10490,7 @@
                     "boundaryNum": 1,
                     "name": "BAKAR NAGAR SUNDARASI",
                     "localname": "BAKAR NAGAR SUNDARASI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00357",
                     "road_w_l_12": {
@@ -10517,7 +10517,7 @@
                     "boundaryNum": 1,
                     "name": "SIKARPUR",
                     "localname": "SIKARPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00358",
                     "road_w_l_12": {
@@ -10544,7 +10544,7 @@
                     "boundaryNum": 1,
                     "name": "TATARPUR",
                     "localname": "TATARPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00359",
                     "road_w_l_12": {
@@ -10582,7 +10582,7 @@
                     "boundaryNum": 1,
                     "name": "PARTAPUR CHAUDHARI",
                     "localname": "PARTAPUR CHAUDHARI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00360",
                     "road_w_l_12": {
@@ -10609,7 +10609,7 @@
                     "boundaryNum": 1,
                     "name": "SHIV STATE (PARTAPUR\nCHAUDHARI)",
                     "localname": "SHIV STATE (PARTAPUR\nCHAUDHARI)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00361",
                     "road_w_l_12": {
@@ -10647,7 +10647,7 @@
                     "boundaryNum": 1,
                     "name": "MAHALU",
                     "localname": "MAHALU",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00362",
                     "road_w_l_12": {
@@ -10685,7 +10685,7 @@
                     "boundaryNum": 1,
                     "name": "SUNCITY",
                     "localname": "SUNCITY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00363",
                     "road_w_l_12": {
@@ -10712,7 +10712,7 @@
                     "boundaryNum": 1,
                     "name": "ABHILASHA SANCITY VISTAR",
                     "localname": "ABHILASHA SANCITY VISTAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00364",
                     "road_w_l_12": {
@@ -10739,7 +10739,7 @@
                     "boundaryNum": 1,
                     "name": "AVANTIKA SUNCITY VISTAR",
                     "localname": "AVANTIKA SUNCITY VISTAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00365",
                     "road_w_l_12": {
@@ -10766,7 +10766,7 @@
                     "boundaryNum": 1,
                     "name": "ASTHA SUNCITY VISTAR",
                     "localname": "ASTHA SUNCITY VISTAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00366",
                     "road_w_l_12": {
@@ -10793,7 +10793,7 @@
                     "boundaryNum": 1,
                     "name": "VATIKA SANCITY VISTAR",
                     "localname": "VATIKA SANCITY VISTAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00367",
                     "road_w_l_12": {
@@ -10820,7 +10820,7 @@
                     "boundaryNum": 1,
                     "name": "NORTH CITY",
                     "localname": "NORTH CITY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00368",
                     "road_w_l_12": {
@@ -10847,7 +10847,7 @@
                     "boundaryNum": 1,
                     "name": "SANCITY EXECUTIVE",
                     "localname": "SANCITY EXECUTIVE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00369",
                     "road_w_l_12": {
@@ -10874,7 +10874,7 @@
                     "boundaryNum": 1,
                     "name": "SANCITY OLD",
                     "localname": "SANCITY OLD",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00370",
                     "road_w_l_12": {
@@ -10901,7 +10901,7 @@
                     "boundaryNum": 1,
                     "name": "CLUB PREMIER (SUNCITY)",
                     "localname": "CLUB PREMIER (SUNCITY)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00371",
                     "road_w_l_12": {
@@ -10928,7 +10928,7 @@
                     "boundaryNum": 1,
                     "name": "VAIBHAV SANCITY VISTAR",
                     "localname": "VAIBHAV SANCITY VISTAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00372",
                     "road_w_l_12": {
@@ -10955,7 +10955,7 @@
                     "boundaryNum": 1,
                     "name": "PEER VAHODA",
                     "localname": "PEER VAHODA",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00373",
                     "road_w_l_12": {
@@ -10982,7 +10982,7 @@
                     "boundaryNum": 1,
                     "name": "Krishna Nagar",
                     "localname": "Krishna Nagar",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00374",
                     "road_w_l_12": {
@@ -11009,7 +11009,7 @@
                     "boundaryNum": 1,
                     "name": "NANDAN VAN COLONY",
                     "localname": "NANDAN VAN COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00375",
                     "road_w_l_12": {
@@ -11036,7 +11036,7 @@
                     "boundaryNum": 1,
                     "name": "SHIDHART NAGAR",
                     "localname": "SHIDHART NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00376",
                     "road_w_l_12": {
@@ -11074,7 +11074,7 @@
                     "boundaryNum": 1,
                     "name": "MATH LAKSMIPUR",
                     "localname": "MATH LAKSMIPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00377",
                     "road_w_l_12": {
@@ -11101,7 +11101,7 @@
                     "boundaryNum": 1,
                     "name": "RAHPURA CHAUDHARI",
                     "localname": "RAHPURA CHAUDHARI",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00378",
                     "road_w_l_12": {
@@ -11128,7 +11128,7 @@
                     "boundaryNum": 1,
                     "name": "BASANT BIHAR EXTENSION FEJ-2",
                     "localname": "BASANT BIHAR EXTENSION FEJ-2",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00379",
                     "road_w_l_12": {
@@ -11155,7 +11155,7 @@
                     "boundaryNum": 1,
                     "name": "AVADH DHAM COLONY",
                     "localname": "AVADH DHAM COLONY",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00380",
                     "road_w_l_12": {
@@ -11182,7 +11182,7 @@
                     "boundaryNum": 1,
                     "name": "MATH KAMAL NAYANAPUR",
                     "localname": "MATH KAMAL NAYANAPUR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00381",
                     "road_w_l_12": {
@@ -11220,7 +11220,7 @@
                     "boundaryNum": 1,
                     "name": "CHHAVNI BANKE",
                     "localname": "CHHAVNI BANKE",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00382",
                     "road_w_l_12": {
@@ -11247,7 +11247,7 @@
                     "boundaryNum": 1,
                     "name": "SHASTRI NAGAR",
                     "localname": "SHASTRI NAGAR",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00383",
                     "road_w_l_12": {
@@ -11274,7 +11274,7 @@
                     "boundaryNum": 1,
                     "name": "CHHAVNI ASHARAF KHAN",
                     "localname": "CHHAVNI ASHARAF KHAN",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00384",
                     "road_w_l_12": {
@@ -11301,7 +11301,7 @@
                     "boundaryNum": 1,
                     "name": "NORTH CITY (CHHAVNI BANKE)",
                     "localname": "NORTH CITY (CHHAVNI BANKE)",
-                    "label": "locality",
+                    "label": "Locality",
                     "area": "Area1",
                     "code": "BAR00385",
                     "road_w_l_12": {
