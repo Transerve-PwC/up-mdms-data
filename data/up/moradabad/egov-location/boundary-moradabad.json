@@ -37,7 +37,7 @@
                     "localname": "Bank Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR001",
+                    "code": "MOR001",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -64,7 +64,7 @@
                     "localname": "Daan Shaad Ki Milak",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR002",
+                    "code": "MOR002",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -91,7 +91,7 @@
                     "localname": "Khushalpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR003",
+                    "code": "MOR003",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -118,7 +118,7 @@
                     "localname": "Mirpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR004",
+                    "code": "MOR004",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -145,7 +145,7 @@
                     "localname": "Prativihar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR005",
+                    "code": "MOR005",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -172,7 +172,7 @@
                     "localname": "Shahpur Tigri",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR006",
+                    "code": "MOR006",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -210,7 +210,7 @@
                     "localname": "Anwar Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR007",
+                    "code": "MOR007",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -237,7 +237,7 @@
                     "localname": "Jahid Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR008",
+                    "code": "MOR008",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -264,7 +264,7 @@
                     "localname": "Pandit Nagala",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR009",
+                    "code": "MOR009",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -302,7 +302,7 @@
                     "localname": "Hasthala Purvi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0010",
+                    "code": "MOR0010",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -329,7 +329,7 @@
                     "localname": "Himgiri",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0011",
+                    "code": "MOR0011",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -356,7 +356,7 @@
                     "localname": "Jhanjanpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0012",
+                    "code": "MOR0012",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -383,7 +383,7 @@
                     "localname": "Mangal Ka Bazar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0013",
+                    "code": "MOR0013",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -421,7 +421,7 @@
                     "localname": "Balmiki Basti",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0014",
+                    "code": "MOR0014",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -448,7 +448,7 @@
                     "localname": "Bangla Gaon",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0015",
+                    "code": "MOR0015",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -475,7 +475,7 @@
                     "localname": "Daswan Ghat",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0016",
+                    "code": "MOR0016",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -502,7 +502,7 @@
                     "localname": "Daulat Bagh Uttari",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0017",
+                    "code": "MOR0017",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -540,7 +540,7 @@
                     "localname": "Adarsh Colony Notified Area Purv",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0018",
+                    "code": "MOR0018",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -567,7 +567,7 @@
                     "localname": "Fakirpura",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0019",
+                    "code": "MOR0019",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -594,7 +594,7 @@
                     "localname": "Nilkanth Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0020",
+                    "code": "MOR0020",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -632,7 +632,7 @@
                     "localname": "Gulabwadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0021",
+                    "code": "MOR0021",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -659,7 +659,7 @@
                     "localname": "Indra Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0022",
+                    "code": "MOR0022",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -686,7 +686,7 @@
                     "localname": "Suraj Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0023",
+                    "code": "MOR0023",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -724,7 +724,7 @@
                     "localname": "Prakash Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0024",
+                    "code": "MOR0024",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -751,7 +751,7 @@
                     "localname": "Prem Nagar  Gayatri Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0025",
+                    "code": "MOR0025",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -789,7 +789,7 @@
                     "localname": "Ashok Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0026",
+                    "code": "MOR0026",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -816,7 +816,7 @@
                     "localname": "District Jail",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0027",
+                    "code": "MOR0027",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -843,7 +843,7 @@
                     "localname": "Eye Hospital Ke Piche Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0028",
+                    "code": "MOR0028",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -870,7 +870,7 @@
                     "localname": "Gandhi Park",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0029",
+                    "code": "MOR0029",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -897,7 +897,7 @@
                     "localname": "Kanjari Sarai",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0030",
+                    "code": "MOR0030",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -924,7 +924,7 @@
                     "localname": "Parsadilal Road",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0031",
+                    "code": "MOR0031",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -951,7 +951,7 @@
                     "localname": "R.N. College",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0032",
+                    "code": "MOR0032",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -978,7 +978,7 @@
                     "localname": "Saket Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0033",
+                    "code": "MOR0033",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1016,7 +1016,7 @@
                     "localname": "Bangla Gaon",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0034",
+                    "code": "MOR0034",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1043,7 +1043,7 @@
                     "localname": "Jigar Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0035",
+                    "code": "MOR0035",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1070,7 +1070,7 @@
                     "localname": "Karyalaya Jila Parishad",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0036",
+                    "code": "MOR0036",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1097,7 +1097,7 @@
                     "localname": "Kothi Damdama",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0037",
+                    "code": "MOR0037",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1124,7 +1124,7 @@
                     "localname": "Kutkut Shala Bangalgaon",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0038",
+                    "code": "MOR0038",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1151,7 +1151,7 @@
                     "localname": "Pachim Aur Purab Diputygunj",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0039",
+                    "code": "MOR0039",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1189,7 +1189,7 @@
                     "localname": "Chakkar Ki Milak",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0040",
+                    "code": "MOR0040",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -1227,7 +1227,7 @@
                     "localname": "Ambika Prasad Inter College",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0041",
+                    "code": "MOR0041",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -1254,7 +1254,7 @@
                     "localname": "Daulat Bagh",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0042",
+                    "code": "MOR0042",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -1281,7 +1281,7 @@
                     "localname": "Harijan Basti",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0043",
+                    "code": "MOR0043",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -1308,7 +1308,7 @@
                     "localname": "Kati Gali",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0044",
+                    "code": "MOR0044",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -1335,7 +1335,7 @@
                     "localname": "Kisrol",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0045",
+                    "code": "MOR0045",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -1362,7 +1362,7 @@
                     "localname": "Masjid",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0046",
+                    "code": "MOR0046",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -1400,7 +1400,7 @@
                     "localname": "Hospital Ground",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0047",
+                    "code": "MOR0047",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1427,7 +1427,7 @@
                     "localname": "Katra Puranjaat",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0048",
+                    "code": "MOR0048",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1454,7 +1454,7 @@
                     "localname": "Kotwali",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0049",
+                    "code": "MOR0049",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1481,7 +1481,7 @@
                     "localname": "Parihar Sarai",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0050",
+                    "code": "MOR0050",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1508,7 +1508,7 @@
                     "localname": "Pat Pat Sarai",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0051",
+                    "code": "MOR0051",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1535,7 +1535,7 @@
                     "localname": "Sarai Kaji",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0052",
+                    "code": "MOR0052",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1562,7 +1562,7 @@
                     "localname": "Saray Raja",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0053",
+                    "code": "MOR0053",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1600,7 +1600,7 @@
                     "localname": "Ajad Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0054",
+                    "code": "MOR0054",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1627,7 +1627,7 @@
                     "localname": "Bhogpur Mithoni",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0055",
+                    "code": "MOR0055",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1654,7 +1654,7 @@
                     "localname": "Chandra Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0056",
+                    "code": "MOR0056",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1681,7 +1681,7 @@
                     "localname": "Friends Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0057",
+                    "code": "MOR0057",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1708,7 +1708,7 @@
                     "localname": "Locoshed",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0058",
+                    "code": "MOR0058",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1735,7 +1735,7 @@
                     "localname": "Patel Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0059",
+                    "code": "MOR0059",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1762,7 +1762,7 @@
                     "localname": "Sainikon Ki Basti",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0060",
+                    "code": "MOR0060",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1800,7 +1800,7 @@
                     "localname": "Gyani Wali Basti",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0061",
+                    "code": "MOR0061",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -1827,7 +1827,7 @@
                     "localname": "Homiopathic College Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0062",
+                    "code": "MOR0062",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -1854,7 +1854,7 @@
                     "localname": "J.R.P. Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0063",
+                    "code": "MOR0063",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -1881,7 +1881,7 @@
                     "localname": "Railway Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0064",
+                    "code": "MOR0064",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -1919,7 +1919,7 @@
                     "localname": "Asaltpura Bhunda",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0065",
+                    "code": "MOR0065",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1946,7 +1946,7 @@
                     "localname": "Asaltpura Chaturth",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0066",
+                    "code": "MOR0066",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -1973,7 +1973,7 @@
                     "localname": "Asaltpura Tritiya",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0067",
+                    "code": "MOR0067",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2000,7 +2000,7 @@
                     "localname": "Harijan Basti",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0068",
+                    "code": "MOR0068",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2027,7 +2027,7 @@
                     "localname": "Sidhi Sarai Purvi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0069",
+                    "code": "MOR0069",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2065,7 +2065,7 @@
                     "localname": "Barwalan Aashiq Warsi Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0070",
+                    "code": "MOR0070",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2092,7 +2092,7 @@
                     "localname": "Jama Msjid",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0071",
+                    "code": "MOR0071",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2119,7 +2119,7 @@
                     "localname": "Kanungoyan Dakshin",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0072",
+                    "code": "MOR0072",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2146,7 +2146,7 @@
                     "localname": "Kudaghar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0073",
+                    "code": "MOR0073",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2173,7 +2173,7 @@
                     "localname": "Rajkiya Inter College",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0074",
+                    "code": "MOR0074",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2211,7 +2211,7 @@
                     "localname": "Laalbagh Uttari",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0075",
+                    "code": "MOR0075",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2238,7 +2238,7 @@
                     "localname": "Nawabpura Purvi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0076",
+                    "code": "MOR0076",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2276,7 +2276,7 @@
                     "localname": "Dargah Nai Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0077",
+                    "code": "MOR0077",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2303,7 +2303,7 @@
                     "localname": "Gudiyabagh",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0078",
+                    "code": "MOR0078",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2330,7 +2330,7 @@
                     "localname": "Makbara Pratham",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0079",
+                    "code": "MOR0079",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2357,7 +2357,7 @@
                     "localname": "Makbara Uttari",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0080",
+                    "code": "MOR0080",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2384,7 +2384,7 @@
                     "localname": "Nai Abadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0081",
+                    "code": "MOR0081",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2422,7 +2422,7 @@
                     "localname": "Afsarashiyan Gunj",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0082",
+                    "code": "MOR0082",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2449,7 +2449,7 @@
                     "localname": "Banwata Gunj",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0083",
+                    "code": "MOR0083",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2476,7 +2476,7 @@
                     "localname": "Baradari",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0084",
+                    "code": "MOR0084",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2503,7 +2503,7 @@
                     "localname": "Dang",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0085",
+                    "code": "MOR0085",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2530,7 +2530,7 @@
                     "localname": "Kajalwasan Gunj",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0086",
+                    "code": "MOR0086",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2557,7 +2557,7 @@
                     "localname": "Kamal Cinema",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0087",
+                    "code": "MOR0087",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2584,7 +2584,7 @@
                     "localname": "Nai Basti",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0088",
+                    "code": "MOR0088",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -2622,7 +2622,7 @@
                     "localname": "Chauki Hasan Kha",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0089",
+                    "code": "MOR0089",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2649,7 +2649,7 @@
                     "localname": "Filkhana",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0090",
+                    "code": "MOR0090",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2676,7 +2676,7 @@
                     "localname": "Kajitola",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0091",
+                    "code": "MOR0091",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2703,7 +2703,7 @@
                     "localname": "Kisraul",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0092",
+                    "code": "MOR0092",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2730,7 +2730,7 @@
                     "localname": "Motibagh",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0093",
+                    "code": "MOR0093",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2757,7 +2757,7 @@
                     "localname": "Varsi Road",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0094",
+                    "code": "MOR0094",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2806,7 +2806,7 @@
                     "localname": "Ambedkar Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0095",
+                    "code": "MOR0095",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2833,7 +2833,7 @@
                     "localname": "Fazalpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0096",
+                    "code": "MOR0096",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2860,7 +2860,7 @@
                     "localname": "Lakadi Fazalpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0097",
+                    "code": "MOR0097",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2887,7 +2887,7 @@
                     "localname": "Mandi Samiti Ke Piche Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0098",
+                    "code": "MOR0098",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2914,7 +2914,7 @@
                     "localname": "Naya Mazara",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR0099",
+                    "code": "MOR0099",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2941,7 +2941,7 @@
                     "localname": "Paipatpura",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00100",
+                    "code": "MOR00100",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -2968,7 +2968,7 @@
                     "localname": "Puranpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00101",
+                    "code": "MOR00101",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -3006,7 +3006,7 @@
                     "localname": "Ambedkar Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00102",
+                    "code": "MOR00102",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3033,7 +3033,7 @@
                     "localname": "Bhatavali",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00103",
+                    "code": "MOR00103",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3060,7 +3060,7 @@
                     "localname": "Mau",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00104",
+                    "code": "MOR00104",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3087,7 +3087,7 @@
                     "localname": "Prem Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00105",
+                    "code": "MOR00105",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3114,7 +3114,7 @@
                     "localname": "Vidhanagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00106",
+                    "code": "MOR00106",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3152,7 +3152,7 @@
                     "localname": "Ashiyana - 1 And 2",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00107",
+                    "code": "MOR00107",
                     "road_w_l_12": {
                       "rcc_rbc": "1.2",
                       "other_pucca": "0.95",
@@ -3179,7 +3179,7 @@
                     "localname": "Hasthala Gaon Uttari",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00108",
+                    "code": "MOR00108",
                     "road_w_l_12": {
                       "rcc_rbc": "1.2",
                       "other_pucca": "0.95",
@@ -3206,7 +3206,7 @@
                     "localname": "Mau Ka Milak",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00109",
+                    "code": "MOR00109",
                     "road_w_l_12": {
                       "rcc_rbc": "1.2",
                       "other_pucca": "0.95",
@@ -3244,7 +3244,7 @@
                     "localname": "Awas Vikas",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00110",
+                    "code": "MOR00110",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3271,7 +3271,7 @@
                     "localname": "Gandhi Ashram",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00111",
+                    "code": "MOR00111",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3298,7 +3298,7 @@
                     "localname": "P.A.C.",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00112",
+                    "code": "MOR00112",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3325,7 +3325,7 @@
                     "localname": "Pilikothi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00113",
+                    "code": "MOR00113",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3363,7 +3363,7 @@
                     "localname": "Awas Vikas Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00114",
+                    "code": "MOR00114",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3390,7 +3390,7 @@
                     "localname": "Bhimathera",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00115",
+                    "code": "MOR00115",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3417,7 +3417,7 @@
                     "localname": "Bhund",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00116",
+                    "code": "MOR00116",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3444,7 +3444,7 @@
                     "localname": "Indra",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00117",
+                    "code": "MOR00117",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3471,7 +3471,7 @@
                     "localname": "Sirkoi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00118",
+                    "code": "MOR00118",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3509,7 +3509,7 @@
                     "localname": "Dhakka",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00119",
+                    "code": "MOR00119",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3536,7 +3536,7 @@
                     "localname": "Ekta Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00120",
+                    "code": "MOR00120",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3563,7 +3563,7 @@
                     "localname": "Kundanpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00121",
+                    "code": "MOR00121",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3590,7 +3590,7 @@
                     "localname": "Manjhola Ka Purvi Bhag",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00122",
+                    "code": "MOR00122",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3617,7 +3617,7 @@
                     "localname": "Prakash Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00123",
+                    "code": "MOR00123",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3644,7 +3644,7 @@
                     "localname": "Rameshwar Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00124",
+                    "code": "MOR00124",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3671,7 +3671,7 @@
                     "localname": "Sarita Nagr",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00125",
+                    "code": "MOR00125",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3698,7 +3698,7 @@
                     "localname": "Vikas Nagar Dakshin",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00126",
+                    "code": "MOR00126",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -3736,7 +3736,7 @@
                     "localname": "Jawahar Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00127",
+                    "code": "MOR00127",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3763,7 +3763,7 @@
                     "localname": "Kajipura",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00128",
+                    "code": "MOR00128",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3790,7 +3790,7 @@
                     "localname": "Lodipur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00129",
+                    "code": "MOR00129",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -3828,7 +3828,7 @@
                     "localname": "Awas Vikas Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00130",
+                    "code": "MOR00130",
                     "road_w_l_12": {
                       "rcc_rbc": "1.31",
                       "other_pucca": "0.86",
@@ -3855,7 +3855,7 @@
                     "localname": "Budhi Vihar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00131",
+                    "code": "MOR00131",
                     "road_w_l_12": {
                       "rcc_rbc": "1.31",
                       "other_pucca": "0.86",
@@ -3882,7 +3882,7 @@
                     "localname": "Gopalpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00132",
+                    "code": "MOR00132",
                     "road_w_l_12": {
                       "rcc_rbc": "1.31",
                       "other_pucca": "0.86",
@@ -3909,7 +3909,7 @@
                     "localname": "Hulsangunj",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00133",
+                    "code": "MOR00133",
                     "road_w_l_12": {
                       "rcc_rbc": "1.31",
                       "other_pucca": "0.86",
@@ -3936,7 +3936,7 @@
                     "localname": "Majholi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00134",
+                    "code": "MOR00134",
                     "road_w_l_12": {
                       "rcc_rbc": "1.31",
                       "other_pucca": "0.86",
@@ -3963,7 +3963,7 @@
                     "localname": "Milan Vihar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00135",
+                    "code": "MOR00135",
                     "road_w_l_12": {
                       "rcc_rbc": "1.31",
                       "other_pucca": "0.86",
@@ -3990,7 +3990,7 @@
                     "localname": "Puranpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00136",
+                    "code": "MOR00136",
                     "road_w_l_12": {
                       "rcc_rbc": "1.31",
                       "other_pucca": "0.86",
@@ -4028,7 +4028,7 @@
                     "localname": "Asalgunj",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00137",
+                    "code": "MOR00137",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4055,7 +4055,7 @@
                     "localname": "Katghar Police Chowki",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00138",
+                    "code": "MOR00138",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4082,7 +4082,7 @@
                     "localname": "Mahbullagunj",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00139",
+                    "code": "MOR00139",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4109,7 +4109,7 @@
                     "localname": "Mahua Pura",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00140",
+                    "code": "MOR00140",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4136,7 +4136,7 @@
                     "localname": "Phoolwati School",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00141",
+                    "code": "MOR00141",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4163,7 +4163,7 @@
                     "localname": "Virshah Hajari",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00142",
+                    "code": "MOR00142",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4201,7 +4201,7 @@
                     "localname": "Ambedkar Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00143",
+                    "code": "MOR00143",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -4228,7 +4228,7 @@
                     "localname": "Dehri Gaon",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00144",
+                    "code": "MOR00144",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -4255,7 +4255,7 @@
                     "localname": "Govind Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00145",
+                    "code": "MOR00145",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -4282,7 +4282,7 @@
                     "localname": "Saraswati Vihar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00146",
+                    "code": "MOR00146",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -4309,7 +4309,7 @@
                     "localname": "Shivpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00147",
+                    "code": "MOR00147",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -4336,7 +4336,7 @@
                     "localname": "Vijaynagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00148",
+                    "code": "MOR00148",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -4374,7 +4374,7 @@
                     "localname": "Dindayal Nagar-1 And 2",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00149",
+                    "code": "MOR00149",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -4401,7 +4401,7 @@
                     "localname": "Ramganga Vihar Phase 1 And 2",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00150",
+                    "code": "MOR00150",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -4439,7 +4439,7 @@
                     "localname": "Gali No. 1 Se 78 Tk",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00151",
+                    "code": "MOR00151",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -4466,7 +4466,7 @@
                     "localname": "Rahmat Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00152",
+                    "code": "MOR00152",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -4493,7 +4493,7 @@
                     "localname": "Vikash Samiti",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00153",
+                    "code": "MOR00153",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -4531,7 +4531,7 @@
                     "localname": "Karula Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00154",
+                    "code": "MOR00154",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -4558,7 +4558,7 @@
                     "localname": "Laal Nagari",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00155",
+                    "code": "MOR00155",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -4585,7 +4585,7 @@
                     "localname": "Pandit Nagla Ki Milak",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00156",
+                    "code": "MOR00156",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -4623,7 +4623,7 @@
                     "localname": "Bagh Gulabrai",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00157",
+                    "code": "MOR00157",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4650,7 +4650,7 @@
                     "localname": "Bajar Mukti Bagh",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00158",
+                    "code": "MOR00158",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4677,7 +4677,7 @@
                     "localname": "Kahro Ke Mandir Ka Purvi Chetra",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00159",
+                    "code": "MOR00159",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4704,7 +4704,7 @@
                     "localname": "Nawab Pur Paschim Ewam Purv",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00160",
+                    "code": "MOR00160",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4742,7 +4742,7 @@
                     "localname": "Sakka Dwitiya Mugalpura",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00161",
+                    "code": "MOR00161",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4769,7 +4769,7 @@
                     "localname": "Sakka Pratham",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00162",
+                    "code": "MOR00162",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4818,7 +4818,7 @@
                     "localname": "Avantika Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00163",
+                    "code": "MOR00163",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4845,7 +4845,7 @@
                     "localname": "Dev Vihar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00164",
+                    "code": "MOR00164",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4872,7 +4872,7 @@
                     "localname": "Kainaal Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00165",
+                    "code": "MOR00165",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4899,7 +4899,7 @@
                     "localname": "Mansarovar School",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00166",
+                    "code": "MOR00166",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4926,7 +4926,7 @@
                     "localname": "Naveen Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00167",
+                    "code": "MOR00167",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4953,7 +4953,7 @@
                     "localname": "Naya Gaon",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00168",
+                    "code": "MOR00168",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -4991,7 +4991,7 @@
                     "localname": "Adarsh Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00169",
+                    "code": "MOR00169",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5018,7 +5018,7 @@
                     "localname": "Lajpat Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00170",
+                    "code": "MOR00170",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5045,7 +5045,7 @@
                     "localname": "Mahbula Gunj",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00171",
+                    "code": "MOR00171",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5072,7 +5072,7 @@
                     "localname": "Maidamil",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00172",
+                    "code": "MOR00172",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5110,7 +5110,7 @@
                     "localname": "Dehri Ghat",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00173",
+                    "code": "MOR00173",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5137,7 +5137,7 @@
                     "localname": "Gadikhana Paschim",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00174",
+                    "code": "MOR00174",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5164,7 +5164,7 @@
                     "localname": "Harijan Basti",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00175",
+                    "code": "MOR00175",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5191,7 +5191,7 @@
                     "localname": "Muslim College Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00176",
+                    "code": "MOR00176",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5218,7 +5218,7 @@
                     "localname": "Singhman Hajari",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00177",
+                    "code": "MOR00177",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5256,7 +5256,7 @@
                     "localname": "Beldaran",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00178",
+                    "code": "MOR00178",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5283,7 +5283,7 @@
                     "localname": "Dehriya Mahal Sarai",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00179",
+                    "code": "MOR00179",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5310,7 +5310,7 @@
                     "localname": "Kanth Darwaza",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00180",
+                    "code": "MOR00180",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5337,7 +5337,7 @@
                     "localname": "Kona Mugalpura",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00181",
+                    "code": "MOR00181",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5364,7 +5364,7 @@
                     "localname": "Tabela Aashik",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00182",
+                    "code": "MOR00182",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5402,7 +5402,7 @@
                     "localname": "Asaltgunj",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00183",
+                    "code": "MOR00183",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5429,7 +5429,7 @@
                     "localname": "Chatta Shivaraj Singh",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00184",
+                    "code": "MOR00184",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5456,7 +5456,7 @@
                     "localname": "Diputy Sahab Mandir Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00185",
+                    "code": "MOR00185",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5483,7 +5483,7 @@
                     "localname": "Nai Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00186",
+                    "code": "MOR00186",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5510,7 +5510,7 @@
                     "localname": "Pirjada",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00187",
+                    "code": "MOR00187",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5537,7 +5537,7 @@
                     "localname": "Udpura",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00188",
+                    "code": "MOR00188",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5575,7 +5575,7 @@
                     "localname": "Chidiya Tola",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00189",
+                    "code": "MOR00189",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5602,7 +5602,7 @@
                     "localname": "Lakshamanpuri",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00190",
+                    "code": "MOR00190",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5629,7 +5629,7 @@
                     "localname": "Majhola Paschim",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00191",
+                    "code": "MOR00191",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5656,7 +5656,7 @@
                     "localname": "Mansarovar Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00192",
+                    "code": "MOR00192",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5694,7 +5694,7 @@
                     "localname": "Balshahid Dakshini",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00193",
+                    "code": "MOR00193",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5721,7 +5721,7 @@
                     "localname": "Eidgah Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00194",
+                    "code": "MOR00194",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -5759,7 +5759,7 @@
                     "localname": "Faizgung",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00195",
+                    "code": "MOR00195",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5786,7 +5786,7 @@
                     "localname": "Kanun Goyan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00196",
+                    "code": "MOR00196",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5813,7 +5813,7 @@
                     "localname": "Lalbagh Dakshin",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00197",
+                    "code": "MOR00197",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5851,7 +5851,7 @@
                     "localname": "Akhilesh Cinema",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00198",
+                    "code": "MOR00198",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5878,7 +5878,7 @@
                     "localname": "Hindu College Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00199",
+                    "code": "MOR00199",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5905,7 +5905,7 @@
                     "localname": "Imperial Cinema",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00200",
+                    "code": "MOR00200",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5932,7 +5932,7 @@
                     "localname": "Kumar Kunj",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00201",
+                    "code": "MOR00201",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5959,7 +5959,7 @@
                     "localname": "Mushafir Khana",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00202",
+                    "code": "MOR00202",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -5986,7 +5986,7 @@
                     "localname": "Parker College",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00203",
+                    "code": "MOR00203",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6013,7 +6013,7 @@
                     "localname": "Sagar Sarai",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00204",
+                    "code": "MOR00204",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6040,7 +6040,7 @@
                     "localname": "Sarai Kothiwal",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00205",
+                    "code": "MOR00205",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6067,7 +6067,7 @@
                     "localname": "Saroj Cinema Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00206",
+                    "code": "MOR00206",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6094,7 +6094,7 @@
                     "localname": "Singh Bhawan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00207",
+                    "code": "MOR00207",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6132,7 +6132,7 @@
                     "localname": "Babrayan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00208",
+                    "code": "MOR00208",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6159,7 +6159,7 @@
                     "localname": "Bajar Diwan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00209",
+                    "code": "MOR00209",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6186,7 +6186,7 @@
                     "localname": "Kahran",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00210",
+                    "code": "MOR00210",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6213,7 +6213,7 @@
                     "localname": "Katra Vanshighar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00211",
+                    "code": "MOR00211",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6240,7 +6240,7 @@
                     "localname": "Kothi Ahmad Hasan Baghiyan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00212",
+                    "code": "MOR00212",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6267,7 +6267,7 @@
                     "localname": "Madarsa Naimiyon",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00213",
+                    "code": "MOR00213",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6294,7 +6294,7 @@
                     "localname": "Mahalsarai",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00214",
+                    "code": "MOR00214",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6321,7 +6321,7 @@
                     "localname": "Shuklaan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00215",
+                    "code": "MOR00215",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6348,7 +6348,7 @@
                     "localname": "Unchon Shekh Bachai",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00216",
+                    "code": "MOR00216",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6386,7 +6386,7 @@
                     "localname": "Hayatnagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00217",
+                    "code": "MOR00217",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -6413,7 +6413,7 @@
                     "localname": "Katra Sahid",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00218",
+                    "code": "MOR00218",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -6440,7 +6440,7 @@
                     "localname": "Pirjada Uttari",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00219",
+                    "code": "MOR00219",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -6478,7 +6478,7 @@
                     "localname": "Barwalan Dakshini",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00220",
+                    "code": "MOR00220",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -6505,7 +6505,7 @@
                     "localname": "Barwalan Uttari",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00221",
+                    "code": "MOR00221",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -6532,7 +6532,7 @@
                     "localname": "Rishikul",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00222",
+                    "code": "MOR00222",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -6570,7 +6570,7 @@
                     "localname": "Amrohagate",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00223",
+                    "code": "MOR00223",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6597,7 +6597,7 @@
                     "localname": "Atai Mohalla",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00224",
+                    "code": "MOR00224",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6624,7 +6624,7 @@
                     "localname": "Bhatti Mohalla",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00225",
+                    "code": "MOR00225",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6651,7 +6651,7 @@
                     "localname": "Chaumukha Pul",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00226",
+                    "code": "MOR00226",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6678,7 +6678,7 @@
                     "localname": "Ganesh Mohalla",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00227",
+                    "code": "MOR00227",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6705,7 +6705,7 @@
                     "localname": "Gujrati Mohalla",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00228",
+                    "code": "MOR00228",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6732,7 +6732,7 @@
                     "localname": "Hospital Janana",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00229",
+                    "code": "MOR00229",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6759,7 +6759,7 @@
                     "localname": "Jilal Mohalla",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00230",
+                    "code": "MOR00230",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6786,7 +6786,7 @@
                     "localname": "Karyalay Nagar Nigam",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00231",
+                    "code": "MOR00231",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6813,7 +6813,7 @@
                     "localname": "Katra",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00232",
+                    "code": "MOR00232",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6840,7 +6840,7 @@
                     "localname": "Mandiwans",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00233",
+                    "code": "MOR00233",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6867,7 +6867,7 @@
                     "localname": "Miyan Sahab Ki Gali",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00234",
+                    "code": "MOR00234",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6894,7 +6894,7 @@
                     "localname": "Pujeri Gali",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00235",
+                    "code": "MOR00235",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6921,7 +6921,7 @@
                     "localname": "Rajogali",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00236",
+                    "code": "MOR00236",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6948,7 +6948,7 @@
                     "localname": "Sadar Bhawan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00237",
+                    "code": "MOR00237",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -6975,7 +6975,7 @@
                     "localname": "Sahoo Mohalla",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00238",
+                    "code": "MOR00238",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7002,7 +7002,7 @@
                     "localname": "Shahi Masjid",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00239",
+                    "code": "MOR00239",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7029,7 +7029,7 @@
                     "localname": "Tahsil Sadar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00240",
+                    "code": "MOR00240",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7067,7 +7067,7 @@
                     "localname": "Majar Shahbulaki Sahab Ki Awadi Aur Mukkarabpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00241",
+                    "code": "MOR00241",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -7105,7 +7105,7 @@
                     "localname": "Dindaar Pura",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00242",
+                    "code": "MOR00242",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7132,7 +7132,7 @@
                     "localname": "Gali Gullal",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00243",
+                    "code": "MOR00243",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7159,7 +7159,7 @@
                     "localname": "Kuncha Shitaldas",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00244",
+                    "code": "MOR00244",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7186,7 +7186,7 @@
                     "localname": "Lohagadh",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00245",
+                    "code": "MOR00245",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7213,7 +7213,7 @@
                     "localname": "Machlibazar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00246",
+                    "code": "MOR00246",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7240,7 +7240,7 @@
                     "localname": "Reti Mohalla",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00247",
+                    "code": "MOR00247",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7267,7 +7267,7 @@
                     "localname": "Tambaku Balan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00248",
+                    "code": "MOR00248",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7294,7 +7294,7 @@
                     "localname": "Ththera",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00249",
+                    "code": "MOR00249",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7332,7 +7332,7 @@
                     "localname": "Chau Ki Madhaiya",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00250",
+                    "code": "MOR00250",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -7359,7 +7359,7 @@
                     "localname": "Sitapur Das Sarai",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00251",
+                    "code": "MOR00251",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -7397,7 +7397,7 @@
                     "localname": "Aawidnagar Tila",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00252",
+                    "code": "MOR00252",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -7424,7 +7424,7 @@
                     "localname": "Ajad Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00253",
+                    "code": "MOR00253",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -7451,7 +7451,7 @@
                     "localname": "Ashok Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00254",
+                    "code": "MOR00254",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -7478,7 +7478,7 @@
                     "localname": "Brihaspati Ka Bazar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00255",
+                    "code": "MOR00255",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -7516,7 +7516,7 @@
                     "localname": "Bada Shah Shafa",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00256",
+                    "code": "MOR00256",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7543,7 +7543,7 @@
                     "localname": "Laal Masjid",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00257",
+                    "code": "MOR00257",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7570,7 +7570,7 @@
                     "localname": "Sarai Gulzarimal",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00258",
+                    "code": "MOR00258",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7597,7 +7597,7 @@
                     "localname": "Sarai Khan Mahmood",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00259",
+                    "code": "MOR00259",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7646,7 +7646,7 @@
                     "localname": "Dhimari Pachim",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00260",
+                    "code": "MOR00260",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -7673,7 +7673,7 @@
                     "localname": "Islam Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00261",
+                    "code": "MOR00261",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -7700,7 +7700,7 @@
                     "localname": "Maina Ther",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00262",
+                    "code": "MOR00262",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -7727,7 +7727,7 @@
                     "localname": "Sir Saiyaad Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00263",
+                    "code": "MOR00263",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -7765,7 +7765,7 @@
                     "localname": "Church Police Line",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00264",
+                    "code": "MOR00264",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7792,7 +7792,7 @@
                     "localname": "Civil Lines",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00265",
+                    "code": "MOR00265",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7819,7 +7819,7 @@
                     "localname": "Collector Diwani",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00266",
+                    "code": "MOR00266",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7846,7 +7846,7 @@
                     "localname": "Dayanand College Ke Piche",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00267",
+                    "code": "MOR00267",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7873,7 +7873,7 @@
                     "localname": "District Hospital",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00268",
+                    "code": "MOR00268",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7900,7 +7900,7 @@
                     "localname": "Kamla Centre Ke Piche Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00269",
+                    "code": "MOR00269",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7927,7 +7927,7 @@
                     "localname": "P.T.C.",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00270",
+                    "code": "MOR00270",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7954,7 +7954,7 @@
                     "localname": "Police Hospital",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00271",
+                    "code": "MOR00271",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -7981,7 +7981,7 @@
                     "localname": "Rajendranagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00272",
+                    "code": "MOR00272",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8008,7 +8008,7 @@
                     "localname": "Sarai Khalsa",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00273",
+                    "code": "MOR00273",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8035,7 +8035,7 @@
                     "localname": "State Bank Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00274",
+                    "code": "MOR00274",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8073,7 +8073,7 @@
                     "localname": "Jayantipur Paschim",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00275",
+                    "code": "MOR00275",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8100,7 +8100,7 @@
                     "localname": "Manpura Dehant",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00276",
+                    "code": "MOR00276",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8127,7 +8127,7 @@
                     "localname": "Suraj Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00277",
+                    "code": "MOR00277",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8165,7 +8165,7 @@
                     "localname": "Galshahid Purv",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00278",
+                    "code": "MOR00278",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8192,7 +8192,7 @@
                     "localname": "Khokharan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00279",
+                    "code": "MOR00279",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8219,7 +8219,7 @@
                     "localname": "Sammali Gate",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00280",
+                    "code": "MOR00280",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8246,7 +8246,7 @@
                     "localname": "Sarai Pukhta",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00281",
+                    "code": "MOR00281",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8273,7 +8273,7 @@
                     "localname": "Tabakiyan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00282",
+                    "code": "MOR00282",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8311,7 +8311,7 @@
                     "localname": "Asaltpura Chaturth",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00283",
+                    "code": "MOR00283",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8338,7 +8338,7 @@
                     "localname": "Bada Majba",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00284",
+                    "code": "MOR00284",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8365,7 +8365,7 @@
                     "localname": "Bade Majbe Ki Aawadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00285",
+                    "code": "MOR00285",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8392,7 +8392,7 @@
                     "localname": "Chaddha Cinema Ke Piche Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00286",
+                    "code": "MOR00286",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8419,7 +8419,7 @@
                     "localname": "Nala Manpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00287",
+                    "code": "MOR00287",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8446,7 +8446,7 @@
                     "localname": "Quarter Nagar Nigam",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00288",
+                    "code": "MOR00288",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -8484,7 +8484,7 @@
                     "localname": "Jayantipur Purvi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00289",
+                    "code": "MOR00289",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -8511,7 +8511,7 @@
                     "localname": "Neta Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00290",
+                    "code": "MOR00290",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -8538,7 +8538,7 @@
                     "localname": "Shiv Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00291",
+                    "code": "MOR00291",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -8576,7 +8576,7 @@
                     "localname": "Charu Ki Basti",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00292",
+                    "code": "MOR00292",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8603,7 +8603,7 @@
                     "localname": "Hanuman Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00293",
+                    "code": "MOR00293",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8630,7 +8630,7 @@
                     "localname": "K.G.K. College Ki Awadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00294",
+                    "code": "MOR00294",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8657,7 +8657,7 @@
                     "localname": "Railway Colony",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00295",
+                    "code": "MOR00295",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8684,7 +8684,7 @@
                     "localname": "Ramtailaya",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00296",
+                    "code": "MOR00296",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8722,7 +8722,7 @@
                     "localname": "Chaldevpuri",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00297",
+                    "code": "MOR00297",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8749,7 +8749,7 @@
                     "localname": "Kalyaanpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00298",
+                    "code": "MOR00298",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8776,7 +8776,7 @@
                     "localname": "Kamla Vihar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00299",
+                    "code": "MOR00299",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8803,7 +8803,7 @@
                     "localname": "Pital Basti",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00300",
+                    "code": "MOR00300",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -8841,7 +8841,7 @@
                     "localname": "Bhadaura",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00301",
+                    "code": "MOR00301",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -8868,7 +8868,7 @@
                     "localname": "Durgash Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00302",
+                    "code": "MOR00302",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -8895,7 +8895,7 @@
                     "localname": "Jaiminipuram",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00303",
+                    "code": "MOR00303",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -8922,7 +8922,7 @@
                     "localname": "Jaynagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00304",
+                    "code": "MOR00304",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -8949,7 +8949,7 @@
                     "localname": "Karbala",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00305",
+                    "code": "MOR00305",
                     "road_w_l_12": {
                       "rcc_rbc": "0.85",
                       "other_pucca": "0.63",
@@ -8987,7 +8987,7 @@
                     "localname": "Baghiparan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00306",
+                    "code": "MOR00306",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9014,7 +9014,7 @@
                     "localname": "Darivapan",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00307",
+                    "code": "MOR00307",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9041,7 +9041,7 @@
                     "localname": "Faizgaunj Purvi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00308",
+                    "code": "MOR00308",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9068,7 +9068,7 @@
                     "localname": "Faizgunj Dakshini",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00309",
+                    "code": "MOR00309",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9095,7 +9095,7 @@
                     "localname": "Kajitola",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00310",
+                    "code": "MOR00310",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9122,7 +9122,7 @@
                     "localname": "Pirgaib",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00311",
+                    "code": "MOR00311",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9149,7 +9149,7 @@
                     "localname": "Sarai Kishan Laal",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00312",
+                    "code": "MOR00312",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9176,7 +9176,7 @@
                     "localname": "Shokatbagh",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00313",
+                    "code": "MOR00313",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9214,7 +9214,7 @@
                     "localname": "Bus Stand Se Malgodam",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00314",
+                    "code": "MOR00314",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9241,7 +9241,7 @@
                     "localname": "Gandhi Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00315",
+                    "code": "MOR00315",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9268,7 +9268,7 @@
                     "localname": "Goyal Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00316",
+                    "code": "MOR00316",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9295,7 +9295,7 @@
                     "localname": "Jawaharnagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00317",
+                    "code": "MOR00317",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9322,7 +9322,7 @@
                     "localname": "Khushaal Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00318",
+                    "code": "MOR00318",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9349,7 +9349,7 @@
                     "localname": "Kothiwalnagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00319",
+                    "code": "MOR00319",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9376,7 +9376,7 @@
                     "localname": "Kunwar Cinema",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00320",
+                    "code": "MOR00320",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9403,7 +9403,7 @@
                     "localname": "Malwiya Nagar",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00321",
+                    "code": "MOR00321",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9430,7 +9430,7 @@
                     "localname": "Miglani Cinema",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00322",
+                    "code": "MOR00322",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9468,7 +9468,7 @@
                     "localname": "Dabbu Ka Naala",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00323",
+                    "code": "MOR00323",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9495,7 +9495,7 @@
                     "localname": "Diwankhana",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00324",
+                    "code": "MOR00324",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9522,7 +9522,7 @@
                     "localname": "Khwazanagari",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00325",
+                    "code": "MOR00325",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9549,7 +9549,7 @@
                     "localname": "Kisraul",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00326",
+                    "code": "MOR00326",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9576,7 +9576,7 @@
                     "localname": "Sarai Husaini Begam",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00327",
+                    "code": "MOR00327",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9603,7 +9603,7 @@
                     "localname": "Takiya Masjid Buddhishah Ke Samne Ke Abadi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00328",
+                    "code": "MOR00328",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9641,7 +9641,7 @@
                     "localname": "Gher Sheyad Kha Purvi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00329",
+                    "code": "MOR00329",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9668,7 +9668,7 @@
                     "localname": "Mugalpura Pratham Shaukatbagh",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00330",
+                    "code": "MOR00330",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9706,7 +9706,7 @@
                     "localname": "Makbara 1 And 2",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00331",
+                    "code": "MOR00331",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -9733,7 +9733,7 @@
                     "localname": "Makbara Sabji Mandi",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00332",
+                    "code": "MOR00332",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -9760,7 +9760,7 @@
                     "localname": "Pirjada 1",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00333",
+                    "code": "MOR00333",
                     "road_w_l_12": {
                       "rcc_rbc": "1.08",
                       "other_pucca": "0.86",
@@ -9798,7 +9798,7 @@
                     "localname": "Asaaltpura-2",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00334",
+                    "code": "MOR00334",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9825,7 +9825,7 @@
                     "localname": "Maanpur",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00335",
+                    "code": "MOR00335",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9863,7 +9863,7 @@
                     "localname": "Muktitola",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00336",
+                    "code": "MOR00336",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9890,7 +9890,7 @@
                     "localname": "Rafatpura",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00337",
+                    "code": "MOR00337",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9917,7 +9917,7 @@
                     "localname": "Tabela",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00338",
+                    "code": "MOR00338",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9944,7 +9944,7 @@
                     "localname": "Tamboli",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00339",
+                    "code": "MOR00339",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
@@ -9982,7 +9982,7 @@
                     "localname": "Asalatpur-1",
                     "label": "Locality",
                     "area": "Area1",
-                    "code": "BAR00340",
+                    "code": "MOR00340",
                     "road_w_l_12": {
                       "rcc_rbc": "1.35",
                       "other_pucca": "1.08",
