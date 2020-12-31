@@ -579,6 +579,13 @@
         "$.code"
       ]
     },
+    "UlbDetails": {
+      "masterName": "UlbDetails",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "Categories": {
       "masterName": "Categories",
       "isStateLevel": true,

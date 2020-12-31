@@ -1,0 +1,4962 @@
+{
+  "tenantId": "up",
+  "moduleName": "PropertyTax",
+  "UlbDetails": [
+    {
+      "id": 1,
+      "code": "233",
+      "name": "Agra",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 2,
+      "code": "196",
+      "name": "Aligarh",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 3,
+      "code": "512",
+      "name": "Ayodhya",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 4,
+      "code": "137",
+      "name": "Bareilly",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 5,
+      "code": "249",
+      "name": "Firozabad",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 6,
+      "code": "053",
+      "name": "Ghaziabad",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 7,
+      "code": "530",
+      "name": "Gorakhpur",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 8,
+      "code": "335",
+      "name": "Jhansi",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 9,
+      "code": "307",
+      "name": "Kanpur",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 10,
+      "code": "439",
+      "name": "Lucknow",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 11,
+      "code": "218",
+      "name": "Mathura",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 12,
+      "code": "032",
+      "name": "Meerut",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 13,
+      "code": "114",
+      "name": "Moradabad",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 14,
+      "code": "385",
+      "name": "Prayagraj",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 15,
+      "code": "001",
+      "name": "Saharanpur",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 16,
+      "code": "168",
+      "name": "Shahjhanpur",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 17,
+      "code": "601",
+      "name": "Varanasi",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 18,
+      "code": "238",
+      "name": "Achhnera",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 19,
+      "code": "099",
+      "name": "Afzalgarh",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 20,
+      "code": "621",
+      "name": "Ahraora",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 21,
+      "code": "506",
+      "name": "Akbarpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 22,
+      "code": "261",
+      "name": "Aliganj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 23,
+      "code": "106",
+      "name": "Amroha",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 24,
+      "code": "073",
+      "name": "Anoopshahar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 25,
+      "code": "140",
+      "name": "Aonla",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 26,
+      "code": "198",
+      "name": "Atrauli",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 27,
+      "code": "360",
+      "name": "Atrra",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 28,
+      "code": "300",
+      "name": "Auraiya",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 29,
+      "code": "562",
+      "name": "Azamgarh",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 30,
+      "code": "237",
+      "name": "Baah",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 31,
+      "code": "521",
+      "name": "Baansi",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 32,
+      "code": "109",
+      "name": "Bachhrawan(Amroha)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 33,
+      "code": "181",
+      "name": "Badaun",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 34,
+      "code": "046",
+      "name": "Badaut",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 35,
+      "code": "045",
+      "name": "Baghpat",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 36,
+      "code": "141",
+      "name": "Bahedi",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 37,
+      "code": "129",
+      "name": "Bahjoi",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 38,
+      "code": "475",
+      "name": "Bahraich",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 39,
+      "code": "581",
+      "name": "Ballia",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 40,
+      "code": "480",
+      "name": "Balrampur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 41,
+      "code": "361",
+      "name": "Banda(Banda)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 42,
+      "code": "409",
+      "name": "Bangarmau",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 43,
+      "code": "245",
+      "name": "Barabanki",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 44,
+      "code": "337",
+      "name": "Baruwa Sagar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 45,
+      "code": "517",
+      "name": "Basti",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 46,
+      "code": "612",
+      "name": "Bhadohi",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 47,
+      "code": "295",
+      "name": "Bharthna",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 48,
+      "code": "649",
+      "name": "Bharwari(Kaushambi)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 49,
+      "code": "478",
+      "name": "Bhinga",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 50,
+      "code": "092",
+      "name": "Bijnor",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 51,
+      "code": "115",
+      "name": "Bilari",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 52,
+      "code": "124",
+      "name": "Bilaspur(Rampur)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 53,
+      "code": "426",
+      "name": "Bilgram",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 54,
+      "code": "309",
+      "name": "Billhaor",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 55,
+      "code": "179",
+      "name": "Bilsi",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 56,
+      "code": "372",
+      "name": "Bindki",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 57,
+      "code": "157",
+      "name": "Bisalpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 58,
+      "code": "177",
+      "name": "Bisauli",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 59,
+      "code": "448",
+      "name": "Biswan",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 60,
+      "code": "068",
+      "name": "Bulandshahr",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 61,
+      "code": "131",
+      "name": "Chandausi",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 62,
+      "code": "089",
+      "name": "Chandpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 63,
+      "code": "349",
+      "name": "Charkhari",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 64,
+      "code": "287",
+      "name": "Chibramau",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 65,
+      "code": "336",
+      "name": "Chirgaon",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 66,
+      "code": "637",
+      "name": "Chitrakootdhamkarvi",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 67,
+      "code": "619",
+      "name": "Chunar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 68,
+      "code": "486",
+      "name": "Colonelganj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 69,
+      "code": "061",
+      "name": "Dadri",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 70,
+      "code": "184",
+      "name": "Dataganj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 71,
+      "code": "552",
+      "name": "Deoria",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 72,
+      "code": "002",
+      "name": "Devband",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 73,
+      "code": "096",
+      "name": "Dhampur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 74,
+      "code": "108",
+      "name": "Dhanaura",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 75,
+      "code": "074",
+      "name": "Dibai",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 76,
+      "code": "263",
+      "name": "Etah",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 77,
+      "code": "294",
+      "name": "Etawah",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 78,
+      "code": "236",
+      "name": "Etmadpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 79,
+      "code": "138",
+      "name": "Faridpur(Bareilly)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 80,
+      "code": "281",
+      "name": "Farrukhabad",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 81,
+      "code": "234",
+      "name": "Fatehpur Sikri",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 82,
+      "code": "371",
+      "name": "Fatehpur(Fatehpur)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 83,
+      "code": "111",
+      "name": "Gajraula",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 84,
+      "code": "410",
+      "name": "Gangaghat",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 85,
+      "code": "004",
+      "name": "Gangoh",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 86,
+      "code": "272",
+      "name": "Ganjdundwara",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 87,
+      "code": "085",
+      "name": "Garhmukteshwar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 88,
+      "code": "551",
+      "name": "Gaurabarhaj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 89,
+      "code": "731",
+      "name": "Gauriganj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 90,
+      "code": "308",
+      "name": "Ghatampur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 91,
+      "code": "589",
+      "name": "Ghazipur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 92,
+      "code": "459",
+      "name": "Golagokaran Nath",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 93,
+      "code": "484",
+      "name": "Gonda",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 94,
+      "code": "613",
+      "name": "Gopiganj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 95,
+      "code": "072",
+      "name": "Gulavati",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 96,
+      "code": "288",
+      "name": "Gursahayganj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 97,
+      "code": "338",
+      "name": "Gursaray",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 98,
+      "code": "091",
+      "name": "Haldaur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 99,
+      "code": "353",
+      "name": "Hamirpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 100,
+      "code": "084",
+      "name": "Hapur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 101,
+      "code": "432",
+      "name": "Hardoi",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 102,
+      "code": "107",
+      "name": "Hasanpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 103,
+      "code": "546",
+      "name": "Hata",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 104,
+      "code": "208",
+      "name": "Hathras",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 105,
+      "code": "047",
+      "name": "Jahangirabad",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 106,
+      "code": "167",
+      "name": "Jalalabad(Shahjhanpur)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 107,
+      "code": "508",
+      "name": "Jalalpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 108,
+      "code": "264",
+      "name": "Jalesar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 109,
+      "code": "732",
+      "name": "Jallaun",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 110,
+      "code": "296",
+      "name": "Jaswant Nagar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 111,
+      "code": "604",
+      "name": "Jaunpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 112,
+      "code": "469",
+      "name": "Jayas",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 113,
+      "code": "733",
+      "name": "Jhinjhak",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 114,
+      "code": "023",
+      "name": "Kairana",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 115,
+      "code": "176",
+      "name": "Kakrala",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 116,
+      "code": "324",
+      "name": "Kalpi",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 117,
+      "code": "022",
+      "name": "Kandhla",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 118,
+      "code": "286",
+      "name": "Kannauj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 119,
+      "code": "271",
+      "name": "Kasganj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 120,
+      "code": "280",
+      "name": "Kayamganj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 121,
+      "code": "197",
+      "name": "Khair",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 122,
+      "code": "451",
+      "name": "Khairabad",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 123,
+      "code": "526",
+      "name": "Khalilabad",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 124,
+      "code": "013",
+      "name": "Khatauli",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 125,
+      "code": "051",
+      "name": "Khekada",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 126,
+      "code": "734",
+      "name": "Khora Makanpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 127,
+      "code": "067",
+      "name": "Khurja",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 128,
+      "code": "093",
+      "name": "Kiratpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 129,
+      "code": "323",
+      "name": "Konch",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 130,
+      "code": "217",
+      "name": "Kosikala",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 131,
+      "code": "548",
+      "name": "Kushinagar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 132,
+      "code": "449",
+      "name": "Laharpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 133,
+      "code": "462",
+      "name": "Lakhimpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 134,
+      "code": "331",
+      "name": "Lalitpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 135,
+      "code": "056",
+      "name": "Loni",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 136,
+      "code": "752",
+      "name": "Maarhara",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 137,
+      "code": "538",
+      "name": "Maharajganj(Maharajganj)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 138,
+      "code": "452",
+      "name": "Mahmudabad",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 139,
+      "code": "348",
+      "name": "Mahoba",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 140,
+      "code": "252",
+      "name": "Mainpuri",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 141,
+      "code": "427",
+      "name": "Mallawan",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 142,
+      "code": "573",
+      "name": "Mau",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 143,
+      "code": "355",
+      "name": "Maudaha",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 144,
+      "code": "340",
+      "name": "Mauranipur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 145,
+      "code": "034",
+      "name": "Mawana",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 146,
+      "code": "123",
+      "name": "Milak",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 147,
+      "code": "620",
+      "name": "Mirzapur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 148,
+      "code": "450",
+      "name": "Mishrikh Naimish",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 149,
+      "code": "054",
+      "name": "Modinagar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 150,
+      "code": "591",
+      "name": "Mohammadabad(Gazipur)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 151,
+      "code": "461",
+      "name": "Mohmmadi",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 152,
+      "code": "561",
+      "name": "Mubarakpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 153,
+      "code": "605",
+      "name": "Mungrabad Shahpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 154,
+      "code": "055",
+      "name": "Muradnagar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 155,
+      "code": "012",
+      "name": "Muzaffarnagar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 156,
+      "code": "098",
+      "name": "Nagina",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 157,
+      "code": "095",
+      "name": "Nahtaur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 158,
+      "code": "094",
+      "name": "Najibabad",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 159,
+      "code": "003",
+      "name": "Nakud",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 160,
+      "code": "474",
+      "name": "Nanpara",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 161,
+      "code": "539",
+      "name": "Naotanwa",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 162,
+      "code": "139",
+      "name": "Nawabganj(Bareilly)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 163,
+      "code": "485",
+      "name": "Nawabganj(Gonda)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 164,
+      "code": "090",
+      "name": "Noorpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 165,
+      "code": "322",
+      "name": "Orai",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 166,
+      "code": "544",
+      "name": "Padrauna",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 167,
+      "code": "460",
+      "name": "Paliya Kala",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 168,
+      "code": "429",
+      "name": "Pihani",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 169,
+      "code": "159",
+      "name": "Pilibhit",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 170,
+      "code": "086",
+      "name": "Pilkhuwa",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 171,
+      "code": "757",
+      "name": "Pratapgarh",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 172,
+      "code": "597",
+      "name": "Pt. Deendayal Upadhyay Nagar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 173,
+      "code": "312",
+      "name": "Pukhraya",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 174,
+      "code": "158",
+      "name": "Puranpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 175,
+      "code": "169",
+      "name": "Puwayan",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 176,
+      "code": "402",
+      "name": "Raebareli",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 177,
+      "code": "602",
+      "name": "Ramnagar(Varanasi)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 178,
+      "code": "125",
+      "name": "Rampur(Rampur)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 179,
+      "code": "580",
+      "name": "Rasra",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 180,
+      "code": "354",
+      "name": "Rath",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 181,
+      "code": "623",
+      "name": "Roberts Ganj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 182,
+      "code": "513",
+      "name": "Rudauli",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 183,
+      "code": "180",
+      "name": "Sahaswan",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 184,
+      "code": "130",
+      "name": "Sambhal",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 185,
+      "code": "339",
+      "name": "Samthar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 186,
+      "code": "431",
+      "name": "Sandeela",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 187,
+      "code": "428",
+      "name": "Sandi",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 188,
+      "code": "033",
+      "name": "Sardhana",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 189,
+      "code": "005",
+      "name": "Sarsawa",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 190,
+      "code": "430",
+      "name": "Shahabad",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 191,
+      "code": "606",
+      "name": "Shahganj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 192,
+      "code": "024",
+      "name": "Shamli",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 193,
+      "code": "235",
+      "name": "Shamshabad",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 194,
+      "code": "097",
+      "name": "Sherkot",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 195,
+      "code": "070",
+      "name": "Shikarpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 196,
+      "code": "071",
+      "name": "Siana",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 197,
+      "code": "520",
+      "name": "Siddharth Nagar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 198,
+      "code": "075",
+      "name": "Sikandrabad",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 199,
+      "code": "209",
+      "name": "Sikandrarau",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 200,
+      "code": "248",
+      "name": "Sikohabad",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 201,
+      "code": "246",
+      "name": "Sirsaganj",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 202,
+      "code": "453",
+      "name": "Sitapur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 203,
+      "code": "762",
+      "name": "Sorow",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 204,
+      "code": "502",
+      "name": "Sultanpur",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 205,
+      "code": "122",
+      "name": "Swar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 206,
+      "code": "088",
+      "name": "Syohara",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 207,
+      "code": "507",
+      "name": "Tanda(Ambedkar Nagar)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 208,
+      "code": "121",
+      "name": "Tanda(Rampur)",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 209,
+      "code": "116",
+      "name": "Thakurdwara",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 210,
+      "code": "166",
+      "name": "Tilhar",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 211,
+      "code": "247",
+      "name": "Tundla",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 212,
+      "code": "178",
+      "name": "Ujhani",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 213,
+      "code": "408",
+      "name": "Unnao",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 214,
+      "code": "481",
+      "name": "Utraula",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 215,
+      "code": "590",
+      "name": "Zamania",
+      "type": "Nagar Palika Parishad",
+      "label": "ULB"
+    },
+    {
+      "id": 216,
+      "code": "267",
+      "name": "Aavagarh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 217,
+      "code": "305",
+      "name": "Achalda",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 218,
+      "code": "574",
+      "name": "Adri",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 219,
+      "code": "736",
+      "name": "Agawanpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 220,
+      "code": "737",
+      "name": "Aggrawalmandi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 221,
+      "code": "383",
+      "name": "Ajhuva",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 222,
+      "code": "317",
+      "name": "Akbarpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 223,
+      "code": "170",
+      "name": "Alhaganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 224,
+      "code": "194",
+      "name": "Allapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 225,
+      "code": "278",
+      "name": "Amapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 226,
+      "code": "006",
+      "name": "Ambehta",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 227,
+      "code": "473",
+      "name": "Amethi(Amethi)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 228,
+      "code": "444",
+      "name": "Amethi(Lucknow)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 229,
+      "code": "575",
+      "name": "Amila",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 230,
+      "code": "052",
+      "name": "Aminagar Sarai",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 231,
+      "code": "313",
+      "name": "Amraudha",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 232,
+      "code": "541",
+      "name": "Anandnagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 233,
+      "code": "683",
+      "name": "Anpara",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 234,
+      "code": "400",
+      "name": "Antu",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 235,
+      "code": "509",
+      "name": "Ashrafpur Kichaucha",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 236,
+      "code": "571",
+      "name": "Atrauliya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 237,
+      "code": "303",
+      "name": "Atsu",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 238,
+      "code": "078",
+      "name": "Aurangabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 239,
+      "code": "419",
+      "name": "Auras",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 240,
+      "code": "566",
+      "name": "Azamat Garh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 241,
+      "code": "304",
+      "name": "Babarpur Ajitmal",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 242,
+      "code": "364",
+      "name": "Baberu",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 243,
+      "code": "518",
+      "name": "Babhnan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 244,
+      "code": "135",
+      "name": "Babrala",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 245,
+      "code": "087",
+      "name": "Babugarh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 246,
+      "code": "403",
+      "name": "Bachhrawan(Raibarelly)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 247,
+      "code": "342",
+      "name": "Badagaon",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 248,
+      "code": "537",
+      "name": "Badhalganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 249,
+      "code": "523",
+      "name": "Badhni Bajar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 250,
+      "code": "678",
+      "name": "Badhni Chafa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 251,
+      "code": "104",
+      "name": "Badlapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 252,
+      "code": "674",
+      "name": "Baghnagar urf Bakhira",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 253,
+      "code": "594",
+      "name": "Bahadurganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 254,
+      "code": "040",
+      "name": "Bahsuma",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 255,
+      "code": "374",
+      "name": "Bahuwa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 256,
+      "code": "740",
+      "name": "Bairiya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 257,
+      "code": "221",
+      "name": "Bajna",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 258,
+      "code": "298",
+      "name": "Bakevar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 259,
+      "code": "447",
+      "name": "Bakhshi Ka Talab",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 260,
+      "code": "227",
+      "name": "Baldev",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 261,
+      "code": "029",
+      "name": "Banat",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 262,
+      "code": "676",
+      "name": "Banda(Shahjhanpur)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 263,
+      "code": "741",
+      "name": "Bankati",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 264,
+      "code": "493",
+      "name": "Banki",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 265,
+      "code": "587",
+      "name": "Bansdih",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 266,
+      "code": "532",
+      "name": "Bansgaon",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 267,
+      "code": "658",
+      "name": "Banthara",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 268,
+      "code": "468",
+      "name": "Barbar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 269,
+      "code": "103",
+      "name": "Barhapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 270,
+      "code": "200",
+      "name": "Bariyarpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 271,
+      "code": "161",
+      "name": "Barkhera",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 272,
+      "code": "663",
+      "name": "Barnahal",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 273,
+      "code": "223",
+      "name": "Barsana",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 274,
+      "code": "008",
+      "name": "Behat",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 275,
+      "code": "675",
+      "name": "Belhar Kala evam Belhar Khurd",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 276,
+      "code": "742",
+      "name": "Belhara",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 277,
+      "code": "583",
+      "name": "Belthara Road",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 278,
+      "code": "436",
+      "name": "Beniganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 279,
+      "code": "743",
+      "name": "Beswa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 280,
+      "code": "258",
+      "name": "Bewar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 281,
+      "code": "515",
+      "name": "Bhadrasa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 282,
+      "code": "414",
+      "name": "Bhagwant Nagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 283,
+      "code": "635",
+      "name": "Bhanpur Kaswa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 284,
+      "code": "679",
+      "name": "Bharat Nari",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 285,
+      "code": "393",
+      "name": "Bharatganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 286,
+      "code": "275",
+      "name": "Bhargain",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 287,
+      "code": "379",
+      "name": "Bharwari(Kaushambi)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 288,
+      "code": "558",
+      "name": "Bhatnibajar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 289,
+      "code": "556",
+      "name": "Bhatparrani",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 290,
+      "code": "081",
+      "name": "Bhawan Bahadur Nagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 291,
+      "code": "259",
+      "name": "Bhogaon",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 292,
+      "code": "119",
+      "name": "Bhojpur Dharmpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 293,
+      "code": "018",
+      "name": "Bhokarhedi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 294,
+      "code": "306",
+      "name": "Bidhuna",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 295,
+      "code": "417",
+      "name": "Bighapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 296,
+      "code": "516",
+      "name": "Bikapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 297,
+      "code": "564",
+      "name": "Bilariyaganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 298,
+      "code": "064",
+      "name": "Bilaspur(GB Nagar)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 299,
+      "code": "279",
+      "name": "Bilram",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 300,
+      "code": "162",
+      "name": "Bilsanda",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 301,
+      "code": "367",
+      "name": "Bisandabujurg",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 302,
+      "code": "146",
+      "name": "Bisharatganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 303,
+      "code": "680",
+      "name": "Biskohar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 304,
+      "code": "310",
+      "name": "Bithoor",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 305,
+      "code": "423",
+      "name": "Boodhanpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 306,
+      "code": "660",
+      "name": "Brijmanganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 307,
+      "code": "021",
+      "name": "Budhana",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 308,
+      "code": "082",
+      "name": "Bugrasi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 309,
+      "code": "640",
+      "name": "Campirganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 310,
+      "code": "598",
+      "name": "Chakiya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 311,
+      "code": "600",
+      "name": "Chandauli",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 312,
+      "code": "262",
+      "name": "Chandaus",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 313,
+      "code": "744",
+      "name": "Charthaval",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 314,
+      "code": "225",
+      "name": "Chaumuha",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 315,
+      "code": "378",
+      "name": "Chayal",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 316,
+      "code": "048",
+      "name": "Chhaprauli",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 317,
+      "code": "199",
+      "name": "Chharra",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 318,
+      "code": "224",
+      "name": "Chhata",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 319,
+      "code": "080",
+      "name": "Chhatari",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 320,
+      "code": "652",
+      "name": "Chhitauni",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 321,
+      "code": "673",
+      "name": "Chhutmalpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 322,
+      "code": "664",
+      "name": "Chiraiyakot",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 323,
+      "code": "582",
+      "name": "Chitbadagaon",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 324,
+      "code": "625",
+      "name": "Chopan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 325,
+      "code": "624",
+      "name": "Chukradhumra",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 326,
+      "code": "631",
+      "name": "Dahagwan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 327,
+      "code": "684",
+      "name": "Dala (Parvati Kshetra) Bazar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 328,
+      "code": "406",
+      "name": "Dalmau",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 329,
+      "code": "062",
+      "name": "Dankaur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 330,
+      "code": "650",
+      "name": "Daranagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 331,
+      "code": "670",
+      "name": "Darhiyal",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 332,
+      "code": "497",
+      "name": "Dariyabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 333,
+      "code": "060",
+      "name": "Dasna",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 334,
+      "code": "042",
+      "name": "Daurala",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 335,
+      "code": "244",
+      "name": "Dayalbagh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 336,
+      "code": "320",
+      "name": "Derapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 337,
+      "code": "144",
+      "name": "Devraniya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 338,
+      "code": "492",
+      "name": "Dewa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 339,
+      "code": "745",
+      "name": "Dhakiya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 340,
+      "code": "151",
+      "name": "Dhaura Tanda",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 341,
+      "code": "466",
+      "name": "Dhaurhara",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 342,
+      "code": "301",
+      "name": "Dibiiya Pur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 343,
+      "code": "596",
+      "name": "Dildar Nagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 344,
+      "code": "049",
+      "name": "Doghat",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 345,
+      "code": "579",
+      "name": "Dohrighat",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 346,
+      "code": "504",
+      "name": "Dostpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 347,
+      "code": "653",
+      "name": "Dudahi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 348,
+      "code": "628",
+      "name": "Duddhi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 349,
+      "code": "524",
+      "name": "Dumariya Ganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 350,
+      "code": "746",
+      "name": "Eka",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 351,
+      "code": "297",
+      "name": "Ekdil",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 352,
+      "code": "025",
+      "name": "Elam",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 353,
+      "code": "645",
+      "name": "Erich",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 354,
+      "code": "641",
+      "name": "Et",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 355,
+      "code": "681",
+      "name": "Etwa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 356,
+      "code": "302",
+      "name": "Fafoond",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 357,
+      "code": "195",
+      "name": "Faizganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 358,
+      "code": "229",
+      "name": "Farah",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 359,
+      "code": "059",
+      "name": "Faridnagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 360,
+      "code": "142",
+      "name": "Faridpur(Bareilly)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 361,
+      "code": "251",
+      "name": "Fariha",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 362,
+      "code": "240",
+      "name": "Fatehabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 363,
+      "code": "148",
+      "name": "Fatehganj Pashchimi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 364,
+      "code": "154",
+      "name": "Fatehganj Purvi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 365,
+      "code": "413",
+      "name": "Fatehpur Chaurasi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 366,
+      "code": "499",
+      "name": "Fatehpur(Barabanki)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 367,
+      "code": "654",
+      "name": "Fazil",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 368,
+      "code": "636",
+      "name": "Gaayghat",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 369,
+      "code": "603",
+      "name": "Gangapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 370,
+      "code": "422",
+      "name": "Ganjmuradabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 371,
+      "code": "347",
+      "name": "Garautha",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 372,
+      "code": "028",
+      "name": "Garhi Pukhta",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 373,
+      "code": "642",
+      "name": "Gaura Badshahpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 374,
+      "code": "554",
+      "name": "Gauribajar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 375,
+      "code": "136",
+      "name": "Gawan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 376,
+      "code": "253",
+      "name": "Ghiraor",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 377,
+      "code": "626",
+      "name": "Ghoraval",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 378,
+      "code": "578",
+      "name": "Ghosi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 379,
+      "code": "341",
+      "name": "GhosiyaBazar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 380,
+      "code": "543",
+      "name": "Ghughli",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 381,
+      "code": "358",
+      "name": "Gohand",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 382,
+      "code": "226",
+      "name": "Gokul",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 383,
+      "code": "536",
+      "name": "Gola Bajar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 384,
+      "code": "437",
+      "name": "Gopamau",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 385,
+      "code": "514",
+      "name": "Gosaiganj(Ayodhya)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 386,
+      "code": "443",
+      "name": "Gosaiganj(Lucknow)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 387,
+      "code": "231",
+      "name": "Govardhan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 388,
+      "code": "165",
+      "name": "Guladiya Bhindara",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 389,
+      "code": "192",
+      "name": "Gulariya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 390,
+      "code": "133",
+      "name": "Gunnaur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 391,
+      "code": "615",
+      "name": "Gyanpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 392,
+      "code": "496",
+      "name": "Haidargarh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 393,
+      "code": "411",
+      "name": "Haidrabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 394,
+      "code": "392",
+      "name": "Handiya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 395,
+      "code": "519",
+      "name": "Haraiya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 396,
+      "code": "207",
+      "name": "Harduaganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 397,
+      "code": "454",
+      "name": "Hargaon",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 398,
+      "code": "528",
+      "name": "Hariharpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 399,
+      "code": "748",
+      "name": "Harra",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 400,
+      "code": "213",
+      "name": "Hasayan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 401,
+      "code": "038",
+      "name": "Hastinapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 402,
+      "code": "377",
+      "name": "Hathgam",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 403,
+      "code": "201",
+      "name": "Iglas",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 404,
+      "code": "479",
+      "name": "Ikauna",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 405,
+      "code": "510",
+      "name": "Iltifatganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 406,
+      "code": "187",
+      "name": "Islamnagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 407,
+      "code": "440",
+      "name": "Itaunja",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 408,
+      "code": "243",
+      "name": "Jagner",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 409,
+      "code": "160",
+      "name": "Jahanabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 410,
+      "code": "490",
+      "name": "Jahanganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 411,
+      "code": "066",
+      "name": "Jahangirpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 412,
+      "code": "634",
+      "name": "Jaidpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 413,
+      "code": "268",
+      "name": "Jaithra",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 414,
+      "code": "102",
+      "name": "Jalalabad(Bijnaur)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 415,
+      "code": "026",
+      "name": "Jalalabad(Shamli)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 416,
+      "code": "204",
+      "name": "Jalali",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 417,
+      "code": "595",
+      "name": "Jangipur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 418,
+      "code": "017",
+      "name": "Jansath",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 419,
+      "code": "477",
+      "name": "Jarwal",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 420,
+      "code": "250",
+      "name": "Jasrana",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 421,
+      "code": "202",
+      "name": "Jattari",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 422,
+      "code": "065",
+      "name": "Jewar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 423,
+      "code": "100",
+      "name": "Jhalu",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 424,
+      "code": "030",
+      "name": "Jhinjhana",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 425,
+      "code": "388",
+      "name": "Jhusi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 426,
+      "code": "567",
+      "name": "Jiyanpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 427,
+      "code": "110",
+      "name": "Joya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 428,
+      "code": "256",
+      "name": "Jyotikhudiya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 429,
+      "code": "350",
+      "name": "Kabrai",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 430,
+      "code": "643",
+      "name": "Kachgaon",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 431,
+      "code": "182",
+      "name": "Kachhla",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 432,
+      "code": "438",
+      "name": "Kachouna Patseni",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 433,
+      "code": "622",
+      "name": "Kachva",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 434,
+      "code": "329",
+      "name": "Kadaora",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 435,
+      "code": "503",
+      "name": "Kadipur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 436,
+      "code": "083",
+      "name": "Kakod",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 437,
+      "code": "441",
+      "name": "Kakori",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 438,
+      "code": "163",
+      "name": "Kalinagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 439,
+      "code": "282",
+      "name": "Kamalganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 440,
+      "code": "284",
+      "name": "Kampil",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 441,
+      "code": "120",
+      "name": "Kanth(Moradabad)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 442,
+      "code": "173",
+      "name": "Kanth(Shahjhanpur)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 443,
+      "code": "682",
+      "name": "Kapilvastu",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 444,
+      "code": "547",
+      "name": "Kaptanganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 445,
+      "code": "255",
+      "name": "Karahal",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 446,
+      "code": "381",
+      "name": "Karari",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 447,
+      "code": "035",
+      "name": "Karnaval",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 448,
+      "code": "345",
+      "name": "Katera",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 449,
+      "code": "568",
+      "name": "Katgharlal Ganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 450,
+      "code": "401",
+      "name": "Katra Medniganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 451,
+      "code": "487",
+      "name": "Katra(Gonda)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 452,
+      "code": "174",
+      "name": "Katra(Shahjhanpur)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 453,
+      "code": "203",
+      "name": "Kaudiyaganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 454,
+      "code": "128",
+      "name": "Kemri",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 455,
+      "code": "609",
+      "name": "Kerakat",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 456,
+      "code": "549",
+      "name": "Khadda",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 457,
+      "code": "373",
+      "name": "Khaga",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 458,
+      "code": "242",
+      "name": "Khairagarh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 459,
+      "code": "616",
+      "name": "Khamariya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 460,
+      "code": "076",
+      "name": "Khanpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 461,
+      "code": "351",
+      "name": "Kharela",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 462,
+      "code": "489",
+      "name": "Khargupur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 463,
+      "code": "041",
+      "name": "Kharkhaunda",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 464,
+      "code": "610",
+      "name": "Khetasarai",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 465,
+      "code": "463",
+      "name": "Khiri",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 466,
+      "code": "750",
+      "name": "Khiwai",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 467,
+      "code": "172",
+      "name": "Khuda Ganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 468,
+      "code": "175",
+      "name": "Khutar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 469,
+      "code": "241",
+      "name": "Kirawali",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 470,
+      "code": "260",
+      "name": "Kishni",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 471,
+      "code": "376",
+      "name": "Kishunpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 472,
+      "code": "044",
+      "name": "Kithaur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 473,
+      "code": "375",
+      "name": "Koda Jahanabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 474,
+      "code": "667",
+      "name": "Kohdaur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 475,
+      "code": "505",
+      "name": "Koiripur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 476,
+      "code": "576",
+      "name": "Kopaganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 477,
+      "code": "391",
+      "name": "Koraon",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 478,
+      "code": "328",
+      "name": "Kotra",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 479,
+      "code": "352",
+      "name": "Kulpahar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 480,
+      "code": "397",
+      "name": "Kunda",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 481,
+      "code": "118",
+      "name": "Kundarki",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 482,
+      "code": "188",
+      "name": "Kunwar Gaon",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 483,
+      "code": "356",
+      "name": "Kurara",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 484,
+      "code": "254",
+      "name": "Kuravali",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 485,
+      "code": "434",
+      "name": "Kursath(Hardoi)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 486,
+      "code": "412",
+      "name": "Kursath(Unnao)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 487,
+      "code": "665",
+      "name": "Kurthi Zafarpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 488,
+      "code": "257",
+      "name": "Kushmara",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 489,
+      "code": "751",
+      "name": "LALGANJ(Pratapgarh)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 490,
+      "code": "560",
+      "name": "Laar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 491,
+      "code": "299",
+      "name": "Lakhna",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 492,
+      "code": "407",
+      "name": "Lalganj(Raibarelly)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 493,
+      "code": "387",
+      "name": "Lalgopal Ganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 494,
+      "code": "685",
+      "name": "Lambhua",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 495,
+      "code": "037",
+      "name": "Lavad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 496,
+      "code": "686",
+      "name": "Lohta",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 497,
+      "code": "608",
+      "name": "Machlishahar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 498,
+      "code": "433",
+      "name": "Madhoganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 499,
+      "code": "326",
+      "name": "Madhogarh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 500,
+      "code": "753",
+      "name": "Madhuwan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 501,
+      "code": "607",
+      "name": "Madiyanhu",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 502,
+      "code": "270",
+      "name": "Madrak",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 503,
+      "code": "527",
+      "name": "Maghar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 504,
+      "code": "405",
+      "name": "Maharajganj(Azamgarh)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 505,
+      "code": "572",
+      "name": "Maharajganj(Raibarelly)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 506,
+      "code": "333",
+      "name": "Maharauni",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 507,
+      "code": "228",
+      "name": "Mahawan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 508,
+      "code": "456",
+      "name": "Maholi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 509,
+      "code": "442",
+      "name": "Mahona",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 510,
+      "code": "614",
+      "name": "Mahul",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 511,
+      "code": "467",
+      "name": "Mailani",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 512,
+      "code": "559",
+      "name": "Majhauliraj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 513,
+      "code": "639",
+      "name": "Makkhanpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 514,
+      "code": "445",
+      "name": "Malihabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 515,
+      "code": "101",
+      "name": "Mandawar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 516,
+      "code": "369",
+      "name": "Manikpur(Chitrakoot)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 517,
+      "code": "398",
+      "name": "Manikpur(Pratapgarh)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 518,
+      "code": "586",
+      "name": "Maniyar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 519,
+      "code": "382",
+      "name": "Manjhanpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 520,
+      "code": "488",
+      "name": "Mankapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 521,
+      "code": "127",
+      "name": "Maswasi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 522,
+      "code": "362",
+      "name": "Mataundh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 523,
+      "code": "394",
+      "name": "Mau Aima",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 524,
+      "code": "764",
+      "name": "Maurawan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 525,
+      "code": "020",
+      "name": "Meerapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 526,
+      "code": "149",
+      "name": "Meerganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 527,
+      "code": "565",
+      "name": "Mehnagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 528,
+      "code": "529",
+      "name": "Mehndawal",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 529,
+      "code": "215",
+      "name": "Mendu",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 530,
+      "code": "415",
+      "name": "Mohaan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 531,
+      "code": "577",
+      "name": "Mohammadabad Gohna",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 532,
+      "code": "285",
+      "name": "Mohammadabad(Farrukhabad)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 533,
+      "code": "659",
+      "name": "Mohanlalganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 534,
+      "code": "274",
+      "name": "Mohanpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 535,
+      "code": "344",
+      "name": "Moth",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 536,
+      "code": "533",
+      "name": "Mundera Bajar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 537,
+      "code": "185",
+      "name": "Mundiya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 538,
+      "code": "212",
+      "name": "Mursaan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 539,
+      "code": "472",
+      "name": "Musafirkhana",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 540,
+      "code": "646",
+      "name": "Musanagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 541,
+      "code": "330",
+      "name": "Nadigaon",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 542,
+      "code": "633",
+      "name": "Nagra",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 543,
+      "code": "446",
+      "name": "Nagram",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 544,
+      "code": "617",
+      "name": "Naibajar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 545,
+      "code": "007",
+      "name": "Nanauta",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 546,
+      "code": "222",
+      "name": "Nandgaon",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 547,
+      "code": "365",
+      "name": "Naraini",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 548,
+      "code": "132",
+      "name": "Narauli",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 549,
+      "code": "079",
+      "name": "Narora",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 550,
+      "code": "671",
+      "name": "Narpatnagar Dundawala",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 551,
+      "code": "754",
+      "name": "Nasirabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 552,
+      "code": "113",
+      "name": "Naugawan Sadat",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 553,
+      "code": "638",
+      "name": "Nawabganj(Farrukhabad)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 554,
+      "code": "421",
+      "name": "Nawabganj(Unnao)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 555,
+      "code": "542",
+      "name": "Nichlaul",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 556,
+      "code": "269",
+      "name": "Nidhaulikala",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 557,
+      "code": "657",
+      "name": "Nighasan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 558,
+      "code": "677",
+      "name": "Nigohi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 559,
+      "code": "057",
+      "name": "Niwari",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 560,
+      "code": "563",
+      "name": "Nizamabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 561,
+      "code": "164",
+      "name": "Nyoria Husainpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 562,
+      "code": "418",
+      "name": "Nyotani",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 563,
+      "code": "627",
+      "name": "Obra",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 564,
+      "code": "366",
+      "name": "Oran",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 565,
+      "code": "465",
+      "name": "Oyal Dhakwa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 566,
+      "code": "483",
+      "name": "Pachpedwa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 567,
+      "code": "077",
+      "name": "Pahasu",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 568,
+      "code": "455",
+      "name": "Paitepur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 569,
+      "code": "666",
+      "name": "Pakadiya Naugawan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 570,
+      "code": "755",
+      "name": "Pakwara",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 571,
+      "code": "435",
+      "name": "Pali(Hardoi)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 572,
+      "code": "334",
+      "name": "Pali(Lalitpur)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 573,
+      "code": "661",
+      "name": "Paniyara",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 574,
+      "code": "756",
+      "name": "Paraspur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 575,
+      "code": "036",
+      "name": "Parikshit Garh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 576,
+      "code": "471",
+      "name": "Parsadepur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 577,
+      "code": "662",
+      "name": "Partawal",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 578,
+      "code": "273",
+      "name": "Patiyali",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 579,
+      "code": "058",
+      "name": "Patla",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 580,
+      "code": "396",
+      "name": "Patti",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 581,
+      "code": "632",
+      "name": "Payagpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 582,
+      "code": "043",
+      "name": "Phalawda",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 583,
+      "code": "570",
+      "name": "Phoolpur(Azamgarh)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 584,
+      "code": "389",
+      "name": "Phoolpur(Prayagraj)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 585,
+      "code": "205",
+      "name": "Pilkhana",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 586,
+      "code": "239",
+      "name": "Pinahat",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 587,
+      "code": "534",
+      "name": "Pipiganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 588,
+      "code": "535",
+      "name": "Pipraich",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 589,
+      "code": "629",
+      "name": "Pipri",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 590,
+      "code": "368",
+      "name": "Pisawa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 591,
+      "code": "651",
+      "name": "Poorav Pashchim Shareera",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 592,
+      "code": "399",
+      "name": "Pratapgarh City",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 593,
+      "code": "668",
+      "name": "Prithviganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 594,
+      "code": "216",
+      "name": "Purdilnagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 595,
+      "code": "015",
+      "name": "Purkaji",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 596,
+      "code": "425",
+      "name": "Purwa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 597,
+      "code": "063",
+      "name": "Rabupura",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 598,
+      "code": "232",
+      "name": "Radhakund",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 599,
+      "code": "266",
+      "name": "Raja Ka Rampur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 600,
+      "code": "370",
+      "name": "Rajapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 601,
+      "code": "647",
+      "name": "Rajpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 602,
+      "code": "545",
+      "name": "Ramkola",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 603,
+      "code": "500",
+      "name": "Ramnagar(Barabanki)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 604,
+      "code": "011",
+      "name": "Rampur Maniharan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 605,
+      "code": "644",
+      "name": "Rampur(Jaunpur)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 606,
+      "code": "325",
+      "name": "Rampura",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 607,
+      "code": "555",
+      "name": "Rampurkarkhana",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 608,
+      "code": "758",
+      "name": "Raniganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 609,
+      "code": "346",
+      "name": "Ranipur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 610,
+      "code": "648",
+      "name": "Raniya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 611,
+      "code": "319",
+      "name": "Rasulabad(KanpurDehat)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 612,
+      "code": "416",
+      "name": "Rasulabad(Unnao)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 613,
+      "code": "220",
+      "name": "Raya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 614,
+      "code": "630",
+      "name": "Renukoot",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 615,
+      "code": "585",
+      "name": "Revti",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 616,
+      "code": "156",
+      "name": "Richha",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 617,
+      "code": "476",
+      "name": "Risiya",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 618,
+      "code": "152",
+      "name": "Rithora",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 619,
+      "code": "190",
+      "name": "Rudayan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 620,
+      "code": "321",
+      "name": "RudhauliBajar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 621,
+      "code": "553",
+      "name": "Rudrapur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 622,
+      "code": "316",
+      "name": "Rura",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 623,
+      "code": "593",
+      "name": "Sadaat",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 624,
+      "code": "210",
+      "name": "Sadabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 625,
+      "code": "424",
+      "name": "Safipur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 626,
+      "code": "105",
+      "name": "Sahanpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 627,
+      "code": "759",
+      "name": "Sahaspur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 628,
+      "code": "584",
+      "name": "Sahatwar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 629,
+      "code": "277",
+      "name": "Sahawar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 630,
+      "code": "531",
+      "name": "Sahjanwa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 631,
+      "code": "214",
+      "name": "Sahpau",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 632,
+      "code": "193",
+      "name": "Saidpur(Badaun)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 633,
+      "code": "592",
+      "name": "Saidpur(Gazipur)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 634,
+      "code": "672",
+      "name": "Saifani",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 635,
+      "code": "150",
+      "name": "Sainthal",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 636,
+      "code": "599",
+      "name": "Saiyad Raja",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 637,
+      "code": "265",
+      "name": "Sakeet",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 638,
+      "code": "186",
+      "name": "Sakhanu",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 639,
+      "code": "557",
+      "name": "Salempur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 640,
+      "code": "470",
+      "name": "Salon",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 641,
+      "code": "293",
+      "name": "Samdhan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 642,
+      "code": "380",
+      "name": "Sarai Akil",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 643,
+      "code": "569",
+      "name": "Saraymir",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 644,
+      "code": "359",
+      "name": "Sarila",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 645,
+      "code": "211",
+      "name": "Sasni",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 646,
+      "code": "494",
+      "name": "Satrikh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 647,
+      "code": "230",
+      "name": "Saunkh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 648,
+      "code": "290",
+      "name": "Saurikh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 649,
+      "code": "550",
+      "name": "Sevrahi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 650,
+      "code": "760",
+      "name": "Shahajanpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 651,
+      "code": "126",
+      "name": "Shahbad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 652,
+      "code": "147",
+      "name": "Shahi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 653,
+      "code": "014",
+      "name": "Shahpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 654,
+      "code": "283",
+      "name": "Shamsabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 655,
+      "code": "390",
+      "name": "Shankar Garh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 656,
+      "code": "155",
+      "name": "Shergarh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 657,
+      "code": "143",
+      "name": "Shishgarh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 658,
+      "code": "315",
+      "name": "Shivli",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 659,
+      "code": "311",
+      "name": "Shivrajpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 660,
+      "code": "522",
+      "name": "Shohratgarh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 661,
+      "code": "457",
+      "name": "Sidhauli",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 662,
+      "code": "498",
+      "name": "Sidhaur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 663,
+      "code": "276",
+      "name": "Sidhpura",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 664,
+      "code": "588",
+      "name": "Sikandarpur(Balia)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 665,
+      "code": "292",
+      "name": "Sikandarpur(Kannauj)",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 666,
+      "code": "314",
+      "name": "Sikandra",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 667,
+      "code": "464",
+      "name": "Singahi Bhindaura",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 668,
+      "code": "384",
+      "name": "Sirathu",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 669,
+      "code": "145",
+      "name": "Sirauli",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 670,
+      "code": "386",
+      "name": "Sirsa",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 671,
+      "code": "134",
+      "name": "Sirsi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 672,
+      "code": "016",
+      "name": "Sisauli",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 673,
+      "code": "540",
+      "name": "Siswabajar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 674,
+      "code": "039",
+      "name": "Siwalkhas",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 675,
+      "code": "761",
+      "name": "Sonauli",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 676,
+      "code": "501",
+      "name": "Subeha",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 677,
+      "code": "655",
+      "name": "Sukrauli",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 678,
+      "code": "009",
+      "name": "Sultanpur Chilkana",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 679,
+      "code": "357",
+      "name": "Sumerpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 680,
+      "code": "618",
+      "name": "Suriyawan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 681,
+      "code": "669",
+      "name": "Suvansha Bazar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 682,
+      "code": "763",
+      "name": "Swamibaad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 683,
+      "code": "332",
+      "name": "Taalbehat",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 684,
+      "code": "289",
+      "name": "Taalgram",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 685,
+      "code": "458",
+      "name": "Tambaurkam Ahmdabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 686,
+      "code": "656",
+      "name": "Tamkuhiraj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 687,
+      "code": "031",
+      "name": "Thana Bhawan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 688,
+      "code": "153",
+      "name": "Thiriya Nizamat Khan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 689,
+      "code": "495",
+      "name": "Tikait Nagar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 690,
+      "code": "050",
+      "name": "Tikri",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 691,
+      "code": "363",
+      "name": "Tindwari",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 692,
+      "code": "291",
+      "name": "Tirwaganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 693,
+      "code": "010",
+      "name": "Titron",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 694,
+      "code": "343",
+      "name": "Todi Fatehpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 695,
+      "code": "482",
+      "name": "Tulsipur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 696,
+      "code": "420",
+      "name": "Ugoo",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 697,
+      "code": "112",
+      "name": "Ujhari",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 698,
+      "code": "327",
+      "name": "Umri",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 699,
+      "code": "117",
+      "name": "Umri Kalan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 700,
+      "code": "404",
+      "name": "Unchahar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 701,
+      "code": "027",
+      "name": "Unn",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 702,
+      "code": "183",
+      "name": "Usahait",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 703,
+      "code": "189",
+      "name": "Usawan",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 704,
+      "code": "525",
+      "name": "Uskabajar",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 705,
+      "code": "206",
+      "name": "Vijaygarh",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 706,
+      "code": "765",
+      "name": "Walidpur",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 707,
+      "code": "191",
+      "name": "Wazirganj",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 708,
+      "code": "611",
+      "name": "Zafrabad",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    }
+  ]
+}
