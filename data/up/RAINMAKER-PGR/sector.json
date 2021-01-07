@@ -1,0 +1,10610 @@
+{
+  "tenantId": "up",
+  "moduleName": "RAINMAKER-PGR",
+  "Sector": [
+{
+  "code": "BAR001",
+  "name": "KHISTAFIJA",
+  "active": true
+},
+{
+  "code": "BAR002",
+  "name": "KOHADAPEER",
+  "active": true
+},
+{
+  "code": "BAR003",
+  "name": "BANKHANA",
+  "active": true
+},
+{
+  "code": "BAR004",
+  "name": "PARVEJ NAGAR",
+  "active": true
+},
+{
+  "code": "BAR005",
+  "name": "MURABPURA",
+  "active": true
+},
+{
+  "code": "BAR006",
+  "name": "RAFIYABAD",
+  "active": true
+},
+{
+  "code": "BAR007",
+  "name": "CHAUDHARI MOHALLA",
+  "active": true
+},
+{
+  "code": "BAR008",
+  "name": "TALAB CHAYUDHARI",
+  "active": true
+},
+{
+  "code": "BAR009",
+  "name": "BAJAR SANDAL KHAN",
+  "active": true
+},
+{
+  "code": "BAR0010",
+  "name": "ENGLISH GANJ",
+  "active": true
+},
+{
+  "code": "BAR0011",
+  "name": "KOHNA KOTAVALI",
+  "active": true
+},
+{
+  "code": "BAR0012",
+  "name": "RETI",
+  "active": true
+},
+{
+  "code": "BAR0013",
+  "name": "KANGHI TOLA",
+  "active": true
+},
+{
+  "code": "BAR0014",
+  "name": "GULAB NAGAR",
+  "active": true
+},
+{
+  "code": "BAR0015",
+  "name": "CHAHVAI",
+  "active": true
+},
+{
+  "code": "BAR0016",
+  "name": "SANAIYA RANI MEVA KUNVAR",
+  "active": true
+},
+{
+  "code": "BAR0017",
+  "name": "SARVODAY NAGAR",
+  "active": true
+},
+{
+  "code": "BAR0018",
+  "name": "JAUHARPUR",
+  "active": true
+},
+{
+  "code": "BAR0019",
+  "name": "KATGHAR",
+  "active": true
+},
+{
+  "code": "BAR0020",
+  "name": "HUSAIN BAGH",
+  "active": true
+},
+{
+  "code": "BAR0021",
+  "name": "KHALILPUR",
+  "active": true
+},
+{
+  "code": "BAR0022",
+  "name": "SLEEPER ROAD LABOUR COLONY",
+  "active": true
+},
+{
+  "code": "BAR0023",
+  "name": "C.B. GANJ",
+  "active": true
+},
+{
+  "code": "BAR0024",
+  "name": "LOHIYA BIHAR (C.B. GANJ)",
+  "active": true
+},
+{
+  "code": "BAR0025",
+  "name": "PREMNAGAR C.B. GANJ",
+  "active": true
+},
+{
+  "code": "BAR0026",
+  "name": "C.B. GANJ INDUSTRIAL STATE",
+  "active": true
+},
+{
+  "code": "BAR0027",
+  "name": "RIKSH BANDAN",
+  "active": true
+},
+{
+  "code": "BAR0028",
+  "name": "VAMANPURI",
+  "active": true
+},
+{
+  "code": "BAR0029",
+  "name": "KHANNOO",
+  "active": true
+},
+{
+  "code": "BAR0030",
+  "name": "GADHAIYA",
+  "active": true
+},
+{
+  "code": "BAR0031",
+  "name": "SARAY PUKHTA",
+  "active": true
+},
+{
+  "code": "BAR0032",
+  "name": "FOOLVALAN",
+  "active": true
+},
+{
+  "code": "BAR0033",
+  "name": "NAKSHBANDHAN",
+  "active": true
+},
+{
+  "code": "BAR0034",
+  "name": "JAKHIRA",
+  "active": true
+},
+{
+  "code": "BAR0035",
+  "name": "MASJID DOMANI",
+  "active": true
+},
+{
+  "code": "BAR0036",
+  "name": "GHERASHEKH MITTHOO",
+  "active": true
+},
+{
+  "code": "BAR0037",
+  "name": "JAGRATI NAGAR",
+  "active": true
+},
+{
+  "code": "BAR0038",
+  "name": "KILA CHHAVNI",
+  "active": true
+},
+{
+  "code": "BAR0039",
+  "name": "NEELKANTHDHAM COLONY (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0040",
+  "name": "KUWARPUR",
+  "active": true
+},
+{
+  "code": "BAR0041",
+  "name": "JASAULI",
+  "active": true
+},
+{
+  "code": "BAR0042",
+  "name": "MAHESHPUR",
+  "active": true
+},
+{
+  "code": "BAR0043",
+  "name": "MAHESHAPUR",
+  "active": true
+},
+{
+  "code": "BAR0044",
+  "name": "MAHESH PUR ATARIYA",
+  "active": true
+},
+{
+  "code": "BAR0045",
+  "name": "MALOOKPUR",
+  "active": true
+},
+{
+  "code": "BAR0046",
+  "name": "KASGARAAN",
+  "active": true
+},
+{
+  "code": "BAR0047",
+  "name": "TIYOOLIYA",
+  "active": true
+},
+{
+  "code": "BAR0048",
+  "name": "BANDIYA",
+  "active": true
+},
+{
+  "code": "BAR0049",
+  "name": "MATHURAPUR",
+  "active": true
+},
+{
+  "code": "BAR0050",
+  "name": "KRISHN VIHAR",
+  "active": true
+},
+{
+  "code": "BAR0051",
+  "name": "SHIVPURI (MAULANAGAR)",
+  "active": true
+},
+{
+  "code": "BAR0052",
+  "name": "AMAR COLONY (SURKHA)",
+  "active": true
+},
+{
+  "code": "BAR0053",
+  "name": "B.C. BANK COLONY (SURKHA)",
+  "active": true
+},
+{
+  "code": "BAR0054",
+  "name": "MAULA NAGAR",
+  "active": true
+},
+{
+  "code": "BAR0055",
+  "name": "VIKRAMADITYAPURI (SURKHA)",
+  "active": true
+},
+{
+  "code": "BAR0056",
+  "name": "SURKHA",
+  "active": true
+},
+{
+  "code": "BAR0057",
+  "name": "PARSAKHEDA AUDYOGIK KSHETRA",
+  "active": true
+},
+{
+  "code": "BAR0058",
+  "name": "GANGA NAGAR COLONY (NANDOSI)",
+  "active": true
+},
+{
+  "code": "BAR0059",
+  "name": "GARAGAIYA URF GOKUL PUR",
+  "active": true
+},
+{
+  "code": "BAR0060",
+  "name": "NANDAUSI",
+  "active": true
+},
+{
+  "code": "BAR0061",
+  "name": "PARSAKHEDA (GRAM) RAILWAY LINE",
+  "active": true
+},
+{
+  "code": "BAR0062",
+  "name": "KHADUA URF HAIDARABAD",
+  "active": true
+},
+{
+  "code": "BAR0063",
+  "name": "BANAJARIYA NAI BASTI PARSAKHEDA",
+  "active": true
+},
+{
+  "code": "BAR0064",
+  "name": "KELABAG",
+  "active": true
+},
+{
+  "code": "BAR0065",
+  "name": "PULKAJI",
+  "active": true
+},
+{
+  "code": "BAR0066",
+  "name": "PUNJAB PURA",
+  "active": true
+},
+{
+  "code": "BAR0067",
+  "name": "CHHIPI TOLA",
+  "active": true
+},
+{
+  "code": "BAR0068",
+  "name": "SAHOOKARA",
+  "active": true
+},
+{
+  "code": "BAR0069",
+  "name": "BAJARIYA MOTILAL",
+  "active": true
+},
+{
+  "code": "BAR0070",
+  "name": "JATVARA",
+  "active": true
+},
+{
+  "code": "BAR0071",
+  "name": "PATEL BIHAR (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0072",
+  "name": "SAMADHI GAUTIYA (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0073",
+  "name": "VIDEO COLONY (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0074",
+  "name": "KRISN VATIKA (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0075",
+  "name": "SHIV DHAM (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0076",
+  "name": "KASHAMIRI KOTHI CAMPUS",
+  "active": true
+},
+{
+  "code": "BAR0077",
+  "name": "KARMCHARI NAGAR",
+  "active": true
+},
+{
+  "code": "BAR0078",
+  "name": "KRISHNA VATIKA(KARMCHARI NAGAR)",
+  "active": true
+},
+{
+  "code": "BAR0079",
+  "name": "BALAJI BIHAR (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0080",
+  "name": "SAI VATIKA (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0081",
+  "name": "SAIDPUR HAWKINS",
+  "active": true
+},
+{
+  "code": "BAR0082",
+  "name": "SHIV COLONY (SAIDPUR HAEKINS)",
+  "active": true
+},
+{
+  "code": "BAR0083",
+  "name": "RAM VATIKA (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0084",
+  "name": "TRIVENI ENCLAVE (SAIDPUR HAEKINS)",
+  "active": true
+},
+{
+  "code": "BAR0085",
+  "name": "SEVADHAM COLONY (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0086",
+  "name": "KRISHNA KUNJ BATIKA (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0087",
+  "name": "ANAND BIHAR",
+  "active": true
+},
+{
+  "code": "BAR0088",
+  "name": "SHIV GARDEN (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0089",
+  "name": "PASHCHIM VIHAR COLONY (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0090",
+  "name": "PRATAP NAGAR (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0091",
+  "name": "AMBIKA AVAS",
+  "active": true
+},
+{
+  "code": "BAR0092",
+  "name": "MAHAVIR KUNJ COLONY (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0093",
+  "name": "OFFICERS ENCLAVE (KARMCHARI NAGAR)",
+  "active": true
+},
+{
+  "code": "BAR0094",
+  "name": "KESAR VATIKA (KARMCHARI NAGAR)",
+  "active": true
+},
+{
+  "code": "BAR0095",
+  "name": "GOKUL DHAM (SAIDPUR HAWKINS)",
+  "active": true
+},
+{
+  "code": "BAR0096",
+  "name": "BRAJVASI VIHAR (KARMCHARI NAGAR)",
+  "active": true
+},
+{
+  "code": "BAR0097",
+  "name": "LAJPAT NAGAR (KARMCHARI NAGAR)",
+  "active": true
+},
+{
+  "code": "BAR0098",
+  "name": "ROTHA (C.B. GANJ)",
+  "active": true
+},
+{
+  "code": "BAR0099",
+  "name": "PASTAUR",
+  "active": true
+},
+{
+  "code": "BAR00100",
+  "name": "SARANIYA",
+  "active": true
+},
+{
+  "code": "BAR00101",
+  "name": "JASOLI AHETMALI",
+  "active": true
+},
+{
+  "code": "BAR00102",
+  "name": "LICHI BAGH",
+  "active": true
+},
+{
+  "code": "BAR00103",
+  "name": "SRAI TALFI",
+  "active": true
+},
+{
+  "code": "BAR00104",
+  "name": "NAVADIYA",
+  "active": true
+},
+{
+  "code": "BAR00105",
+  "name": "SWALE NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00106",
+  "name": "CHANDAN NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00107",
+  "name": "VIDHAULIYA C. B. GANJ",
+  "active": true
+},
+{
+  "code": "BAR00108",
+  "name": "GOVINDAPUR",
+  "active": true
+},
+{
+  "code": "BAR00109",
+  "name": "WEST END COLONY",
+  "active": true
+},
+{
+  "code": "BAR00110",
+  "name": "SANAUA",
+  "active": true
+},
+{
+  "code": "BAR00111",
+  "name": "AKAB KOTAVALI",
+  "active": true
+},
+{
+  "code": "BAR00112",
+  "name": "BASMANDI",
+  "active": true
+},
+{
+  "code": "BAR00113",
+  "name": "ALAMGIRIGANJ",
+  "active": true
+},
+{
+  "code": "BAR00114",
+  "name": "FARRASHI TOLA",
+  "active": true
+},
+{
+  "code": "BAR00115",
+  "name": "SARAY KHAM",
+  "active": true
+},
+{
+  "code": "BAR00116",
+  "name": "AJAM NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00117",
+  "name": "CHADHAI NEEM",
+  "active": true
+},
+{
+  "code": "BAR00118",
+  "name": "KATARA MANRAY",
+  "active": true
+},
+{
+  "code": "BAR00119",
+  "name": "JAKATI",
+  "active": true
+},
+{
+  "code": "BAR00120",
+  "name": "GALI NAVAVAN",
+  "active": true
+},
+{
+  "code": "BAR00121",
+  "name": "BAJARIYA POORAN MAL",
+  "active": true
+},
+{
+  "code": "BAR00122",
+  "name": "MEMIYA TOLA",
+  "active": true
+},
+{
+  "code": "BAR00123",
+  "name": "BAKARGANJ",
+  "active": true
+},
+{
+  "code": "BAR00124",
+  "name": "BENIPUR CHUDHARY",
+  "active": true
+},
+{
+  "code": "BAR00125",
+  "name": "BIHARIPUR SI. LA.",
+  "active": true
+},
+{
+  "code": "BAR00126",
+  "name": "MEMARAN",
+  "active": true
+},
+{
+  "code": "BAR00127",
+  "name": "KHATRIYAN",
+  "active": true
+},
+{
+  "code": "BAR00128",
+  "name": "KARAULAN",
+  "active": true
+},
+{
+  "code": "BAR00129",
+  "name": "SHAHMATAGANJ",
+  "active": true
+},
+{
+  "code": "BAR00130",
+  "name": "KALI BADI",
+  "active": true
+},
+{
+  "code": "BAR00131",
+  "name": "ANCHAL COLONY",
+  "active": true
+},
+{
+  "code": "BAR00132",
+  "name": "JULFIKARGANJ",
+  "active": true
+},
+{
+  "code": "BAR00133",
+  "name": "FALTOONGANJ",
+  "active": true
+},
+{
+  "code": "BAR00134",
+  "name": "CIVIL LINE",
+  "active": true
+},
+{
+  "code": "BAR00135",
+  "name": "SARKARI VIBHAG",
+  "active": true
+},
+{
+  "code": "BAR00136",
+  "name": "Gandhi Udyan",
+  "active": true
+},
+{
+  "code": "BAR00137",
+  "name": "Bhatnagar colony",
+  "active": true
+},
+{
+  "code": "BAR00138",
+  "name": "A.D.M. Compund",
+  "active": true
+},
+{
+  "code": "BAR00139",
+  "name": "S.S.P. Office",
+  "active": true
+},
+{
+  "code": "BAR00140",
+  "name": "P.W.D. Quator",
+  "active": true
+},
+{
+  "code": "BAR00141",
+  "name": "Tehsil",
+  "active": true
+},
+{
+  "code": "BAR00142",
+  "name": "Power House Area",
+  "active": true
+},
+{
+  "code": "BAR00143",
+  "name": "BRAHAMPURA",
+  "active": true
+},
+{
+  "code": "BAR00144",
+  "name": "BRAJLOK COLONY",
+  "active": true
+},
+{
+  "code": "BAR00145",
+  "name": "PREM NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00146",
+  "name": "KANOON GAUYAN",
+  "active": true
+},
+{
+  "code": "BAR00147",
+  "name": "AARAM SIGNH BASTI",
+  "active": true
+},
+{
+  "code": "BAR00148",
+  "name": "MADHOVADI",
+  "active": true
+},
+{
+  "code": "BAR00149",
+  "name": "JATAVPURA",
+  "active": true
+},
+{
+  "code": "BAR00150",
+  "name": "MADHINATH",
+  "active": true
+},
+{
+  "code": "BAR00151",
+  "name": "RABINDRA NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00152",
+  "name": "VANSHI NAGALA MADINATH",
+  "active": true
+},
+{
+  "code": "BAR00153",
+  "name": "GANESH NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00154",
+  "name": "NAUMAHALA CIVIL LINE",
+  "active": true
+},
+{
+  "code": "BAR00155",
+  "name": "Choupla Civil Line",
+  "active": true
+},
+{
+  "code": "BAR00156",
+  "name": "Islamia",
+  "active": true
+},
+{
+  "code": "BAR00157",
+  "name": "Jila Jail",
+  "active": true
+},
+{
+  "code": "BAR00158",
+  "name": "Railway colony Choupla",
+  "active": true
+},
+{
+  "code": "BAR00159",
+  "name": "NEKPUR",
+  "active": true
+},
+{
+  "code": "BAR00160",
+  "name": "TIROOPATI VIHAR (NEKAPUR)",
+  "active": true
+},
+{
+  "code": "BAR00161",
+  "name": "NEKPUR (GALLA MANDI)",
+  "active": true
+},
+{
+  "code": "BAR00162",
+  "name": "RAILWAY COLONY",
+  "active": true
+},
+{
+  "code": "BAR00163",
+  "name": "GAUTIYA KHURRAM",
+  "active": true
+},
+{
+  "code": "BAR00164",
+  "name": "CLASSIC ENCLAVE MAKARANDPUR SARKAR (CIVIL LINE)",
+  "active": true
+},
+{
+  "code": "BAR00165",
+  "name": "MAKARANDPUR (CIVIL LINES)",
+  "active": true
+},
+{
+  "code": "BAR00166",
+  "name": "RAMAPUR BAG",
+  "active": true
+},
+{
+  "code": "BAR00167",
+  "name": "RADHESHYAM ENCLAVE",
+  "active": true
+},
+{
+  "code": "BAR00168",
+  "name": "SEMALKHEDA",
+  "active": true
+},
+{
+  "code": "BAR00169",
+  "name": "RAMVATIKA",
+  "active": true
+},
+{
+  "code": "BAR00170",
+  "name": "Kasba Hafijpur",
+  "active": true
+},
+{
+  "code": "BAR00171",
+  "name": "Pagalkhana",
+  "active": true
+},
+{
+  "code": "BAR00172",
+  "name": "Bareilly College",
+  "active": true
+},
+{
+  "code": "BAR00173",
+  "name": "Forest Colony",
+  "active": true
+},
+{
+  "code": "BAR00174",
+  "name": "SHAHABAD",
+  "active": true
+},
+{
+  "code": "BAR00175",
+  "name": "K. K. GARVI",
+  "active": true
+},
+{
+  "code": "BAR00176",
+  "name": "KANHAIYA TOLA",
+  "active": true
+},
+{
+  "code": "BAR00177",
+  "name": "DARJI CHAUK",
+  "active": true
+},
+{
+  "code": "BAR00178",
+  "name": "K.K. SHARKI (KHVAJA KUTUB)",
+  "active": true
+},
+{
+  "code": "BAR00179",
+  "name": "SAUDAGARAN",
+  "active": true
+},
+{
+  "code": "BAR00180",
+  "name": "MADARI GATE",
+  "active": true
+},
+{
+  "code": "BAR00181",
+  "name": "KOOCHA SITARAM",
+  "active": true
+},
+{
+  "code": "BAR00182",
+  "name": "KAHARVAN",
+  "active": true
+},
+{
+  "code": "BAR00183",
+  "name": "SUGAR FACTORY",
+  "active": true
+},
+{
+  "code": "BAR00184",
+  "name": "R.P.F. QUATAR",
+  "active": true
+},
+{
+  "code": "BAR00185",
+  "name": "OIL DEPOT AREA",
+  "active": true
+},
+{
+  "code": "BAR00186",
+  "name": "BAG AHAMAD ALI",
+  "active": true
+},
+{
+  "code": "BAR00187",
+  "name": "GANGAPUR",
+  "active": true
+},
+{
+  "code": "BAR00188",
+  "name": "SHAHDANA",
+  "active": true
+},
+{
+  "code": "BAR00189",
+  "name": "SANAIYA DHAN SINGH",
+  "active": true
+},
+{
+  "code": "BAR00190",
+  "name": "SHANTI VIHAR",
+  "active": true
+},
+{
+  "code": "BAR00191",
+  "name": "SIKLAPUR",
+  "active": true
+},
+{
+  "code": "BAR00192",
+  "name": "BAGBRIGATAN",
+  "active": true
+},
+{
+  "code": "BAR00193",
+  "name": "SITHAURA",
+  "active": true
+},
+{
+  "code": "BAR00194",
+  "name": "TILAK COLONY (SUBHASH NAGAR)",
+  "active": true
+},
+{
+  "code": "BAR00195",
+  "name": "VAGGA COLONY (SUBHASH NAGAR)",
+  "active": true
+},
+{
+  "code": "BAR00196",
+  "name": "SUBHASH NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00197",
+  "name": "SARVODAY NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00198",
+  "name": "RAILWAY SCHOOL",
+  "active": true
+},
+{
+  "code": "BAR00199",
+  "name": "VEER BHATTI",
+  "active": true
+},
+{
+  "code": "BAR00200",
+  "name": "PASHUPATI VIHAR",
+  "active": true
+},
+{
+  "code": "BAR00201",
+  "name": "AIZAJNAGAR GAUTIYA",
+  "active": true
+},
+{
+  "code": "BAR00202",
+  "name": "TULSI NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00203",
+  "name": "CHANDRAGUPT PURAM COLONY",
+  "active": true
+},
+{
+  "code": "BAR00204",
+  "name": "AKASHPURAM",
+  "active": true
+},
+{
+  "code": "BAR00205",
+  "name": "GARDAN CITY",
+  "active": true
+},
+{
+  "code": "BAR00206",
+  "name": "JAGATAPUR",
+  "active": true
+},
+{
+  "code": "BAR00207",
+  "name": "R.P. ENCLAVE",
+  "active": true
+},
+{
+  "code": "BAR00208",
+  "name": "KAILASHPURAM",
+  "active": true
+},
+{
+  "code": "BAR00209",
+  "name": "ADARSHNAGAR (VEER SAVARKAR NAGAR)",
+  "active": true
+},
+{
+  "code": "BAR00210",
+  "name": "VANNOOVAL NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00211",
+  "name": "VANNUWAL AWAAS",
+  "active": true
+},
+{
+  "code": "BAR00212",
+  "name": "M.E.S. COLONY(DELAPEER)",
+  "active": true
+},
+{
+  "code": "BAR00213",
+  "name": "DELAPEER",
+  "active": true
+},
+{
+  "code": "BAR00214",
+  "name": "KIRPAL NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00215",
+  "name": "MUNSHI NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00216",
+  "name": "AVADH BIHAR",
+  "active": true
+},
+{
+  "code": "BAR00217",
+  "name": "VIR SAVARAKAR NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00218",
+  "name": "CHANDRAMANI NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00219",
+  "name": "NEELKANTH",
+  "active": true
+},
+{
+  "code": "BAR00220",
+  "name": "DEVVIHAR",
+  "active": true
+},
+{
+  "code": "BAR00221",
+  "name": "KRISNAYAN COLONY",
+  "active": true
+},
+{
+  "code": "BAR00222",
+  "name": "RAM BIHAR COLONY",
+  "active": true
+},
+{
+  "code": "BAR00223",
+  "name": "GAGAN VIHAR (DELAPEER)",
+  "active": true
+},
+{
+  "code": "BAR00224",
+  "name": "NARAYAN AWAAS",
+  "active": true
+},
+{
+  "code": "BAR00225",
+  "name": "MITHALAPURI / AVADH BIHAR",
+  "active": true
+},
+{
+  "code": "BAR00226",
+  "name": "SAMRAT ASHOK NAGAR (JOGI NAVADA)",
+  "active": true
+},
+{
+  "code": "BAR00227",
+  "name": "GOPAL NAGAR (JOGI NAVADA)",
+  "active": true
+},
+{
+  "code": "BAR00228",
+  "name": "MEGA CITY (SANJAYNAGAR)",
+  "active": true
+},
+{
+  "code": "BAR00229",
+  "name": "DURGA NAGAR COLONY",
+  "active": true
+},
+{
+  "code": "BAR00230",
+  "name": "LODHI TOLA",
+  "active": true
+},
+{
+  "code": "BAR00231",
+  "name": "CHAK MAHAMOOD",
+  "active": true
+},
+{
+  "code": "BAR00232",
+  "name": "CHAK MAHAMOOD NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00233",
+  "name": "VISHNU DHAM",
+  "active": true
+},
+{
+  "code": "BAR00234",
+  "name": "TULASHERPUR",
+  "active": true
+},
+{
+  "code": "BAR00235",
+  "name": "BIHARMAN NAGALA",
+  "active": true
+},
+{
+  "code": "BAR00236",
+  "name": "PARVANA NAGAR (DELAPEER)",
+  "active": true
+},
+{
+  "code": "BAR00237",
+  "name": "CHOTIBIHAR",
+  "active": true
+},
+{
+  "code": "BAR00238",
+  "name": "SURYA ENCLAVE",
+  "active": true
+},
+{
+  "code": "BAR00239",
+  "name": "MAHANAGAR COLONY",
+  "active": true
+},
+{
+  "code": "BAR00240",
+  "name": "ASHUTOSH CITY (DELAPEER)",
+  "active": true
+},
+{
+  "code": "BAR00241",
+  "name": "SILVER STATE",
+  "active": true
+},
+{
+  "code": "BAR00242",
+  "name": "HAJIYAPUR",
+  "active": true
+},
+{
+  "code": "BAR00243",
+  "name": "CITY HART",
+  "active": true
+},
+{
+  "code": "BAR00244",
+  "name": "SHYAM ENCLAVE",
+  "active": true
+},
+{
+  "code": "BAR00245",
+  "name": "RESIDENCY GARDEN",
+  "active": true
+},
+{
+  "code": "BAR00246",
+  "name": "KAUSHAMBI ENCLAVE",
+  "active": true
+},
+{
+  "code": "BAR00247",
+  "name": "PUSKAR ENCLAVE",
+  "active": true
+},
+{
+  "code": "BAR00248",
+  "name": "MAN SAROVAR GARDAN (Haroonagla) SWATAH KAR NIRDHARAN",
+  "active": true
+},
+{
+  "code": "BAR00249",
+  "name": "MAN SAROVAR GARDAN",
+  "active": true
+},
+{
+  "code": "BAR00250",
+  "name": "KHUSHBOO ENCLAVE",
+  "active": true
+},
+{
+  "code": "BAR00251",
+  "name": "MAA VAISHNOPURAM (JAGATPUR LALA BEGAM)",
+  "active": true
+},
+{
+  "code": "BAR00252",
+  "name": "RADHAKUNJ COLONY HAROONAGALA",
+  "active": true
+},
+{
+  "code": "BAR00253",
+  "name": "MAA VAISHNO KUNJ DOHRA (HAROONAGLA)",
+  "active": true
+},
+{
+  "code": "BAR00254",
+  "name": "HAROONGALA",
+  "active": true
+},
+{
+  "code": "BAR00255",
+  "name": "KRISNA NAGAR COLONY (HAROONAGALA)",
+  "active": true
+},
+{
+  "code": "BAR00256",
+  "name": "PANCH SHEEL NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00257",
+  "name": "SANI RESIDENCY HAROONGALA",
+  "active": true
+},
+{
+  "code": "BAR00258",
+  "name": "FAIK ENCLAVE",
+  "active": true
+},
+{
+  "code": "BAR00259",
+  "name": "GREEN PARK VISTAR COLONY",
+  "active": true
+},
+{
+  "code": "BAR00260",
+  "name": "GREEN PARK COLONY",
+  "active": true
+},
+{
+  "code": "BAR00261",
+  "name": "AMIT BIHAR COLONY HAROONGALA",
+  "active": true
+},
+{
+  "code": "BAR00262",
+  "name": "AGRASEN NAGAR HAROONGALA",
+  "active": true
+},
+{
+  "code": "BAR00263",
+  "name": "GREATER GREEN PARK COLONY",
+  "active": true
+},
+{
+  "code": "BAR00264",
+  "name": "PAWAN BIHAR",
+  "active": true
+},
+{
+  "code": "BAR00265",
+  "name": "GANESH PURAM",
+  "active": true
+},
+{
+  "code": "BAR00266",
+  "name": "KOT",
+  "active": true
+},
+{
+  "code": "BAR00267",
+  "name": "KANKAR TOLA",
+  "active": true
+},
+{
+  "code": "BAR00268",
+  "name": "KATARA CHAND KHA SWATAH KAR NIRDHARAN",
+  "active": true
+},
+{
+  "code": "BAR00269",
+  "name": "SINDHU NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00270",
+  "name": "AJAD NAGAR SWATAH KAR NIRDHARAN",
+  "active": true
+},
+{
+  "code": "BAR00271",
+  "name": "NISHA ENCLAVE ( UNIVERSITY ROAD)",
+  "active": true
+},
+{
+  "code": "BAR00272",
+  "name": "KATARA CHAND KHAN",
+  "active": true
+},
+{
+  "code": "BAR00273",
+  "name": "NAVADA JOGIYAN",
+  "active": true
+},
+{
+  "code": "BAR00274",
+  "name": "NAI BASTI",
+  "active": true
+},
+{
+  "code": "BAR00275",
+  "name": "NAVADA SHEKHAN (RAJANAGAR) SWATAH KAR NIRDHARAN",
+  "active": true
+},
+{
+  "code": "BAR00276",
+  "name": "NAVADA SHEKHAN",
+  "active": true
+},
+{
+  "code": "BAR00277",
+  "name": "NAVADA SHEKHAN (SWATAH KAR)",
+  "active": true
+},
+{
+  "code": "BAR00278",
+  "name": "KRISNA NAGAR PILIBHIT BYPASS",
+  "active": true
+},
+{
+  "code": "BAR00279",
+  "name": "RABDI TOLA",
+  "active": true
+},
+{
+  "code": "BAR00280",
+  "name": "ROHALI TOLA",
+  "active": true
+},
+{
+  "code": "BAR00281",
+  "name": "SAHASAVANI TOLA",
+  "active": true
+},
+{
+  "code": "BAR00282",
+  "name": "BUKHARPURA",
+  "active": true
+},
+{
+  "code": "BAR00283",
+  "name": "ABDULLA GANJ",
+  "active": true
+},
+{
+  "code": "BAR00284",
+  "name": "SANJAY NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00285",
+  "name": "ASHAPURAM",
+  "active": true
+},
+{
+  "code": "BAR00286",
+  "name": "ANAND BIHAR (SANJAY NAGAR)",
+  "active": true
+},
+{
+  "code": "BAR00287",
+  "name": "SAINIK COLONY",
+  "active": true
+},
+{
+  "code": "BAR00288",
+  "name": "TULIP TOWER (SANJAY NAGAR)",
+  "active": true
+},
+{
+  "code": "BAR00289",
+  "name": "AMAR NATH DHAM COLONY",
+  "active": true
+},
+{
+  "code": "BAR00290",
+  "name": "SAILANI",
+  "active": true
+},
+{
+  "code": "BAR00291",
+  "name": "KATIKUIYA",
+  "active": true
+},
+{
+  "code": "BAR00292",
+  "name": "KAJI TOLA",
+  "active": true
+},
+{
+  "code": "BAR00293",
+  "name": "SOOFI TOLA",
+  "active": true
+},
+{
+  "code": "BAR00294",
+  "name": "GHER JAFAR KHAN",
+  "active": true
+},
+{
+  "code": "BAR00295",
+  "name": "KASAI TOLA",
+  "active": true
+},
+{
+  "code": "BAR00296",
+  "name": "SURESH SHARMA NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00297",
+  "name": "NIRMAN NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00298",
+  "name": "LAKSMI NAGAR COLONY",
+  "active": true
+},
+{
+  "code": "BAR00299",
+  "name": "RAMAYAN VIHAR",
+  "active": true
+},
+{
+  "code": "BAR00300",
+  "name": "DIVYA LOK COLONY",
+  "active": true
+},
+{
+  "code": "BAR00301",
+  "name": "PURNAGIRI VIHAR",
+  "active": true
+},
+{
+  "code": "BAR00302",
+  "name": "RAMAYAN EPARTAMENT",
+  "active": true
+},
+{
+  "code": "BAR00303",
+  "name": "RAJIV KUNJ",
+  "active": true
+},
+{
+  "code": "BAR00304",
+  "name": "VRINDAVAN COLONY",
+  "active": true
+},
+{
+  "code": "BAR00305",
+  "name": "PUSPANJALI COLONY",
+  "active": true
+},
+{
+  "code": "BAR00306",
+  "name": "RAJENDRA NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00307",
+  "name": "RAJENDRA NAGAR (C. BLOCK)",
+  "active": true
+},
+{
+  "code": "BAR00308",
+  "name": "SWAPN LOK COLONY",
+  "active": true
+},
+{
+  "code": "BAR00309",
+  "name": "RAJENDR NAGAR(E. BLOCK)",
+  "active": true
+},
+{
+  "code": "BAR00310",
+  "name": "RAJENDR NAGAR(D. BLOCK)",
+  "active": true
+},
+{
+  "code": "BAR00311",
+  "name": "GUL MOHAR PARK (RAJENDR NAGAR)",
+  "active": true
+},
+{
+  "code": "BAR00312",
+  "name": "GLAXY HOME",
+  "active": true
+},
+{
+  "code": "BAR00313",
+  "name": "DEEPAK BIHAR",
+  "active": true
+},
+{
+  "code": "BAR00314",
+  "name": "NARENDRA BIHAR",
+  "active": true
+},
+{
+  "code": "BAR00315",
+  "name": "JAGADISH BIHAR/AVADH AVAS",
+  "active": true
+},
+{
+  "code": "BAR00316",
+  "name": "BHOOD",
+  "active": true
+},
+{
+  "code": "BAR00317",
+  "name": "TIVRI",
+  "active": true
+},
+{
+  "code": "BAR00318",
+  "name": "BDA Colony",
+  "active": true
+},
+{
+  "code": "BAR00319",
+  "name": "Ashok Nagar",
+  "active": true
+},
+{
+  "code": "BAR00320",
+  "name": "Naheru Park Colony",
+  "active": true
+},
+{
+  "code": "BAR00321",
+  "name": "FARIDAPUR CHAUDHARI",
+  "active": true
+},
+{
+  "code": "BAR00322",
+  "name": "NAI CHHAVNI ASHARAF KHAN",
+  "active": true
+},
+{
+  "code": "BAR00323",
+  "name": "ANAND NAGAR / ANAND BIHAR(SURKHA CHHAVNI)",
+  "active": true
+},
+{
+  "code": "BAR00324",
+  "name": "GREATER AKASH",
+  "active": true
+},
+{
+  "code": "BAR00325",
+  "name": "GANDHI PURAM",
+  "active": true
+},
+{
+  "code": "BAR00326",
+  "name": "SIDDHARTH NAGAR (PARTAPUR CHAUDHARI)",
+  "active": true
+},
+{
+  "code": "BAR00327",
+  "name": "SURKHA CHHAVNI",
+  "active": true
+},
+{
+  "code": "BAR00328",
+  "name": "SIDDHARTH NAGAR (SURKHA CHHAVNI)",
+  "active": true
+},
+{
+  "code": "BAR00329",
+  "name": "INDIRA NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00330",
+  "name": "RAJENDRA NAGAR  (A. BLOCK)",
+  "active": true
+},
+{
+  "code": "BAR00331",
+  "name": "RAJENDRA NAGAR (B. BLOCK)",
+  "active": true
+},
+{
+  "code": "BAR00332",
+  "name": "Shiv Nagar",
+  "active": true
+},
+{
+  "code": "BAR00333",
+  "name": "Mandal Vihar",
+  "active": true
+},
+{
+  "code": "BAR00334",
+  "name": "NORTHACITY EXTENSION",
+  "active": true
+},
+{
+  "code": "BAR00335",
+  "name": "INDRAPRASTH COLONY",
+  "active": true
+},
+{
+  "code": "BAR00336",
+  "name": "KURMACHAL NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00337",
+  "name": "KUDESIYA IZZAT NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00338",
+  "name": "RAILWAY COLONY IZZAT NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00339",
+  "name": "NOTIFY AREA IZZAT NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00340",
+  "name": "Partapur Jevan sahay",
+  "active": true
+},
+{
+  "code": "BAR00341",
+  "name": "KIRTINAGAR",
+  "active": true
+},
+{
+  "code": "BAR00342",
+  "name": "PRIYADARSHANI NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00343",
+  "name": "PRABHAT NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00344",
+  "name": "JANAKPURI",
+  "active": true
+},
+{
+  "code": "BAR00345",
+  "name": "GANDHINAGAR",
+  "active": true
+},
+{
+  "code": "BAR00346",
+  "name": "ALOK NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00347",
+  "name": "DEFENCE COLONY",
+  "active": true
+},
+{
+  "code": "BAR00348",
+  "name": "SANTNAGAR",
+  "active": true
+},
+{
+  "code": "BAR00349",
+  "name": "GAYATRI NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00350",
+  "name": "Kanjadaspur",
+  "active": true
+},
+{
+  "code": "BAR00351",
+  "name": "NARKULAGANJ",
+  "active": true
+},
+{
+  "code": "BAR00352",
+  "name": "EKATA NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00353",
+  "name": "MODEL TOWN",
+  "active": true
+},
+{
+  "code": "BAR00354",
+  "name": "SHAHADANA COLONY",
+  "active": true
+},
+{
+  "code": "BAR00355",
+  "name": "DEENDAYALPURAM",
+  "active": true
+},
+{
+  "code": "BAR00356",
+  "name": "NAGARIYA PARIKSHIT",
+  "active": true
+},
+{
+  "code": "BAR00357",
+  "name": "BAKAR NAGAR SUNDARASI",
+  "active": true
+},
+{
+  "code": "BAR00358",
+  "name": "SIKARPUR",
+  "active": true
+},
+{
+  "code": "BAR00359",
+  "name": "TATARPUR",
+  "active": true
+},
+{
+  "code": "BAR00360",
+  "name": "PARTAPUR CHAUDHARI",
+  "active": true
+},
+{
+  "code": "BAR00361",
+  "name": "SHIV STATE (PARTAPUR CHAUDHARI)",
+  "active": true
+},
+{
+  "code": "BAR00362",
+  "name": "MAHALU",
+  "active": true
+},
+{
+  "code": "BAR00363",
+  "name": "SUNCITY",
+  "active": true
+},
+{
+  "code": "BAR00364",
+  "name": "ABHILASHA SANCITY VISTAR",
+  "active": true
+},
+{
+  "code": "BAR00365",
+  "name": "AVANTIKA SUNCITY VISTAR",
+  "active": true
+},
+{
+  "code": "BAR00366",
+  "name": "ASTHA SUNCITY VISTAR",
+  "active": true
+},
+{
+  "code": "BAR00367",
+  "name": "VATIKA SANCITY VISTAR",
+  "active": true
+},
+{
+  "code": "BAR00368",
+  "name": "NORTH CITY",
+  "active": true
+},
+{
+  "code": "BAR00369",
+  "name": "SANCITY EXECUTIVE",
+  "active": true
+},
+{
+  "code": "BAR00370",
+  "name": "SANCITY OLD",
+  "active": true
+},
+{
+  "code": "BAR00371",
+  "name": "CLUB PREMIER (SUNCITY)",
+  "active": true
+},
+{
+  "code": "BAR00372",
+  "name": "VAIBHAV SANCITY VISTAR",
+  "active": true
+},
+{
+  "code": "BAR00373",
+  "name": "PEER VAHODA",
+  "active": true
+},
+{
+  "code": "BAR00374",
+  "name": "Krishna Nagar",
+  "active": true
+},
+{
+  "code": "BAR00375",
+  "name": "NANDAN VAN COLONY",
+  "active": true
+},
+{
+  "code": "BAR00376",
+  "name": "SHIDHART NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00377",
+  "name": "MATH LAKSMIPUR",
+  "active": true
+},
+{
+  "code": "BAR00378",
+  "name": "RAHPURA CHAUDHARI",
+  "active": true
+},
+{
+  "code": "BAR00379",
+  "name": "BASANT BIHAR EXTENSION FEJ-2",
+  "active": true
+},
+{
+  "code": "BAR00380",
+  "name": "AVADH DHAM COLONY",
+  "active": true
+},
+{
+  "code": "BAR00381",
+  "name": "MATH KAMAL NAYANAPUR",
+  "active": true
+},
+{
+  "code": "BAR00382",
+  "name": "CHHAVNI BANKE",
+  "active": true
+},
+{
+  "code": "BAR00383",
+  "name": "SHASTRI NAGAR",
+  "active": true
+},
+{
+  "code": "BAR00384",
+  "name": "CHHAVNI ASHARAF KHAN",
+  "active": true
+},
+{
+  "code": "BAR00385",
+  "name": "NORTH CITY (CHHAVNI BANKE)",
+  "active": true
+},{
+  "code": "MOR001",
+  "name": "Bank Colony",
+  "active": true
+},
+{
+  "code": "MOR002",
+  "name": "Daan Shaad Ki Milak",
+  "active": true
+},
+{
+  "code": "MOR003",
+  "name": "Khushalpur",
+  "active": true
+},
+{
+  "code": "MOR004",
+  "name": "Mirpur",
+  "active": true
+},
+{
+  "code": "MOR005",
+  "name": "Prativihar",
+  "active": true
+},
+{
+  "code": "MOR006",
+  "name": "Shahpur Tigri",
+  "active": true
+},
+{
+  "code": "MOR007",
+  "name": "Anwar Nagar",
+  "active": true
+},
+{
+  "code": "MOR008",
+  "name": "Jahid Nagar",
+  "active": true
+},
+{
+  "code": "MOR009",
+  "name": "Pandit Nagala",
+  "active": true
+},
+{
+  "code": "MOR0010",
+  "name": "Hasthala Purvi",
+  "active": true
+},
+{
+  "code": "MOR0011",
+  "name": "Himgiri",
+  "active": true
+},
+{
+  "code": "MOR0012",
+  "name": "Jhanjanpur",
+  "active": true
+},
+{
+  "code": "MOR0013",
+  "name": "Mangal Ka Bazar",
+  "active": true
+},
+{
+  "code": "MOR0014",
+  "name": "Balmiki Basti",
+  "active": true
+},
+{
+  "code": "MOR0015",
+  "name": "Bangla Gaon",
+  "active": true
+},
+{
+  "code": "MOR0016",
+  "name": "Daswan Ghat",
+  "active": true
+},
+{
+  "code": "MOR0017",
+  "name": "Daulat Bagh Uttari",
+  "active": true
+},
+{
+  "code": "MOR0018",
+  "name": "Adarsh Colony Notified Area Purv",
+  "active": true
+},
+{
+  "code": "MOR0019",
+  "name": "Fakirpura",
+  "active": true
+},
+{
+  "code": "MOR0020",
+  "name": "Nilkanth Colony",
+  "active": true
+},
+{
+  "code": "MOR0021",
+  "name": "Gulabwadi",
+  "active": true
+},
+{
+  "code": "MOR0022",
+  "name": "Indra Colony",
+  "active": true
+},
+{
+  "code": "MOR0023",
+  "name": "Suraj Nagar",
+  "active": true
+},
+{
+  "code": "MOR0024",
+  "name": "Prakash Nagar",
+  "active": true
+},
+{
+  "code": "MOR0025",
+  "name": "Prem Nagar  Gayatri Nagar",
+  "active": true
+},
+{
+  "code": "MOR0026",
+  "name": "Ashok Nagar",
+  "active": true
+},
+{
+  "code": "MOR0027",
+  "name": "District Jail",
+  "active": true
+},
+{
+  "code": "MOR0028",
+  "name": "Eye Hospital Ke Piche Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR0029",
+  "name": "Gandhi Park",
+  "active": true
+},
+{
+  "code": "MOR0030",
+  "name": "Kanjari Sarai",
+  "active": true
+},
+{
+  "code": "MOR0031",
+  "name": "Parsadilal Road",
+  "active": true
+},
+{
+  "code": "MOR0032",
+  "name": "R.N. College",
+  "active": true
+},
+{
+  "code": "MOR0033",
+  "name": "Saket Colony",
+  "active": true
+},
+{
+  "code": "MOR0034",
+  "name": "Bangla Gaon",
+  "active": true
+},
+{
+  "code": "MOR0035",
+  "name": "Jigar Colony",
+  "active": true
+},
+{
+  "code": "MOR0036",
+  "name": "Karyalaya Jila Parishad",
+  "active": true
+},
+{
+  "code": "MOR0037",
+  "name": "Kothi Damdama",
+  "active": true
+},
+{
+  "code": "MOR0038",
+  "name": "Kutkut Shala Bangalgaon",
+  "active": true
+},
+{
+  "code": "MOR0039",
+  "name": "Pachim Aur Purab Diputygunj",
+  "active": true
+},
+{
+  "code": "MOR0040",
+  "name": "Chakkar Ki Milak",
+  "active": true
+},
+{
+  "code": "MOR0041",
+  "name": "Ambika Prasad Inter College",
+  "active": true
+},
+{
+  "code": "MOR0042",
+  "name": "Daulat Bagh",
+  "active": true
+},
+{
+  "code": "MOR0043",
+  "name": "Harijan Basti",
+  "active": true
+},
+{
+  "code": "MOR0044",
+  "name": "Kati Gali",
+  "active": true
+},
+{
+  "code": "MOR0045",
+  "name": "Kisrol",
+  "active": true
+},
+{
+  "code": "MOR0046",
+  "name": "Masjid",
+  "active": true
+},
+{
+  "code": "MOR0047",
+  "name": "Hospital Ground",
+  "active": true
+},
+{
+  "code": "MOR0048",
+  "name": "Katra Puranjaat",
+  "active": true
+},
+{
+  "code": "MOR0049",
+  "name": "Kotwali",
+  "active": true
+},
+{
+  "code": "MOR0050",
+  "name": "Parihar Sarai",
+  "active": true
+},
+{
+  "code": "MOR0051",
+  "name": "Pat Pat Sarai",
+  "active": true
+},
+{
+  "code": "MOR0052",
+  "name": "Sarai Kaji",
+  "active": true
+},
+{
+  "code": "MOR0053",
+  "name": "Saray Raja",
+  "active": true
+},
+{
+  "code": "MOR0054",
+  "name": "Ajad Nagar",
+  "active": true
+},
+{
+  "code": "MOR0055",
+  "name": "Bhogpur Mithoni",
+  "active": true
+},
+{
+  "code": "MOR0056",
+  "name": "Chandra Nagar",
+  "active": true
+},
+{
+  "code": "MOR0057",
+  "name": "Friends Colony",
+  "active": true
+},
+{
+  "code": "MOR0058",
+  "name": "Locoshed",
+  "active": true
+},
+{
+  "code": "MOR0059",
+  "name": "Patel Nagar",
+  "active": true
+},
+{
+  "code": "MOR0060",
+  "name": "Sainikon Ki Basti",
+  "active": true
+},
+{
+  "code": "MOR0061",
+  "name": "Gyani Wali Basti",
+  "active": true
+},
+{
+  "code": "MOR0062",
+  "name": "Homiopathic College Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR0063",
+  "name": "J.R.P. Colony",
+  "active": true
+},
+{
+  "code": "MOR0064",
+  "name": "Railway Colony",
+  "active": true
+},
+{
+  "code": "MOR0065",
+  "name": "Asaltpura Bhunda",
+  "active": true
+},
+{
+  "code": "MOR0066",
+  "name": "Asaltpura Chaturth",
+  "active": true
+},
+{
+  "code": "MOR0067",
+  "name": "Asaltpura Tritiya",
+  "active": true
+},
+{
+  "code": "MOR0068",
+  "name": "Harijan Basti",
+  "active": true
+},
+{
+  "code": "MOR0069",
+  "name": "Sidhi Sarai Purvi",
+  "active": true
+},
+{
+  "code": "MOR0070",
+  "name": "Barwalan Aashiq Warsi Nagar",
+  "active": true
+},
+{
+  "code": "MOR0071",
+  "name": "Jama Msjid",
+  "active": true
+},
+{
+  "code": "MOR0072",
+  "name": "Kanungoyan Dakshin",
+  "active": true
+},
+{
+  "code": "MOR0073",
+  "name": "Kudaghar",
+  "active": true
+},
+{
+  "code": "MOR0074",
+  "name": "Rajkiya Inter College",
+  "active": true
+},
+{
+  "code": "MOR0075",
+  "name": "Laalbagh Uttari",
+  "active": true
+},
+{
+  "code": "MOR0076",
+  "name": "Nawabpura Purvi",
+  "active": true
+},
+{
+  "code": "MOR0077",
+  "name": "Dargah Nai Awadi",
+  "active": true
+},
+{
+  "code": "MOR0078",
+  "name": "Gudiyabagh",
+  "active": true
+},
+{
+  "code": "MOR0079",
+  "name": "Makbara Pratham",
+  "active": true
+},
+{
+  "code": "MOR0080",
+  "name": "Makbara Uttari",
+  "active": true
+},
+{
+  "code": "MOR0081",
+  "name": "Nai Abadi",
+  "active": true
+},
+{
+  "code": "MOR0082",
+  "name": "Afsarashiyan Gunj",
+  "active": true
+},
+{
+  "code": "MOR0083",
+  "name": "Banwata Gunj",
+  "active": true
+},
+{
+  "code": "MOR0084",
+  "name": "Baradari",
+  "active": true
+},
+{
+  "code": "MOR0085",
+  "name": "Dang",
+  "active": true
+},
+{
+  "code": "MOR0086",
+  "name": "Kajalwasan Gunj",
+  "active": true
+},
+{
+  "code": "MOR0087",
+  "name": "Kamal Cinema",
+  "active": true
+},
+{
+  "code": "MOR0088",
+  "name": "Nai Basti",
+  "active": true
+},
+{
+  "code": "MOR0089",
+  "name": "Chauki Hasan Kha",
+  "active": true
+},
+{
+  "code": "MOR0090",
+  "name": "Filkhana",
+  "active": true
+},
+{
+  "code": "MOR0091",
+  "name": "Kajitola",
+  "active": true
+},
+{
+  "code": "MOR0092",
+  "name": "Kisraul",
+  "active": true
+},
+{
+  "code": "MOR0093",
+  "name": "Motibagh",
+  "active": true
+},
+{
+  "code": "MOR0094",
+  "name": "Varsi Road",
+  "active": true
+},
+{
+  "code": "MOR0095",
+  "name": "Ambedkar Nagar",
+  "active": true
+},
+{
+  "code": "MOR0096",
+  "name": "Fazalpur",
+  "active": true
+},
+{
+  "code": "MOR0097",
+  "name": "Lakadi Fazalpur",
+  "active": true
+},
+{
+  "code": "MOR0098",
+  "name": "Mandi Samiti Ke Piche Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR0099",
+  "name": "Naya Mazara",
+  "active": true
+},
+{
+  "code": "MOR00100",
+  "name": "Paipatpura",
+  "active": true
+},
+{
+  "code": "MOR00101",
+  "name": "Puranpur",
+  "active": true
+},
+{
+  "code": "MOR00102",
+  "name": "Ambedkar Nagar",
+  "active": true
+},
+{
+  "code": "MOR00103",
+  "name": "Bhatavali",
+  "active": true
+},
+{
+  "code": "MOR00104",
+  "name": "Mau",
+  "active": true
+},
+{
+  "code": "MOR00105",
+  "name": "Prem Nagar",
+  "active": true
+},
+{
+  "code": "MOR00106",
+  "name": "Vidhanagar",
+  "active": true
+},
+{
+  "code": "MOR00107",
+  "name": "Ashiyana - 1 And 2",
+  "active": true
+},
+{
+  "code": "MOR00108",
+  "name": "Hasthala Gaon Uttari",
+  "active": true
+},
+{
+  "code": "MOR00109",
+  "name": "Mau Ka Milak",
+  "active": true
+},
+{
+  "code": "MOR00110",
+  "name": "Awas Vikas",
+  "active": true
+},
+{
+  "code": "MOR00111",
+  "name": "Gandhi Ashram",
+  "active": true
+},
+{
+  "code": "MOR00112",
+  "name": "P.A.C.",
+  "active": true
+},
+{
+  "code": "MOR00113",
+  "name": "Pilikothi",
+  "active": true
+},
+{
+  "code": "MOR00114",
+  "name": "Awas Vikas Colony",
+  "active": true
+},
+{
+  "code": "MOR00115",
+  "name": "Bhimathera",
+  "active": true
+},
+{
+  "code": "MOR00116",
+  "name": "Bhund",
+  "active": true
+},
+{
+  "code": "MOR00117",
+  "name": "Indra",
+  "active": true
+},
+{
+  "code": "MOR00118",
+  "name": "Sirkoi",
+  "active": true
+},
+{
+  "code": "MOR00119",
+  "name": "Dhakka",
+  "active": true
+},
+{
+  "code": "MOR00120",
+  "name": "Ekta Colony",
+  "active": true
+},
+{
+  "code": "MOR00121",
+  "name": "Kundanpur",
+  "active": true
+},
+{
+  "code": "MOR00122",
+  "name": "Manjhola Ka Purvi Bhag",
+  "active": true
+},
+{
+  "code": "MOR00123",
+  "name": "Prakash Nagar",
+  "active": true
+},
+{
+  "code": "MOR00124",
+  "name": "Rameshwar Colony",
+  "active": true
+},
+{
+  "code": "MOR00125",
+  "name": "Sarita Nagr",
+  "active": true
+},
+{
+  "code": "MOR00126",
+  "name": "Vikas Nagar Dakshin",
+  "active": true
+},
+{
+  "code": "MOR00127",
+  "name": "Jawahar Nagar",
+  "active": true
+},
+{
+  "code": "MOR00128",
+  "name": "Kajipura",
+  "active": true
+},
+{
+  "code": "MOR00129",
+  "name": "Lodipur",
+  "active": true
+},
+{
+  "code": "MOR00130",
+  "name": "Awas Vikas Colony",
+  "active": true
+},
+{
+  "code": "MOR00131",
+  "name": "Budhi Vihar",
+  "active": true
+},
+{
+  "code": "MOR00132",
+  "name": "Gopalpur",
+  "active": true
+},
+{
+  "code": "MOR00133",
+  "name": "Hulsangunj",
+  "active": true
+},
+{
+  "code": "MOR00134",
+  "name": "Majholi",
+  "active": true
+},
+{
+  "code": "MOR00135",
+  "name": "Milan Vihar",
+  "active": true
+},
+{
+  "code": "MOR00136",
+  "name": "Puranpur",
+  "active": true
+},
+{
+  "code": "MOR00137",
+  "name": "Asalgunj",
+  "active": true
+},
+{
+  "code": "MOR00138",
+  "name": "Katghar Police Chowki",
+  "active": true
+},
+{
+  "code": "MOR00139",
+  "name": "Mahbullagunj",
+  "active": true
+},
+{
+  "code": "MOR00140",
+  "name": "Mahua Pura",
+  "active": true
+},
+{
+  "code": "MOR00141",
+  "name": "Phoolwati School",
+  "active": true
+},
+{
+  "code": "MOR00142",
+  "name": "Virshah Hajari",
+  "active": true
+},
+{
+  "code": "MOR00143",
+  "name": "Ambedkar Nagar",
+  "active": true
+},
+{
+  "code": "MOR00144",
+  "name": "Dehri Gaon",
+  "active": true
+},
+{
+  "code": "MOR00145",
+  "name": "Govind Nagar",
+  "active": true
+},
+{
+  "code": "MOR00146",
+  "name": "Saraswati Vihar",
+  "active": true
+},
+{
+  "code": "MOR00147",
+  "name": "Shivpur",
+  "active": true
+},
+{
+  "code": "MOR00148",
+  "name": "Vijaynagar",
+  "active": true
+},
+{
+  "code": "MOR00149",
+  "name": "Dindayal Nagar-1 And 2",
+  "active": true
+},
+{
+  "code": "MOR00150",
+  "name": "Ramganga Vihar Phase 1 And 2",
+  "active": true
+},
+{
+  "code": "MOR00151",
+  "name": "Gali No. 1 Se 78 Tk",
+  "active": true
+},
+{
+  "code": "MOR00152",
+  "name": "Rahmat Nagar",
+  "active": true
+},
+{
+  "code": "MOR00153",
+  "name": "Vikash Samiti",
+  "active": true
+},
+{
+  "code": "MOR00154",
+  "name": "Karula Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR00155",
+  "name": "Laal Nagari",
+  "active": true
+},
+{
+  "code": "MOR00156",
+  "name": "Pandit Nagla Ki Milak",
+  "active": true
+},
+{
+  "code": "MOR00157",
+  "name": "Bagh Gulabrai",
+  "active": true
+},
+{
+  "code": "MOR00158",
+  "name": "Bajar Mukti Bagh",
+  "active": true
+},
+{
+  "code": "MOR00159",
+  "name": "Kahro Ke Mandir Ka Purvi Chetra",
+  "active": true
+},
+{
+  "code": "MOR00160",
+  "name": "Nawab Pur Paschim Ewam Purv",
+  "active": true
+},
+{
+  "code": "MOR00161",
+  "name": "Sakka Dwitiya Mugalpura",
+  "active": true
+},
+{
+  "code": "MOR00162",
+  "name": "Sakka Pratham",
+  "active": true
+},
+{
+  "code": "MOR00163",
+  "name": "Avantika Colony",
+  "active": true
+},
+{
+  "code": "MOR00164",
+  "name": "Dev Vihar",
+  "active": true
+},
+{
+  "code": "MOR00165",
+  "name": "Kainaal Colony",
+  "active": true
+},
+{
+  "code": "MOR00166",
+  "name": "Mansarovar School",
+  "active": true
+},
+{
+  "code": "MOR00167",
+  "name": "Naveen Nagar",
+  "active": true
+},
+{
+  "code": "MOR00168",
+  "name": "Naya Gaon",
+  "active": true
+},
+{
+  "code": "MOR00169",
+  "name": "Adarsh Nagar",
+  "active": true
+},
+{
+  "code": "MOR00170",
+  "name": "Lajpat Nagar",
+  "active": true
+},
+{
+  "code": "MOR00171",
+  "name": "Mahbula Gunj",
+  "active": true
+},
+{
+  "code": "MOR00172",
+  "name": "Maidamil",
+  "active": true
+},
+{
+  "code": "MOR00173",
+  "name": "Dehri Ghat",
+  "active": true
+},
+{
+  "code": "MOR00174",
+  "name": "Gadikhana Paschim",
+  "active": true
+},
+{
+  "code": "MOR00175",
+  "name": "Harijan Basti",
+  "active": true
+},
+{
+  "code": "MOR00176",
+  "name": "Muslim College Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR00177",
+  "name": "Singhman Hajari",
+  "active": true
+},
+{
+  "code": "MOR00178",
+  "name": "Beldaran",
+  "active": true
+},
+{
+  "code": "MOR00179",
+  "name": "Dehriya Mahal Sarai",
+  "active": true
+},
+{
+  "code": "MOR00180",
+  "name": "Kanth Darwaza",
+  "active": true
+},
+{
+  "code": "MOR00181",
+  "name": "Kona Mugalpura",
+  "active": true
+},
+{
+  "code": "MOR00182",
+  "name": "Tabela Aashik",
+  "active": true
+},
+{
+  "code": "MOR00183",
+  "name": "Asaltgunj",
+  "active": true
+},
+{
+  "code": "MOR00184",
+  "name": "Chatta Shivaraj Singh",
+  "active": true
+},
+{
+  "code": "MOR00185",
+  "name": "Diputy Sahab Mandir Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR00186",
+  "name": "Nai Awadi",
+  "active": true
+},
+{
+  "code": "MOR00187",
+  "name": "Pirjada",
+  "active": true
+},
+{
+  "code": "MOR00188",
+  "name": "Udpura",
+  "active": true
+},
+{
+  "code": "MOR00189",
+  "name": "Chidiya Tola",
+  "active": true
+},
+{
+  "code": "MOR00190",
+  "name": "Lakshamanpuri",
+  "active": true
+},
+{
+  "code": "MOR00191",
+  "name": "Majhola Paschim",
+  "active": true
+},
+{
+  "code": "MOR00192",
+  "name": "Mansarovar Colony",
+  "active": true
+},
+{
+  "code": "MOR00193",
+  "name": "Balshahid Dakshini",
+  "active": true
+},
+{
+  "code": "MOR00194",
+  "name": "Eidgah Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR00195",
+  "name": "Faizgung",
+  "active": true
+},
+{
+  "code": "MOR00196",
+  "name": "Kanun Goyan",
+  "active": true
+},
+{
+  "code": "MOR00197",
+  "name": "Lalbagh Dakshin",
+  "active": true
+},
+{
+  "code": "MOR00198",
+  "name": "Akhilesh Cinema",
+  "active": true
+},
+{
+  "code": "MOR00199",
+  "name": "Hindu College Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR00200",
+  "name": "Imperial Cinema",
+  "active": true
+},
+{
+  "code": "MOR00201",
+  "name": "Kumar Kunj",
+  "active": true
+},
+{
+  "code": "MOR00202",
+  "name": "Mushafir Khana",
+  "active": true
+},
+{
+  "code": "MOR00203",
+  "name": "Parker College",
+  "active": true
+},
+{
+  "code": "MOR00204",
+  "name": "Sagar Sarai",
+  "active": true
+},
+{
+  "code": "MOR00205",
+  "name": "Sarai Kothiwal",
+  "active": true
+},
+{
+  "code": "MOR00206",
+  "name": "Saroj Cinema Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR00207",
+  "name": "Singh Bhawan",
+  "active": true
+},
+{
+  "code": "MOR00208",
+  "name": "Babrayan",
+  "active": true
+},
+{
+  "code": "MOR00209",
+  "name": "Bajar Diwan",
+  "active": true
+},
+{
+  "code": "MOR00210",
+  "name": "Kahran",
+  "active": true
+},
+{
+  "code": "MOR00211",
+  "name": "Katra Vanshighar",
+  "active": true
+},
+{
+  "code": "MOR00212",
+  "name": "Kothi Ahmad Hasan Baghiyan",
+  "active": true
+},
+{
+  "code": "MOR00213",
+  "name": "Madarsa Naimiyon",
+  "active": true
+},
+{
+  "code": "MOR00214",
+  "name": "Mahalsarai",
+  "active": true
+},
+{
+  "code": "MOR00215",
+  "name": "Shuklaan",
+  "active": true
+},
+{
+  "code": "MOR00216",
+  "name": "Unchon Shekh Bachai",
+  "active": true
+},
+{
+  "code": "MOR00217",
+  "name": "Hayatnagar",
+  "active": true
+},
+{
+  "code": "MOR00218",
+  "name": "Katra Sahid",
+  "active": true
+},
+{
+  "code": "MOR00219",
+  "name": "Pirjada Uttari",
+  "active": true
+},
+{
+  "code": "MOR00220",
+  "name": "Barwalan Dakshini",
+  "active": true
+},
+{
+  "code": "MOR00221",
+  "name": "Barwalan Uttari",
+  "active": true
+},
+{
+  "code": "MOR00222",
+  "name": "Rishikul",
+  "active": true
+},
+{
+  "code": "MOR00223",
+  "name": "Amrohagate",
+  "active": true
+},
+{
+  "code": "MOR00224",
+  "name": "Atai Mohalla",
+  "active": true
+},
+{
+  "code": "MOR00225",
+  "name": "Bhatti Mohalla",
+  "active": true
+},
+{
+  "code": "MOR00226",
+  "name": "Chaumukha Pul",
+  "active": true
+},
+{
+  "code": "MOR00227",
+  "name": "Ganesh Mohalla",
+  "active": true
+},
+{
+  "code": "MOR00228",
+  "name": "Gujrati Mohalla",
+  "active": true
+},
+{
+  "code": "MOR00229",
+  "name": "Hospital Janana",
+  "active": true
+},
+{
+  "code": "MOR00230",
+  "name": "Jilal Mohalla",
+  "active": true
+},
+{
+  "code": "MOR00231",
+  "name": "Karyalay Nagar Nigam",
+  "active": true
+},
+{
+  "code": "MOR00232",
+  "name": "Katra",
+  "active": true
+},
+{
+  "code": "MOR00233",
+  "name": "Mandiwans",
+  "active": true
+},
+{
+  "code": "MOR00234",
+  "name": "Miyan Sahab Ki Gali",
+  "active": true
+},
+{
+  "code": "MOR00235",
+  "name": "Pujeri Gali",
+  "active": true
+},
+{
+  "code": "MOR00236",
+  "name": "Rajogali",
+  "active": true
+},
+{
+  "code": "MOR00237",
+  "name": "Sadar Bhawan",
+  "active": true
+},
+{
+  "code": "MOR00238",
+  "name": "Sahoo Mohalla",
+  "active": true
+},
+{
+  "code": "MOR00239",
+  "name": "Shahi Masjid",
+  "active": true
+},
+{
+  "code": "MOR00240",
+  "name": "Tahsil Sadar",
+  "active": true
+},
+{
+  "code": "MOR00241",
+  "name": "Majar Shahbulaki Sahab Ki Awadi Aur Mukkarabpur",
+  "active": true
+},
+{
+  "code": "MOR00242",
+  "name": "Dindaar Pura",
+  "active": true
+},
+{
+  "code": "MOR00243",
+  "name": "Gali Gullal",
+  "active": true
+},
+{
+  "code": "MOR00244",
+  "name": "Kuncha Shitaldas",
+  "active": true
+},
+{
+  "code": "MOR00245",
+  "name": "Lohagadh",
+  "active": true
+},
+{
+  "code": "MOR00246",
+  "name": "Machlibazar",
+  "active": true
+},
+{
+  "code": "MOR00247",
+  "name": "Reti Mohalla",
+  "active": true
+},
+{
+  "code": "MOR00248",
+  "name": "Tambaku Balan",
+  "active": true
+},
+{
+  "code": "MOR00249",
+  "name": "Ththera",
+  "active": true
+},
+{
+  "code": "MOR00250",
+  "name": "Chau Ki Madhaiya",
+  "active": true
+},
+{
+  "code": "MOR00251",
+  "name": "Sitapur Das Sarai",
+  "active": true
+},
+{
+  "code": "MOR00252",
+  "name": "Aawidnagar Tila",
+  "active": true
+},
+{
+  "code": "MOR00253",
+  "name": "Ajad Nagar",
+  "active": true
+},
+{
+  "code": "MOR00254",
+  "name": "Ashok Nagar",
+  "active": true
+},
+{
+  "code": "MOR00255",
+  "name": "Brihaspati Ka Bazar",
+  "active": true
+},
+{
+  "code": "MOR00256",
+  "name": "Bada Shah Shafa",
+  "active": true
+},
+{
+  "code": "MOR00257",
+  "name": "Laal Masjid",
+  "active": true
+},
+{
+  "code": "MOR00258",
+  "name": "Sarai Gulzarimal",
+  "active": true
+},
+{
+  "code": "MOR00259",
+  "name": "Sarai Khan Mahmood",
+  "active": true
+},
+{
+  "code": "MOR00260",
+  "name": "Dhimari Pachim",
+  "active": true
+},
+{
+  "code": "MOR00261",
+  "name": "Islam Nagar",
+  "active": true
+},
+{
+  "code": "MOR00262",
+  "name": "Maina Ther",
+  "active": true
+},
+{
+  "code": "MOR00263",
+  "name": "Sir Saiyaad Nagar",
+  "active": true
+},
+{
+  "code": "MOR00264",
+  "name": "Church Police Line",
+  "active": true
+},
+{
+  "code": "MOR00265",
+  "name": "Civil Lines",
+  "active": true
+},
+{
+  "code": "MOR00266",
+  "name": "Collector Diwani",
+  "active": true
+},
+{
+  "code": "MOR00267",
+  "name": "Dayanand College Ke Piche",
+  "active": true
+},
+{
+  "code": "MOR00268",
+  "name": "District Hospital",
+  "active": true
+},
+{
+  "code": "MOR00269",
+  "name": "Kamla Centre Ke Piche Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR00270",
+  "name": "P.T.C.",
+  "active": true
+},
+{
+  "code": "MOR00271",
+  "name": "Police Hospital",
+  "active": true
+},
+{
+  "code": "MOR00272",
+  "name": "Rajendranagar",
+  "active": true
+},
+{
+  "code": "MOR00273",
+  "name": "Sarai Khalsa",
+  "active": true
+},
+{
+  "code": "MOR00274",
+  "name": "State Bank Colony",
+  "active": true
+},
+{
+  "code": "MOR00275",
+  "name": "Jayantipur Paschim",
+  "active": true
+},
+{
+  "code": "MOR00276",
+  "name": "Manpura Dehant",
+  "active": true
+},
+{
+  "code": "MOR00277",
+  "name": "Suraj Nagar",
+  "active": true
+},
+{
+  "code": "MOR00278",
+  "name": "Galshahid Purv",
+  "active": true
+},
+{
+  "code": "MOR00279",
+  "name": "Khokharan",
+  "active": true
+},
+{
+  "code": "MOR00280",
+  "name": "Sammali Gate",
+  "active": true
+},
+{
+  "code": "MOR00281",
+  "name": "Sarai Pukhta",
+  "active": true
+},
+{
+  "code": "MOR00282",
+  "name": "Tabakiyan",
+  "active": true
+},
+{
+  "code": "MOR00283",
+  "name": "Asaltpura Chaturth",
+  "active": true
+},
+{
+  "code": "MOR00284",
+  "name": "Bada Majba",
+  "active": true
+},
+{
+  "code": "MOR00285",
+  "name": "Bade Majbe Ki Aawadi",
+  "active": true
+},
+{
+  "code": "MOR00286",
+  "name": "Chaddha Cinema Ke Piche Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR00287",
+  "name": "Nala Manpur",
+  "active": true
+},
+{
+  "code": "MOR00288",
+  "name": "Quarter Nagar Nigam",
+  "active": true
+},
+{
+  "code": "MOR00289",
+  "name": "Jayantipur Purvi",
+  "active": true
+},
+{
+  "code": "MOR00290",
+  "name": "Neta Colony",
+  "active": true
+},
+{
+  "code": "MOR00291",
+  "name": "Shiv Nagar",
+  "active": true
+},
+{
+  "code": "MOR00292",
+  "name": "Charu Ki Basti",
+  "active": true
+},
+{
+  "code": "MOR00293",
+  "name": "Hanuman Nagar",
+  "active": true
+},
+{
+  "code": "MOR00294",
+  "name": "K.G.K. College Ki Awadi",
+  "active": true
+},
+{
+  "code": "MOR00295",
+  "name": "Railway Colony",
+  "active": true
+},
+{
+  "code": "MOR00296",
+  "name": "Ramtailaya",
+  "active": true
+},
+{
+  "code": "MOR00297",
+  "name": "Chaldevpuri",
+  "active": true
+},
+{
+  "code": "MOR00298",
+  "name": "Kalyaanpur",
+  "active": true
+},
+{
+  "code": "MOR00299",
+  "name": "Kamla Vihar",
+  "active": true
+},
+{
+  "code": "MOR00300",
+  "name": "Pital Basti",
+  "active": true
+},
+{
+  "code": "MOR00301",
+  "name": "Bhadaura",
+  "active": true
+},
+{
+  "code": "MOR00302",
+  "name": "Durgash Nagar",
+  "active": true
+},
+{
+  "code": "MOR00303",
+  "name": "Jaiminipuram",
+  "active": true
+},
+{
+  "code": "MOR00304",
+  "name": "Jaynagar",
+  "active": true
+},
+{
+  "code": "MOR00305",
+  "name": "Karbala",
+  "active": true
+},
+{
+  "code": "MOR00306",
+  "name": "Baghiparan",
+  "active": true
+},
+{
+  "code": "MOR00307",
+  "name": "Darivapan",
+  "active": true
+},
+{
+  "code": "MOR00308",
+  "name": "Faizgaunj Purvi",
+  "active": true
+},
+{
+  "code": "MOR00309",
+  "name": "Faizgunj Dakshini",
+  "active": true
+},
+{
+  "code": "MOR00310",
+  "name": "Kajitola",
+  "active": true
+},
+{
+  "code": "MOR00311",
+  "name": "Pirgaib",
+  "active": true
+},
+{
+  "code": "MOR00312",
+  "name": "Sarai Kishan Laal",
+  "active": true
+},
+{
+  "code": "MOR00313",
+  "name": "Shokatbagh",
+  "active": true
+},
+{
+  "code": "MOR00314",
+  "name": "Bus Stand Se Malgodam",
+  "active": true
+},
+{
+  "code": "MOR00315",
+  "name": "Gandhi Nagar",
+  "active": true
+},
+{
+  "code": "MOR00316",
+  "name": "Goyal Nagar",
+  "active": true
+},
+{
+  "code": "MOR00317",
+  "name": "Jawaharnagar",
+  "active": true
+},
+{
+  "code": "MOR00318",
+  "name": "Khushaal Nagar",
+  "active": true
+},
+{
+  "code": "MOR00319",
+  "name": "Kothiwalnagar",
+  "active": true
+},
+{
+  "code": "MOR00320",
+  "name": "Kunwar Cinema",
+  "active": true
+},
+{
+  "code": "MOR00321",
+  "name": "Malwiya Nagar",
+  "active": true
+},
+{
+  "code": "MOR00322",
+  "name": "Miglani Cinema",
+  "active": true
+},
+{
+  "code": "MOR00323",
+  "name": "Dabbu Ka Naala",
+  "active": true
+},
+{
+  "code": "MOR00324",
+  "name": "Diwankhana",
+  "active": true
+},
+{
+  "code": "MOR00325",
+  "name": "Khwazanagari",
+  "active": true
+},
+{
+  "code": "MOR00326",
+  "name": "Kisraul",
+  "active": true
+},
+{
+  "code": "MOR00327",
+  "name": "Sarai Husaini Begam",
+  "active": true
+},
+{
+  "code": "MOR00328",
+  "name": "Takiya Masjid Buddhishah Ke Samne Ke Abadi",
+  "active": true
+},
+{
+  "code": "MOR00329",
+  "name": "Gher Sheyad Kha Purvi",
+  "active": true
+},
+{
+  "code": "MOR00330",
+  "name": "Mugalpura Pratham Shaukatbagh",
+  "active": true
+},
+{
+  "code": "MOR00331",
+  "name": "Makbara 1 And 2",
+  "active": true
+},
+{
+  "code": "MOR00332",
+  "name": "Makbara Sabji Mandi",
+  "active": true
+},
+{
+  "code": "MOR00333",
+  "name": "Pirjada 1",
+  "active": true
+},
+{
+  "code": "MOR00334",
+  "name": "Asaaltpura-2",
+  "active": true
+},
+{
+  "code": "MOR00335",
+  "name": "Maanpur",
+  "active": true
+},
+{
+  "code": "MOR00336",
+  "name": "Muktitola",
+  "active": true
+},
+{
+  "code": "MOR00337",
+  "name": "Rafatpura",
+  "active": true
+},
+{
+  "code": "MOR00338",
+  "name": "Tabela",
+  "active": true
+},
+{
+  "code": "MOR00339",
+  "name": "Tamboli",
+  "active": true
+},
+{
+  "code": "MOR00340",
+  "name": "Asalatpur-1",
+  "active": true
+},
+{
+  "code": "ALI001",
+  "name": "Zohra Bagh",
+  "active": true
+},
+{
+  "code": "ALI002",
+  "name": "Johra Bagh",
+  "active": true
+},
+{
+  "code": "ALI003",
+  "name": "Kela Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI004",
+  "name": "Dodh Pur Partial",
+  "active": true
+},
+{
+  "code": "ALI005",
+  "name": "Ahmad Nagar",
+  "active": true
+},
+{
+  "code": "ALI006",
+  "name": "Friends Colony",
+  "active": true
+},
+{
+  "code": "ALI007",
+  "name": "Nagla Mallah Partial",
+  "active": true
+},
+{
+  "code": "ALI008",
+  "name": "Jeevan Garh Partial",
+  "active": true
+},
+{
+  "code": "ALI009",
+  "name": "Sanjay Gandhi Colony",
+  "active": true
+},
+{
+  "code": "ALI010",
+  "name": "Jwalapuri Partial",
+  "active": true
+},
+{
+  "code": "ALI011",
+  "name": "Sanjay Gandhi Colony",
+  "active": true
+},
+{
+  "code": "ALI012",
+  "name": "Govind Nagar Colony",
+  "active": true
+},
+{
+  "code": "ALI013",
+  "name": "Dharmpuri",
+  "active": true
+},
+{
+  "code": "ALI014",
+  "name": "Hodal Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI015",
+  "name": "Kuwar Nagar ( Under Of Nagar Nigam )",
+  "active": true
+},
+{
+  "code": "ALI016",
+  "name": "Saroj Nagar",
+  "active": true
+},
+{
+  "code": "ALI017",
+  "name": "Jamal Pur",
+  "active": true
+},
+{
+  "code": "ALI018",
+  "name": "Jamalpur Partial",
+  "active": true
+},
+{
+  "code": "ALI019",
+  "name": "Nagla Jamalpur Partial",
+  "active": true
+},
+{
+  "code": "ALI020",
+  "name": "Anoop Shahar Road Partial",
+  "active": true
+},
+{
+  "code": "ALI021",
+  "name": "Purani Chungi Partial",
+  "active": true
+},
+{
+  "code": "ALI022",
+  "name": "Shamshad Market Partial",
+  "active": true
+},
+{
+  "code": "ALI023",
+  "name": "University Area",
+  "active": true
+},
+{
+  "code": "ALI024",
+  "name": "Zakir Nagar",
+  "active": true
+},
+{
+  "code": "ALI025",
+  "name": "Jeevangarh Partial",
+  "active": true
+},
+{
+  "code": "ALI026",
+  "name": "Zakir Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI027",
+  "name": "Shiv Puri",
+  "active": true
+},
+{
+  "code": "ALI028",
+  "name": "Sarai Rehman",
+  "active": true
+},
+{
+  "code": "ALI029",
+  "name": "Ashok Nagar",
+  "active": true
+},
+{
+  "code": "ALI030",
+  "name": "Raghuveer Puri",
+  "active": true
+},
+{
+  "code": "ALI031",
+  "name": "Ganga Nagar Colony",
+  "active": true
+},
+{
+  "code": "ALI032",
+  "name": "Ashok Nagar",
+  "active": true
+},
+{
+  "code": "ALI033",
+  "name": "Masoodabad",
+  "active": true
+},
+{
+  "code": "ALI034",
+  "name": "Mitra Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI035",
+  "name": "Goolar Road Partial",
+  "active": true
+},
+{
+  "code": "ALI036",
+  "name": "Jameerabad",
+  "active": true
+},
+{
+  "code": "ALI037",
+  "name": "Banna Devi Partial",
+  "active": true
+},
+{
+  "code": "ALI038",
+  "name": "Vishya Bank Colony",
+  "active": true
+},
+{
+  "code": "ALI039",
+  "name": "Pratibha Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI040",
+  "name": "Kapil Vihar",
+  "active": true
+},
+{
+  "code": "ALI041",
+  "name": "Sankalp Vihar",
+  "active": true
+},
+{
+  "code": "ALI042",
+  "name": "Prince Colony",
+  "active": true
+},
+{
+  "code": "ALI043",
+  "name": "Molana Azad Nagar",
+  "active": true
+},
+{
+  "code": "ALI044",
+  "name": "Molana Ajad Nagar ( Under Of Nagar Nigam)",
+  "active": true
+},
+{
+  "code": "ALI045",
+  "name": "Nagla Tikona",
+  "active": true
+},
+{
+  "code": "ALI046",
+  "name": "Nagla Tikona Partial",
+  "active": true
+},
+{
+  "code": "ALI047",
+  "name": "Keshav Nagar",
+  "active": true
+},
+{
+  "code": "ALI048",
+  "name": "Hemant Nagar",
+  "active": true
+},
+{
+  "code": "ALI049",
+  "name": "Sangam Vihar",
+  "active": true
+},
+{
+  "code": "ALI050",
+  "name": "Nagla Mandir Partial",
+  "active": true
+},
+{
+  "code": "ALI051",
+  "name": "Janak Puri",
+  "active": true
+},
+{
+  "code": "ALI052",
+  "name": "Janakpuri Colony",
+  "active": true
+},
+{
+  "code": "ALI053",
+  "name": "Janakpur",
+  "active": true
+},
+{
+  "code": "ALI054",
+  "name": "Madpura",
+  "active": true
+},
+{
+  "code": "ALI055",
+  "name": "Pan Dareeba",
+  "active": true
+},
+{
+  "code": "ALI056",
+  "name": "Mathura Nagar",
+  "active": true
+},
+{
+  "code": "ALI057",
+  "name": "Shyam Nagar",
+  "active": true
+},
+{
+  "code": "ALI058",
+  "name": "Samad Road",
+  "active": true
+},
+{
+  "code": "ALI059",
+  "name": "Ramghat Road Partial",
+  "active": true
+},
+{
+  "code": "ALI060",
+  "name": "Guljar Nagar",
+  "active": true
+},
+{
+  "code": "ALI061",
+  "name": "Merris Road Partial",
+  "active": true
+},
+{
+  "code": "ALI062",
+  "name": "Mahaveer Park",
+  "active": true
+},
+{
+  "code": "ALI063",
+  "name": "Railway Colony Near Station",
+  "active": true
+},
+{
+  "code": "ALI064",
+  "name": "Lekharaj Nagar",
+  "active": true
+},
+{
+  "code": "ALI065",
+  "name": "Nagla Jahar",
+  "active": true
+},
+{
+  "code": "ALI066",
+  "name": "Press Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI067",
+  "name": "Hariom Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI068",
+  "name": "Dakkhana Road",
+  "active": true
+},
+{
+  "code": "ALI069",
+  "name": "Firdos Nagar",
+  "active": true
+},
+{
+  "code": "ALI070",
+  "name": "Shahanshahbad Partial",
+  "active": true
+},
+{
+  "code": "ALI071",
+  "name": "Nagla Bhunda Partial",
+  "active": true
+},
+{
+  "code": "ALI072",
+  "name": "Mathuriya Nagar",
+  "active": true
+},
+{
+  "code": "ALI073",
+  "name": "Tantan Pada",
+  "active": true
+},
+{
+  "code": "ALI074",
+  "name": "Kanvari Ganj Partial",
+  "active": true
+},
+{
+  "code": "ALI075",
+  "name": "Gali Hakjjam",
+  "active": true
+},
+{
+  "code": "ALI076",
+  "name": "Atish Bajan",
+  "active": true
+},
+{
+  "code": "ALI077",
+  "name": "Tahsil Road Partial",
+  "active": true
+},
+{
+  "code": "ALI078",
+  "name": "Tantan Pada Partial",
+  "active": true
+},
+{
+  "code": "ALI079",
+  "name": "Sunhat",
+  "active": true
+},
+{
+  "code": "ALI080",
+  "name": "Chock Bundu Khan",
+  "active": true
+},
+{
+  "code": "ALI081",
+  "name": "Shekhan Partial",
+  "active": true
+},
+{
+  "code": "ALI082",
+  "name": "Khai Dora Partial",
+  "active": true
+},
+{
+  "code": "ALI083",
+  "name": "Bani Israylan Partial",
+  "active": true
+},
+{
+  "code": "ALI084",
+  "name": "Chandan Shahid Partial",
+  "active": true
+},
+{
+  "code": "ALI085",
+  "name": "Sabji Mandi",
+  "active": true
+},
+{
+  "code": "ALI086",
+  "name": "Sarai Deen Dayal",
+  "active": true
+},
+{
+  "code": "ALI087",
+  "name": "Padav Dubey",
+  "active": true
+},
+{
+  "code": "ALI088",
+  "name": "Peer Mittha",
+  "active": true
+},
+{
+  "code": "ALI089",
+  "name": "Sarai Deen Dayal",
+  "active": true
+},
+{
+  "code": "ALI090",
+  "name": "Shishiya Pada",
+  "active": true
+},
+{
+  "code": "ALI091",
+  "name": "Achal Road Partial",
+  "active": true
+},
+{
+  "code": "ALI092",
+  "name": "Madar Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI093",
+  "name": "Sarai Intjam Ali",
+  "active": true
+},
+{
+  "code": "ALI094",
+  "name": "Sarai Peervax",
+  "active": true
+},
+{
+  "code": "ALI095",
+  "name": "Dwarika Puri Partial",
+  "active": true
+},
+{
+  "code": "ALI096",
+  "name": "Mal Godam Market",
+  "active": true
+},
+{
+  "code": "ALI097",
+  "name": "Sarai Hakeem Partial",
+  "active": true
+},
+{
+  "code": "ALI098",
+  "name": "Malviya Pustakalaya",
+  "active": true
+},
+{
+  "code": "ALI099",
+  "name": "Market Rasal Ganj",
+  "active": true
+},
+{
+  "code": "ALI100",
+  "name": "Sarai Nabab",
+  "active": true
+},
+{
+  "code": "ALI101",
+  "name": "Sarai Baij Nath",
+  "active": true
+},
+{
+  "code": "ALI102",
+  "name": "Sarai Bairagi",
+  "active": true
+},
+{
+  "code": "ALI103",
+  "name": "Subhash Road Partial",
+  "active": true
+},
+{
+  "code": "ALI104",
+  "name": "Sasni Gate",
+  "active": true
+},
+{
+  "code": "ALI105",
+  "name": "Sasni Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI106",
+  "name": "Bhujpura Partial",
+  "active": true
+},
+{
+  "code": "ALI107",
+  "name": "Nai Abadi Bhujpura",
+  "active": true
+},
+{
+  "code": "ALI108",
+  "name": "Nagla Masani",
+  "active": true
+},
+{
+  "code": "ALI109",
+  "name": "Niranjan Puri",
+  "active": true
+},
+{
+  "code": "ALI110",
+  "name": "Gaushala",
+  "active": true
+},
+{
+  "code": "ALI111",
+  "name": "Road Delhi Gate Door Partial",
+  "active": true
+},
+{
+  "code": "ALI112",
+  "name": "Nagla Masani Partial",
+  "active": true
+},
+{
+  "code": "ALI113",
+  "name": "Nagla Mehtab Partial",
+  "active": true
+},
+{
+  "code": "ALI114",
+  "name": "Goolar Road Partial",
+  "active": true
+},
+{
+  "code": "ALI115",
+  "name": "Shakti Nagar",
+  "active": true
+},
+{
+  "code": "ALI116",
+  "name": "Nagla Jamal Pur",
+  "active": true
+},
+{
+  "code": "ALI117",
+  "name": "Jamalpur Partial",
+  "active": true
+},
+{
+  "code": "ALI118",
+  "name": "Nagla Jamalpur Partial",
+  "active": true
+},
+{
+  "code": "ALI119",
+  "name": "Chhawani",
+  "active": true
+},
+{
+  "code": "ALI120",
+  "name": "Chhawani Partial",
+  "active": true
+},
+{
+  "code": "ALI121",
+  "name": "Shashtri Nagar",
+  "active": true
+},
+{
+  "code": "ALI122",
+  "name": "Tika Ram Colony",
+  "active": true
+},
+{
+  "code": "ALI123",
+  "name": "Kundan Nagar",
+  "active": true
+},
+{
+  "code": "ALI124",
+  "name": "Ambedakar Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI125",
+  "name": "Kela Nagar",
+  "active": true
+},
+{
+  "code": "ALI126",
+  "name": "Krashi Farm",
+  "active": true
+},
+{
+  "code": "ALI127",
+  "name": "Kela Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI128",
+  "name": "Ekta Nagar Vikas Bhavan",
+  "active": true
+},
+{
+  "code": "ALI129",
+  "name": "P Deen Dayal Upadhyay Hospital",
+  "active": true
+},
+{
+  "code": "ALI130",
+  "name": "Jeevan Garh Partial",
+  "active": true
+},
+{
+  "code": "ALI131",
+  "name": "Suraksha Vihar",
+  "active": true
+},
+{
+  "code": "ALI132",
+  "name": "Beema Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI133",
+  "name": "Banna Devi Partial",
+  "active": true
+},
+{
+  "code": "ALI134",
+  "name": "Choohar Pur Partial",
+  "active": true
+},
+{
+  "code": "ALI135",
+  "name": "Nagla Choohar Pur Partial",
+  "active": true
+},
+{
+  "code": "ALI136",
+  "name": "Shikshak Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI137",
+  "name": "Javahar Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI138",
+  "name": "Ada Colony",
+  "active": true
+},
+{
+  "code": "ALI139",
+  "name": "Dodh Pur",
+  "active": true
+},
+{
+  "code": "ALI140",
+  "name": "Dodhpur Partial",
+  "active": true
+},
+{
+  "code": "ALI141",
+  "name": "Jamiya Urdu",
+  "active": true
+},
+{
+  "code": "ALI142",
+  "name": "Ada Compound",
+  "active": true
+},
+{
+  "code": "ALI143",
+  "name": "Varunalaya Guest House",
+  "active": true
+},
+{
+  "code": "ALI144",
+  "name": "University Quarter",
+  "active": true
+},
+{
+  "code": "ALI145",
+  "name": "Medical Colony",
+  "active": true
+},
+{
+  "code": "ALI146",
+  "name": "Sar Saiyed Park",
+  "active": true
+},
+{
+  "code": "ALI147",
+  "name": "Naoner Gate",
+  "active": true
+},
+{
+  "code": "ALI148",
+  "name": "Nauner Gate",
+  "active": true
+},
+{
+  "code": "ALI149",
+  "name": "Sarai Kale Khan",
+  "active": true
+},
+{
+  "code": "ALI150",
+  "name": "Babri Mandi Partial",
+  "active": true
+},
+{
+  "code": "ALI151",
+  "name": "Ladiya Abbas Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI152",
+  "name": "Sarai Bhatt Partial",
+  "active": true
+},
+{
+  "code": "ALI153",
+  "name": "Vishambhar Nagar",
+  "active": true
+},
+{
+  "code": "ALI154",
+  "name": "Sarai Raja Ram",
+  "active": true
+},
+{
+  "code": "ALI155",
+  "name": "Sarai Bhola Nath Partial",
+  "active": true
+},
+{
+  "code": "ALI156",
+  "name": "Sarai Garhi Partial",
+  "active": true
+},
+{
+  "code": "ALI157",
+  "name": "Begum Bagh",
+  "active": true
+},
+{
+  "code": "ALI158",
+  "name": "Begum Bagh Partial",
+  "active": true
+},
+{
+  "code": "ALI159",
+  "name": "Durgesh Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI160",
+  "name": "Surendra Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI161",
+  "name": "Chandaniya Partial",
+  "active": true
+},
+{
+  "code": "ALI162",
+  "name": "Nagla Javahar Partial",
+  "active": true
+},
+{
+  "code": "ALI163",
+  "name": "Nagla Tikona Partial",
+  "active": true
+},
+{
+  "code": "ALI164",
+  "name": "Champa Vihar",
+  "active": true
+},
+{
+  "code": "ALI165",
+  "name": "Sanichari Painth",
+  "active": true
+},
+{
+  "code": "ALI166",
+  "name": "Sarai Kaba Partial",
+  "active": true
+},
+{
+  "code": "ALI167",
+  "name": "Turkman Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI168",
+  "name": "Sanivchari Paith Partial",
+  "active": true
+},
+{
+  "code": "ALI169",
+  "name": "Sarai Kutub Partial",
+  "active": true
+},
+{
+  "code": "ALI170",
+  "name": "Balmiki Quarter",
+  "active": true
+},
+{
+  "code": "ALI171",
+  "name": "Krashna Puri",
+  "active": true
+},
+{
+  "code": "ALI172",
+  "name": "Hari Nagar",
+  "active": true
+},
+{
+  "code": "ALI173",
+  "name": "Vihari Nagar",
+  "active": true
+},
+{
+  "code": "ALI174",
+  "name": "Gopal Puri Partial",
+  "active": true
+},
+{
+  "code": "ALI175",
+  "name": "Pala Sahibabad Partial",
+  "active": true
+},
+{
+  "code": "ALI176",
+  "name": "Sarai Pakki",
+  "active": true
+},
+{
+  "code": "ALI177",
+  "name": "Sarai Sultani",
+  "active": true
+},
+{
+  "code": "ALI178",
+  "name": "Sarai Ray",
+  "active": true
+},
+{
+  "code": "ALI179",
+  "name": "Sarai Khirni",
+  "active": true
+},
+{
+  "code": "ALI180",
+  "name": "Madar Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI181",
+  "name": "Barai Partial",
+  "active": true
+},
+{
+  "code": "ALI182",
+  "name": "Brahman Puri Partial",
+  "active": true
+},
+{
+  "code": "ALI183",
+  "name": "Bada Gauhar Ali Partial",
+  "active": true
+},
+{
+  "code": "ALI184",
+  "name": "Sarai Mansingh",
+  "active": true
+},
+{
+  "code": "ALI185",
+  "name": "Durga Puri",
+  "active": true
+},
+{
+  "code": "ALI186",
+  "name": "Sarai Gyanat Ray",
+  "active": true
+},
+{
+  "code": "ALI187",
+  "name": "Sarai Mevaram",
+  "active": true
+},
+{
+  "code": "ALI188",
+  "name": "Choohar Pur",
+  "active": true
+},
+{
+  "code": "ALI189",
+  "name": "Banna Devi Partial",
+  "active": true
+},
+{
+  "code": "ALI190",
+  "name": "Twuvel Colony",
+  "active": true
+},
+{
+  "code": "ALI191",
+  "name": "Choohar Pur Partial",
+  "active": true
+},
+{
+  "code": "ALI192",
+  "name": "Javahar Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI193",
+  "name": "Iti Road Partial",
+  "active": true
+},
+{
+  "code": "ALI194",
+  "name": "Brahman Puri",
+  "active": true
+},
+{
+  "code": "ALI195",
+  "name": "Purani Kotvali",
+  "active": true
+},
+{
+  "code": "ALI196",
+  "name": "Sarai Bibi",
+  "active": true
+},
+{
+  "code": "ALI197",
+  "name": "Shah Pada",
+  "active": true
+},
+{
+  "code": "ALI198",
+  "name": "Rafat Ganj",
+  "active": true
+},
+{
+  "code": "ALI199",
+  "name": "Madar Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI200",
+  "name": "Tamoli Pada",
+  "active": true
+},
+{
+  "code": "ALI201",
+  "name": "Krashna Tola",
+  "active": true
+},
+{
+  "code": "ALI202",
+  "name": "Brahman Puri Partial",
+  "active": true
+},
+{
+  "code": "ALI203",
+  "name": "Khai Dora",
+  "active": true
+},
+{
+  "code": "ALI204",
+  "name": "Kanoon Goyan",
+  "active": true
+},
+{
+  "code": "ALI205",
+  "name": "Nehru Kunj",
+  "active": true
+},
+{
+  "code": "ALI206",
+  "name": "Mali Pada",
+  "active": true
+},
+{
+  "code": "ALI207",
+  "name": "Kaji Pada",
+  "active": true
+},
+{
+  "code": "ALI208",
+  "name": "Barai Partial",
+  "active": true
+},
+{
+  "code": "ALI209",
+  "name": "Samna Pada",
+  "active": true
+},
+{
+  "code": "ALI210",
+  "name": "Sarai Bala",
+  "active": true
+},
+{
+  "code": "ALI211",
+  "name": "Padav Jai Ganj",
+  "active": true
+},
+{
+  "code": "ALI212",
+  "name": "Sarai Kaji",
+  "active": true
+},
+{
+  "code": "ALI213",
+  "name": "Sarai Java",
+  "active": true
+},
+{
+  "code": "ALI214",
+  "name": "Bada Gauhar Ali",
+  "active": true
+},
+{
+  "code": "ALI215",
+  "name": "Partial Sarai Misra",
+  "active": true
+},
+{
+  "code": "ALI216",
+  "name": "Nagla Kalar",
+  "active": true
+},
+{
+  "code": "ALI217",
+  "name": "Nagla Kalar Partial",
+  "active": true
+},
+{
+  "code": "ALI218",
+  "name": "Laxmipur Partial",
+  "active": true
+},
+{
+  "code": "ALI219",
+  "name": "Banna Devi Partial",
+  "active": true
+},
+{
+  "code": "ALI220",
+  "name": "Beema Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI221",
+  "name": "Indra Nagar Khair Road",
+  "active": true
+},
+{
+  "code": "ALI222",
+  "name": "Nagla Mahtab Partial",
+  "active": true
+},
+{
+  "code": "ALI223",
+  "name": "Delhi Gate",
+  "active": true
+},
+{
+  "code": "ALI224",
+  "name": "Khair Road",
+  "active": true
+},
+{
+  "code": "ALI225",
+  "name": "Indra Nagar",
+  "active": true
+},
+{
+  "code": "ALI226",
+  "name": "Nagla Masani Partial",
+  "active": true
+},
+{
+  "code": "ALI227",
+  "name": "Pala Sahibabad",
+  "active": true
+},
+{
+  "code": "ALI228",
+  "name": "Pala Sahiababad Partial Nai Abadi Pala Road Partial",
+  "active": true
+},
+{
+  "code": "ALI229",
+  "name": "Sarai Garhi",
+  "active": true
+},
+{
+  "code": "ALI230",
+  "name": "Sarai Garhi Partial",
+  "active": true
+},
+{
+  "code": "ALI231",
+  "name": "Sarai Vrandavan",
+  "active": true
+},
+{
+  "code": "ALI232",
+  "name": "Sarai Pitamber",
+  "active": true
+},
+{
+  "code": "ALI233",
+  "name": "Sarai Bhukhi",
+  "active": true
+},
+{
+  "code": "ALI234",
+  "name": "Sasni Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI235",
+  "name": "Sarai Bhatt Partial",
+  "active": true
+},
+{
+  "code": "ALI236",
+  "name": "Sarai Bhusiya",
+  "active": true
+},
+{
+  "code": "ALI237",
+  "name": "Isha Nagar",
+  "active": true
+},
+{
+  "code": "ALI238",
+  "name": "Jhamman Lal Compound",
+  "active": true
+},
+{
+  "code": "ALI239",
+  "name": "Naurangabad",
+  "active": true
+},
+{
+  "code": "ALI240",
+  "name": "Chharra Adda Partial",
+  "active": true
+},
+{
+  "code": "ALI241",
+  "name": "Chhawani Partial",
+  "active": true
+},
+{
+  "code": "ALI242",
+  "name": "Naurangabad",
+  "active": true
+},
+{
+  "code": "ALI243",
+  "name": "Rathi Nagar",
+  "active": true
+},
+{
+  "code": "ALI244",
+  "name": "Dori Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI245",
+  "name": "Dori Nagar",
+  "active": true
+},
+{
+  "code": "ALI246",
+  "name": "Ambedakar Colony Partial Under Nagar Nigam Boundary",
+  "active": true
+},
+{
+  "code": "ALI247",
+  "name": "Dori Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI248",
+  "name": "Dharm Puri",
+  "active": true
+},
+{
+  "code": "ALI249",
+  "name": "Sarai Kava",
+  "active": true
+},
+{
+  "code": "ALI250",
+  "name": "Sarai Kava Partial",
+  "active": true
+},
+{
+  "code": "ALI251",
+  "name": "Ataiyan",
+  "active": true
+},
+{
+  "code": "ALI252",
+  "name": "Usman Pada ( Second)",
+  "active": true
+},
+{
+  "code": "ALI253",
+  "name": "Turkman Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI254",
+  "name": "Turkman Door Partial",
+  "active": true
+},
+{
+  "code": "ALI255",
+  "name": "Sarai Lawariya",
+  "active": true
+},
+{
+  "code": "ALI256",
+  "name": "Delhi Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI257",
+  "name": "Sarai Radha",
+  "active": true
+},
+{
+  "code": "ALI258",
+  "name": "Goolar Road Partial Mitra Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI259",
+  "name": "Sarai Lawariya",
+  "active": true
+},
+{
+  "code": "ALI260",
+  "name": "Uday Singh Jain Road",
+  "active": true
+},
+{
+  "code": "ALI261",
+  "name": "Road Delhi Door Partial",
+  "active": true
+},
+{
+  "code": "ALI262",
+  "name": "Market Sarai Hakeem Partial",
+  "active": true
+},
+{
+  "code": "ALI263",
+  "name": "Ram Ganj",
+  "active": true
+},
+{
+  "code": "ALI264",
+  "name": "Ansariyan",
+  "active": true
+},
+{
+  "code": "ALI265",
+  "name": "Barahdwari Partial",
+  "active": true
+},
+{
+  "code": "ALI266",
+  "name": "Sarai Hakeem Partial",
+  "active": true
+},
+{
+  "code": "ALI267",
+  "name": "Gulariyai",
+  "active": true
+},
+{
+  "code": "ALI268",
+  "name": "Nagla Pala",
+  "active": true
+},
+{
+  "code": "ALI269",
+  "name": "Bhagwan Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI270",
+  "name": "Pala Sahibabad Partial",
+  "active": true
+},
+{
+  "code": "ALI271",
+  "name": "Nai Abadi Pala Road Partial",
+  "active": true
+},
+{
+  "code": "ALI272",
+  "name": "Manik Chok",
+  "active": true
+},
+{
+  "code": "ALI273",
+  "name": "Mamubhanja Partial",
+  "active": true
+},
+{
+  "code": "ALI274",
+  "name": "Sarai Berambeg",
+  "active": true
+},
+{
+  "code": "ALI275",
+  "name": "Manik Chock",
+  "active": true
+},
+{
+  "code": "ALI276",
+  "name": "Chahgarmaya",
+  "active": true
+},
+{
+  "code": "ALI277",
+  "name": "Gali Kaliya",
+  "active": true
+},
+{
+  "code": "ALI278",
+  "name": "Sarai Barahsaini",
+  "active": true
+},
+{
+  "code": "ALI279",
+  "name": "Madar Gate",
+  "active": true
+},
+{
+  "code": "ALI280",
+  "name": "Sarai Ratan Lal",
+  "active": true
+},
+{
+  "code": "ALI281",
+  "name": "Bada Bajar Partial",
+  "active": true
+},
+{
+  "code": "ALI282",
+  "name": "Subhash Road Partial",
+  "active": true
+},
+{
+  "code": "ALI283",
+  "name": "Hamdard Nagar",
+  "active": true
+},
+{
+  "code": "ALI284",
+  "name": "Hamdard Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI285",
+  "name": "Near To Madar Teresa Abadi",
+  "active": true
+},
+{
+  "code": "ALI286",
+  "name": "Kabeer Colony",
+  "active": true
+},
+{
+  "code": "ALI287",
+  "name": "Molana Ajad Nagar ( Under Of Nagar Nigam)",
+  "active": true
+},
+{
+  "code": "ALI288",
+  "name": "Shahanshahbad Partial",
+  "active": true
+},
+{
+  "code": "ALI289",
+  "name": "Anoop Shahar Road Partial",
+  "active": true
+},
+{
+  "code": "ALI290",
+  "name": "Redio Colony",
+  "active": true
+},
+{
+  "code": "ALI291",
+  "name": "Kabeer Colony",
+  "active": true
+},
+{
+  "code": "ALI292",
+  "name": "Kishori Bhavan",
+  "active": true
+},
+{
+  "code": "ALI293",
+  "name": "Purani Chungi Partial",
+  "active": true
+},
+{
+  "code": "ALI294",
+  "name": "Shamshad Market Partial",
+  "active": true
+},
+{
+  "code": "ALI295",
+  "name": "Kila Road Partial",
+  "active": true
+},
+{
+  "code": "ALI296",
+  "name": "Sarsaiyed Nagar",
+  "active": true
+},
+{
+  "code": "ALI297",
+  "name": "Nagla Mallah Partial",
+  "active": true
+},
+{
+  "code": "ALI298",
+  "name": "Dodhpur Partial",
+  "active": true
+},
+{
+  "code": "ALI299",
+  "name": "Shaukat Manjil",
+  "active": true
+},
+{
+  "code": "ALI300",
+  "name": "Sudhama Puri",
+  "active": true
+},
+{
+  "code": "ALI301",
+  "name": "Sudhamapuri",
+  "active": true
+},
+{
+  "code": "ALI302",
+  "name": "Vishnupuri Partial",
+  "active": true
+},
+{
+  "code": "ALI303",
+  "name": "Gandhi Netra Chikitsalaya",
+  "active": true
+},
+{
+  "code": "ALI304",
+  "name": "Prag Sarovar",
+  "active": true
+},
+{
+  "code": "ALI305",
+  "name": "Chandaniya Partial",
+  "active": true
+},
+{
+  "code": "ALI306",
+  "name": "Mohan Nagar",
+  "active": true
+},
+{
+  "code": "ALI307",
+  "name": "Niranjan Puri Partial",
+  "active": true
+},
+{
+  "code": "ALI308",
+  "name": "Mansarovar",
+  "active": true
+},
+{
+  "code": "ALI309",
+  "name": "Gyansarovar Partial",
+  "active": true
+},
+{
+  "code": "ALI310",
+  "name": "Shanti Sarovar Partial",
+  "active": true
+},
+{
+  "code": "ALI311",
+  "name": "Aarya Nagar",
+  "active": true
+},
+{
+  "code": "ALI312",
+  "name": "Avantika Phase-2 Partial",
+  "active": true
+},
+{
+  "code": "ALI313",
+  "name": "Ada Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI314",
+  "name": "Kishanpur Partial",
+  "active": true
+},
+{
+  "code": "ALI315",
+  "name": "Fire Brigade",
+  "active": true
+},
+{
+  "code": "ALI316",
+  "name": "Fire Brigade",
+  "active": true
+},
+{
+  "code": "ALI317",
+  "name": "Banna Devi Partial",
+  "active": true
+},
+{
+  "code": "ALI318",
+  "name": "Goolar Road Partial",
+  "active": true
+},
+{
+  "code": "ALI319",
+  "name": "Pratibha Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI320",
+  "name": "Rajendra Nagar",
+  "active": true
+},
+{
+  "code": "ALI321",
+  "name": "Nagla Masani Partial",
+  "active": true
+},
+{
+  "code": "ALI322",
+  "name": "Nagla Mehtab Partial",
+  "active": true
+},
+{
+  "code": "ALI323",
+  "name": "Bhuj Pura",
+  "active": true
+},
+{
+  "code": "ALI324",
+  "name": "Bhujpura Partial",
+  "active": true
+},
+{
+  "code": "ALI325",
+  "name": "Kalvari Abadi",
+  "active": true
+},
+{
+  "code": "ALI326",
+  "name": "Gambhir Pura",
+  "active": true
+},
+{
+  "code": "ALI327",
+  "name": "Gambhir Pura",
+  "active": true
+},
+{
+  "code": "ALI328",
+  "name": "Hanuman Puri",
+  "active": true
+},
+{
+  "code": "ALI329",
+  "name": "Mahendra Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI330",
+  "name": "Bhagwan Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI331",
+  "name": "Badam Nagar",
+  "active": true
+},
+{
+  "code": "ALI332",
+  "name": "Hamdard Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI333",
+  "name": "Nagla Molvi",
+  "active": true
+},
+{
+  "code": "ALI334",
+  "name": "Nagla Kalar Partial",
+  "active": true
+},
+{
+  "code": "ALI335",
+  "name": "Laxmipur Partial",
+  "active": true
+},
+{
+  "code": "ALI336",
+  "name": "Bank Colony",
+  "active": true
+},
+{
+  "code": "ALI337",
+  "name": "Jwalaji Puram",
+  "active": true
+},
+{
+  "code": "ALI338",
+  "name": "Prince Nagar",
+  "active": true
+},
+{
+  "code": "ALI339",
+  "name": "Nagla Molvi",
+  "active": true
+},
+{
+  "code": "ALI340",
+  "name": "Nagla Kunjal Pur",
+  "active": true
+},
+{
+  "code": "ALI341",
+  "name": "Nagla Masani Partial",
+  "active": true
+},
+{
+  "code": "ALI342",
+  "name": "Shahjamal Chhetra",
+  "active": true
+},
+{
+  "code": "ALI343",
+  "name": "Shahjamal Partial",
+  "active": true
+},
+{
+  "code": "ALI344",
+  "name": "Delhi Gate Khair Road Partial",
+  "active": true
+},
+{
+  "code": "ALI345",
+  "name": "Delhi Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI346",
+  "name": "Nagla Masani Partial",
+  "active": true
+},
+{
+  "code": "ALI347",
+  "name": "Roravar Partial Under Nagar Nigam Area",
+  "active": true
+},
+{
+  "code": "ALI348",
+  "name": "Nai Basti",
+  "active": true
+},
+{
+  "code": "ALI349",
+  "name": "Kishor Puri",
+  "active": true
+},
+{
+  "code": "ALI350",
+  "name": "Malook Chand Compound",
+  "active": true
+},
+{
+  "code": "ALI351",
+  "name": "Nai Basti",
+  "active": true
+},
+{
+  "code": "ALI352",
+  "name": "Kothi Lankram",
+  "active": true
+},
+{
+  "code": "ALI353",
+  "name": "Rifueji Quarter",
+  "active": true
+},
+{
+  "code": "ALI354",
+  "name": "Avas Vikas Colony",
+  "active": true
+},
+{
+  "code": "ALI355",
+  "name": "Kathpula",
+  "active": true
+},
+{
+  "code": "ALI356",
+  "name": "Jel Road",
+  "active": true
+},
+{
+  "code": "ALI357",
+  "name": "Kishor Nagar",
+  "active": true
+},
+{
+  "code": "ALI358",
+  "name": "Industrial State Partial",
+  "active": true
+},
+{
+  "code": "ALI359",
+  "name": "Jeevan Garh",
+  "active": true
+},
+{
+  "code": "ALI360",
+  "name": "Jeevangarh Partial",
+  "active": true
+},
+{
+  "code": "ALI361",
+  "name": "Zakir Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI362",
+  "name": "Kishanpur",
+  "active": true
+},
+{
+  "code": "ALI363",
+  "name": "Ganga Javahar Colony",
+  "active": true
+},
+{
+  "code": "ALI364",
+  "name": "Kishan Pur Partial",
+  "active": true
+},
+{
+  "code": "ALI365",
+  "name": "Ada Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI366",
+  "name": "Sarswati Vihar",
+  "active": true
+},
+{
+  "code": "ALI367",
+  "name": "Avantika Phase-1",
+  "active": true
+},
+{
+  "code": "ALI368",
+  "name": "Avantika Phase-2 Partial",
+  "active": true
+},
+{
+  "code": "ALI369",
+  "name": "Gyan Sarovar Partial",
+  "active": true
+},
+{
+  "code": "ALI370",
+  "name": "Niranjan Puri Partial",
+  "active": true
+},
+{
+  "code": "ALI371",
+  "name": "Swarn Jayanti Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI372",
+  "name": "Baniya Pada",
+  "active": true
+},
+{
+  "code": "ALI373",
+  "name": "Chahvasanta",
+  "active": true
+},
+{
+  "code": "ALI374",
+  "name": "Balaye Kila",
+  "active": true
+},
+{
+  "code": "ALI375",
+  "name": "Usman Pada (1st)",
+  "active": true
+},
+{
+  "code": "ALI376",
+  "name": "Chirag Chiyan",
+  "active": true
+},
+{
+  "code": "ALI377",
+  "name": "Teela",
+  "active": true
+},
+{
+  "code": "ALI378",
+  "name": "Chandan Shahid Partial",
+  "active": true
+},
+{
+  "code": "ALI379",
+  "name": "Shekhan Partial",
+  "active": true
+},
+{
+  "code": "ALI380",
+  "name": "Purani Kachahari",
+  "active": true
+},
+{
+  "code": "ALI381",
+  "name": "Ghosiyan",
+  "active": true
+},
+{
+  "code": "ALI382",
+  "name": "Khai Dora Partial",
+  "active": true
+},
+{
+  "code": "ALI383",
+  "name": "Bani Israylan Partial",
+  "active": true
+},
+{
+  "code": "ALI384",
+  "name": "Tahsil Road Partial",
+  "active": true
+},
+{
+  "code": "ALI385",
+  "name": "Tantan Pada Partial",
+  "active": true
+},
+{
+  "code": "ALI386",
+  "name": "Delhi Gate",
+  "active": true
+},
+{
+  "code": "ALI387",
+  "name": "Delhi Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI388",
+  "name": "Kailash Gali Partial",
+  "active": true
+},
+{
+  "code": "ALI389",
+  "name": "Sarai Miyan Partial",
+  "active": true
+},
+{
+  "code": "ALI390",
+  "name": "Kanvari Ganj",
+  "active": true
+},
+{
+  "code": "ALI391",
+  "name": "Kanvari Ganj Partial",
+  "active": true
+},
+{
+  "code": "ALI392",
+  "name": "Mahaveer Ganj",
+  "active": true
+},
+{
+  "code": "ALI393",
+  "name": "Barahdwari Partial",
+  "active": true
+},
+{
+  "code": "ALI394",
+  "name": "Kilat Ganj",
+  "active": true
+},
+{
+  "code": "ALI395",
+  "name": "Aligarh Gate",
+  "active": true
+},
+{
+  "code": "ALI396",
+  "name": "Ahata Nidhan Singh",
+  "active": true
+},
+{
+  "code": "ALI397",
+  "name": "Talab Sabit Khan",
+  "active": true
+},
+{
+  "code": "ALI398",
+  "name": "Gali Nakkalan",
+  "active": true
+},
+{
+  "code": "ALI399",
+  "name": "Palki Khana",
+  "active": true
+},
+{
+  "code": "ALI400",
+  "name": "Modi Khana",
+  "active": true
+},
+{
+  "code": "ALI401",
+  "name": "Gali Dhusran",
+  "active": true
+},
+{
+  "code": "ALI402",
+  "name": "Chhipeti",
+  "active": true
+},
+{
+  "code": "ALI403",
+  "name": "Katra",
+  "active": true
+},
+{
+  "code": "ALI404",
+  "name": "Gali Palamal",
+  "active": true
+},
+{
+  "code": "ALI405",
+  "name": "Ghudiya Bagh",
+  "active": true
+},
+{
+  "code": "ALI406",
+  "name": "Delhi Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI407",
+  "name": "Mamubhanja Partial",
+  "active": true
+},
+{
+  "code": "ALI408",
+  "name": "Yusuf Ganj",
+  "active": true
+},
+{
+  "code": "ALI409",
+  "name": "Pidru Ganj",
+  "active": true
+},
+{
+  "code": "ALI410",
+  "name": "Market Sarai Hakeem Partial",
+  "active": true
+},
+{
+  "code": "ALI411",
+  "name": "Fafala",
+  "active": true
+},
+{
+  "code": "ALI412",
+  "name": "Patthar Bajar",
+  "active": true
+},
+{
+  "code": "ALI413",
+  "name": "Kaliyan Ganj",
+  "active": true
+},
+{
+  "code": "ALI414",
+  "name": "Gali Gullu Ji",
+  "active": true
+},
+{
+  "code": "ALI415",
+  "name": "Subhash Road Partial",
+  "active": true
+},
+{
+  "code": "ALI416",
+  "name": "Chandaniya",
+  "active": true
+},
+{
+  "code": "ALI417",
+  "name": "Begum Bagh Partial",
+  "active": true
+},
+{
+  "code": "ALI418",
+  "name": "Durgesh Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI419",
+  "name": "Surendra Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI420",
+  "name": "Chandaniya Partial",
+  "active": true
+},
+{
+  "code": "ALI421",
+  "name": "Nagla Javahar Partial",
+  "active": true
+},
+{
+  "code": "ALI422",
+  "name": "Nagla Mandir Partial",
+  "active": true
+},
+{
+  "code": "ALI423",
+  "name": "Nagla Tikona Partial",
+  "active": true
+},
+{
+  "code": "ALI424",
+  "name": "Profeser Colony",
+  "active": true
+},
+{
+  "code": "ALI425",
+  "name": "Surya Sarovar",
+  "active": true
+},
+{
+  "code": "ALI426",
+  "name": "Ramesh Vihar",
+  "active": true
+},
+{
+  "code": "ALI427",
+  "name": "Kala Mahal",
+  "active": true
+},
+{
+  "code": "ALI428",
+  "name": "Saiyed Pada",
+  "active": true
+},
+{
+  "code": "ALI429",
+  "name": "Ghas Ki Mandi",
+  "active": true
+},
+{
+  "code": "ALI430",
+  "name": "Rangrejan",
+  "active": true
+},
+{
+  "code": "ALI431",
+  "name": "Kala Mahal",
+  "active": true
+},
+{
+  "code": "ALI432",
+  "name": "Turkman Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI433",
+  "name": "Sanichari Painth Partial",
+  "active": true
+},
+{
+  "code": "ALI434",
+  "name": "Sarai Kutub Partial",
+  "active": true
+},
+{
+  "code": "ALI435",
+  "name": "Afganan Partial",
+  "active": true
+},
+{
+  "code": "ALI436",
+  "name": "Babri Mandi Partial",
+  "active": true
+},
+{
+  "code": "ALI437",
+  "name": "Jaiganj",
+  "active": true
+},
+{
+  "code": "ALI438",
+  "name": "Sarai Pathan",
+  "active": true
+},
+{
+  "code": "ALI439",
+  "name": "Rang Mahal",
+  "active": true
+},
+{
+  "code": "ALI440",
+  "name": "Sarai Bhola Nath Partial",
+  "active": true
+},
+{
+  "code": "ALI441",
+  "name": "Sarai Bhattpartial",
+  "active": true
+},
+{
+  "code": "ALI442",
+  "name": "Ladiyapartial",
+  "active": true
+},
+{
+  "code": "ALI443",
+  "name": "Rasal Ganj",
+  "active": true
+},
+{
+  "code": "ALI444",
+  "name": "Rasal Ganjpartial",
+  "active": true
+},
+{
+  "code": "ALI445",
+  "name": "Habibabad",
+  "active": true
+},
+{
+  "code": "ALI446",
+  "name": "Takiya",
+  "active": true
+},
+{
+  "code": "ALI447",
+  "name": "Saifi Colony",
+  "active": true
+},
+{
+  "code": "ALI448",
+  "name": "Market Sarai Hakeempartial",
+  "active": true
+},
+{
+  "code": "ALI449",
+  "name": "Sarai Hakeem Partial",
+  "active": true
+},
+{
+  "code": "ALI450",
+  "name": "Laxmi Puri",
+  "active": true
+},
+{
+  "code": "ALI451",
+  "name": "Kuriyana",
+  "active": true
+},
+{
+  "code": "ALI452",
+  "name": "Sarai Babu",
+  "active": true
+},
+{
+  "code": "ALI453",
+  "name": "Gulariyai",
+  "active": true
+},
+{
+  "code": "ALI454",
+  "name": "Mohan Lal Gautam Mahila Chikitsalaya",
+  "active": true
+},
+{
+  "code": "ALI455",
+  "name": "Danpur Compound",
+  "active": true
+},
+{
+  "code": "ALI456",
+  "name": "Ada Shanti Niketan",
+  "active": true
+},
+{
+  "code": "ALI457",
+  "name": "Shahjamal Partial",
+  "active": true
+},
+{
+  "code": "ALI458",
+  "name": "Roravar Partial Under Nagar Nigam Area",
+  "active": true
+},
+{
+  "code": "ALI459",
+  "name": "Delhi Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI460",
+  "name": "Ada Shanti Niketan Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI461",
+  "name": "At Main Road-ashadpur Kayam",
+  "active": true
+},
+{
+  "code": "ALI462",
+  "name": "At Other Road-ashadpur Kayam",
+  "active": true
+},
+{
+  "code": "ALI463",
+  "name": "At Main Road-karwa Kol Rural(East)",
+  "active": true
+},
+{
+  "code": "ALI464",
+  "name": "At Other Road-karwa Kol Rural(East)",
+  "active": true
+},
+{
+  "code": "ALI465",
+  "name": "At Main Road-dhanipur (Northern Mohalla & Colony)",
+  "active": true
+},
+{
+  "code": "ALI466",
+  "name": "At Other Road-dhanipur (Northern Mohalla & Colony)",
+  "active": true
+},
+{
+  "code": "ALI467",
+  "name": "At Main Road-dhanipur (Southern Mohalla & Colony)",
+  "active": true
+},
+{
+  "code": "ALI468",
+  "name": "At Other Road-dhanipur (Southern Mohalla & Colony)",
+  "active": true
+},
+{
+  "code": "ALI469",
+  "name": "Nagla Mansingh(Gaon-gambhirpura Dehat)",
+  "active": true
+},
+{
+  "code": "ALI470",
+  "name": "Palla Shahibabad Partial",
+  "active": true
+},
+{
+  "code": "ALI471",
+  "name": "Karwakol Dehat (Southern)",
+  "active": true
+},
+{
+  "code": "ALI472",
+  "name": "Daulatabad(Mohalla & Colony)",
+  "active": true
+},
+{
+  "code": "ALI473",
+  "name": "Rorawar Westren Mohalla & Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI474",
+  "name": "Makdum Nagar",
+  "active": true
+},
+{
+  "code": "ALI475",
+  "name": "Nai Abadi Nagla Partial Ali Partial",
+  "active": true
+},
+{
+  "code": "ALI476",
+  "name": "Slatar House",
+  "active": true
+},
+{
+  "code": "ALI477",
+  "name": "Turkman Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI478",
+  "name": "Bhuj Pura Sarai Kutub Partial",
+  "active": true
+},
+{
+  "code": "ALI479",
+  "name": "Makdum Nagar",
+  "active": true
+},
+{
+  "code": "ALI480",
+  "name": "Gola Abadi",
+  "active": true
+},
+{
+  "code": "ALI481",
+  "name": "Asrafpur Jalal Southern Partial",
+  "active": true
+},
+{
+  "code": "ALI482",
+  "name": "Rorawar(Northern) Mohalla & Colony",
+  "active": true
+},
+{
+  "code": "ALI483",
+  "name": "Aavas Vikas Colony Iglas Road",
+  "active": true
+},
+{
+  "code": "ALI484",
+  "name": "Sasni Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI485",
+  "name": "Gopal Puri Partial",
+  "active": true
+},
+{
+  "code": "ALI486",
+  "name": "Vivek Vihar",
+  "active": true
+},
+{
+  "code": "ALI487",
+  "name": "Avas Vikas Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI488",
+  "name": "Lodhi Puram",
+  "active": true
+},
+{
+  "code": "ALI489",
+  "name": "Saket Vihar",
+  "active": true
+},
+{
+  "code": "ALI490",
+  "name": "Panch Nagri",
+  "active": true
+},
+{
+  "code": "ALI491",
+  "name": "At Main Road-asrafpur Jallal (Northern)",
+  "active": true
+},
+{
+  "code": "ALI492",
+  "name": "At Other Road-asrafpur Jallal (Northern)",
+  "active": true
+},
+{
+  "code": "ALI493",
+  "name": "At Main Road-ulapur Gadia Elempur Gadia's Mohalla & Colony",
+  "active": true
+},
+{
+  "code": "ALI494",
+  "name": "At Other Road-ulapur Gadia Elempur Gadia's Mohalla & Colony",
+  "active": true
+},
+{
+  "code": "ALI495",
+  "name": "Mabood Nagar",
+  "active": true
+},
+{
+  "code": "ALI496",
+  "name": "Ada Colony Sarai Miyan Partial",
+  "active": true
+},
+{
+  "code": "ALI497",
+  "name": "Turkman Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI498",
+  "name": "Siyal Abadi",
+  "active": true
+},
+{
+  "code": "ALI499",
+  "name": "Makkhi Abadi",
+  "active": true
+},
+{
+  "code": "ALI500",
+  "name": "Mabood Nagar",
+  "active": true
+},
+{
+  "code": "ALI501",
+  "name": "At Main Road-sarsoul",
+  "active": true
+},
+{
+  "code": "ALI502",
+  "name": "At Other Road-sarsoul",
+  "active": true
+},
+{
+  "code": "ALI503",
+  "name": "At Main Road-baroula Zafrabad's (Weastern Side) Mohalla & Colony",
+  "active": true
+},
+{
+  "code": "ALI504",
+  "name": "At Other Road-baroula Zafrabad's (Weastern Side) Mohalla & Colony",
+  "active": true
+},
+{
+  "code": "ALI505",
+  "name": "Gandhi Nagar",
+  "active": true
+},
+{
+  "code": "ALI506",
+  "name": "Dwarika Puri Partial",
+  "active": true
+},
+{
+  "code": "ALI507",
+  "name": "Adda Hathras",
+  "active": true
+},
+{
+  "code": "ALI508",
+  "name": "Achal Road Partial",
+  "active": true
+},
+{
+  "code": "ALI509",
+  "name": "Gihara Nagar",
+  "active": true
+},
+{
+  "code": "ALI510",
+  "name": "Mahendra Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI511",
+  "name": "Bapu Nagar",
+  "active": true
+},
+{
+  "code": "ALI512",
+  "name": "Premium Nagar",
+  "active": true
+},
+{
+  "code": "ALI513",
+  "name": "Bank Colony",
+  "active": true
+},
+{
+  "code": "ALI514",
+  "name": "Ram Ratan Colony",
+  "active": true
+},
+{
+  "code": "ALI515",
+  "name": "Baroula Zafrabad Eastern Side Partial",
+  "active": true
+},
+{
+  "code": "ALI516",
+  "name": "Ramgarh Panjupur Partial",
+  "active": true
+},
+{
+  "code": "ALI517",
+  "name": "Manjurigarh Partial",
+  "active": true
+},
+{
+  "code": "ALI518",
+  "name": "Maheshpur Partial Mohalla & Colony",
+  "active": true
+},
+{
+  "code": "ALI519",
+  "name": "Usman Pada Third",
+  "active": true
+},
+{
+  "code": "ALI520",
+  "name": "Sarai Miyan Partial",
+  "active": true
+},
+{
+  "code": "ALI521",
+  "name": "Delhi Gate Partial",
+  "active": true
+},
+{
+  "code": "ALI522",
+  "name": "Kureshiyan",
+  "active": true
+},
+{
+  "code": "ALI523",
+  "name": "Usman Pada-3",
+  "active": true
+},
+{
+  "code": "ALI524",
+  "name": "Kailash Gali Khatikan Partial Partial",
+  "active": true
+},
+{
+  "code": "ALI525",
+  "name": "Dhuramafi Mohalla & Colony",
+  "active": true
+},
+{
+  "code": "ALI526",
+  "name": "Bhamola",
+  "active": true
+},
+{
+  "code": "ALI527",
+  "name": "Alam Bagh",
+  "active": true
+},
+{
+  "code": "ALI528",
+  "name": "University Quarter",
+  "active": true
+},
+{
+  "code": "ALI529",
+  "name": "Bandar Bagh",
+  "active": true
+},
+{
+  "code": "ALI530",
+  "name": "Loko Colony",
+  "active": true
+},
+{
+  "code": "ALI531",
+  "name": "Kachahari Road Partial",
+  "active": true
+},
+{
+  "code": "ALI532",
+  "name": "Pulish Quarter",
+  "active": true
+},
+{
+  "code": "ALI533",
+  "name": "Pulish Line",
+  "active": true
+},
+{
+  "code": "ALI534",
+  "name": "Colectret",
+  "active": true
+},
+{
+  "code": "ALI535",
+  "name": "Jila Panchayat",
+  "active": true
+},
+{
+  "code": "ALI536",
+  "name": "Anauna House",
+  "active": true
+},
+{
+  "code": "ALI537",
+  "name": "Railway Quarter",
+  "active": true
+},
+{
+  "code": "ALI538",
+  "name": "Naurangi Lal Inter College",
+  "active": true
+},
+{
+  "code": "ALI539",
+  "name": "Nagla Partial Ali",
+  "active": true
+},
+{
+  "code": "ALI540",
+  "name": "Nai Abadi Nagla Partial Ali Partial",
+  "active": true
+},
+{
+  "code": "ALI541",
+  "name": "Kishanpur",
+  "active": true
+},
+{
+  "code": "ALI542",
+  "name": "Begpur",
+  "active": true
+},
+{
+  "code": "ALI543",
+  "name": "Ramghat Road Partial",
+  "active": true
+},
+{
+  "code": "ALI544",
+  "name": "Vikram Colony",
+  "active": true
+},
+{
+  "code": "ALI545",
+  "name": "Vidhya Nagar",
+  "active": true
+},
+{
+  "code": "ALI546",
+  "name": "Islamabad Bhatta",
+  "active": true
+},
+{
+  "code": "ALI547",
+  "name": "Merris Road Partial",
+  "active": true
+},
+{
+  "code": "ALI548",
+  "name": "Durgabadi",
+  "active": true
+},
+{
+  "code": "ALI549",
+  "name": "Japan House",
+  "active": true
+},
+{
+  "code": "ALI550",
+  "name": "Hathi Dooba",
+  "active": true
+},
+{
+  "code": "ALI551",
+  "name": "Noor Bagh",
+  "active": true
+},
+{
+  "code": "ALI552",
+  "name": "Girls College Road Partial",
+  "active": true
+},
+{
+  "code": "ALI553",
+  "name": "Malkhan Nagar",
+  "active": true
+},
+{
+  "code": "ALI554",
+  "name": "Press Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI555",
+  "name": "Merris Road Partial",
+  "active": true
+},
+{
+  "code": "ALI556",
+  "name": "Hariom Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI557",
+  "name": "Girls College Road",
+  "active": true
+},
+{
+  "code": "ALI558",
+  "name": "Rahat Kada",
+  "active": true
+},
+{
+  "code": "ALI559",
+  "name": "Lal Diggi Road",
+  "active": true
+},
+{
+  "code": "ALI560",
+  "name": "Malkhan Nagar",
+  "active": true
+},
+{
+  "code": "ALI561",
+  "name": "Cmo Compound",
+  "active": true
+},
+{
+  "code": "ALI562",
+  "name": "Judge Compound",
+  "active": true
+},
+{
+  "code": "ALI563",
+  "name": "Dodhpur Partial",
+  "active": true
+},
+{
+  "code": "ALI564",
+  "name": "Darul Unoos",
+  "active": true
+},
+{
+  "code": "ALI565",
+  "name": "Pan Bali Kothi",
+  "active": true
+},
+{
+  "code": "ALI566",
+  "name": "Zaffar Nagar",
+  "active": true
+},
+{
+  "code": "ALI567",
+  "name": "Ajad Nagar",
+  "active": true
+},
+{
+  "code": "ALI568",
+  "name": "Allah Bali Kothi",
+  "active": true
+},
+{
+  "code": "ALI569",
+  "name": "Nagar Nigam Quarter",
+  "active": true
+},
+{
+  "code": "ALI570",
+  "name": "Gareeb Manjil",
+  "active": true
+},
+{
+  "code": "ALI571",
+  "name": "At Main Road-(Ramghat Road) Quarsi (Mohalla & Colony)",
+  "active": true
+},
+{
+  "code": "ALI572",
+  "name": "At Other Road-quarsi(Mohalla & Colony)",
+  "active": true
+},
+{
+  "code": "ALI573",
+  "name": "Ghanshyam Puri",
+  "active": true
+},
+{
+  "code": "ALI574",
+  "name": "Jwalapuri Partial",
+  "active": true
+},
+{
+  "code": "ALI575",
+  "name": "Chharra Adda Partial",
+  "active": true
+},
+{
+  "code": "ALI576",
+  "name": "Surendra Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI577",
+  "name": "Bekunth Nagar",
+  "active": true
+},
+{
+  "code": "ALI578",
+  "name": "Nagla Tad",
+  "active": true
+},
+{
+  "code": "ALI579",
+  "name": "Ghanshyam Puri",
+  "active": true
+},
+{
+  "code": "ALI580",
+  "name": "Vishnupuri Partial",
+  "active": true
+},
+{
+  "code": "ALI581",
+  "name": "Vikas Nagar Ada Colony",
+  "active": true
+},
+{
+  "code": "ALI582",
+  "name": "Pala Sahiababad Partial",
+  "active": true
+},
+{
+  "code": "ALI583",
+  "name": "Vikas Nagar",
+  "active": true
+},
+{
+  "code": "ALI584",
+  "name": "Bank Colony",
+  "active": true
+},
+{
+  "code": "ALI585",
+  "name": "Ada Colony",
+  "active": true
+},
+{
+  "code": "ALI586",
+  "name": "Avas Vikas Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI587",
+  "name": "Shantipuram",
+  "active": true
+},
+{
+  "code": "ALI588",
+  "name": "Rk Puram",
+  "active": true
+},
+{
+  "code": "ALI589",
+  "name": "Gopal Pur Partiali",
+  "active": true
+},
+{
+  "code": "ALI590",
+  "name": "Ram Bagh Colony",
+  "active": true
+},
+{
+  "code": "ALI591",
+  "name": "Kishanpur Partial",
+  "active": true
+},
+{
+  "code": "ALI592",
+  "name": "Ada Colony Partial",
+  "active": true
+},
+{
+  "code": "ALI593",
+  "name": "Ram Bagh Colony",
+  "active": true
+},
+{
+  "code": "ALI594",
+  "name": "Stadium",
+  "active": true
+},
+{
+  "code": "ALI595",
+  "name": "Swarn Jayanti Nagar Partial",
+  "active": true
+},
+{
+  "code": "ALI596",
+  "name": "Pushpanjali",
+  "active": true
+},
+{
+  "code": "ALI597",
+  "name": "Barola Zafarabad",
+  "active": true
+},
+{
+  "code": "ALI598",
+  "name": "Industrial State Partial",
+  "active": true
+},
+{
+  "code": "ALI599",
+  "name": "Baroula Jafarabad",
+  "active": true
+},
+{
+  "code": "ALI600",
+  "name": "Iti Road Partial",
+  "active": true
+},
+{
+  "code": "ALI601",
+  "name": "Choohar Pur Partial",
+  "active": true
+},
+{
+  "code": "SAH001",
+  "name": "Sheikh Farookh",
+  "active": true
+},
+{
+  "code": "SAH002",
+  "name": "Sheera Jan",
+  "active": true
+},
+{
+  "code": "SAH003",
+  "name": "Shahabilol",
+  "active": true
+},
+{
+  "code": "SAH004",
+  "name": "Shah Vilayat",
+  "active": true
+},
+{
+  "code": "SAH005",
+  "name": "R.k.puram (Chilkana Road)",
+  "active": true
+},
+{
+  "code": "SAH006",
+  "name": "Qutubsher",
+  "active": true
+},
+{
+  "code": "SAH007",
+  "name": "Mehndi Sarai",
+  "active": true
+},
+{
+  "code": "SAH008",
+  "name": "Mehman Sarai",
+  "active": true
+},
+{
+  "code": "SAH009",
+  "name": "Lohani Sarai",
+  "active": true
+},
+{
+  "code": "SAH010",
+  "name": "Chamwarbardaran",
+  "active": true
+},
+{
+  "code": "SAH011",
+  "name": "Banjaran",
+  "active": true
+},
+{
+  "code": "SAH012",
+  "name": "Pratap Ganj",
+  "active": true
+},
+{
+  "code": "SAH013",
+  "name": "Khwaja Ahmed Sarai",
+  "active": true
+},
+{
+  "code": "SAH014",
+  "name": "Khumran",
+  "active": true
+},
+{
+  "code": "SAH015",
+  "name": "Hazira Sarai",
+  "active": true
+},
+{
+  "code": "SAH016",
+  "name": "Bhawa Sarai",
+  "active": true
+},
+{
+  "code": "SAH017",
+  "name": "Super Vihar Colony",
+  "active": true
+},
+{
+  "code": "SAH018",
+  "name": "Shyam Vihar",
+  "active": true
+},
+{
+  "code": "SAH019",
+  "name": "Shyam Nagar",
+  "active": true
+},
+{
+  "code": "SAH020",
+  "name": "Shivpuri",
+  "active": true
+},
+{
+  "code": "SAH021",
+  "name": "Shivam Colony",
+  "active": true
+},
+{
+  "code": "SAH022",
+  "name": "Shiv Inder Vihar",
+  "active": true
+},
+{
+  "code": "SAH023",
+  "name": "Sanjay Vihar",
+  "active": true
+},
+{
+  "code": "SAH024",
+  "name": "Ram Lok",
+  "active": true
+},
+{
+  "code": "SAH025",
+  "name": "Raghav Puram",
+  "active": true
+},
+{
+  "code": "SAH026",
+  "name": "Neelkanth Vihar",
+  "active": true
+},
+{
+  "code": "SAH027",
+  "name": "Munga Garh (Balmiki Basti)",
+  "active": true
+},
+{
+  "code": "SAH028",
+  "name": "Mohit Vihar",
+  "active": true
+},
+{
+  "code": "SAH029",
+  "name": "Mohit Nagar",
+  "active": true
+},
+{
+  "code": "SAH030",
+  "name": "Madho Vihar",
+  "active": true
+},
+{
+  "code": "SAH031",
+  "name": "Krishna Kunj",
+  "active": true
+},
+{
+  "code": "SAH032",
+  "name": "Hussain Basti",
+  "active": true
+},
+{
+  "code": "SAH033",
+  "name": "Gyan Vihar",
+  "active": true
+},
+{
+  "code": "SAH034",
+  "name": "Ganesh Vihar",
+  "active": true
+},
+{
+  "code": "SAH035",
+  "name": "Durga Puri (Behat Road)",
+  "active": true
+},
+{
+  "code": "SAH036",
+  "name": "Dhobi Ghat / Madho Vatika",
+  "active": true
+},
+{
+  "code": "SAH037",
+  "name": "Badri Dham",
+  "active": true
+},
+{
+  "code": "SAH038",
+  "name": "Munshian",
+  "active": true
+},
+{
+  "code": "SAH039",
+  "name": "Kaharan",
+  "active": true
+},
+{
+  "code": "SAH040",
+  "name": "Hiran Marhan",
+  "active": true
+},
+{
+  "code": "SAH041",
+  "name": "Dakotan",
+  "active": true
+},
+{
+  "code": "SAH042",
+  "name": "Chhipiyan",
+  "active": true
+},
+{
+  "code": "SAH043",
+  "name": "Aali Mahajanan",
+  "active": true
+},
+{
+  "code": "SAH044",
+  "name": "Aacharjan",
+  "active": true
+},
+{
+  "code": "SAH045",
+  "name": "Vinay Nagar",
+  "active": true
+},
+{
+  "code": "SAH046",
+  "name": "Sunder Vihar",
+  "active": true
+},
+{
+  "code": "SAH047",
+  "name": "Pradyuman Nagar-ii",
+  "active": true
+},
+{
+  "code": "SAH048",
+  "name": "Pradyuman Nagar-i",
+  "active": true
+},
+{
+  "code": "SAH049",
+  "name": "New Awas Vikas",
+  "active": true
+},
+{
+  "code": "SAH050",
+  "name": "Mandakini Vihar",
+  "active": true
+},
+{
+  "code": "SAH051",
+  "name": "Madan Enclave Colony",
+  "active": true
+},
+{
+  "code": "SAH052",
+  "name": "Kishore Bagh",
+  "active": true
+},
+{
+  "code": "SAH053",
+  "name": "Kamal Colony",
+  "active": true
+},
+{
+  "code": "SAH054",
+  "name": "Naya Bazar",
+  "active": true
+},
+{
+  "code": "SAH055",
+  "name": "Naya Baans",
+  "active": true
+},
+{
+  "code": "SAH056",
+  "name": "Mutribaan",
+  "active": true
+},
+{
+  "code": "SAH057",
+  "name": "Mufti",
+  "active": true
+},
+{
+  "code": "SAH058",
+  "name": "Mubarak Shah",
+  "active": true
+},
+{
+  "code": "SAH059",
+  "name": "Mali Gate",
+  "active": true
+},
+{
+  "code": "SAH060",
+  "name": "Jhotewala",
+  "active": true
+},
+{
+  "code": "SAH061",
+  "name": "Hindustaniyan",
+  "active": true
+},
+{
+  "code": "SAH062",
+  "name": "Choub Faroshan",
+  "active": true
+},
+{
+  "code": "SAH063",
+  "name": "Bahalwan",
+  "active": true
+},
+{
+  "code": "SAH064",
+  "name": "Vivek Vihar",
+  "active": true
+},
+{
+  "code": "SAH065",
+  "name": "Tro Compound (Dso Compound)",
+  "active": true
+},
+{
+  "code": "SAH066",
+  "name": "Shastri Nagar",
+  "active": true
+},
+{
+  "code": "SAH067",
+  "name": "Saket",
+  "active": true
+},
+{
+  "code": "SAH068",
+  "name": "New Saket Colony",
+  "active": true
+},
+{
+  "code": "SAH069",
+  "name": "Mehta Garden",
+  "active": true
+},
+{
+  "code": "SAH070",
+  "name": "Madhopura",
+  "active": true
+},
+{
+  "code": "SAH071",
+  "name": "Bhagat Singh Colony (Hakikat Nagar)",
+  "active": true
+},
+{
+  "code": "SAH072",
+  "name": "Rashid Vihar",
+  "active": true
+},
+{
+  "code": "SAH073",
+  "name": "Rani Bazar (Kathara)",
+  "active": true
+},
+{
+  "code": "SAH074",
+  "name": "Kathara Sani",
+  "active": true
+},
+{
+  "code": "SAH075",
+  "name": "Katahra No 2",
+  "active": true
+},
+{
+  "code": "SAH076",
+  "name": "Kambo Kathara",
+  "active": true
+},
+{
+  "code": "SAH077",
+  "name": "Budiya Gate (Kathara)",
+  "active": true
+},
+{
+  "code": "SAH078",
+  "name": "Ahiran (Kathara)",
+  "active": true
+},
+{
+  "code": "SAH079",
+  "name": "62 Futa Road",
+  "active": true
+},
+{
+  "code": "SAH080",
+  "name": "Rakesh Road (Sabji Mandi)",
+  "active": true
+},
+{
+  "code": "SAH081",
+  "name": "Old Sabji Mandi",
+  "active": true
+},
+{
+  "code": "SAH082",
+  "name": "New Mangal Nagar",
+  "active": true
+},
+{
+  "code": "SAH083",
+  "name": "Nawabganj",
+  "active": true
+},
+{
+  "code": "SAH084",
+  "name": "Mangal Nagar",
+  "active": true
+},
+{
+  "code": "SAH085",
+  "name": "Link Road",
+  "active": true
+},
+{
+  "code": "SAH086",
+  "name": "Jwala Nagar",
+  "active": true
+},
+{
+  "code": "SAH087",
+  "name": "Geeta Colony",
+  "active": true
+},
+{
+  "code": "SAH088",
+  "name": "Vijay Nagar",
+  "active": true
+},
+{
+  "code": "SAH089",
+  "name": "Veer Nagar",
+  "active": true
+},
+{
+  "code": "SAH090",
+  "name": "Qutubsher",
+  "active": true
+},
+{
+  "code": "SAH091",
+  "name": "Pratap Nagar",
+  "active": true
+},
+{
+  "code": "SAH092",
+  "name": "Pilkhan Tala",
+  "active": true
+},
+{
+  "code": "SAH093",
+  "name": "Paras Colony",
+  "active": true
+},
+{
+  "code": "SAH094",
+  "name": "Mandi Samiti Road",
+  "active": true
+},
+{
+  "code": "SAH095",
+  "name": "Krishna Nagar-ii",
+  "active": true
+},
+{
+  "code": "SAH096",
+  "name": "Krishna Nagar-i",
+  "active": true
+},
+{
+  "code": "SAH097",
+  "name": "Jain Bagh",
+  "active": true
+},
+{
+  "code": "SAH098",
+  "name": "Ankur Market",
+  "active": true
+},
+{
+  "code": "SAH099",
+  "name": "Pratap Nagar",
+  "active": true
+},
+{
+  "code": "SAH100",
+  "name": "Ambala Road",
+  "active": true
+},
+{
+  "code": "SAH101",
+  "name": "Usha Vihar",
+  "active": true
+},
+{
+  "code": "SAH102",
+  "name": "Upvan Vihar (Noor Basti)",
+  "active": true
+},
+{
+  "code": "SAH103",
+  "name": "Paras Colony",
+  "active": true
+},
+{
+  "code": "SAH104",
+  "name": "Noorbasti (Maya Nagar)",
+  "active": true
+},
+{
+  "code": "SAH105",
+  "name": "Noor Basti",
+  "active": true
+},
+{
+  "code": "SAH106",
+  "name": "Nayi Basti",
+  "active": true
+},
+{
+  "code": "SAH107",
+  "name": "Dinesh Vihar (Noor Basti)",
+  "active": true
+},
+{
+  "code": "SAH108",
+  "name": "Aman Colony",
+  "active": true
+},
+{
+  "code": "SAH109",
+  "name": "Vardhman",
+  "active": true
+},
+{
+  "code": "SAH110",
+  "name": "Behat Road",
+  "active": true
+},
+{
+  "code": "SAH111",
+  "name": "Shankar Nagar",
+  "active": true
+},
+{
+  "code": "SAH112",
+  "name": "Roop Vihar Colony",
+  "active": true
+},
+{
+  "code": "SAH113",
+  "name": "Parvati Nagar",
+  "active": true
+},
+{
+  "code": "SAH114",
+  "name": "New Hari Nagar",
+  "active": true
+},
+{
+  "code": "SAH115",
+  "name": "New Pranav Vihar",
+  "active": true
+},
+{
+  "code": "SAH116",
+  "name": "Lakad Mazara",
+  "active": true
+},
+{
+  "code": "SAH117",
+  "name": "Kazipura",
+  "active": true
+},
+{
+  "code": "SAH118",
+  "name": "Kamal Colony",
+  "active": true
+},
+{
+  "code": "SAH119",
+  "name": "Hari Nagar",
+  "active": true
+},
+{
+  "code": "SAH120",
+  "name": "Gandhi Nagar",
+  "active": true
+},
+{
+  "code": "SAH121",
+  "name": "Azad Colony",
+  "active": true
+},
+{
+  "code": "SAH122",
+  "name": "Nawada Road",
+  "active": true
+},
+{
+  "code": "SAH123",
+  "name": "Kazipura",
+  "active": true
+},
+{
+  "code": "SAH124",
+  "name": "Bypaas Circuit House Road",
+  "active": true
+},
+{
+  "code": "SAH125",
+  "name": "Rajendra Nagar",
+  "active": true
+},
+{
+  "code": "SAH126",
+  "name": "Prem Vatika",
+  "active": true
+},
+{
+  "code": "SAH127",
+  "name": "Pawan Bela Market",
+  "active": true
+},
+{
+  "code": "SAH128",
+  "name": "Parshavnath Plaza",
+  "active": true
+},
+{
+  "code": "SAH129",
+  "name": "Mission Compound",
+  "active": true
+},
+{
+  "code": "SAH130",
+  "name": "Lakshman Singh Colony",
+  "active": true
+},
+{
+  "code": "SAH131",
+  "name": "Dr Bheem Rao Ambedkar Marg",
+  "active": true
+},
+{
+  "code": "SAH132",
+  "name": "Court Road",
+  "active": true
+},
+{
+  "code": "SAH133",
+  "name": "Chandra Nagar",
+  "active": true
+},
+{
+  "code": "SAH134",
+  "name": "Ahmed Bagh",
+  "active": true
+},
+{
+  "code": "SAH135",
+  "name": "Taharpur",
+  "active": true
+},
+{
+  "code": "SAH136",
+  "name": "Shakumbari Vihar",
+  "active": true
+},
+{
+  "code": "SAH137",
+  "name": "Paramount Tulip",
+  "active": true
+},
+{
+  "code": "SAH138",
+  "name": "Mawi Kala",
+  "active": true
+},
+{
+  "code": "SAH139",
+  "name": "Mavikhurd",
+  "active": true
+},
+{
+  "code": "SAH140",
+  "name": "Anurag Vihar Colony",
+  "active": true
+},
+{
+  "code": "SAH141",
+  "name": "Mavikala",
+  "active": true
+},
+{
+  "code": "SAH142",
+  "name": "Delhi Road",
+  "active": true
+},
+{
+  "code": "SAH143",
+  "name": "Shivdham Colony",
+  "active": true
+},
+{
+  "code": "SAH144",
+  "name": "Shiraz Colony",
+  "active": true
+},
+{
+  "code": "SAH145",
+  "name": "Sangiyan",
+  "active": true
+},
+{
+  "code": "SAH146",
+  "name": "Sangam Vihar",
+  "active": true
+},
+{
+  "code": "SAH147",
+  "name": "Rauf Colony",
+  "active": true
+},
+{
+  "code": "SAH148",
+  "name": "Ram Jivan Nagar",
+  "active": true
+},
+{
+  "code": "SAH149",
+  "name": "Raj Colony",
+  "active": true
+},
+{
+  "code": "SAH150",
+  "name": "Mursaleen Colony",
+  "active": true
+},
+{
+  "code": "SAH151",
+  "name": "Khata Kheri",
+  "active": true
+},
+{
+  "code": "SAH152",
+  "name": "Ibraahim Nagar",
+  "active": true
+},
+{
+  "code": "SAH153",
+  "name": "Golden Nagar Colony",
+  "active": true
+},
+{
+  "code": "SAH154",
+  "name": "Farmaan Colony",
+  "active": true
+},
+{
+  "code": "SAH155",
+  "name": "Faislabad",
+  "active": true
+},
+{
+  "code": "SAH156",
+  "name": "Bushra Colony",
+  "active": true
+},
+{
+  "code": "SAH157",
+  "name": "Azeem Colony",
+  "active": true
+},
+{
+  "code": "SAH158",
+  "name": "Near Khatakheri",
+  "active": true
+},
+{
+  "code": "SAH159",
+  "name": "Khatakheri Road",
+  "active": true
+},
+{
+  "code": "SAH160",
+  "name": "Kalsiya Road",
+  "active": true
+},
+{
+  "code": "SAH161",
+  "name": "Vajir Vihar",
+  "active": true
+},
+{
+  "code": "SAH162",
+  "name": "Shivpuri Patel Nagar",
+  "active": true
+},
+{
+  "code": "SAH163",
+  "name": "Rampuri Colony",
+  "active": true
+},
+{
+  "code": "SAH164",
+  "name": "Quarter Lalta Prasad (Khalasi Line)",
+  "active": true
+},
+{
+  "code": "SAH165",
+  "name": "New Sharda Nagar",
+  "active": true
+},
+{
+  "code": "SAH166",
+  "name": "Nehru Nagar",
+  "active": true
+},
+{
+  "code": "SAH167",
+  "name": "Nayi Mandi",
+  "active": true
+},
+{
+  "code": "SAH168",
+  "name": "Mandi Rajiya Kasiya",
+  "active": true
+},
+{
+  "code": "SAH169",
+  "name": "Mandi Najje Kha",
+  "active": true
+},
+{
+  "code": "SAH170",
+  "name": "Mandi Mool Singh",
+  "active": true
+},
+{
+  "code": "SAH171",
+  "name": "Mandi Kale Kotwal",
+  "active": true
+},
+{
+  "code": "SAH172",
+  "name": "Lakshman Puri",
+  "active": true
+},
+{
+  "code": "SAH173",
+  "name": "Khalasi Line",
+  "active": true
+},
+{
+  "code": "SAH174",
+  "name": "Durga Puri",
+  "active": true
+},
+{
+  "code": "SAH175",
+  "name": "Ahata Shib Dayal",
+  "active": true
+},
+{
+  "code": "SAH176",
+  "name": "Ahata Bihari Lal",
+  "active": true
+},
+{
+  "code": "SAH177",
+  "name": "Khalasi Line",
+  "active": true
+},
+{
+  "code": "SAH178",
+  "name": "Kh+alasi Line",
+  "active": true
+},
+{
+  "code": "SAH179",
+  "name": "Sarai Mehndi-1",
+  "active": true
+},
+{
+  "code": "SAH180",
+  "name": "Sarai Mardan Ali",
+  "active": true
+},
+{
+  "code": "SAH181",
+  "name": "Aali Ahangran",
+  "active": true
+},
+{
+  "code": "SAH182",
+  "name": "Valmiki Basti (Keshav Nagar)",
+  "active": true
+},
+{
+  "code": "SAH183",
+  "name": "Transport Nagar",
+  "active": true
+},
+{
+  "code": "SAH184",
+  "name": "Sadak Dudhli",
+  "active": true
+},
+{
+  "code": "SAH185",
+  "name": "Radha Swami Colony",
+  "active": true
+},
+{
+  "code": "SAH186",
+  "name": "Pushpanjali Vihar",
+  "active": true
+},
+{
+  "code": "SAH187",
+  "name": "Nanak Puram",
+  "active": true
+},
+{
+  "code": "SAH188",
+  "name": "Mahipura Hussain Colony",
+  "active": true
+},
+{
+  "code": "SAH189",
+  "name": "Mahipura",
+  "active": true
+},
+{
+  "code": "SAH190",
+  "name": "Luxman Puram",
+  "active": true
+},
+{
+  "code": "SAH191",
+  "name": "Kamdhenu Udhyog Nagar",
+  "active": true
+},
+{
+  "code": "SAH192",
+  "name": "Janta Road",
+  "active": true
+},
+{
+  "code": "SAH193",
+  "name": "Govind Vihar",
+  "active": true
+},
+{
+  "code": "SAH194",
+  "name": "Ganpati Vihar",
+  "active": true
+},
+{
+  "code": "SAH195",
+  "name": "Devpuram",
+  "active": true
+},
+{
+  "code": "SAH196",
+  "name": "Devendra Nagar",
+  "active": true
+},
+{
+  "code": "SAH197",
+  "name": "Dehradun Road",
+  "active": true
+},
+{
+  "code": "SAH198",
+  "name": "Bharat Vatika",
+  "active": true
+},
+{
+  "code": "SAH199",
+  "name": "Arpit Vihar",
+  "active": true
+},
+{
+  "code": "SAH200",
+  "name": "Amar Deep Colony",
+  "active": true
+},
+{
+  "code": "SAH201",
+  "name": "Janta Road",
+  "active": true
+},
+{
+  "code": "SAH202",
+  "name": "Dehradoon Road",
+  "active": true
+},
+{
+  "code": "SAH203",
+  "name": "Visatyaan",
+  "active": true
+},
+{
+  "code": "SAH204",
+  "name": "Toli Kalalan",
+  "active": true
+},
+{
+  "code": "SAH205",
+  "name": "Toli Jatwan",
+  "active": true
+},
+{
+  "code": "SAH206",
+  "name": "Toli Hazzaman",
+  "active": true
+},
+{
+  "code": "SAH207",
+  "name": "Siddharth Colony",
+  "active": true
+},
+{
+  "code": "SAH208",
+  "name": "Shyam Puri",
+  "active": true
+},
+{
+  "code": "SAH209",
+  "name": "Shor Mian",
+  "active": true
+},
+{
+  "code": "SAH210",
+  "name": "Shiraz Colony",
+  "active": true
+},
+{
+  "code": "SAH211",
+  "name": "Sheikh Farookh",
+  "active": true
+},
+{
+  "code": "SAH212",
+  "name": "Shahanshai Bazar",
+  "active": true
+},
+{
+  "code": "SAH213",
+  "name": "Shah Vilayat",
+  "active": true
+},
+{
+  "code": "SAH214",
+  "name": "Sarrafa",
+  "active": true
+},
+{
+  "code": "SAH215",
+  "name": "Sarai Ahmed Ali",
+  "active": true
+},
+{
+  "code": "SAH216",
+  "name": "Sarafa Bazar",
+  "active": true
+},
+{
+  "code": "SAH217",
+  "name": "Sangiyan",
+  "active": true
+},
+{
+  "code": "SAH218",
+  "name": "Samrat Vikram Colony",
+  "active": true
+},
+{
+  "code": "SAH219",
+  "name": "Samanyan",
+  "active": true
+},
+{
+  "code": "SAH220",
+  "name": "Salamat Rai",
+  "active": true
+},
+{
+  "code": "SAH221",
+  "name": "Naya Bazar",
+  "active": true
+},
+{
+  "code": "SAH222",
+  "name": "Nakkhasa Bazar",
+  "active": true
+},
+{
+  "code": "SAH223",
+  "name": "Mubarak Shah",
+  "active": true
+},
+{
+  "code": "SAH224",
+  "name": "Missar Muraar",
+  "active": true
+},
+{
+  "code": "SAH225",
+  "name": "Mehman Sarai",
+  "active": true
+},
+{
+  "code": "SAH226",
+  "name": "Meerganj",
+  "active": true
+},
+{
+  "code": "SAH227",
+  "name": "Mansha Colony",
+  "active": true
+},
+{
+  "code": "SAH228",
+  "name": "Mangu Kalyan",
+  "active": true
+},
+{
+  "code": "SAH229",
+  "name": "Loha Mandi (Kabadi Bazar) (Sabji Mandi)",
+  "active": true
+},
+{
+  "code": "SAH230",
+  "name": "Loha Bazar",
+  "active": true
+},
+{
+  "code": "SAH231",
+  "name": "Kujjat",
+  "active": true
+},
+{
+  "code": "SAH232",
+  "name": "Kori Tilla",
+  "active": true
+},
+{
+  "code": "SAH233",
+  "name": "Khatriyan",
+  "active": true
+},
+{
+  "code": "SAH234",
+  "name": "Kayasthan",
+  "active": true
+},
+{
+  "code": "SAH235",
+  "name": "Kakkar Ganj",
+  "active": true
+},
+{
+  "code": "SAH236",
+  "name": "Kabadi Bazar",
+  "active": true
+},
+{
+  "code": "SAH237",
+  "name": "Jatwan",
+  "active": true
+},
+{
+  "code": "SAH238",
+  "name": "Heeraganj",
+  "active": true
+},
+{
+  "code": "SAH239",
+  "name": "Harnath Pura (Kathara)",
+  "active": true
+},
+{
+  "code": "SAH240",
+  "name": "Halwai Hatta",
+  "active": true
+},
+{
+  "code": "SAH241",
+  "name": "Fazal Ganj",
+  "active": true
+},
+{
+  "code": "SAH242",
+  "name": "Dhola Kuwa (Kathara)",
+  "active": true
+},
+{
+  "code": "SAH243",
+  "name": "Chah Rangrez",
+  "active": true
+},
+{
+  "code": "SAH244",
+  "name": "Chah Chhabili",
+  "active": true
+},
+{
+  "code": "SAH245",
+  "name": "Boora Bazar",
+  "active": true
+},
+{
+  "code": "SAH246",
+  "name": "Beruni Jaat",
+  "active": true
+},
+{
+  "code": "SAH247",
+  "name": "Bazar Deena Nath",
+  "active": true
+},
+{
+  "code": "SAH248",
+  "name": "Khatakheri Road",
+  "active": true
+},
+{
+  "code": "SAH249",
+  "name": "(Vardhman Colony)",
+  "active": true
+},
+{
+  "code": "SAH250",
+  "name": "New Patel Nagar",
+  "active": true
+},
+{
+  "code": "SAH251",
+  "name": "Mandi Ganeshi Bhagat (Khalasi Line)",
+  "active": true
+},
+{
+  "code": "SAH252",
+  "name": "Indra Colony Near Sharda Nagar",
+  "active": true
+},
+{
+  "code": "SAH253",
+  "name": "Shah Madar",
+  "active": true
+},
+{
+  "code": "SAH254",
+  "name": "Maliyan",
+  "active": true
+},
+{
+  "code": "SAH255",
+  "name": "Khwaja Ahmed Sarai",
+  "active": true
+},
+{
+  "code": "SAH256",
+  "name": "Jogiyan Pul",
+  "active": true
+},
+{
+  "code": "SAH257",
+  "name": "Jaffar Nawaz",
+  "active": true
+},
+{
+  "code": "SAH258",
+  "name": "Chowk Shah Madar",
+  "active": true
+},
+{
+  "code": "SAH259",
+  "name": "New Makhan Colony",
+  "active": true
+},
+{
+  "code": "SAH260",
+  "name": "Naveen Nagar (Aone Colony)",
+  "active": true
+},
+{
+  "code": "SAH261",
+  "name": "Makhkhan Nagar",
+  "active": true
+},
+{
+  "code": "SAH262",
+  "name": "Guru Arjun Dev Nagar",
+  "active": true
+},
+{
+  "code": "SAH263",
+  "name": "Bansipura (Choti Line)",
+  "active": true
+},
+{
+  "code": "SAH264",
+  "name": "Nazirpura",
+  "active": true
+},
+{
+  "code": "SAH265",
+  "name": "Jagdish Garden Colony",
+  "active": true
+},
+{
+  "code": "SAH266",
+  "name": "Indra Colony (Himmat Nagar)",
+  "active": true
+},
+{
+  "code": "SAH267",
+  "name": "Durga Vihar",
+  "active": true
+},
+{
+  "code": "SAH268",
+  "name": "Bhatta Colony",
+  "active": true
+},
+{
+  "code": "SAH269",
+  "name": "Anmol Vihar (Himmat Nagar)",
+  "active": true
+},
+{
+  "code": "SAH270",
+  "name": "Tapri Road",
+  "active": true
+},
+{
+  "code": "SAH271",
+  "name": "Saharanpur",
+  "active": true
+},
+{
+  "code": "SAH272",
+  "name": "Paper Mill Road",
+  "active": true
+},
+{
+  "code": "SAH273",
+  "name": "Tilak Nagar",
+  "active": true
+},
+{
+  "code": "SAH274",
+  "name": "Purani Chungi",
+  "active": true
+},
+{
+  "code": "SAH275",
+  "name": "New Malviya Nagar (Noor Basti)",
+  "active": true
+},
+{
+  "code": "SAH276",
+  "name": "Malviya Nagar",
+  "active": true
+},
+{
+  "code": "SAH277",
+  "name": "Inderpuri",
+  "active": true
+},
+{
+  "code": "SAH278",
+  "name": "Geetanjali Vihar",
+  "active": true
+},
+{
+  "code": "SAH279",
+  "name": "Gadhi Mulook No 01",
+  "active": true
+},
+{
+  "code": "SAH280",
+  "name": "Khumran Road",
+  "active": true
+},
+{
+  "code": "SAH281",
+  "name": "Vishwakarma Colony Parvati Dham",
+  "active": true
+},
+{
+  "code": "SAH282",
+  "name": "Savita Vihar Colony",
+  "active": true
+},
+{
+  "code": "SAH283",
+  "name": "Sahib Ji Nagar",
+  "active": true
+},
+{
+  "code": "SAH284",
+  "name": "Ram Vihar",
+  "active": true
+},
+{
+  "code": "SAH285",
+  "name": "Radha Kishan Colony",
+  "active": true
+},
+{
+  "code": "SAH286",
+  "name": "Prakash Vihar Colony",
+  "active": true
+},
+{
+  "code": "SAH287",
+  "name": "New Radha Kirshan Colony",
+  "active": true
+},
+{
+  "code": "SAH288",
+  "name": "Labour Colony",
+  "active": true
+},
+{
+  "code": "SAH289",
+  "name": "Jyoti Vihar Colony",
+  "active": true
+},
+{
+  "code": "SAH290",
+  "name": "Jyoti Vihar",
+  "active": true
+},
+{
+  "code": "SAH291",
+  "name": "Jaiprabha Nagar",
+  "active": true
+},
+{
+  "code": "SAH292",
+  "name": "Circuit House Road Bipass",
+  "active": true
+},
+{
+  "code": "SAH293",
+  "name": "Galira Road",
+  "active": true
+},
+{
+  "code": "SAH294",
+  "name": "Delhi Road",
+  "active": true
+},
+{
+  "code": "SAH295",
+  "name": "Valmiki Basti Janta Road",
+  "active": true
+},
+{
+  "code": "SAH296",
+  "name": "Radha Vihar",
+  "active": true
+},
+{
+  "code": "SAH297",
+  "name": "Radha Swami Colony",
+  "active": true
+},
+{
+  "code": "SAH298",
+  "name": "New Gopal Nagar",
+  "active": true
+},
+{
+  "code": "SAH299",
+  "name": "Jyoti Vihar",
+  "active": true
+},
+{
+  "code": "SAH300",
+  "name": "Gopal Nagar",
+  "active": true
+},
+{
+  "code": "SAH301",
+  "name": "Numaish Camp Road",
+  "active": true
+},
+{
+  "code": "SAH302",
+  "name": "Janta Road",
+  "active": true
+},
+{
+  "code": "SAH303",
+  "name": "Roadways Colony",
+  "active": true
+},
+{
+  "code": "SAH304",
+  "name": "Dukhiya Ka Bag",
+  "active": true
+},
+{
+  "code": "SAH305",
+  "name": "Abadi Jail",
+  "active": true
+},
+{
+  "code": "SAH306",
+  "name": "Yash Vihar",
+  "active": true
+},
+{
+  "code": "SAH307",
+  "name": "Vishal Vihar",
+  "active": true
+},
+{
+  "code": "SAH308",
+  "name": "Vijay Nagar",
+  "active": true
+},
+{
+  "code": "SAH309",
+  "name": "Vijay Colony",
+  "active": true
+},
+{
+  "code": "SAH310",
+  "name": "Varun Vihar (Near New Awas Vikas)",
+  "active": true
+},
+{
+  "code": "SAH311",
+  "name": "Vaishali Vihar (Near New Awas Vikas)",
+  "active": true
+},
+{
+  "code": "SAH312",
+  "name": "Sun City Grand",
+  "active": true
+},
+{
+  "code": "SAH313",
+  "name": "Sun City",
+  "active": true
+},
+{
+  "code": "SAH314",
+  "name": "Sriram Vihar",
+  "active": true
+},
+{
+  "code": "SAH315",
+  "name": "Sriram Vatika",
+  "active": true
+},
+{
+  "code": "SAH316",
+  "name": "Shree Ram Puram Colony",
+  "active": true
+},
+{
+  "code": "SAH317",
+  "name": "Shiv Vihar (Near New Awas Vikas)",
+  "active": true
+},
+{
+  "code": "SAH318",
+  "name": "Sector 99",
+  "active": true
+},
+{
+  "code": "SAH319",
+  "name": "Sai Dham",
+  "active": true
+},
+{
+  "code": "SAH320",
+  "name": "Rupali Vihar",
+  "active": true
+},
+{
+  "code": "SAH321",
+  "name": "Ram Nagar (Shakti Nagar",
+  "active": true
+},
+{
+  "code": "SAH322",
+  "name": "Rajouri Garden",
+  "active": true
+},
+{
+  "code": "SAH323",
+  "name": "Prem Vihar",
+  "active": true
+},
+{
+  "code": "SAH324",
+  "name": "Pinjora",
+  "active": true
+},
+{
+  "code": "SAH325",
+  "name": "Pawan Vihar",
+  "active": true
+},
+{
+  "code": "SAH326",
+  "name": "Pant Nagar (Near New Awas Vikas)",
+  "active": true
+},
+{
+  "code": "SAH327",
+  "name": "New Tagore Garden",
+  "active": true
+},
+{
+  "code": "SAH328",
+  "name": "Kultar Singh Nagar (Near Old Awas Vikas)",
+  "active": true
+},
+{
+  "code": "SAH329",
+  "name": "Krishana Nagar",
+  "active": true
+},
+{
+  "code": "SAH330",
+  "name": "Friends Colony",
+  "active": true
+},
+{
+  "code": "SAH331",
+  "name": "Bharat Vihar",
+  "active": true
+},
+{
+  "code": "SAH332",
+  "name": "Bala Ji Puram",
+  "active": true
+},
+{
+  "code": "SAH333",
+  "name": "Badshahpur",
+  "active": true
+},
+{
+  "code": "SAH334",
+  "name": "Ashok Vihar",
+  "active": true
+},
+{
+  "code": "SAH335",
+  "name": "Aryan City",
+  "active": true
+},
+{
+  "code": "SAH336",
+  "name": "Paper Mill Road",
+  "active": true
+},
+{
+  "code": "SAH337",
+  "name": "Mallhipur Road",
+  "active": true
+},
+{
+  "code": "SAH338",
+  "name": "Malhipur Road)",
+  "active": true
+},
+{
+  "code": "SAH339",
+  "name": "Malhipur Road",
+  "active": true
+},
+{
+  "code": "SAH340",
+  "name": "Delhi Road",
+  "active": true
+},
+{
+  "code": "SAH341",
+  "name": "Ravi Nagar",
+  "active": true
+},
+{
+  "code": "SAH342",
+  "name": "Rahimabad",
+  "active": true
+},
+{
+  "code": "SAH343",
+  "name": "Ojpura",
+  "active": true
+},
+{
+  "code": "SAH344",
+  "name": "New Naveen Nagar",
+  "active": true
+},
+{
+  "code": "SAH345",
+  "name": "Madhuban Vihar",
+  "active": true
+},
+{
+  "code": "SAH346",
+  "name": "Gurunank Colony (Near New Naveen Nagar)",
+  "active": true
+},
+{
+  "code": "SAH347",
+  "name": "Bapuji Nagar",
+  "active": true
+},
+{
+  "code": "SAH348",
+  "name": "Ashok Vihar (Near New Naveen Nagar)",
+  "active": true
+},
+{
+  "code": "SAH349",
+  "name": "Vidya Nagar (Near Pant Vihar)",
+  "active": true
+},
+{
+  "code": "SAH350",
+  "name": "Vashnavi Dham",
+  "active": true
+},
+{
+  "code": "SAH351",
+  "name": "Siya Ram Colony",
+  "active": true
+},
+{
+  "code": "SAH352",
+  "name": "Shivalik Vihar",
+  "active": true
+},
+{
+  "code": "SAH353",
+  "name": "Shivalik Enclave",
+  "active": true
+},
+{
+  "code": "SAH354",
+  "name": "Shanti Nagar",
+  "active": true
+},
+{
+  "code": "SAH355",
+  "name": "Shakumbari Vihar (Near Pant Vihar",
+  "active": true
+},
+{
+  "code": "SAH356",
+  "name": "Shakumbari Vihar",
+  "active": true
+},
+{
+  "code": "SAH357",
+  "name": "Sarvoday Vihar",
+  "active": true
+},
+{
+  "code": "SAH358",
+  "name": "Sarswati Vihar",
+  "active": true
+},
+{
+  "code": "SAH359",
+  "name": "Sarsanwa Roar/ambala Road",
+  "active": true
+},
+{
+  "code": "SAH360",
+  "name": "Rakkha Colony",
+  "active": true
+},
+{
+  "code": "SAH361",
+  "name": "R.k. Puram",
+  "active": true
+},
+{
+  "code": "SAH362",
+  "name": "Puja Puram",
+  "active": true
+},
+{
+  "code": "SAH363",
+  "name": "Prince Vihar Colony",
+  "active": true
+},
+{
+  "code": "SAH364",
+  "name": "Pradeep Vihar",
+  "active": true
+},
+{
+  "code": "SAH365",
+  "name": "Prabhat Nagar",
+  "active": true
+},
+{
+  "code": "SAH366",
+  "name": "Pawan Dham Colony ( Near Pant Vihar)",
+  "active": true
+},
+{
+  "code": "SAH367",
+  "name": "Parwana Vihar",
+  "active": true
+},
+{
+  "code": "SAH368",
+  "name": "Pant Vihar",
+  "active": true
+},
+{
+  "code": "SAH369",
+  "name": "Pant Enclave",
+  "active": true
+},
+{
+  "code": "SAH370",
+  "name": "Neelkanth Vihar",
+  "active": true
+},
+{
+  "code": "SAH371",
+  "name": "Mohmadpur Mafi Hasanpur",
+  "active": true
+},
+{
+  "code": "SAH372",
+  "name": "Mahadev Nagar",
+  "active": true
+},
+{
+  "code": "SAH373",
+  "name": "Laxmipuram",
+  "active": true
+},
+{
+  "code": "SAH374",
+  "name": "Laxmi Nagar Near Pant Vihar",
+  "active": true
+},
+{
+  "code": "SAH375",
+  "name": "Kalawati",
+  "active": true
+},
+{
+  "code": "SAH376",
+  "name": "J.j. Puram",
+  "active": true
+},
+{
+  "code": "SAH377",
+  "name": "Indralok Colony (Near Pant Vihar)",
+  "active": true
+},
+{
+  "code": "SAH378",
+  "name": "Green Park",
+  "active": true
+},
+{
+  "code": "SAH379",
+  "name": "Delhi Road",
+  "active": true
+},
+{
+  "code": "SAH380",
+  "name": "Deepak Vihar (Near Mahadev Colony)",
+  "active": true
+},
+{
+  "code": "SAH381",
+  "name": "Bhagat Vatika",
+  "active": true
+},
+{
+  "code": "SAH382",
+  "name": "Anand Vihar (Near Pant Vihar)",
+  "active": true
+},
+{
+  "code": "SAH383",
+  "name": "Adarsh Vihar",
+  "active": true
+},
+{
+  "code": "SAH384",
+  "name": "Near West Pant Vihar",
+  "active": true
+},
+{
+  "code": "SAH385",
+  "name": "Near Puja Puram",
+  "active": true
+},
+{
+  "code": "SAH386",
+  "name": "Galira Road",
+  "active": true
+},
+{
+  "code": "SAH387",
+  "name": "Delhi Road",
+  "active": true
+},
+{
+  "code": "SAH388",
+  "name": "Kumhar Heda",
+  "active": true
+},
+{
+  "code": "SAH389",
+  "name": "Dabki Junardar",
+  "active": true
+},
+{
+  "code": "SAH390",
+  "name": "Vardhman Colony",
+  "active": true
+},
+{
+  "code": "SAH391",
+  "name": "Usha Vihar",
+  "active": true
+},
+{
+  "code": "SAH392",
+  "name": "Siddharth Colony",
+  "active": true
+},
+{
+  "code": "SAH393",
+  "name": "Raj Colony",
+  "active": true
+},
+{
+  "code": "SAH394",
+  "name": "R.k.puram (Chilkana Road)",
+  "active": true
+},
+{
+  "code": "SAH395",
+  "name": "Pragati Vihar Enclave",
+  "active": true
+},
+{
+  "code": "SAH396",
+  "name": "Pragati Vihar",
+  "active": true
+},
+{
+  "code": "SAH397",
+  "name": "Nafees Colony Near Ahmad Colony",
+  "active": true
+},
+{
+  "code": "SAH398",
+  "name": "Jagdamba Colony",
+  "active": true
+},
+{
+  "code": "SAH399",
+  "name": "Halalpur-ii",
+  "active": true
+},
+{
+  "code": "SAH400",
+  "name": "Halalpur I",
+  "active": true
+},
+{
+  "code": "SAH401",
+  "name": "Halalpur",
+  "active": true
+},
+{
+  "code": "SAH402",
+  "name": "Dharampuri/halalpur",
+  "active": true
+},
+{
+  "code": "SAH403",
+  "name": "Daya Garden (Chilkana Road)",
+  "active": true
+},
+{
+  "code": "SAH404",
+  "name": "Bajaj Colony/prem Colony",
+  "active": true
+},
+{
+  "code": "SAH405",
+  "name": "Aziz Colony",
+  "active": true
+},
+{
+  "code": "SAH406",
+  "name": "Vardhman-ii",
+  "active": true
+},
+{
+  "code": "SAH407",
+  "name": "Vardhman Colony",
+  "active": true
+},
+{
+  "code": "SAH408",
+  "name": "Vardhman",
+  "active": true
+},
+{
+  "code": "SAH409",
+  "name": "Chilkana Road",
+  "active": true
+},
+{
+  "code": "SAH410",
+  "name": "Behat Road",
+  "active": true
+},
+{
+  "code": "SAH411",
+  "name": "(Vardhman Colony)",
+  "active": true
+},
+{
+  "code": "SAH412",
+  "name": "Visatyaan",
+  "active": true
+},
+{
+  "code": "SAH413",
+  "name": "Vijay Nagar",
+  "active": true
+},
+{
+  "code": "SAH414",
+  "name": "Rana Nagar",
+  "active": true
+},
+{
+  "code": "SAH415",
+  "name": "Ramchandra Puri",
+  "active": true
+},
+{
+  "code": "SAH416",
+  "name": "Loha Bazar",
+  "active": true
+},
+{
+  "code": "SAH417",
+  "name": "Lakshmi Nagar",
+  "active": true
+},
+{
+  "code": "SAH418",
+  "name": "Khurja Mill",
+  "active": true
+},
+{
+  "code": "SAH419",
+  "name": "Jatiyan (Jatav Nagar)",
+  "active": true
+},
+{
+  "code": "SAH420",
+  "name": "Ashok Nagar",
+  "active": true
+},
+{
+  "code": "SAH421",
+  "name": "Ambala Road",
+  "active": true
+},
+{
+  "code": "SAH422",
+  "name": "Aadarsh Nagar",
+  "active": true
+},
+{
+  "code": "SAH423",
+  "name": "Ambala Road",
+  "active": true
+},
+{
+  "code": "SAH424",
+  "name": "Vishwas Colony",
+  "active": true
+},
+{
+  "code": "SAH425",
+  "name": "Usha Vihar",
+  "active": true
+},
+{
+  "code": "SAH426",
+  "name": "Rasoolpur",
+  "active": true
+},
+{
+  "code": "SAH427",
+  "name": "Rasheed Colony (Ramzanpura)",
+  "active": true
+},
+{
+  "code": "SAH428",
+  "name": "Ramzanpura",
+  "active": true
+},
+{
+  "code": "SAH429",
+  "name": "New Friends Colony",
+  "active": true
+},
+{
+  "code": "SAH430",
+  "name": "Nazirpura",
+  "active": true
+},
+{
+  "code": "SAH431",
+  "name": "Nand Vatika",
+  "active": true
+},
+{
+  "code": "SAH432",
+  "name": "Madh",
+  "active": true
+},
+{
+  "code": "SAH433",
+  "name": "Krishna City",
+  "active": true
+},
+{
+  "code": "SAH434",
+  "name": "Kailash Vihar",
+  "active": true
+},
+{
+  "code": "SAH435",
+  "name": "Jamiya Nagar",
+  "active": true
+},
+{
+  "code": "SAH436",
+  "name": "Irshad Colony",
+  "active": true
+},
+{
+  "code": "SAH437",
+  "name": "Ibrahim Nagar",
+  "active": true
+},
+{
+  "code": "SAH438",
+  "name": "Hasanpur Majra",
+  "active": true
+},
+{
+  "code": "SAH439",
+  "name": "Hakimpura Behat Road",
+  "active": true
+},
+{
+  "code": "SAH440",
+  "name": "Gyannagadh",
+  "active": true
+},
+{
+  "code": "SAH441",
+  "name": "Guldusta Colony",
+  "active": true
+},
+{
+  "code": "SAH442",
+  "name": "Gopalpura",
+  "active": true
+},
+{
+  "code": "SAH443",
+  "name": "Defance Colony",
+  "active": true
+},
+{
+  "code": "SAH444",
+  "name": "Danish Colony (Rasoolpur)",
+  "active": true
+},
+{
+  "code": "SAH445",
+  "name": "Choudhary Vihar",
+  "active": true
+},
+{
+  "code": "SAH446",
+  "name": "Chipiyan Valmiki Basti",
+  "active": true
+},
+{
+  "code": "SAH447",
+  "name": "Chak Hareti",
+  "active": true
+},
+{
+  "code": "SAH448",
+  "name": "Chak Deoli",
+  "active": true
+},
+{
+  "code": "SAH449",
+  "name": "Brij Vihar",
+  "active": true
+},
+{
+  "code": "SAH450",
+  "name": "Bishanpur",
+  "active": true
+},
+{
+  "code": "SAH451",
+  "name": "Bilkeshwar Nagar/new Defiance Colony",
+  "active": true
+},
+{
+  "code": "SAH452",
+  "name": "Behat Road",
+  "active": true
+},
+{
+  "code": "SAH453",
+  "name": "Anand Vihar/new Defence Colony",
+  "active": true
+},
+{
+  "code": "SAH454",
+  "name": "Janta Road",
+  "active": true
+},
+{
+  "code": "SAH455",
+  "name": "Ibrahim Nagar",
+  "active": true
+},
+{
+  "code": "SAH456",
+  "name": "Behat Road",
+  "active": true
+},
+{
+  "code": "SAH457",
+  "name": "Yashoda Colony",
+  "active": true
+},
+{
+  "code": "SAH458",
+  "name": "Uttam Nagar",
+  "active": true
+},
+{
+  "code": "SAH459",
+  "name": "Sanwalpur Nawada",
+  "active": true
+},
+{
+  "code": "SAH460",
+  "name": "New Laxmipuram-phase-ii",
+  "active": true
+},
+{
+  "code": "SAH461",
+  "name": "New Laxmipuram-phase-i",
+  "active": true
+},
+{
+  "code": "SAH462",
+  "name": "Nand Vatika",
+  "active": true
+},
+{
+  "code": "SAH463",
+  "name": "Mullapur Majbata",
+  "active": true
+},
+{
+  "code": "SAH464",
+  "name": "Manoharpur",
+  "active": true
+},
+{
+  "code": "SAH465",
+  "name": "Kanika Vihar",
+  "active": true
+},
+{
+  "code": "SAH466",
+  "name": "Galira",
+  "active": true
+},
+{
+  "code": "SAH467",
+  "name": "Durga Vihar",
+  "active": true
+},
+{
+  "code": "SAH468",
+  "name": "Delhi Road Near Vikas Bhawan",
+  "active": true
+},
+{
+  "code": "SAH469",
+  "name": "Delhi Road (Near Vikas Bhawan)",
+  "active": true
+},
+{
+  "code": "SAH470",
+  "name": "Brahmpuri Colony Near Durga Vuhar",
+  "active": true
+},
+{
+  "code": "SAH471",
+  "name": "Anand Vihar Colony",
+  "active": true
+},
+{
+  "code": "SAH472",
+  "name": "Nawada Road",
+  "active": true
+},
+{
+  "code": "SAH473",
+  "name": "Galira Road",
+  "active": true
+},
+{
+  "code": "SAH474",
+  "name": "Delhi Road",
+  "active": true
+},
+{
+  "code": "SAH475",
+  "name": "100 Futa Road",
+  "active": true
+},
+{
+  "code": "SAH476",
+  "name": "Yahiya Shah",
+  "active": true
+},
+{
+  "code": "SAH477",
+  "name": "Welcome Vihar",
+  "active": true
+},
+{
+  "code": "SAH478",
+  "name": "Rani Bazar (Kathara)",
+  "active": true
+},
+{
+  "code": "SAH479",
+  "name": "Rana Nagar",
+  "active": true
+},
+{
+  "code": "SAH480",
+  "name": "Raheem Nagar",
+  "active": true
+},
+{
+  "code": "SAH481",
+  "name": "Kalsia Road",
+  "active": true
+},
+{
+  "code": "SAH482",
+  "name": "Islamabad (Khand-2)",
+  "active": true
+},
+{
+  "code": "SAH483",
+  "name": "Islamabad",
+  "active": true
+},
+{
+  "code": "SAH484",
+  "name": "Hayat Colony",
+  "active": true
+},
+{
+  "code": "SAH485",
+  "name": "Purana Kalsiya Road",
+  "active": true
+},
+{
+  "code": "SAH486",
+  "name": "Goteshah",
+  "active": true
+},
+{
+  "code": "SAH487",
+  "name": "Gote Shah",
+  "active": true
+},
+{
+  "code": "SAH488",
+  "name": "Azad Colony",
+  "active": true
+},
+{
+  "code": "SAH489",
+  "name": "Mandi Samiti Road",
+  "active": true
+},
+{
+  "code": "SAH490",
+  "name": "Yahiya Shah",
+  "active": true
+},
+{
+  "code": "SAH491",
+  "name": "Upvan Vihar (Noor Basti)",
+  "active": true
+},
+{
+  "code": "SAH492",
+  "name": "Topiya Sarai",
+  "active": true
+},
+{
+  "code": "SAH493",
+  "name": "Shahanshai Bazar",
+  "active": true
+},
+{
+  "code": "SAH494",
+  "name": "Shahabilol",
+  "active": true
+},
+{
+  "code": "SAH495",
+  "name": "Sarai Mardan Ali",
+  "active": true
+},
+{
+  "code": "SAH496",
+  "name": "Sarai Kalandar Baksh",
+  "active": true
+},
+{
+  "code": "SAH497",
+  "name": "Pragati Vihar Enclave",
+  "active": true
+},
+{
+  "code": "SAH498",
+  "name": "Pilkhan Tala",
+  "active": true
+},
+{
+  "code": "SAH499",
+  "name": "Khajurtala",
+  "active": true
+},
+{
+  "code": "SAH500",
+  "name": "Salamat Rai",
+  "active": true
+},
+{
+  "code": "SAH501",
+  "name": "Sabri Ka Bagh",
+  "active": true
+},
+{
+  "code": "SAH502",
+  "name": "Rajpoot Colony",
+  "active": true
+},
+{
+  "code": "SAH503",
+  "name": "Mansoor Colony-ii",
+  "active": true
+},
+{
+  "code": "SAH504",
+  "name": "Mansoor Colony-i",
+  "active": true
+},
+{
+  "code": "SAH505",
+  "name": "Mansha Colony",
+  "active": true
+},
+{
+  "code": "SAH506",
+  "name": "Hakkamshah Colony",
+  "active": true
+},
+{
+  "code": "SAH507",
+  "name": "Gote Shah",
+  "active": true
+},
+{
+  "code": "SAH508",
+  "name": "Aali Zakriyabad",
+  "active": true
+},
+{
+  "code": "SAH509",
+  "name": "Khair Nagar",
+  "active": true
+},
+{
+  "code": "SAH510",
+  "name": "Mata Garh",
+  "active": true
+},
+{
+  "code": "SAH511",
+  "name": "Mansoor Colony-ii",
+  "active": true
+},
+{
+  "code": "SAH512",
+  "name": "New Bhagat Singh Colony",
+  "active": true
+},
+{
+  "code": "SAH513",
+  "name": "Janak Puri",
+  "active": true
+},
+{
+  "code": "SAH514",
+  "name": "Damodarpuri / Khemka Nagar",
+  "active": true
+},
+{
+  "code": "SAH515",
+  "name": "Bajoria Road",
+  "active": true
+},
+{
+  "code": "SAH516",
+  "name": "Mufti Muzaffar Hussain Colony",
+  "active": true
+},
+{
+  "code": "SAH517",
+  "name": "Vinay Vihar (Himmat Nagar)",
+  "active": true
+},
+{
+  "code": "SAH518",
+  "name": "Tagore Garden (Himmat Nagar)",
+  "active": true
+},
+{
+  "code": "SAH519",
+  "name": "Rajvihar Colony",
+  "active": true
+},
+{
+  "code": "SAH520",
+  "name": "New Rajvihar (Tagore Garden)",
+  "active": true
+},
+{
+  "code": "SAH521",
+  "name": "New Kapil Vihar",
+  "active": true
+},
+{
+  "code": "SAH522",
+  "name": "Mill View Colony (Tagore Garden)",
+  "active": true
+},
+{
+  "code": "SAH523",
+  "name": "Mill View Colony (Himmat Nagar)",
+  "active": true
+},
+{
+  "code": "SAH524",
+  "name": "Himmat Nagar",
+  "active": true
+},
+{
+  "code": "SAH525",
+  "name": "Geeta Compound",
+  "active": true
+},
+{
+  "code": "SAH526",
+  "name": "Anjani Vihar",
+  "active": true
+},
+{
+  "code": "SAH527",
+  "name": "Sarai Hisamuddin",
+  "active": true
+},
+{
+  "code": "SAH528",
+  "name": "Qutubsher",
+  "active": true
+},
+{
+  "code": "SAH529",
+  "name": "Pilkhan Tala",
+  "active": true
+},
+{
+  "code": "SAH530",
+  "name": "Paras Colony",
+  "active": true
+},
+{
+  "code": "SAH531",
+  "name": "Naya Baans",
+  "active": true
+},
+{
+  "code": "SAH532",
+  "name": "Ekta Colony",
+  "active": true
+},
+{
+  "code": "SAH533",
+  "name": "Eidgah Road",
+  "active": true
+},
+{
+  "code": "SAH534",
+  "name": "Chand Colony (62 Futa Road)",
+  "active": true
+},
+{
+  "code": "SAH535",
+  "name": "Chand Colony",
+  "active": true
+},
+{
+  "code": "SAH536",
+  "name": "Azad Colony (Rana Palace Road)",
+  "active": true
+},
+{
+  "code": "SAH537",
+  "name": "Kamela Road",
+  "active": true
+},
+{
+  "code": "SAH538",
+  "name": "Toli Hazzaman",
+  "active": true
+},
+{
+  "code": "SAH539",
+  "name": "Tahir Garden",
+  "active": true
+},
+{
+  "code": "SAH540",
+  "name": "Purana Kalsiya Road",
+  "active": true
+},
+{
+  "code": "SAH541",
+  "name": "Meerganj",
+  "active": true
+},
+{
+  "code": "SAH542",
+  "name": "Mata Garh",
+  "active": true
+},
+{
+  "code": "SAH543",
+  "name": "Karol Bagh",
+  "active": true
+},
+{
+  "code": "SAH544",
+  "name": "Gandhi Colony",
+  "active": true
+},
+{
+  "code": "SAH545",
+  "name": "Bheeshm Nagar",
+  "active": true
+},
+{
+  "code": "SAH546",
+  "name": "Azad Garden",
+  "active": true
+},
+{
+  "code": "SAH547",
+  "name": "Rashid Vihar",
+  "active": true
+},
+{
+  "code": "SAH548",
+  "name": "Ramgadh",
+  "active": true
+},
+{
+  "code": "SAH549",
+  "name": "Madina Colony",
+  "active": true
+},
+{
+  "code": "SAH550",
+  "name": "Laiyagadh",
+  "active": true
+},
+{
+  "code": "SAH551",
+  "name": "Kolagarh",
+  "active": true
+},
+{
+  "code": "SAH552",
+  "name": "Kaziwala",
+  "active": true
+},
+{
+  "code": "SAH553",
+  "name": "Jeetwala",
+  "active": true
+},
+{
+  "code": "SAH554",
+  "name": "Inaam Colony",
+  "active": true
+},
+{
+  "code": "SAH555",
+  "name": "Habib Garh",
+  "active": true
+},
+{
+  "code": "SAH556",
+  "name": "Azim Colony",
+  "active": true
+},
+{
+  "code": "SAH557",
+  "name": "62 Futa Road",
+  "active": true
+},
+{
+  "code": "SAH558",
+  "name": "Shahid Ganj",
+  "active": true
+},
+{
+  "code": "SAH559",
+  "name": "Pratap Market",
+  "active": true
+},
+{
+  "code": "SAH560",
+  "name": "Nehru Market",
+  "active": true
+},
+{
+  "code": "SAH561",
+  "name": "Mahavir Bazar",
+  "active": true
+},
+{
+  "code": "SAH562",
+  "name": "Khwaja Yadgan",
+  "active": true
+},
+{
+  "code": "SAH563",
+  "name": "Fazlu Rehman Road",
+  "active": true
+},
+{
+  "code": "SAH564",
+  "name": "Chaudhriyan",
+  "active": true
+},
+{
+  "code": "SAH565",
+  "name": "Ansariyan",
+  "active": true
+},
+{
+  "code": "SAH566",
+  "name": "Ambala Road",
+  "active": true
+},
+{
+  "code": "SAH567",
+  "name": "2c-bheem Rao Ambedkar Marg",
+  "active": true
+},
+{
+  "code": "SAH568",
+  "name": "Sarai Faiz Ali",
+  "active": true
+},
+{
+  "code": "SAH569",
+  "name": "Sarai Ahmed Ali",
+  "active": true
+},
+{
+  "code": "SAH570",
+  "name": "Missar Muraar",
+  "active": true
+},
+{
+  "code": "SAH571",
+  "name": "Mehndi Sarai",
+  "active": true
+},
+{
+  "code": "SAH572",
+  "name": "Ramnagar Pathanpura",
+  "active": true
+},
+{
+  "code": "SAH573",
+  "name": "Ramnagar",
+  "active": true
+},
+{
+  "code": "SAH574",
+  "name": "Railway Road",
+  "active": true
+},
+{
+  "code": "SAH575",
+  "name": "Post Office Road",
+  "active": true
+},
+{
+  "code": "SAH576",
+  "name": "Govind Nagar (Dehradun Road)",
+  "active": true
+},
+{
+  "code": "SAH577",
+  "name": "Court Road( East)",
+  "active": true
+},
+{
+  "code": "SAH578",
+  "name": "Bheem Rao Ambedkar Marg",
+  "active": true
+},
+{
+  "code": "SAH579",
+  "name": "Dholi Khal",
+  "active": true
+},
+{
+  "code": "SAH580",
+  "name": "Daud Sarai",
+  "active": true
+},
+{
+  "code": "SAH581",
+  "name": "Wills Nagar",
+  "active": true
+},
+{
+  "code": "SAH582",
+  "name": "Vishnu Puri",
+  "active": true
+},
+{
+  "code": "SAH583",
+  "name": "Ved Vihar",
+  "active": true
+},
+{
+  "code": "SAH584",
+  "name": "Uttrakhand Colony",
+  "active": true
+},
+{
+  "code": "SAH585",
+  "name": "Ramesh Nagar",
+  "active": true
+},
+{
+  "code": "SAH586",
+  "name": "New Uttarakhand Colony",
+  "active": true
+},
+{
+  "code": "SAH587",
+  "name": "New Ganesh Nagar",
+  "active": true
+},
+{
+  "code": "SAH588",
+  "name": "Milan Vihar",
+  "active": true
+},
+{
+  "code": "SAH589",
+  "name": "Kori Majra",
+  "active": true
+},
+{
+  "code": "SAH590",
+  "name": "Hari Lok-ii",
+  "active": true
+},
+{
+  "code": "SAH591",
+  "name": "Hari Lok",
+  "active": true
+},
+{
+  "code": "SAH592",
+  "name": "Ganesh Nagar",
+  "active": true
+},
+{
+  "code": "SAH593",
+  "name": "Ankit Vihar",
+  "active": true
+},
+{
+  "code": "SAH594",
+  "name": "Abhishek Puram",
+  "active": true
+},
+{
+  "code": "SAH595",
+  "name": "Abhishek Nagar",
+  "active": true
+},
+{
+  "code": "SAH596",
+  "name": "Near Kori Mazra",
+  "active": true
+},
+{
+  "code": "SAH597",
+  "name": "Near Ankit Vihar",
+  "active": true
+},
+{
+  "code": "SAH598",
+  "name": "Nawada Road",
+  "active": true
+},
+{
+  "code": "SAH599",
+  "name": "Galira Road",
+  "active": true
+},
+{
+  "code": "SAH600",
+  "name": "Chuna Bhatti",
+  "active": true
+},
+{
+  "code": "SAH601",
+  "name": "Vaishnavi Dham Near Kamal Town",
+  "active": true
+},
+{
+  "code": "SAH602",
+  "name": "Shiv Nagar Near New Prakash Lok Colony",
+  "active": true
+},
+{
+  "code": "SAH603",
+  "name": "Praksah Vihar",
+  "active": true
+},
+{
+  "code": "SAH604",
+  "name": "Prakash Lok Colony",
+  "active": true
+},
+{
+  "code": "SAH605",
+  "name": "Pooja Encalave Near Chandra Vihar Gangoh Road",
+  "active": true
+},
+{
+  "code": "SAH606",
+  "name": "New Nandpuri Colony",
+  "active": true
+},
+{
+  "code": "SAH607",
+  "name": "Nand Puri",
+  "active": true
+},
+{
+  "code": "SAH608",
+  "name": "Gatta Mill Colony (Gangoh Road)",
+  "active": true
+},
+{
+  "code": "SAH609",
+  "name": "Chapra Colony Manakmau",
+  "active": true
+},
+{
+  "code": "SAH610",
+  "name": "Chander Vihar",
+  "active": true
+},
+{
+  "code": "SAH611",
+  "name": "Aman Vihar",
+  "active": true
+},
+{
+  "code": "SAH612",
+  "name": "Near Lakkad Mazra",
+  "active": true
+},
+{
+  "code": "SAH613",
+  "name": "Shankar Puri Colony",
+  "active": true
+},
+{
+  "code": "SAH614",
+  "name": "Shalimar Garden",
+  "active": true
+},
+{
+  "code": "SAH615",
+  "name": "Shakumbri Vihar",
+  "active": true
+},
+{
+  "code": "SAH616",
+  "name": "Rohni Garden",
+  "active": true
+},
+{
+  "code": "SAH617",
+  "name": "Prempuri",
+  "active": true
+},
+{
+  "code": "SAH618",
+  "name": "New Hanuman Nagar",
+  "active": true
+},
+{
+  "code": "SAH619",
+  "name": "New Bhagwati Colony",
+  "active": true
+},
+{
+  "code": "SAH620",
+  "name": "Mittal Nursery",
+  "active": true
+},
+{
+  "code": "SAH621",
+  "name": "Krishna Enclave Behat Road",
+  "active": true
+},
+{
+  "code": "SAH622",
+  "name": "Kola Garh",
+  "active": true
+},
+{
+  "code": "SAH623",
+  "name": "Indraprasth Colony",
+  "active": true
+},
+{
+  "code": "SAH624",
+  "name": "Hanuman Nagar",
+  "active": true
+},
+{
+  "code": "SAH625",
+  "name": "Hakam Shah Colony",
+  "active": true
+},
+{
+  "code": "SAH626",
+  "name": "Gangotri Vihar",
+  "active": true
+},
+{
+  "code": "SAH627",
+  "name": "Dev Vihar",
+  "active": true
+},
+{
+  "code": "SAH628",
+  "name": "Chak Sarai Bharti Chand",
+  "active": true
+},
+{
+  "code": "SAH629",
+  "name": "Bhagwati Colony",
+  "active": true
+},
+{
+  "code": "SAH630",
+  "name": "Badri Dham",
+  "active": true
+},
+{
+  "code": "SAH631",
+  "name": "Ayodhyapuram Colony",
+  "active": true
+},
+{
+  "code": "SAH632",
+  "name": "Arya Nagar",
+  "active": true
+},
+{
+  "code": "SAH633",
+  "name": "Arun Vaishno Dham",
+  "active": true
+},
+{
+  "code": "SAH634",
+  "name": "Behat Road",
+  "active": true
+},
+{
+  "code": "SAH635",
+  "name": "Khan Alampura",
+  "active": true
+},
+{
+  "code": "SAH636",
+  "name": "Janak Nagar",
+  "active": true
+},
+{
+  "code": "SAH637",
+  "name": "Church Compound",
+  "active": true
+},
+{
+  "code": "SAH638",
+  "name": "Sukhupura",
+  "active": true
+},
+{
+  "code": "SAH639",
+  "name": "Ranjeet Nagar",
+  "active": true
+},
+{
+  "code": "SAH640",
+  "name": "Nand Vatika",
+  "active": true
+},
+{
+  "code": "SAH641",
+  "name": "Beri Bagh",
+  "active": true
+},
+{
+  "code": "SAH642",
+  "name": "Nakkhasa",
+  "active": true
+},
+{
+  "code": "SAH643",
+  "name": "Nadeem Colony",
+  "active": true
+},
+{
+  "code": "SAH644",
+  "name": "Mutribaan",
+  "active": true
+},
+{
+  "code": "SAH645",
+  "name": "Mahisinyaan",
+  "active": true
+},
+{
+  "code": "SAH646",
+  "name": "Lucky Gate",
+  "active": true
+},
+{
+  "code": "SAH647",
+  "name": "Khakro Baan",
+  "active": true
+},
+{
+  "code": "SAH648",
+  "name": "Chaupta Rogran",
+  "active": true
+},
+{
+  "code": "SAH649",
+  "name": "Bazdaran",
+  "active": true
+},
+{
+  "code": "SAH650",
+  "name": "Atish Bazan",
+  "active": true
+},
+{
+  "code": "SAH651",
+  "name": "Samrat Vikram Colony",
+  "active": true
+},
+{
+  "code": "SAH652",
+  "name": "Ram Jivan Nagar",
+  "active": true
+},
+{
+  "code": "SAH653",
+  "name": "Nirmal Vihar",
+  "active": true
+},
+{
+  "code": "SAH654",
+  "name": "New Samrat Vikram Colony (Samrat Vikram Colony)",
+  "active": true
+},
+{
+  "code": "SAH655",
+  "name": "Mahavir Colony",
+  "active": true
+},
+{
+  "code": "SAH656",
+  "name": "Madan Puri",
+  "active": true
+},
+{
+  "code": "SAH657",
+  "name": "Gyan Garden",
+  "active": true
+},
+{
+  "code": "SAH658",
+  "name": "Chilkana Road Takiya",
+  "active": true
+},
+{
+  "code": "SAH659",
+  "name": "Chilkana Road (Krishna Nagar)",
+  "active": true
+},
+{
+  "code": "SAH660",
+  "name": "Chainkya Puri",
+  "active": true
+},
+{
+  "code": "SAH661",
+  "name": "Vinayak Nagar Near Laxmi Town",
+  "active": true
+},
+{
+  "code": "SAH662",
+  "name": "Vaishno Dham Colony",
+  "active": true
+},
+{
+  "code": "SAH663",
+  "name": "Shyam Vihar Near Laxmi Town",
+  "active": true
+},
+{
+  "code": "SAH664",
+  "name": "Peer Mazara",
+  "active": true
+},
+{
+  "code": "SAH665",
+  "name": "New Prakesh Lok Colony",
+  "active": true
+},
+{
+  "code": "SAH666",
+  "name": "Mother Halema Colony",
+  "active": true
+},
+{
+  "code": "SAH667",
+  "name": "Manakmau",
+  "active": true
+},
+{
+  "code": "SAH668",
+  "name": "Laxmi Town Near Shyam Vihar",
+  "active": true
+},
+{
+  "code": "SAH669",
+  "name": "Goodwell Colony",
+  "active": true
+},
+{
+  "code": "SAH670",
+  "name": "Goga Jaharveer Colony",
+  "active": true
+},
+{
+  "code": "SAH671",
+  "name": "Ganga Colony Manakmau",
+  "active": true
+},
+{
+  "code": "SAH672",
+  "name": "Aman Vihar",
+  "active": true
+},
+{
+  "code": "SAH673",
+  "name": "Aman Vatika",
+  "active": true
+},
+{
+  "code": "SAH674",
+  "name": "Near Peer Mazra",
+  "active": true
+},
+{
+  "code": "SAH675",
+  "name": "Manakmau",
+  "active": true
+},
+{
+  "code": "SAH676",
+  "name": "Manak Mau",
+  "active": true
+},
+{
+  "code": "SAH677",
+  "name": "Khatriwala",
+  "active": true
+},
+{
+  "code": "SAH678",
+  "name": "Gangoh Road",
+  "active": true
+},
+{
+  "code": "SAH679",
+  "name": "Teachers Colony",
+  "active": true
+},
+{
+  "code": "SAH680",
+  "name": "Sudershan Nagar",
+  "active": true
+},
+{
+  "code": "SAH681",
+  "name": "Khan Alampura",
+  "active": true
+},
+{
+  "code": "SAH682",
+  "name": "Abdullah Colony",
+  "active": true
+},
+{
+  "code": "SAH683",
+  "name": "Khanalampura",
+  "active": true
+},
+{
+  "code": "SAH684",
+  "name": "Sushant Vihar Colony",
+  "active": true
+},
+{
+  "code": "SAH685",
+  "name": "Surya Nagar",
+  "active": true
+},
+{
+  "code": "SAH686",
+  "name": "State Bank Colony",
+  "active": true
+},
+{
+  "code": "SAH687",
+  "name": "Sidharth Nagar",
+  "active": true
+},
+{
+  "code": "SAH688",
+  "name": "Siddhart Nagar",
+  "active": true
+},
+{
+  "code": "SAH689",
+  "name": "Rohit Vihar",
+  "active": true
+},
+{
+  "code": "SAH690",
+  "name": "Prem Nagar",
+  "active": true
+},
+{
+  "code": "SAH691",
+  "name": "Paras Puram Colony",
+  "active": true
+},
+{
+  "code": "SAH692",
+  "name": "New Roop Vihar",
+  "active": true
+},
+{
+  "code": "SAH693",
+  "name": "New Arjun Nagar",
+  "active": true
+},
+{
+  "code": "SAH694",
+  "name": "Jai Nagar",
+  "active": true
+},
+{
+  "code": "SAH695",
+  "name": "Indraprasth Enclave Colony",
+  "active": true
+},
+{
+  "code": "SAH696",
+  "name": "Dwarkapuri",
+  "active": true
+},
+{
+  "code": "SAH697",
+  "name": "Delhi Road-i",
+  "active": true
+},
+{
+  "code": "SAH698",
+  "name": "Claman Town",
+  "active": true
+},
+{
+  "code": "SAH699",
+  "name": "Brothers Colony",
+  "active": true
+},
+{
+  "code": "SAH700",
+  "name": "Ashirwad Colony",
+  "active": true
+},
+{
+  "code": "SAH701",
+  "name": "Arjun Nagar",
+  "active": true
+},
+{
+  "code": "SAH702",
+  "name": "Aadinath City",
+  "active": true
+},
+{
+  "code": "SAH703",
+  "name": "Hassanpur",
+  "active": true
+},
+{
+  "code": "SAH704",
+  "name": "Delhi Road",
+  "active": true
+},
+{
+  "code": "SAH705",
+  "name": "Vinod Vihar",
+  "active": true
+},
+{
+  "code": "SAH706",
+  "name": "Punjabi Bagh",
+  "active": true
+},
+{
+  "code": "SAH707",
+  "name": "Jain College Road",
+  "active": true
+},
+{
+  "code": "SAH708",
+  "name": "Ilahipura",
+  "active": true
+},
+{
+  "code": "SAH709",
+  "name": "Dayal Colony",
+  "active": true
+},
+{
+  "code": "SAH710",
+  "name": "Swatantra Nagri",
+  "active": true
+},
+{
+  "code": "SAH711",
+  "name": "Shah Haroon Chishti",
+  "active": true
+},
+{
+  "code": "SAH712",
+  "name": "Sand Gali",
+  "active": true
+},
+{
+  "code": "SAH713",
+  "name": "Purani Chungi",
+  "active": true
+},
+{
+  "code": "SAH714",
+  "name": "Purana Bajaja",
+  "active": true
+},
+{
+  "code": "SAH715",
+  "name": "Pansari Bazar",
+  "active": true
+},
+{
+  "code": "SAH716",
+  "name": "More Ganj",
+  "active": true
+},
+{
+  "code": "SAH717",
+  "name": "Kaseran",
+  "active": true
+},
+{
+  "code": "SAH718",
+  "name": "Jod Kuan",
+  "active": true
+},
+{
+  "code": "SAH719",
+  "name": "Jawahar Park",
+  "active": true
+},
+{
+  "code": "SAH720",
+  "name": "Jawahar Nagar",
+  "active": true
+},
+{
+  "code": "SAH721",
+  "name": "Chauntala",
+  "active": true
+},
+{
+  "code": "SAH722",
+  "name": "Behat Road",
+  "active": true
+},
+{
+  "code": "SAH723",
+  "name": "Bazar Harsaran Dass",
+  "active": true
+},
+{
+  "code": "SAH724",
+  "name": "Bartala Yadgar",
+  "active": true
+},
+{
+  "code": "SAH725",
+  "name": "Bandaro Wala Bagh",
+  "active": true
+},
+{
+  "code": "SAH726",
+  "name": "Khumran Road",
+  "active": true
+},
+{
+  "code": "SAH727",
+  "name": "Shahid Nagar",
+  "active": true
+},
+{
+  "code": "SAH728",
+  "name": "Jain Colony",
+  "active": true
+},
+{
+  "code": "SAH729",
+  "name": "Hasmat Colony",
+  "active": true
+},
+{
+  "code": "SAH730",
+  "name": "Hasan Colony",
+  "active": true
+},
+{
+  "code": "SAH731",
+  "name": "Barkat Colony",
+  "active": true
+},
+{
+  "code": "SAH732",
+  "name": "Asrar Colony",
+  "active": true
+},
+{
+  "code": "SAH733",
+  "name": "Asma Colony",
+  "active": true
+},
+{
+  "code": "SAH734",
+  "name": "Alishan Garden",
+  "active": true
+},
+{
+  "code": "SAH735",
+  "name": "Ahmad Colony",
+  "active": true
+},
+{
+  "code": "SAH736",
+  "name": "786 Nagar",
+  "active": true
+},
+{
+  "code": "SAH737",
+  "name": "Kapil Vihar",
+  "active": true
+},
+{
+  "code": "SAH738",
+  "name": "Gill Colony",
+  "active": true
+},
+{
+  "code": "SAH739",
+  "name": "Court Road",
+  "active": true
+},
+{
+  "code": "SAH740",
+  "name": "Uttam Vihar",
+  "active": true
+},
+{
+  "code": "SAH741",
+  "name": "Paras Puram",
+  "active": true
+},
+{
+  "code": "SAH742",
+  "name": "Nirbhay Puram",
+  "active": true
+},
+{
+  "code": "SAH743",
+  "name": "New Madho Nagar (Madho Nagar)",
+  "active": true
+},
+{
+  "code": "SAH744",
+  "name": "Maharaja Garden",
+  "active": true
+},
+{
+  "code": "SAH745",
+  "name": "Madho Nagar",
+  "active": true
+},
+{
+  "code": "SAH746",
+  "name": "Luxmi Dham",
+  "active": true
+},
+{
+  "code": "SAH747",
+  "name": "Gulshan Dham Colony",
+  "active": true
+},
+{
+  "code": "SAH748",
+  "name": "Gadhi Malook No 2",
+  "active": true
+},
+{
+  "code": "SAH749",
+  "name": "Chandralok",
+  "active": true
+},
+{
+  "code": "SAH750",
+  "name": "Anshika Vihar",
+  "active": true
+},
+{
+  "code": "SAH751",
+  "name": "Behat Road",
+  "active": true
+},
+{
+  "code": "SAH752",
+  "name": "South City",
+  "active": true
+},
+{
+  "code": "SAH753",
+  "name": "Shivaji Nagar",
+  "active": true
+},
+{
+  "code": "SAH754",
+  "name": "Shankar Nagar",
+  "active": true
+},
+{
+  "code": "SAH755",
+  "name": "Rampur Road",
+  "active": true
+},
+{
+  "code": "SAH756",
+  "name": "Naveen Nagar",
+  "active": true
+},
+{
+  "code": "SAH757",
+  "name": "Khalsa Garden",
+  "active": true
+},
+{
+  "code": "SAH758",
+  "name": "Jagdeesh Colony",
+  "active": true
+},
+{
+  "code": "SAH759",
+  "name": "Deep Vihar",
+  "active": true
+},
+{
+  "code": "SAH760",
+  "name": "Basant Vihar",
+  "active": true
+},
+{
+  "code": "SAH761",
+  "name": "Ambedkar Puram (Near Shankar Nagar)",
+  "active": true
+},
+{
+  "code": "SAH762",
+  "name": "Near Ambedkar Puram",
+  "active": true
+},
+{
+  "code": "SAH763",
+  "name": "Subhash Nagar",
+  "active": true
+},
+{
+  "code": "SAH764",
+  "name": "Saray Dhoom Singh",
+  "active": true
+},
+{
+  "code": "SAH765",
+  "name": "Patel Nagar",
+  "active": true
+},
+{
+  "code": "SAH766",
+  "name": "Mandi Ganeshi Bhagat (Khalasi Line)",
+  "active": true
+},
+{
+  "code": "SAH767",
+  "name": "Mandi Dasso Basso",
+  "active": true
+},
+{
+  "code": "SAH768",
+  "name": "Mal Godam Road",
+  "active": true
+},
+{
+  "code": "SAH769",
+  "name": "Hussainabad",
+  "active": true
+},
+{
+  "code": "SAH770",
+  "name": "Hari Nagar",
+  "active": true
+},
+{
+  "code": "SAH771",
+  "name": "Hari Mandi",
+  "active": true
+},
+{
+  "code": "SAH772",
+  "name": "Gurudwara Road",
+  "active": true
+},
+{
+  "code": "SAH773",
+  "name": "Gharami Mandi",
+  "active": true
+},
+{
+  "code": "SAH774",
+  "name": "Gandhi Park",
+  "active": true
+},
+{
+  "code": "SAH775",
+  "name": "Ambala Road",
+  "active": true
+},
+{
+  "code": "SAH776",
+  "name": "Nawada Road",
+  "active": true
+},
+{
+  "code": "SAH777",
+  "name": "Shyam Nagar",
+  "active": true
+},
+{
+  "code": "SAH778",
+  "name": "Mohan Nagar",
+  "active": true
+},
+{
+  "code": "SAH779",
+  "name": "Kanch Mill",
+  "active": true
+},
+{
+  "code": "SAH780",
+  "name": "Gopal Nagar",
+  "active": true
+},
+{
+  "code": "SAH781",
+  "name": "Dharamdass Colony (Sharda Nagar)",
+  "active": true
+},
+{
+  "code": "SAH782",
+  "name": "Chando Bai Colony",
+  "active": true
+},
+{
+  "code": "SAH783",
+  "name": "Ambedkar Colony",
+  "active": true
+},
+{
+  "code": "SAH784",
+  "name": "Shakti Nagar",
+  "active": true
+},
+{
+  "code": "SAH785",
+  "name": "Setiya Vihar",
+  "active": true
+},
+{
+  "code": "SAH786",
+  "name": "Sant Nagar",
+  "active": true
+},
+{
+  "code": "SAH787",
+  "name": "New Nand Vihar",
+  "active": true
+},
+{
+  "code": "SAH788",
+  "name": "Nand Vihar (Keshav Nagar)",
+  "active": true
+},
+{
+  "code": "SAH789",
+  "name": "Keshav Nagar",
+  "active": true
+},
+{
+  "code": "SAH790",
+  "name": "Sarrafa",
+  "active": true
+},
+{
+  "code": "SAH791",
+  "name": "Sarai Shah Ji",
+  "active": true
+},
+{
+  "code": "SAH792",
+  "name": "Sarai Hisamuddin",
+  "active": true
+},
+{
+  "code": "SAH793",
+  "name": "Sarai Gareeba",
+  "active": true
+},
+{
+  "code": "SAH794",
+  "name": "Sarai Faiz Ali",
+  "active": true
+},
+{
+  "code": "SAH795",
+  "name": "Ganpat Sarai",
+  "active": true
+}
+]
+}
