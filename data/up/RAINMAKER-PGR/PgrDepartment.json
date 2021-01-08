@@ -1,164 +1,69 @@
 {   "tenantId": "up"  , 
 	"moduleName": "RAINMAKER-PGR",
     "PgrDepartment": [
-        {
-            "name": "NoStreetlight",
-            "code": "Streetlights",
-            "active": true
-          },
           {
-            "name": "StreetLightNotWorking",
+            "name": "StreetLights",
             "code": "DEPT_1",
             "active": true
           },
           {
-            "name": "GarbageNeedsTobeCleared",
+            "name": "Garbage",
+            "code": "DEPT_2",
+            "active": true
+          },
+          {
+            "name": "Drains",
             "code": "DEPT_3",
             "active": true
           },
           {
-            "name": "DamagedGarbageBin",
-            "code": "DEPT_3",
-            "active": true
-          },
-          {
-            "name": "BurningOfGarbage",
-            "code": "DEPT_3",
-            "active": true
-          },
-          {
-            "name": "OverflowingOrBlockedDrain",
+            "name": "WaterandSewage",
             "code": "DEPT_4",
             "active": true
           },
           {
-            "name": "illegalDischargeOfSewage",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "BlockOrOverflowingSewage",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "ShortageOfWater",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "NoWaterSupply",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "DirtyWaterSupply",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "BrokenWaterPipeOrLeakage",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "WaterPressureisVeryLess",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "DamagedRoad",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "WaterLoggedRoad",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "ManholeCoverMissingOrDamaged",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "DamagedOrBlockedFootpath",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "ConstructionMaterialLyingOntheRoad",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "RequestSprayingOrFoggingOperation",
-            "code": "DEPT_3",
-            "active": true
-          },
-          {
-            "name": "StrayAnimals",
-            "code": "DEPT_3",
-            "active": true
-          },
-          {
-            "name": "DeadAnimals",
-            "code": "DEPT_3",
-            "active": true
-          },
-          {
-            "name": "DirtyOrSmellyPublicToilets",
-            "code": "DEPT_3",
-            "active": true
-          },
-          {
-            "name": "PublicToiletIsDamaged",
-            "code": "DEPT_3",
-            "active": true
-          },
-          {
-            "name": "NoWaterOrElectricityinPublicToilet",
-            "code": "DEPT_3",
-            "active": true
-          },
-          {
-            "name": "IllegalShopsOnFootPath",
-            "code": "DEPT_6",
-            "active": true
-          },
-          {
-            "name": "IllegalConstructions",
-            "code": "DEPT_6",
-            "active": true
-          },
-          {
-            "name": "IllegalParking",
-            "code": "DEPT_6",
-            "active": true
-          },
-          {
-            "name": "IllegalCuttingOfTrees",
+            "name": "RoadsAndFootpaths",
             "code": "DEPT_5",
             "active": true
           },
           {
-            "name": "CuttingOrTrimmingOfTreeRequired",
-            "code": "DEPT_5",
+            "name": "Mosquitos",
+            "code": "DEPT_6",
+            "active": true
+          },
+          {
+            "name": "Animals",
+            "code": "DEPT_7",
+            "active": true
+          },
+          {
+            "name": "PublicToilets",
+            "code": "DEPT_8",
+            "active": true
+          },
+          {
+            "name": "LandViolations",
+            "code": "DEPT_9",
+            "active": true
+          },
+          {
+            "name": "Trees",
+            "code": "DEPT_10",
             "active": true
           },
           {
             "name": "OpenDefecation",
-            "code": "DEPT_3",
+            "code": "DEPT_11",
             "active": true
           },
           {
-            "name": "ParkRequiresMaintenance",
-            "code": "DEPT_5",
+            "name": "Parks",
+            "code": "DEPT_12",
             "active": true
           },
           {
             "name": "Others",
-            "code": "DEPT_10",
+            "code": "DEPT_13",
             "active": true
           }
     ]
