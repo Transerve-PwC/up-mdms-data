@@ -1,70 +1,10 @@
 {   "tenantId": "up"  , 
 	"moduleName": "RAINMAKER-PGR",
     "PgrDepartment": [
-          {
-            "name": "StreetLights",
-            "code": "DEPT_1",
-            "active": true
-          },
-          {
-            "name": "Garbage",
-            "code": "DEPT_2",
-            "active": true
-          },
-          {
-            "name": "Drains",
-            "code": "DEPT_3",
-            "active": true
-          },
-          {
-            "name": "WaterandSewage",
-            "code": "DEPT_4",
-            "active": true
-          },
-          {
-            "name": "RoadsAndFootpaths",
-            "code": "DEPT_5",
-            "active": true
-          },
-          {
-            "name": "Mosquitos",
-            "code": "DEPT_6",
-            "active": true
-          },
-          {
-            "name": "Animals",
-            "code": "DEPT_7",
-            "active": true
-          },
-          {
-            "name": "PublicToilets",
-            "code": "DEPT_8",
-            "active": true
-          },
-          {
-            "name": "LandViolations",
-            "code": "DEPT_9",
-            "active": true
-          },
-          {
-            "name": "Trees",
-            "code": "DEPT_10",
-            "active": true
-          },
-          {
-            "name": "OpenDefecation",
-            "code": "DEPT_11",
-            "active": true
-          },
-          {
-            "name": "Parks",
-            "code": "DEPT_12",
-            "active": true
-          },
-          {
-            "name": "Others",
-            "code": "DEPT_13",
-            "active": true
-          }
+      {
+        "name": "PropertyTax",
+        "code": "DEPT_1",
+        "active": true
+      }
     ]
 }
