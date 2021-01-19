@@ -1,0 +1,11 @@
+{
+  "tenantId": "up.moradabad",
+  "moduleName": "boundary-location",
+  "mapDetails": [
+    {
+      "mapurl": "https://online.transerve.com/preview-wms/60056015a750860011114b87?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNWYxZmM1YThlYzYzNjgzYTRkNzZmZWUyIiwic2Vzc2lvbiI6IjVmYTk1ZjQ0YzFmNWFjNTQwZTM3YzNhNiIsImlhdCI6MTYxMDk2NTAxMH0.FCjJI2oKLuDeo3S4foTfnTijsnUSx5GCycA0CoeIwPg",
+      "nagarNigamLat": "28.84433",
+      "nagarNigamLng": "78.7645555"
+    }
+  ]
+}
