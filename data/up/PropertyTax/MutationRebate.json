@@ -12,20 +12,52 @@
 
     },
     {
-      "rate": 10,
+      "rate": 15,
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2019-20",
-      "endingDay": "25/09",
-      "mutationPaymentPeriodInMonth": "06"
+      "endingDay": "30/06",
+      "mutationPaymentPeriodInMonth": "03"
     },
     {
       "rate": 10,
       "maxAmount": null,
       "flatAmount": null,
+      "fromFY": "2019-20",
+      "endingDay": "30/09",
+      "mutationPaymentPeriodInMonth": "03"
+    },
+    {
+      "rate": 5,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "endingDay": "30/12",
+      "mutationPaymentPeriodInMonth": "03"
+    },
+    {
+      "rate": 15,
+      "maxAmount": null,
+      "flatAmount": null,
       "fromFY": "2020-21",
-      "endingDay": "26/09",
-      "mutationPaymentPeriodInMonth": "06"
+      "endingDay": "30/06",
+      "mutationPaymentPeriodInMonth": "03"
+    },
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "endingDay": "30/09",
+      "mutationPaymentPeriodInMonth": "03"
+    },
+    {
+      "rate": 5,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "endingDay": "30/12",
+      "mutationPaymentPeriodInMonth": "03"
     }
   ]
 }
