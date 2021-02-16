@@ -12,6 +12,15 @@
       "order": 0
     },
     {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt adhoc rebate",
+      "code": "PT_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "PT",
       "name": "Pt advance carry forward",
@@ -97,20 +106,18 @@
       "service": "PT",
       "name": "Rebate",
       "code": "PT_TIME_REBATE",
-      "isDebit": true,
+      "isDebit": false,
       "isActualDemand": true,
-      "order": "0",
-      "isRequired": false
+      "order": "0"
     },
     {
-      "category": "PENALTY",
+      "category": "TAX",
       "service": "PT",
       "name": "Penalty",
       "code": "PT_TIME_PENALTY",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "3",
-      "isRequired": false
+      "order": "2"
     },
     {
       "category": "TAX",

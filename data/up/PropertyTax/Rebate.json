@@ -24,6 +24,13 @@
       "endingDay": "30/12"
     },
     {
+      "rate": 2,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "endingDay": "31/03"
+    },
+    {
       "rate": 15,
       "maxAmount": null,
       "flatAmount": null,
