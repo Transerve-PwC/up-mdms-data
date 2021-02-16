@@ -106,7 +106,7 @@
       "service": "PT",
       "name": "Rebate",
       "code": "PT_TIME_REBATE",
-      "isDebit": false,
+      "isDebit": true,
       "isActualDemand": true,
       "order": "0"
     },
@@ -115,9 +115,9 @@
       "service": "PT",
       "name": "Penalty",
       "code": "PT_TIME_PENALTY",
-      "isDebit": false,
+      "isDebit": true,
       "isActualDemand": true,
-      "order": "2"
+      "order": "0"
     },
     {
       "category": "TAX",
