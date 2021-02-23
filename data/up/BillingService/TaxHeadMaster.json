@@ -113,24 +113,6 @@
 	{
       "category": "TAX",
       "service": "PT",
-      "name": "Pt Rebate",
-      "code": "PT_TIME_REBATE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": 1
-    },
-	{
-      "category": "TAX",
-      "service": "PT",
-      "name": "Pt Penalty",
-      "code": "PT_TIME_PENALTY",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": 1
-    },
-	{
-      "category": "TAX",
-      "service": "PT",
       "name": "Pt Interest",
       "code": "PT_TIME_INTEREST",
       "isDebit": false,
