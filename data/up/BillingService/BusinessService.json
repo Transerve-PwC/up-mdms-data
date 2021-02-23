@@ -11,7 +11,7 @@
         "OFFLINE_RTGS",
         "POSTAL_ORDER"
       ],
-      "partPaymentAllowed": true,
+      "partPaymentAllowed": false,
       "minAmountPayable": 100,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
