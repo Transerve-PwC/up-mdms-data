@@ -7,49 +7,56 @@
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2019-20",
-      "endingDay": "30/06"
+      "startingDay": "01/04/2020"
     },
     {
       "rate": 10,
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2019-20",
-      "endingDay": "30/09"
+      "startingDay": "01/07/2020"
     },
     {
       "rate": 5,
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2019-20",
-      "endingDay": "30/12"
+      "startingDay": "01/10/2020"
     },
     {
-      "rate": 2,
+      "rate": null,
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2019-20",
-      "endingDay": "31/03"
+      "startingDay": "01/01/2021"
     },
     {
       "rate": 15,
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2020-21",
-      "endingDay": "30/06"
+      "startingDay": "01/04/2021"
     },
     {
       "rate": 10,
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2020-21",
-      "endingDay": "30/09"
+      "startingDay": "01/07/2021"
     },
     {
       "rate": 5,
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2020-21",
-      "endingDay": "30/12"
+      "startingDay": "01/10/2021"
+    },
+	{
+      "rate": null,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": "01/01/2022"
     }
 
   ]
