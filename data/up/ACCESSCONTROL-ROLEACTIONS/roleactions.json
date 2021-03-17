@@ -14865,6 +14865,18 @@
       "tenantId": "up"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 1575,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1575,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1576,
       "actioncode": "",
@@ -14872,6 +14884,18 @@
     },
     {
       "rolecode": "PGR-ADMIN",
+      "actionid": 1576,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1576,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 1576,
       "actioncode": "",
       "tenantId": "up"
