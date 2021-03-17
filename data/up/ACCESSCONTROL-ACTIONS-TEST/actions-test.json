@@ -11463,7 +11463,7 @@
       {
          "id": 1584,
          "name": "ULB-wise PT Collection",
-         "url": "url",
+         "url": "/report/rainmaker-pt/UlbWisePtCollection/metadata/_get",
          "displayName": "ULB-wise PT Collection Report",
          "orderNumber": 7,
          "queryParams": "",
