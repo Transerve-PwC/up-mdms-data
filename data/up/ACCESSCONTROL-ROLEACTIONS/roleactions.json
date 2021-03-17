@@ -19972,6 +19972,18 @@
     },
     {
       "rolecode": "EMPLOYEE",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
+      "rolecode": "EMPLOYEE",
       "actionid": 1933,
       "actioncode": "",
       "tenantId": "up"
