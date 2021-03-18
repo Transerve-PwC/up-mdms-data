@@ -3,7 +3,7 @@
   "moduleName": "egf-master",
   "FinancialYear": [
     {
-      "id": "14",
+      "id": "15",
       "tenantId": "up",
       "finYearRange": "2020-21",
       "name": "2020-21",
@@ -17,7 +17,7 @@
       "module": "WS"
     },
     {
-      "id": "13",
+      "id": "14",
       "tenantId": "up",
       "finYearRange": "2020-21",
       "name": "2020-21",
@@ -29,6 +29,20 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "SW"
+    },
+    {
+      "id": "13",
+      "tenantId": "up",
+      "finYearRange": "2019-20",
+      "name": "2019-20",
+      "code": "2019-20",
+      "startingDate": 1554076800000,
+      "endingDate": 1585612800000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "WS"
     },
     {
       "id": "12",
@@ -42,24 +56,10 @@
       "isActiveForPosting": true,
       "isClosed": false,
       "transferClosingBalance": false,
-      "module": "WS"
-    },
-    {
-      "id": "11",
-      "tenantId": "up",
-      "finYearRange": "2019-20",
-      "name": "2019-20",
-      "code": "2019-20",
-      "startingDate": 1554076800000,
-      "endingDate": 1585612800000,
-      "active": true,
-      "isActiveForPosting": true,
-      "isClosed": false,
-      "transferClosingBalance": false,
       "module": "SW"
     },
     {
-      "id": "10",
+      "id": "11",
       "tenantId": "up",
       "finYearRange": "2019-20",
       "name": "2019-20",
@@ -73,7 +73,7 @@
       "module": "FIRENOC"
     },
     {
-      "id": "9",
+      "id": "10",
       "tenantId": "up",
       "finYearRange": "2018-19",
       "name": "2018-19",
@@ -87,11 +87,25 @@
       "module": "FIRENOC"
     },
     {
-      "id": "8",
+      "id": "9",
       "tenantId": "up",
       "finYearRange": "2019-20",
       "name": "2019-20",
       "code": "2019-20",
+      "startingDate": 1554076799000,
+      "endingDate": 1585679399000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "PT"
+    },
+    {
+      "id": "8",
+      "tenantId": "up",
+      "finYearRange": "2020-21",
+      "name": "2020-21",
+      "code": "2020-21",
       "startingDate": 1554076799000,
       "endingDate": 1585679399000,
       "active": true,
