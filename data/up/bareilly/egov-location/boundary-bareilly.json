@@ -17,8 +17,8 @@
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "1",
-            "localname": "1",
+            "name": "Zone-1",
+            "localname": "Zone-1",
             "label": "Zone",
             "code": "Z1",
             "children": [
@@ -3228,8 +3228,8 @@
           {
             "id": 133,
             "boundaryNum": 1,
-            "name": "2",
-            "localname": "2",
+            "name": "Zone-2",
+            "localname": "Zone-2",
             "label": "Zone",
             "code": "Z2",
             "children": [
@@ -5894,8 +5894,8 @@
           {
             "id": 246,
             "boundaryNum": 1,
-            "name": "3",
-            "localname": "3",
+            "name": "Zone-3",
+            "localname": "Zone-3",
             "label": "Zone",
             "code": "Z3",
             "children": [
@@ -8835,8 +8835,8 @@
           {
             "id": 368,
             "boundaryNum": 1,
-            "name": "4",
-            "localname": "4",
+            "name": "Zone-4",
+            "localname": "Zone-4",
             "label": "Zone",
             "code": "Z4",
             "children": [
