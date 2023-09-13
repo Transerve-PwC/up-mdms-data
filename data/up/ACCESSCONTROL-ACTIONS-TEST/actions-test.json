@@ -15725,6 +15725,17 @@
          "code": "null",
          "path": ""
       },
+      	{
+         "id": 21899,
+         "name": "Import Property registry through Json",
+         "url": "property-services/property/_ptmsJsonMigration",
+         "displayName": "Import Property Registry through Json",
+         "orderNumber": 4,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
       {
          "id": 1932,
          "name": "BPA-PermitOrderEDCR Report",
