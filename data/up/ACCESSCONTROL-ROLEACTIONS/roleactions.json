@@ -18662,6 +18662,18 @@
       "actioncode": "",
       "tenantId": "up"
     },
+        {
+      "rolecode": "EMPLOYEE",
+      "actionid": 21899,
+      "actioncode": "",
+      "tenantId": "up"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 21899,
+      "actioncode": "",
+      "tenantId": "up"
+    },
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 1922,
